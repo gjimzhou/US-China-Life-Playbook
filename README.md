@@ -19,11 +19,11 @@
 本指南主要为以下家庭设计：
 
 - 30–50 岁，第一代移民或长期海外华人；
-- 美国为主要居住地，同时每年在中国停留并维护父母、身份、银行、医疗和社会关系；
-- 高 W-2 / professional income，有显著储蓄和资产；
+- 美国为主要居住地，同时在中国长期维持父母、身份、银行、医疗和社会关系；
+- high W-2 / professional income，有显著储蓄和资产；
 - 有能力购买律师、CPA、insurance broker、医生、contractor 等专业服务；
 - 有汽车、旅行、宠物、婚姻、未来孩子/父母养老等复杂 household operations；
-- 对美国很多“默认大家都知道”的社会流程并没有代际传承。
+- 对美国很多“默认大家都知道”的社会流程缺少代际传承。
 
 它不是根据收入决定“谁更值得安全”，而是承认：不同家庭的 opportunity cost、资产暴露、专业服务使用方式和跨境复杂度不同。
 
@@ -32,13 +32,10 @@
 ## 本书的基本哲学
 
 ### 1. 用钱购买可靠性，而不是购买炫耀
-
 高收入以后，$100–$1,000 的优化通常不如一次六位数 liability、错误税务处理、身份盗窃、漏掉保险、重大医疗延误重要。
 
 ### 2. 优先处理不可逆 downside
-
 排序优先考虑：
-
 - impact
 - probability
 - irreversibility
@@ -47,13 +44,10 @@
 - ongoing friction
 
 ### 3. 不把“检查越多”误认为“健康管理越好”
-
 医疗以 evidence-based preventive care 为基线。无指征筛查、全身扫描、肿瘤标志物套餐等需要同时考虑 false positive、incidental finding、overdiagnosis 和 downstream harm。
 
 ### 4. 不要求家庭成员记住所有东西
-
 最可靠的家庭不是“最聪明”，而是：
-
 - 有 checklist；
 - 有固定入口；
 - 有备用联系人；
@@ -62,7 +56,6 @@
 - 有年度 review。
 
 ### 5. 中美双栖不是两个半套系统
-
 目标是：
 
 **US primary system + China maintained secondary system + cross-border interface**
@@ -71,9 +64,11 @@
 
 ---
 
-## 每条建议的标签
+## Methodology
 
-计划逐步为建议加上以下标签：
+详见 [METHODOLOGY.md](METHODOLOGY.md)。
+
+每条建议逐步使用：
 
 | 字段 | 含义 |
 |---|---|
@@ -85,76 +80,86 @@
 | Geography | US / China / Cross-border |
 | Owner | Self / Spouse / Household / Professional |
 
-### Priority
-
 - **P0**：低成本、高后果，建议尽快完成。
 - **P1**：明显提高家庭稳健性，建议本年度完成。
 - **P2**：在特定生活阶段执行。
 - **P3**：有价值但不急。
 
-详见 [METHODOLOGY.md](METHODOLOGY.md)。
+来源规范见 [references/source-policy.md](references/source-policy.md)。
 
 ---
 
-## 目录
+# 已完成章节
 
-### A. 生存、健康与医疗
+## A. 生存、健康与医疗
 
 1. [不要意外死亡](book/01-不要意外死亡.md)
-2. 预防医学：该做什么，不该做什么
-3. 紧急情况与急救
-4. 美国医疗系统怎么用
-5. 中国医疗系统怎么用
-6. 医疗记录、药物和跨境 continuity of care
+2. [预防医学：不是检查越多越好](book/02-预防医学.md)
+3. [紧急情况与急救](book/03-紧急情况与急救.md)
+4. [美国医疗系统怎么用](book/04-美国医疗系统怎么用.md)
 
-### B. 风险、保险与法律
+## B. 风险、保险、住房与法律
 
-7. 保险与灾难风险
-8. 汽车事故、停车、维修与责任
-9. 住房、租房、物业与 contractor
-10. 婚姻、prenup 与夫妻财务
-11. Estate planning、失能与死亡
-12. 律师、CPA、保险经纪怎么找
+5. [保险与灾难风险](book/07-保险与灾难风险.md)
+6. [车祸、停车、维修与责任](book/08-车祸停车维修与责任.md)
+7. [住房、物业与 Contractor](book/09-住房物业与Contractor.md)
+8. [Estate Planning 与失能](book/10-Estate-Planning与失能.md)
 
-### C. 钱、税与数字资产
+## C. 政府、财务与数字安全
 
-13. 高收入家庭财务 operating system
-14. 美国税务与 IRS
-15. 中美跨境税与 residency
-16. 银行、现金与账户结构
-17. 网络安全、身份盗窃与 digital estate
+9. [美国政府到底找谁](book/11-美国政府到底找谁.md)
+10. [中国政府与办事入口](book/12-中国政府与办事入口.md)
+11. [高收入家庭财务 Operating System](book/13-高收入家庭财务Operating-System.md)
+12. [网络安全与身份盗窃](book/15-网络安全与身份盗窃.md)
 
-### D. 美国社会 operating system
+## D. 中美双栖与父母
 
-18. [美国政府到底找谁](book/11-美国政府到底找谁.md)
-19. [美国人默认知道但第一代移民没人教的事](book/31-美国人默认知道的100件小事.md)
-20. 美国社交礼仪与 social conventions
-21. 如何建立本地 professional / neighbor / community network
-22. 消费纠纷、诈骗、small claims 与 regulator
+13. [中美双栖生活基础设施](book/18-中美双栖生活基础设施.md)
+14. [文件、公证、Apostille 与跨境授权](book/19-文件公证Apostille与跨境授权.md)
+15. [父母养老与远程照护](book/20-父母养老与远程照护.md)
 
-### E. 中国 secondary home system
+## E. 美国社会 operating system
 
-23. 中国身份、手机号、银行、微信/支付宝
-24. 中国政府、医院和办事入口
-25. 如何维持中国社会关系
-26. 父母养老、远程照护与 emergency response
+16. [美国社交礼仪与潜规则](book/24-美国社交礼仪与潜规则.md)
+17. [如何建立美国本地社会基础设施](book/25-如何建立美国本地社会基础设施.md)
+18. [律师、CPA、医生、保险经纪怎么找](book/27-律师CPA医生保险经纪怎么找.md)
+19. [旅行、长期停留与 Global Mobility](book/29-旅行长期停留与全球Mobility.md)
+20. [美国人默认知道但第一代移民没人教的 100 件小事](book/31-美国人默认知道的100件小事.md)
+21. [反面清单：有钱也不要乱做的事](book/33-反面清单-有钱也不要乱做的事.md)
 
-### F. 中美接口
+---
 
-27. [中美双栖基础设施](book/18-中美双栖生活基础设施.md)
-28. 文件、公证、Apostille 与授权
-29. 旅行、长期停留与全球 mobility
-30. 双边资产、保险和医疗 continuity
+# 可执行 Checklists
 
-### G. Household operations
+- [Annual Household Review](checklists/annual-review.md)
+- [Household Emergency Sheet](checklists/emergency-sheet.md)
+- [International Travel Checklist](checklists/international-travel.md)
+- [Marriage Checklist](checklists/marriage-checklist.md)
+- [Move Checklist](checklists/move-checklist.md)
+- [Parents Emergency Plan](checklists/parents-emergency.md)
 
-31. 宠物
-32. 婚礼、孩子与家庭生命周期
-33. 时间、精力与 household management
-34. 重大打击后的 temporary operating mode
-35. Emergency Runbook
-36. 年度家庭 review
-37. 反面清单：有钱也不要乱做的事
+---
+
+# Roadmap
+
+下一批优先章节：
+
+- 中国医疗系统怎么用
+- 医疗记录、药物和跨境 continuity of care
+- 婚姻、prenup/postnup 与夫妻财务
+- 美国税务与 state residency
+- 中美跨境税与 work-from-abroad
+- 银行、信用卡、consumer disputes 与诈骗
+- 宠物完整 operating system
+- 孩子、学校、childcare 与家庭规划
+- 时间、精力与 household management
+- 重大疾病/失业/丧亲后的 temporary operating mode
+- Household Emergency Runbook
+- 工作、失业、职业与 employer benefits
+- Home purchase / closing / mortgage / HOA
+- Death administration / probate practical routing
+
+目标体量：约 **30–40 个主章节、500–700 条 actionable rules**。
 
 ---
 
@@ -180,15 +185,15 @@
 4. 高质量 observational evidence；
 5. 对社会习俗、实际流程等缺乏 RCT 的领域使用明确标注的 practical guidance。
 
-具体政策见 [references/source-policy.md](references/source-policy.md)。
-
 医疗、税务、法律、移民和保险规则会变化；正文中的具体阈值、期限和政策应注明来源和最后核验日期。
 
 ---
 
-## 隐私原则
+## Public-first 隐私原则
 
-本 repo 默认保存 **通用规则和家庭模板**，不应直接提交：
+本项目是 **public-first**：只保存通用规则、公开资料与空白模板。**绝不提交任何作者或使用者的个人信息、可识别生活细节或私人记录。**
+
+不应提交：
 
 - SSN / 身份证号码；
 - passport number；
@@ -206,10 +211,15 @@
 
 ## 状态
 
-**v0.1 — 建设中**
+**v0.2 — active build**
 
-目标体量：约 **30–40 个章节、500–700 条 actionable rules**。
+当前：
+- **21 个实质主章节**
+- **6 个可执行 checklists**
+- **100 条美国 tacit-knowledge rules**
+- methodology + source policy
+- public privacy audit passed
 
-与一次性文章不同，本项目设计为长期维护：事实会更新，家庭阶段会变化，优先级也会变化。
+目标：30–40 个主章节、500–700 条 actionable rules。
 
 最后更新：2026-09-21
