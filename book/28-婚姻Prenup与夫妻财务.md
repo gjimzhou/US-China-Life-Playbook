@@ -1,484 +1,120 @@
 # 28 — 婚姻、婚前协议（Prenup）与夫妻财务
 
-婚姻不是只增加一个 legal status。
+结婚可能影响财务、福利、财产权利和家庭分工，但不意味着所有账户必须合并，也不意味着所有权利自动落实。先谈清双方期待，再逐项核对法律文件和机构手续。
 
-对 household operating system 来说，它同时改变：
+本章是讨论与准备框架，不提供可直接签署的协议条款；不同州、国家和具体事实可能得到不同结果。
 
-- taxes；
-- benefits；
-- insurance；
-- beneficiaries；
-- property；
-- debt exposure；
-- estate rights；
-- health-care decision making；
-- family obligations；
-- cross-border planning。
+## 1. 结婚触发一轮家庭资料检查
 
-因此真正成熟的做法不是：
+**优先级：P1；结婚时触发。**
 
-> “结婚以后再慢慢磨合。”
+核对税务申报、工资预扣、雇主福利、医疗和其他保险、退休受益人、遗产文件、银行权限及紧急联系人。逐项记录生效日期与接收确认。参见[结婚清单](../checklists/marriage-checklist.md)，不要把举行婚礼当成所有机构已获通知。
 
-而是把重要问题提前显式化。
+## 2. 共同与个人财务可以组合
 
----
+可以合并大部分收入与支出，也可以保留各自账户、共同承担家庭账单。约定谁存入多少、何时补足、谁对账和如何应急。账户是否联名与法律上财产如何分类不是同一问题，需要分别确认。
 
-## 1. 婚姻是一次 household systems merge
+## 3. 披露与决定相关的财务信息
 
-**优先级:** P1 / trigger-based
+讨论收入、资产、债务、担保、税务欠款、企业权益、父母支持和跨境资产。把尚不确定的继承或赠与写为预期，不当成已拥有资产。法律协议要求的披露范围与形式由各自律师确认，不能用一张粗略净资产表替代。
 
-结婚后需要 review 的至少包括：
+## 4. 婚前协议能讨论什么，不能自行承诺什么
 
-- tax filing；
-- withholding；
-- employer benefits；
-- health insurance；
-- HSA/FSA；
-- life/disability；
-- retirement beneficiaries；
-- estate documents；
-- bank/brokerage access；
-- auto/home/umbrella；
-- emergency contacts；
-- China-side documents / status。
+婚前协议（Prenuptial agreement，简称 Prenup）可就婚前财产、婚后收入、债务及其他适用事项提出安排，但可约定范围、生效和执行取决于法律与事实。不能假定签字就能决定子女权益、税务责任或债权人的权利。
 
-详见 [Marriage Checklist](../checklists/marriage-checklist.md)。
+例如[纽约州《家庭关系法》第236条 B(3)](https://www.nysenate.gov/legislation/laws/DOM/236)对书面、签署和确认形式作了规定，并对部分内容附加条件。这是纽约示例，不是其他州的签署模板。
 
----
+## 5. 尽早开始，给双方理解和协商时间
 
-## 2. “Joint finances” 不是只有一种正确形式
+在婚礼或登记日期之外预留准备、披露、咨询、翻译和修改时间。不要在重大时间压力下突然提出最后版本。询问各自律师适用法律的签署要求，保存最终版本和所需附件；本章不设全国通用的提前天数。
 
-常见结构：
+## 6. 分别获得独立法律意见
 
-### Fully joint
-收入、支出、资产高度合并。
+双方各自的律师应解释条款对自己客户的影响，并识别潜在利益冲突。即使某地允许不同安排，也先问清谁代表谁、谁不代表谁。独立咨询有助于理解，但不保证任何协议都能执行。
 
-### Yours / mine / ours
-保留个人账户，同时建立 household operating account。
+## 7. 未来收入与家庭贡献都要讨论
 
-### Mostly separate
-各自保留多数资产，按约定承担共同费用。
+讨论工资奖金、股权、退休资金、创业权益、房产、家庭照护、迁居和职业中断。把“若一方暂时减少工作或照顾家人，如何分担后果”写成具体问题交给律师，不只比较签约当天的余额。
 
-### Contract-defined
-通过 prenup/postnup 进一步规定 property/income/debt treatment。
+## 8. 父母出资先明确性质
 
-**执行原则**
-真正重要的不是形式，而是：
-- transparency；
-- predictability；
-- emergency access；
-- legal consistency。
+大额房款或其他支持要明确是赠与、借款还是投资，给谁、是否期待偿还、由谁持有。文件、转账记录、贷款申请和实际安排应一致；涉及跨境申报或税务的部分另请专业人士核对。
 
----
+## 9. 房屋产权与贷款责任分别判断
 
-## 3. 夫妻财务必须做到 full disclosure
+房契上的所有人、贷款借款人、首付来源、日常还款和身故后的归属需分别说明。不要为了贷款办理方便就默认某种产权形式适合双方。详见[买房与交割](36-买房Mortgage-Closing与HOA.md)，签署前请当地律师解释。
 
-至少互相知道：
+## 10. 退休受益人不是只看婚前协议
 
-- income structure；
-- assets；
-- debts；
-- tax obligations；
-- guarantees；
-- family support；
-- business interests；
-- expected inheritance/gifts if relevant；
-- cross-border assets。
+结婚后向计划管理人更新婚姻状态，逐个核对受益人和配偶同意要求。[IRS 退休受益人说明](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)列出不同计划的配偶保护。不要假定婚前协议中的一般放弃条款已满足退休计划的手续，也不要把401(k)规则直接套到个人退休账户（IRA）。
 
-**执行原则**
-hidden debt / hidden tax issue 比“账户是不是 joint”危险得多。
+## 11. 医疗与财务授权仍需主动安排
 
----
+与律师讨论医疗代理、预先医疗指示、财务授权及资料取得权限，并问相关机构如何登记。婚姻身份、紧急联系人、医疗信息访问和代办财务并非同一种权限。详见[遗产与失能规划](10-Estate-Planning与失能.md)。
 
-## 4. Prenup 的核心不是“计划离婚”
+## 12. 让家务与资料可以交接
 
-Prenup 的功能可以包括：
+双方不必处理完全相同的事务，但应知道主要账单、保险、税务、住房、照护和重要文件在哪里。用一次实际演练确认一方暂时不能处理时如何接手；不要直接共享所有密码来替代授权和安全恢复。
 
-- premarital property；
-- marital property；
-- income treatment；
-- debt；
-- support；
-- business interests；
-- gifts/inheritance；
-- property appreciation；
-- tax allocation；
-- death rights；
-- dispute process；
-- choice-of-law / relocation issues。
+## 13. 联名账户用于明确的共同目标
 
-是否 enforceable、哪些条款可约定，完全取决于 applicable state law 和事实。
+可用于房租、房贷、日常账单或共同储备，先讨论供款、支出、透支和退出安排。个人账户可以保留。开户前了解机构规则，避免用合并全部资产证明信任。
 
----
+## 14. 提前约定需要共同讨论的大事
 
-## 5. Prenup 最需要避免的是 process defect
+正常个人消费可有各自空间；大额购买、借款、投资、家庭资助和担保则约定讨论方式。金额门槛由实际预算决定，不给所有家庭套固定数字。规则应双方都能理解和使用，而不是单方审批。
 
-具体州法不同，但 practical risk 常包括：
+## 15. 父母支持单独列入预算
 
-- 太临近婚礼；
-- disclosure 不充分；
-- 一方没有 independent counsel；
-- coercion/duress argument；
-- confusing draft history；
-- signing formalities error。
+讨论平时支持范围、紧急例外、与兄弟姐妹如何协调及信息如何共享。双方家庭的需要可能不同，不必机械对半；先明确可承受范围和决策流程，减少突发事件中反复争论。
 
-**执行原则**
-如果要做 prenup，尽早开始。
+## 16. 赠与与继承保持记录并核对处理
 
-不要把婚礼前最后一周当 closing deadline。
+保存来源、时间、受赠或继承文件，以及之后如何使用的记录。是否保留个人财产性质、混用资金有什么后果，依适用法律与事实判断；不要仅凭转入个人账户就作确定结论。
 
----
+## 17. 税务预测同时看金额和责任
 
-## 6. 双方 independent counsel 通常是高价值设计
+让税务专业人士按实际税年、居住地、收入与资格比较合法申报方式，并更新预扣或预缴。夫妻之间约定谁出钱，不等于限制税务机关追缴。
 
-即使某州不绝对要求，双方各自律师的价值在于：
+[IRS 第501号刊物](https://www.irs.gov/publications/p501)说明夫妻联合申报通常涉及连带责任，某些情形有救济程序。当前读取为2025版；此处仅用于责任原则，不据此提供2026税档或扣除数字。
 
-- each side understands terms；
-- negotiation record clearer；
-- conflict identified earlier；
-- reduces “I didn’t understand” issue；
-- each lawyer owes duty to their own client。
+## 18. 医保按家庭总成本与使用情况比较
 
-不要让一个律师假装同时代表两个人的 conflicting interests。
+比较保费、网络、免赔额、自付上限、常用药物、预计治疗、配偶附加费与雇主供款。另核对健康储蓄账户（HSA）和灵活支出账户（FSA）的资格互动，记录特别参保期限。不要只比较月保费，详见[员工福利](22-工作失业与Employee-Benefits.md)。
 
----
+## 19. 同时考虑失能和身故场景
 
-## 7. Prenup 不应只列“我的钱你的钱”
+询问协议、产权、受益人和遗产文件在这些情况下如何配合，哪些需要另外授权或机构办理。协议不是自动的资金访问工具，也不保证隔离所有债务风险。
 
-高收入家庭更应该讨论：
+## 20. 迁居后复查适用法律
 
-- future W-2 / bonus；
-- equity comp；
-- carried interest/business；
-- retirement；
-- home purchase；
-- mortgage；
-- family gifts；
-- parental support；
-- career sacrifice；
-- children-related economics；
-- relocation；
-- cross-border property。
+搬州或跨国长期居住前，向相关地区律师说明既有协议、资产所在地和未来安排，核对是否需要更新。合同写了适用法律，也不能自行假定所有事项都只受该地法律控制。
 
-复杂度往往来自未来，而不是 wedding day balance sheet。
+## 21. 共同管理不等于失去隐私
 
----
+可以共享家庭必须知道的信息，同时保留个人沟通、账户与独立咨询空间。若存在控制、威胁或财务胁迫，不能用“更透明”要求受影响的一方交出全部安全与资金控制；应通过安全渠道取得当地专业支持。
 
-## 8. 父母出资要写清性质
+## 22. 应急资金要依法可用
 
-父母给房款/大额资金时，提前明确：
+确认一方住院时，另一方如何支付必要账单；身故后的权限变化另行安排。知道密码、持有卡片或曾获授权，不代表任何情况下都可继续使用。让律师与金融机构确认账户持有、授权和继承安排，再做合法访问演练。
 
-- gift？
-- loan？
-- gift to one spouse？
-- gift to couple？
-- equity ownership？
-- repayment expectation？
+## 23. 争议时先保存事实与选择
 
-最好：
-- written；
-- tax-aware；
-- consistent with prenup/title。
+在没有迫近安全风险或法律期限时，可以暂停重大决定、汇总资料，再安排独立咨询或双方愿意的调解。不要因冲突而擅自转空账户、隐匿财产或签署不理解的文件；已有诉讼或法院命令时尤其要先核对限制。
 
-不要多年后每个人记忆不同。
+## 24. 婚前协议与遗产规划互相核对
 
----
+分别检查遗嘱、适用信托、授权、医疗指示、受益人与产权，不把其中任何一份文件视为其余手续的替代。完成时应知道哪里保存签署原件、谁持有副本、机构是否已接受需要登记的安排。
 
-## 9. 房产 title 是 legal decision，不只是 mortgage decision
+## 25. 只公开问题清单，不公开私人协议
 
-买房时要区分：
+资产明细、律师草稿、协商邮件、签名和家庭姓名都留在私人安全系统。这个公开仓库只提供通用准备框架；提交反馈时使用虚构或去识别化示例。
 
-- 谁在 deed；
-- 谁在 mortgage；
-- ownership form；
-- down payment source；
-- ongoing payments；
-- prenup treatment；
-- estate transfer。
+## 最小执行集与核验范围
 
-**执行原则**
-不要让 realtor / mortgage convenience 无意决定夫妻 property structure。
+- [ ] 双方理解财务、债务和父母支持安排。
+- [ ] 需要协议时，已有独立咨询、充分准备和当地签署核对。
+- [ ] 福利、税务、受益人、产权与授权分别办理并保存确认。
+- [ ] 应急访问可以依法执行，重大变化有复查节点。
 
----
-
-## 10. Beneficiary designations 与 prenup 要对齐
-
-可能涉及：
-
-- 401(k) / retirement；
-- IRA；
-- life insurance；
-- TOD/POD；
-- trust。
-
-如果 prenup 说一套、beneficiary 又是另一套，会增加 conflict。
-
-有些 retirement spouse rights 受 federal law/formality 影响，需要 attorney/plan administrator 处理。
-
----
-
-## 11. Marriage 后 health-care / POA 仍应主动做
-
-不要只依赖：
-> “反正我们是夫妻。”
-
-完成：
-
-- health-care proxy；
-- financial POA；
-- advance directive；
-- HIPAA / information access as useful；
-- emergency contact。
-
-详见 Estate Planning 章节。
-
----
-
-## 12. 两个人都必须能独立运行 household
-
-至少两个人知道：
-
-- bank/bills；
-- insurance；
-- tax professional；
-- doctors；
-- pet care；
-- property；
-- legal documents；
-- parents；
-- travel；
-- digital recovery。
-
-婚后最差的 structure 是：
-> 一个人掌握所有 administration，另一个人完全不知道。
-
----
-
-## 13. Joint account 不应是“证明信任”的仪式
-
-它应该有明确功能：
-
-例如：
-- rent/mortgage；
-- utilities；
-- household card payoff；
-- shared travel；
-- childcare；
-- emergency cash。
-
-是否保留 separate personal accounts，是 relationship/design choice，不是信任度评分。
-
----
-
-## 14. Household spending policy 比逐笔审批更重要
-
-可以设：
-
-- normal discretionary spend；
-- discussion threshold；
-- large purchase process；
-- investment decision process；
-- family gift/support threshold。
-
-目标：
-> 少吵低价值交易，把 attention 留给大决定。
-
----
-
-## 15. 支持父母要单独讨论
-
-中美家庭常见长期项目：
-
-- parents medical；
-- housing；
-- travel；
-- cash gifts；
--养老；
-- sibling coordination。
-
-夫妻要明确：
-
-- expected annual range；
-- emergency exception；
-- equal/not equal treatment；
-- whose family obligations；
-- disclosure。
-
-不要每次出现 emergency 才重新谈价值观。
-
----
-
-## 16. 家庭礼物与 inheritance 要区分 ownership intent
-
-一方父母：
-- gift；
-- inheritance；
-- trust distribution
-
-在不同州/事实下可能有不同 property treatment。
-
-**执行原则**
-重大金额进入 household 前找 family/estate/tax counsel，不要依赖“大家都知道这是给我的”。
-
----
-
-## 17. 婚后税务第一次就做 projection
-
-Marriage 可能改变：
-
-- filing status；
-- brackets；
-- deduction/credits；
-- NIIT/Additional Medicare thresholds；
-- state tax；
-- withholding；
-- estimated tax。
-
-具体结果可能更高也可能更低。
-
-**执行原则**
-不要只接受 “marriage penalty” 或 “marriage bonus” 的口号。
-
----
-
-## 18. Health-plan 选择要按 household total cost
-
-比较：
-
-- premium；
-- deductible；
-- OOP max；
-- network；
-- prescriptions；
-- PT/specialist；
-- fertility/maternity；
-- HSA/FSA；
-- spouse surcharge；
-- employer contribution。
-
-不是简单：
-> 谁 premium 便宜就用谁。
-
----
-
-## 19. Divorce 不是唯一需要 prenup 的终点
-
-Prenup / marital plan 也可能影响：
-
-- death；
-- disability；
-- creditor issue；
-- business sale；
-- relocation；
-- inheritance；
-- estate administration。
-
-因此它是 broader risk-allocation document。
-
----
-
-## 20. Relocation 要触发 legal review
-
-搬到另一个州/国家后：
-
-- marital-property rules；
-- prenup enforceability；
-- estate documents；
-- tax；
-- domicile；
-- property
-
-都可能需要 review。
-
-**执行原则**
-不要认为签过一次就 40 年不看。
-
----
-
-## 21. 婚姻不是 elimination of privacy
-
-健康的家庭 system 可以同时存在：
-
-- shared household visibility；
-- personal space；
-- personal account；
-- confidential doctor/lawyer relationship。
-
-目标不是完全 surveillance。
-
----
-
-## 22. Household emergency cash 要双方能取
-
-无论 account structure：
-- 至少两个人知道 liquidity 在哪；
-- one spouse hospitalized/dead 时不至于所有 cash locked。
-
-具体 title/POA/beneficiary 与 estate lawyer review。
-
----
-
-## 23. Conflict protocol 值得提前约定
-
-重大财务争议：
-- 先 pause；
-- facts；
-- independent professional；
-- cooling period；
-- mediator/counsel if needed。
-
-不要在 emotional peak 做：
-- wire；
-- property transfer；
-- account drain；
-- irreversible investment。
-
----
-
-## 24. Prenup 不替代 estate plan
-
-Prenup 解决 spouses 间 contract/property issues。
-
-仍需要：
-- will；
-- trust if relevant；
-- POA；
-- health directive；
-- beneficiary；
-- title。
-
----
-
-## 25. Public repo 不保存真实 marital agreement
-
-这里最多保存：
-- checklist；
-- issue list；
-- generic framework。
-
-不要提交：
-- asset schedule；
-- net worth；
-- lawyer draft；
-- negotiation email；
-- signature；
-- family names。
-
----
-
-## 最小执行集
-
-- [ ] full financial disclosure
-- [ ] joint/separate operating model
-- [ ] parent-support expectations
-- [ ] prenup decision early
-- [ ] independent counsel if prenup
-- [ ] home/title philosophy
-- [ ] beneficiary review
-- [ ] estate/POA update
-- [ ] health-plan household comparison
-- [ ] tax projection
-- [ ] emergency access
-- [ ] relocation trigger review
-
-最后更新：2026-09-21
+最后编辑与来源核验：2026-09-21。核对纽约州协议条文、IRS 退休受益人说明及第501号刊物的联合申报责任。未逐州审查婚姻财产制度，也未提供中美协议互认结论；个人条款须按适用地区与事实另行审查。

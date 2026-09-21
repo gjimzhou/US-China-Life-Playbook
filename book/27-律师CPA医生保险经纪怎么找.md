@@ -1,389 +1,131 @@
 # 27 — 律师、注册会计师（CPA）、医生、保险经纪怎么找
 
-高收入家庭最常见的 professional-selection 错误之一：
+朋友推荐可以帮助找到候选人，之后仍需确认专业是否匹配、资格是否有效、谁实际处理、费用如何计算，以及能交付什么。本章提供筛选与委托的起点，不评选“最好”的机构，也不要求为每种风险长期聘请顾问。
 
-> **把“朋友说他很好”当作完整 due diligence。**
+## 1. 先用一段话描述问题
 
-Referral 很有价值，但 referral 的作用是生成候选，不是替你验证。
+写清涉及的地区、发生了什么、希望解决什么、已知期限和已有材料。例如“需要审查一份适用某州法的雇佣协议”，比“找一个厉害的律师”更便于匹配。初次询问不必附完整证件、账户或病历。
 
----
+## 2. 按四步从候选走到委托
 
-# 一套通用筛选框架
+推荐或官方目录 → 核对资格和公开记录 → 询问具体匹配与费用 → 确认书面服务范围。完成标志是对方接受了明确任务、负责人和下一步已确定，而不是互加了联系方式。涉及临近期限，首次联系就明确提示。
 
-## 1. 先定义 problem，不要先找“最好的人”
+## 3. 律师：问类似问题、执行人员和交付
 
-错误：
-> “纽约最好的律师是谁？”
+准备事件摘要与材料目录，先询问初次咨询是否收费、能否接案及利益冲突核查所需信息。[FTC 聘请律师指引](https://consumer.ftc.gov/articles/hiring-lawyer)建议询问经验、实际经办人员、费用与时间，并取得书面约定。
 
-正确：
-> “我需要处理哪类 legal problem？”
+请对方说明哪些结果可以交付，哪些取决于法院、对方或其他机构；任何“保证胜诉”的承诺都不应替代判断。
 
-例如：
-- estate；
-- prenup；
-- employment；
-- immigration；
-- tax controversy；
-- litigation；
-- real estate。
+## 4. 律师转介目录是起点
 
-专业人士高度分工。
+从[ABA 州与地方律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)找到所在地区入口，再向该州负责律师执业管理的机构核对姓名、执业状态及可公开的纪律记录。律师协会会员身份、搜索广告和执照有效都不能单独证明该律师擅长你的问题。
 
----
+## 5. 律师收费要拆开看
 
-## 2. Referral → verify → interview → engage
+常见安排包括按小时、固定项目收费、预付费用和按结果计费（Contingency fee）。预付费（Retainer）的用途、补缴和退还条件需看约定，不要只凭名称判断。
 
-四步：
+询问各级人员费率、电话与邮件如何计费、第三方费用、超范围工作如何批准，以及中止委托时如何交接。按结果收费也可能另有支出责任。来源范围同上方 FTC 指引，具体可用方式依州法与事项核对。
 
-1. trusted referral / directory；
-2. license / discipline verification；
-3. short fit interview；
-4. written engagement / scope。
+## 6. 事务所规模不是匹配度
 
----
+比较真正负责人的经验、可投入时间、需要的跨领域协作和预算。大所、小所或独立执业都有可能适合。不要只与负责接洽的人谈得愉快，却不知道经办人是谁。
 
-# Lawyer
+## 7. 税务：先列出自己真正的复杂点
 
-## 3. 找 practice-area match
+工资奖金、股权、合伙企业、出租房、多州、跨境或税务争议所需经验不同。询问近期处理过哪些相近事项、哪些需转介，不要求披露其他客户资料。
 
-问：
-- 这个问题占你 practice 多少？
-- 最近处理多少类似 matter？
-- 谁 actual work？
-- partner / associate / paralegal？
-- strategy？
-- timeline？
-- fee？
+[IRS 税务专业人士选择入口](https://www.irs.gov/tax-professionals/choosing-a-tax-professional)说明可选人员包括 CPA、注册税务师（Enrolled agent，EA）、律师等。不要把“不是 CPA”直接等同于不能报税，也不要把 CPA 头衔等同于精通跨境税。
 
-FTC 的 consumer guidance 也建议明确询问 experience、who does work、fees、timeline，并取得 written agreement。
+## 8. 确认谁编制、谁复核、谁答疑
 
-**来源**
-- FTC — Hiring a Lawyer  
-  https://consumer.ftc.gov/articles/hiring-lawyer
+让事务所说明资料由谁接触、实际编制人与复核人、关键假设如何确认、报税后通知由谁处理。团队分工本身不是问题，但应有明确负责人。提交前自己核对姓名、账户、收入和主要选择，保留最终申报文件及接收确认。
 
----
+## 9. 税务资格分别核验
 
-## 4. Bar referral 是很好的 fallback
+[NASBA 说明](https://nasba.org/licensure/gettingacpalicense/)指出 CPA 由州会计委员会颁照；可向相关州委员会核验，或使用其链接的查询服务。
 
-ABA 提供 state/local lawyer referral directory：
-https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/
+IRS 上述入口链接的名录收录持特定资质或完成指定项目的报税人员，并非所有报税员总名单。报税员识别号（PTIN）也不是专业能力认证。找不到记录时先核对姓名和资质类型，必要时向发证机构确认。
 
-这对“不知道应该搜什么律师”的家庭尤其有用。
+## 10. 税务规划与报税委托分开写
 
----
+重大交易或迁居前需要的预测、方案比较、预缴税和税务通知处理，不一定包含在年度报税费中。要求写清适用税年、涉及州或国家、关键假设、你需提供的资料和交付时间。不要等交易已完成才询问如何记录。
 
-## 5. 律师 fee model 要在开始前问清
+## 11. 医生：先确认专业和接诊条件
 
-常见：
-- hourly；
-- flat fee；
-- retainer；
-- contingency；
-- hybrid。
+确认专科是否对应问题、是否接收新患者、所需转诊、具体保险计划、预约时间和病历传递方式。[州医学委员会联合会的目录](https://www.fsmb.org/contact-a-state-medical-board/)可定位各州主管机构，进一步查执照和公开记录。专科认证、保险网络与州执照是不同事项，需要分别确认。
 
-问：
-- retainer refundable?
-- replenishment?
-- partner vs associate rate?
-- paralegal?
-- email/call billing?
-- filing/third-party costs?
+## 12. 评价有用，但不能等同治疗质量
 
-不要等第一张 bill 才理解 engagement。
+评论可以提示预约、沟通或账单体验，不能单独判断诊断与治疗是否适合。不要按星级自行选择高风险治疗；把自己的症状、既往检查和希望解决的问题带给医生讨论。
 
----
+## 13. 初级保健医生要有可用的联系路径
 
-## 6. 大所不自动比 boutique 更适合
+问清常规预约、急性问题、非工作时间咨询、处方续配、检验结果通知和转诊怎么处理。如果主要需求是长期管理，持续沟通与病历衔接应纳入选择，而不是只看名气。参见[美国医疗系统](04-美国医疗系统怎么用.md)。
 
-大所优势：
-- resources；
-- specialties；
-- cross-office；
-- complex matter。
+## 14. 第二意见要问清是否来得及
 
-boutique/solo 优势可能：
-- direct senior attention；
-- niche expertise；
-- lower overhead；
-- responsiveness。
+面对重大、不可逆或存在明显分歧的治疗决定，可以询问独立第二意见（Second opinion），带齐影像、病理和病历。先问当前医生安全的决策时间窗口，避免因预约延迟耽误急症。重点是理解诊断、替代方案、收益与风险，不是寻找必然同意自己想法的人。
 
-按 matter 选。
+## 15. 保险：先列风险再问产品
 
----
+说明住房用途、车辆、个人责任、贵重物品和家庭雇员等适用情况，询问代理或经纪承接哪些险种、哪些不在其服务范围。[NAIC 州保险部门目录](https://content.naic.org/state-insurance-departments)可定位监管入口，按州核验所需执照与授权。
 
-# CPA / Tax
+## 16. 独立经纪也不代表全市场
 
-## 7. “会报税”不等于适合 complex household
+询问对方能提供哪些公司的哪些产品、谁支付费用或佣金、是否存在无法比较的选择。专属代理通常服务特定公司，但具体关系以披露为准。名称不决定服务质量，比较实际覆盖、除外条款和理赔协助。
 
-问：
-- high W-2 / bonus？
-- multi-state？
-- equity comp？
-- partnership/K-1？
-- rental？
-- cross-border？
-- gift/estate？
-- estimated-tax planning？
+## 17. 要求指出缺口并交付书面结果
 
----
+可以问：“如果发生重大损失，哪些情形可能不赔或超过限额？”（If a major loss occurs, what could be excluded or exceed the limits?）
 
-## 8. 谁 actual prepare return 很重要
+要求说明建议保额、关键除外责任、免赔额、需补充的资料以及何时生效。报价、申请、付款和正式承保不是同一个完成节点；保存承保确认与保单。
 
-有些 firm：
-- partner sells；
-- junior prepares；
-- offshore team；
-- separate reviewer。
+## 18. 金融服务：核对本人、公司和披露记录
 
-这并不一定坏。
+使用[FINRA BrokerCheck](https://brokercheck.finra.org/)和[SEC 投资顾问公开查询](https://adviserinfo.sec.gov/)，核对姓名、注册编号、所属机构和监管披露。入口用途可参照[Investor.gov 的核验说明](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
 
-但你应该知道：
-- workflow；
-- reviewer；
-- response owner；
-- turnaround。
+[FINRA 对查询结果的说明](https://www.finra.org/investors/investing/working-with-investment-professional/about-brokercheck)提醒：部分披露涉及尚未解决或未被证明的指控。既不要忽略，也不要把每条记录直接当成定罪；核验记录不能保证投资收益。
 
----
+## 19. 把收费、利益冲突和托管问具体
 
-## 9. CPA license 可以 verify
+询问对方在这次服务中以什么身份工作，是否承担适用的受信义务（Fiduciary duty），并要求书面解释。继续问咨询费、管理费、产品费用、佣金和转介利益分别是多少，钱由哪家机构托管，自己能否直接查看账户。不能仅靠“只收顾问费”或“以客户为先”的宣传判断。
 
-NASBA CPAverify 汇集 participating state boards 的 public licensing data：
-https://ald.nasba.org/search/cpa
+## 20. 承包商：按所在地要求核查
 
-仍可进一步查 individual state Board of Accountancy。
+向地方主管机构确认项目所需执照、登记和许可，核对承包商保险、书面报价、付款节点及变更流程。保险证明与具体项目承保范围仍可能不同，必要时向出具方独立确认。详细见[住房与承包商](09-住房物业与Contractor.md)；本章不把某州许可要求推广到全国。
 
----
+## 21. 初次咨询可以直接用这五个问题
 
-## 10. Tax planning 与 tax preparation 是两项服务
+| 中文问题 | 对外沟通用语 |
+|---|---|
+| 您有处理这种具体问题的经验吗？ | What experience do you have with this specific issue? |
+| 谁实际做，谁复核？ | Who will do the work, and who will review it? |
+| 费用包含什么，额外工作如何批准？ | What is included, and how are additional charges approved? |
+| 主要风险和无法保证的部分是什么？ | What are the main risks and uncertainties? |
+| 如何联系，多久回复，急事找谁？ | How do we communicate, and who handles urgent matters? |
 
-如果 income highly variable：
-- year-end projection；
-- estimated tax；
-- residency；
-- major transaction；
-- charitable/gifting；
-- retirement contribution
+## 22. 服务中断时要能升级或交接
 
-应该在 transaction 前讨论。
+约定常规回复时间和紧急联系方式。期限临近而联系不上，向负责人或机构升级，同时寻找替代咨询，不因已发邮件就认为期限暂停。更换服务前确认资料、费用和未完成事项如何交接；法律程序中的退出或替换要求需另查。
 
-不是 4 月 10 日才讨论。
+## 23. 敏感材料通过核实的渠道传递
 
----
+确认平台来自机构正式渠道、谁能访问、保存多久、如何取回。先提供必要信息，避免把完整证件或财务资料群发给多名候选。遇到突然更改收款账号，使用此前核实的号码回拨确认。
 
-# Doctor
+## 24. 总成本包括返工，但预算仍应明确
 
-## 11. 医生筛选先看 clinical fit，再看五星评价
+比较相同服务范围、负责人员、交付物和后续支持，而不只比小时费率。可以从一次范围明确的咨询开始；如果对方无法解释成本、持续扩张任务或建议超出自身专业，应暂停并找第二意见。
 
-关注：
-- specialty/subspecialty；
-- board certification（如 relevant）；
-- hospital affiliation；
-- insurance network；
-- access/wait time；
-- communication；
-- specific condition experience。
+## 25. 私人专业联系人表
 
----
-
-## 12. Yelp/Google 对医生的 signal 很有限
-
-Review 常被：
-- front desk；
-- parking；
-- wait time；
-- bedside style
-
-主导。
-
-这些重要，但不等同 clinical quality。
-
----
-
-## 13. PCP 选“能用”比选“名气大”重要
-
-优秀 PCP：
-- appointment reasonably accessible；
-- records organized；
-- referrals；
-- responds；
-- preventive care systematic；
-- understands your history。
-
-每次要等 4 个月的 famous doctor 未必适合做 primary care。
-
----
-
-## 14. 高风险 surgery / treatment 值得 second opinion
-
-Second opinion 重点验证：
-- diagnosis；
-- indication；
-- alternatives；
-- urgency；
-- surgeon experience；
-- complication expectations。
-
----
-
-# Insurance Agent / Broker
-
-## 15. Agent 是否理解你的 entire household exposure
-
-问：
-- auto；
-- home/renters；
-- umbrella；
-- valuables；
-- flood；
-- rental properties；
-- recreational vehicles；
-- household employees。
-
-如果只会 quote auto premium，可能不够。
-
----
-
-## 16. Independent broker 与 captive agent 各有 tradeoff
-
-Independent：
-- multiple carriers；
-- comparison。
-
-Captive：
-- deep knowledge of one carrier/system；
-- sometimes product integration。
-
-没有 universal winner。
-
----
-
-## 17. 要求做 coverage-gap review，而不是只 quote
-
-每年问：
-> “If a catastrophic claim happened, where are the gaps?”
-
-而不是只问：
-> “今年能不能便宜 $300？”
-
----
-
-# Financial Adviser / Broker
-
-## 18. 先确认对方是谁、受什么监管
-
-FINRA BrokerCheck：
-https://brokercheck.finra.org/
-
-SEC IAPD：
-https://adviserinfo.sec.gov/
-
-可以查看：
-- registration；
-- firm；
-- disclosures；
-- history。
-
----
-
-## 19. “Fiduciary”不要只听营销词
-
-问：
-- 你以什么 capacity 为我服务？
-- fee-only / fee-based / commission？
-- AUM fee？
-- product compensation？
-- conflicts？
-- custody 在哪？
-- 是否可以把 recommendation 写下来？
-
----
-
-# Contractor
-
-## 20. Contractor 要查 license/insurance
-
-FTC 建议：
-- state/county verify license；
-- proof of insurance；
-- written estimates；
-- written contract；
-- 避免全额 upfront。
-
-来源:
-https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam
-
----
-
-# 通用 Interview Questions
-
-## 21. 五个问题几乎适用于所有 professional
-
-1. **How much of your work is this exact problem?**
-2. **Who will actually do the work?**
-3. **What will this cost and how is it billed?**
-4. **What are the main risks / things that could go wrong?**
-5. **How do we communicate and what response time should I expect?**
-
----
-
-## 22. Response time 是 service quality 的一部分
-
-对：
-- CPA；
-- lawyer；
-- insurance agent；
-- doctor office；
-- contractor
-
-“专业能力很强但永远找不到”可能是不合适的 household service relationship。
-
----
-
-## 23. Secure communication 要纳入选择
-
-Professional 会接触：
-- SSN；
-- tax return；
-- medical records；
-- passport；
-- bank information。
-
-问：
-- secure portal？
-- encrypted communication？
-- document retention？
-- email policy？
-
----
-
-## 24. 别把“贵”自动理解成好，也别把“便宜”理解成划算
-
-真正 total cost 包括：
-- rework；
-- missed deadline；
-- opportunity cost；
-- litigation；
-- tax mistake；
-- delay；
-- communication burden。
-
----
-
-## 25. Household professional directory
-
-只在私人系统保存真实 contact：
-
-| Role | Primary | Backup/referral route | Last reviewed |
+| 角色（按需要填写） | 负责人或正式入口 | 服务范围与费用约定 | 备用与下次确认 |
 |---|---|---|---|
-| PCP |  |  |  |
-| Dentist |  |  |  |
-| CPA |  |  |  |
-| Estate attorney |  |  |  |
-| Litigation referral |  |  |  |
-| Insurance agent |  |  |  |
-| Contractor/home |  |  |  |
-| Vet |  |  |  |
+| 初级保健医生／牙医 |  |  |  |
+| 税务专业人士 |  |  |  |
+| 遗产／家庭／其他律师 |  |  |  |
+| 保险代理或经纪 |  |  |  |
+| 住房维修／兽医 |  |  |  |
 
-Public repo 只保留模板。
+只在私人系统填写真实资料。无需预先聘齐所有角色，至少知道发生需要时的入口。
 
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对 FTC 律师聘请说明、ABA 转介目录、IRS 报税人员入口、NASBA 颁照说明、FSMB 与 NAIC 州监管目录及 FINRA/Investor.gov 查询说明。动态查询系统未逐个检索专业人士；本章不背书具体人员。各州执业、委托及医疗个案仍需按实际情况核验。
