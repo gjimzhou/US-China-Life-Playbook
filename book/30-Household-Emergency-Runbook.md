@@ -1,461 +1,139 @@
 # 30 — 家庭紧急操作手册（Household Emergency Runbook）
 
-真正的 emergency plan 不是一张“联系人名单”。
+这份手册帮助在压力下找到第一步、联系人和交接事项。它不替代急救培训、调度员指示、专业评估或当地程序。独居者也可使用：接手人可以是已同意的亲友或适当机构，不必是配偶。
 
-它应该回答：
+**有人身危险时，先离开危险、立即呼叫当地急救，并按调度指示行动。** 后续记录、保险和家庭分工不能延误救援。下面的顺序是行动提示，不是统一的法律或医疗截止时间。
 
-> **如果现在就出事，我们前 10 分钟、1 小时、24 小时分别做什么？**
+## 1. 通用分流：安全、救援、接手
 
-低频事件最不适合依赖 memory。
+先判断自己是否安全，说明准确位置、发生了什么和需要什么帮助。美国紧急情况拨911；中国大陆医疗急救拨120，其他地区事先核对。安全后再指定一个自愿协调人，区分必须现在处理的事项与可以等待的事务。
 
----
+准备一份[家庭紧急信息表](../checklists/emergency-sheet.md)。让接手人知道在哪里取用，不把全部密码和证件放在公开文件。
 
-# Runbook 0 — 通用原则
+## 2. 医疗急症
 
-任何 emergency 先判断：
+**现在：** 联系当地急救，提供位置和主要症状，按调度员指示采取相应急救措施；不要因寻找保险卡、联系家人或等待预约而延误。不要在自身状况不适合时驾车。
 
-1. **Immediate danger?**
-2. **Need 911/120?**
-3. **Can scene get worse?**
-4. **Who is incident coordinator?**
-5. **What information matters now?**
-6. **What can wait?**
+**有人接手后：** 提供药物、过敏、病史与相关医疗指示；安排儿童、宠物和家中事务。仅向必要人员分享信息。
 
-优先级：
+**继续跟进：** 指定记录人，记录治疗团队、待决事项与下一次沟通。重大治疗决定如需第二意见，先确认安全时间窗口。详见[紧急情况与急救](03-紧急情况与急救.md)。
 
-> 人身安全 > 防止损失扩大 > 专业救援 > 记录 > 保险/责任争议
+## 3. 漏水与房屋损坏
 
----
+**现在：** 避开触电、坠落和结构危险；安全且知道如何操作时才关闭水源，联系物业或房东的紧急维修入口。不要涉水接触电器或带电设备。
 
-# Runbook 1 — Medical Emergency
+**安全后：** 拍摄损害，联系专业维修和保险方，记录已采取的减损措施、影响邻居与临时住宿需要。因卫生或安全必须处理的物品先尽可能留证，不为保存证据继续暴露于危险。
 
-## First 5 minutes
+**确认完成：** 漏源已处理，后续干燥、修复与保险事项有负责人。参见[住房与维修](09-住房物业与Contractor.md)。
 
-- [ ] 是否需要 911 / 120
-- [ ] location
-- [ ] breathing / consciousness / major bleeding
-- [ ] dispatcher instructions
-- [ ] CPR/AED if indicated
-- [ ] do not self-drive when unsafe
+## 4. 火灾、烟雾或一氧化碳警报
 
-## First hour
+**现在：** 立即按安全疏散路线离开，呼叫当地紧急服务，到约定集合点；不要返回取物或搜寻宠物，将未撤离人员和动物信息交给救援人员。
 
-- [ ] spouse/family notified
-- [ ] medication/allergy list
-- [ ] ID/insurance accessible
-- [ ] hospital location
-- [ ] pet/child coverage
-- [ ] employer only if necessary
+**安全后：** 与救援和物业确认能否返回，再安排住宿、必要药物、证件和支付。联系保险方并记录损失。不要自行认定报警停止就能安全进入。安全准备见[不要意外死亡](01-不要意外死亡.md)。
 
-## First day
+## 5. 交通事故
 
-- [ ] one family spokesperson
-- [ ] notes
-- [ ] health-care proxy if incapacity
-- [ ] critical specialist
-- [ ] travel cancellation
-- [ ] home/logistics
-- [ ] second opinion if major irreversible decision and time allows
+**现场：** 先避开交通危险，判断伤情并按需要呼叫救援；安全且符合当地要求时移车，依法交换资料与报告。照片、目击者和车辆信息只在安全情况下收集。
 
----
+**离开后：** 记录拖车去向、保险案号、维修与交通安排，出现症状寻求医疗评估。不要在现场争吵、承诺不清楚的私下赔偿或签不理解的文件。
 
-# Runbook 2 — Water Leak / Home Damage
+**确认完成：** 报告和理赔要求分别处理，保存维修、医疗和付款记录。详见[事故与责任](08-车祸停车维修与责任.md)。
 
-## First 10 minutes
+## 6. 手机丢失或被盗
 
-- [ ] electricity/safety
-- [ ] stop water source if safe
-- [ ] building/landlord/HOA emergency line
-- [ ] protect valuables
-- [ ] photos/video
+**现在：** 从受信任设备使用官方定位和锁定入口，不自行追踪或对峙疑似盗窃者。联系运营商保护号码，并保护邮箱和金融账户；保留必要恢复路径。
 
-## Next hour
+**继续：** 检查登录、支付卡和验证器恢复；按厂商正式说明决定是否远程擦除，避免误删设备关联或恢复信息。需要时报警。
 
-- [ ] plumber / remediation
-- [ ] insurer
-- [ ] affected neighbor/unit
-- [ ] written incident timeline
-- [ ] temporary housing if needed
+**确认完成：** 旧设备或会话已妥善处理，号码、登录与支付已恢复，并检查异常交易。详见[网络安全](15-网络安全与身份盗窃.md)。
 
-## 不要做
+## 7. 身份盗用、账户接管或被骗转账
 
-- wait for fault determination before stopping damage
-- throw everything away before insurer/documentation where avoidable
-- use unsafe electricity near standing water
+**现在：** 如涉及正在发生的资金损失，立即联系银行或支付机构的欺诈部门，请求其评估拦截或追回；同时保护被入侵的邮箱、号码和账户。不要等待完成全部证据整理才报告。
 
----
+**继续：** 保存交易与沟通记录，按事件使用身份盗窃报告、信用冻结、税务或执法入口。信用冻结不能保护已经存在的账户或保证追回款项。
 
-# Runbook 3 — Fire / Smoke / CO
+**确认完成：** 记录每家机构案号、独立期限和恢复状态。详见[网络安全](15-网络安全与身份盗窃.md)及[消费者纠纷](16-银行信用卡消费者纠纷与诈骗.md)。
 
-## Immediate
+## 8. 宠物急症
 
-- [ ] leave
-- [ ] call 911
-- [ ] bring people/pets only if safe
-- [ ] do not re-enter for property
-- [ ] meet at predetermined point
+尽快联系合适兽医或急诊兽医，说明呼吸、意识、创伤或可能误食等情况，按其指示安全运送。携带药物与病史；可能中毒时保存包装或照片，但不要为寻找材料延误求助。未经兽医指示不要催吐或给予人用药。
 
-## After safe
+让照护人知道医院、费用授权和后续用药安排，详见[宠物照护](17-宠物Operating-System.md)。
 
-- [ ] insurer
-- [ ] building/landlord
-- [ ] temporary lodging
-- [ ] medication replacement
-- [ ] IDs/payment
-- [ ] family notification
+## 9. 父母在中国突发住院
 
----
+**当地先行动：** 不等待海外子女决定才呼叫急救。确认父母所在机构、科室和已经在场的人。
 
-# Runbook 4 — Car Accident
+**远程接手：** 在父母同意或适用授权范围内确认诊疗沟通人、药物记录、下一项决策和实际期限；安排陪护、支付及家中事务。医疗团队负责医疗判断，家庭协调人不能自动代替患者作决定。
 
-## Scene
+**需要返程时：** 分别确认证件、交通、工作休假和离家照护；返程受阻则启用当地备用支持。详见[父母照护](20-父母养老与远程照护.md)。
 
-- [ ] injury?
-- [ ] 911 if needed
-- [ ] move from danger if safe/lawful
-- [ ] photos
-- [ ] exchange information
-- [ ] witness
-- [ ] police/report as required
+## 10. 失业或收到裁员通知
 
-## After scene
+记录终止日、医疗保障结束日、协议签署期限、薪酬和股权事项；合法保存个人福利文件。适用移民身份的人员及时取得专业建议，不按工资最后到账日自行推算身份期限。
 
-- [ ] insurer claim
-- [ ] tow location
-- [ ] repair shop
-- [ ] medical symptoms
-- [ ] rental
-- [ ] save all records
+比较医保衔接方案，核对失业福利入口与预算，再处理退休账户、求职和长期安排。不急于签署不理解的豁免协议。详见[员工福利](22-工作失业与Employee-Benefits.md)及[失业清单](../checklists/job-loss.md)。
 
-## 不要做
+## 11. 律师函、索赔或诉讼文件
 
-- argue fault
-- promise private cash settlement
-- sign random statement
-- post detailed claim story publicly
+保存原件、收到或送达日期、信封与附件，尽快请适当律师确认性质、法院与答复期限；可能涉及保险时及时通知保险方。不要因主张看似荒唐而忽视，也不要删除消息、擅自改动记录或情绪化联系对方。
 
----
+完成标志是已有明确处理责任与下一步，必要答复按规定提交并有凭证。投诉、协商和联系保险方不应被假定为自动暂停诉讼期限。
 
-# Runbook 5 — Phone Lost / Stolen
+## 12. 政府或税务通知
 
-## First 15 minutes
+核对机构、案号、事项和日期，通过独立找到的官方入口验证，避免直接使用可疑短信中的付款链接。税务通知找相应税务人士，移民事项找适当移民律师，法院文件按法律程序处理。
 
-- [ ] Find My / device locator
-- [ ] lock device
-- [ ] carrier
-- [ ] suspend/secure SIM
-- [ ] primary email
-- [ ] financial alerts
+保存送达和提交凭证，记录何时追踪；打过电话不等于办结。详见[美国政府入口](11-美国政府到底找谁.md)与[中国政府入口](12-中国政府与办事入口.md)。
 
-## Then
+## 13. 境外遗失护照
 
-- [ ] password manager
-- [ ] bank/brokerage
-- [ ] wallet/cards
-- [ ] authenticator recovery
-- [ ] police report if appropriate
-- [ ] remote wipe if necessary
+确保人身和其他证件安全，通过签发国使领馆正式渠道询问补办或紧急证件。按当地要求办理相关报告，另核对签证、出境和航空公司要求，及时调整住宿与行程。
 
-## Key design rule
+证件副本可帮助提供信息，但不是替代证件。流程入口与限制见[旅行准备](29-旅行长期停留与全球Mobility.md)。
 
-Phone lost should **not** mean:
-- bank inaccessible
-- password manager inaccessible
-- all recovery codes inaccessible
+## 14. 中国手机号或银行访问失败
 
----
+先区分网络、号码状态、设备、证件更新与账户风控问题，通过运营商或银行正式渠道处理。问清是否需本人到场、可接受材料、预计下一步和备用支付方式。不要把验证码交给“代解封”人员或借用他人账户规避限制。
 
-# Runbook 6 — Identity Theft / Account Takeover
+记录问题与官方答复，恢复后实际测试必要功能。详见[跨境生活基础设施](18-中美双栖生活基础设施.md)。
 
-## Immediate
+## 15. 家庭主要办事人暂时失能
 
-- [ ] secure primary email
-- [ ] secure phone carrier
-- [ ] change compromised credentials
-- [ ] bank/card fraud teams
-- [ ] freeze credit bureaus if relevant
-- [ ] IdentityTheft.gov
-- [ ] preserve evidence
+先按医疗流程处理，再由具有适当权限的人取得医疗指示、联系人和必要账单信息。分别安排儿童、宠物、家人通知、住房和工作沟通；不要求由一个人独自接下所有事务。
 
-## If tax identity risk
+能找到文件与有权使用账户不同，权限不清时向机构或律师确认。详见[失能规划](10-Estate-Planning与失能.md)。
 
-- [ ] IRS account
-- [ ] IP PIN
-- [ ] tax professional
+## 16. 家人身故
 
-## If large wire fraud
+死亡尚未确认或情况不明时，先联系当地急救或相应机构；已在医疗或临终照护中则按其说明办理。先照顾在世家人与动物、保护住所、联系必要亲属及适当专业人员。
 
-- [ ] bank immediately
-- [ ] wire recall
-- [ ] FBI IC3 as appropriate
-- [ ] receiving bank if available
+不要在悲痛或权限未明时急于转移资产、清偿所有声称的债务或关闭账户。后续见[身故后的实际操作](35-死亡后的实际操作与Estate-Administration.md)。
 
----
+## 17. 把家庭手册做成索引
 
-# Runbook 7 — Pet Emergency
+私下保存紧急信息、医疗、保险、法律授权、工作、住房、车辆、照护、跨境与数字恢复的文件位置和办理说明。常用联络信息可有纸质备份；密钥、恢复码和完整证件应单独保护。只让需要的人取得相应部分。
 
-## Immediate
+## 18. 用三个场景演练
 
-- [ ] regular vs emergency vet
-- [ ] toxic ingestion?
-- [ ] trauma?
-- [ ] breathing/seizure/collapse?
-- [ ] transport safely
+选一个安全场景，不真的触发报警或转账：
 
-## Bring
+| 场景 | 要实际确认 | 若失败，下一步 |
+|---|---|---|
+| 境外丢手机 | 备用设备能取得联系人、住宿与恢复入口 | 修补恢复方式，再测试 |
+| 主要办事人不能处理事务 | 接手人能找到药物、权限和必要账单索引 | 补同意、授权或机构登记 |
+| 旅行期间漏水 | 物业入口、合法入户和维修责任清楚 | 与相关人员确认可执行安排 |
 
-- [ ] meds
-- [ ] conditions
-- [ ] insurance
-- [ ] toxin/package if relevant
+有重大变化后重测适用部分。年度演练不能替代设备要求的日常测试和维护。
 
-## 不要做
+## 19. 只保留适用的最小执行集
 
-- induce vomiting unless veterinary professional instructs
-- give human medication without vet direction
+- [ ] 紧急信息表可取用，地址与求助入口准确。
+- [ ] 人身安全流程优先，接手人已同意且权限明确。
+- [ ] 必要照护、支付与离家事务有替代路径。
+- [ ] 事件记录含负责人、期限、下一步和完成证据。
+- [ ] 至少试过一个最可能导致全家无法运作的场景。
 
----
-
-# Runbook 8 — Parent Hospitalized in China
-
-## First hour
-
-- [ ] local responder to hospital
-- [ ] identify hospital/department
-- [ ] medication list
-- [ ] ID/insurance
-- [ ] one family coordinator
-
-## Next 6 hours
-
-- [ ] treating doctor contact
-- [ ] severity / diagnosis / next decision
-- [ ] travel decision
-- [ ] sibling/family assignments
-- [ ] home/property/pet support
-- [ ] payment/logistics
-
-## If flying back
-
-- [ ] passport
-- [ ] ticket
-- [ ] hospital details
-- [ ] local housing/transport
-- [ ] work leave
-- [ ] spouse/child/pet plan
-
----
-
-# Runbook 9 — Job Loss
-
-## Same day
-
-- [ ] termination date
-- [ ] severance/release deadline
-- [ ] health coverage end date
-- [ ] COBRA / spouse / Marketplace
-- [ ] final paycheck
-- [ ] bonus/equity/vesting
-- [ ] unemployment route
-- [ ] immigration deadline if applicable
-- [ ] download lawful personal benefits documents
-
-## First week
-
-- [ ] cash runway
-- [ ] insurance
-- [ ] job-search plan
-- [ ] network
-- [ ] tax withholding
-- [ ] retirement/HSA/FSA
-
----
-
-# Runbook 10 — Legal Demand / Lawsuit
-
-## Same day
-
-- [ ] note service/received date
-- [ ] photograph/scan document
-- [ ] identify response deadline
-- [ ] insurer if potentially covered
-- [ ] appropriate lawyer
-- [ ] preserve documents
-
-## 不要做
-
-- contact opposing party emotionally
-- delete messages/files
-- post about case
-- ignore because claim seems ridiculous
-
----
-
-# Runbook 11 — Government Notice
-
-## First pass
-
-- [ ] issuing agency
-- [ ] official case number
-- [ ] deadline
-- [ ] authenticity
-- [ ] official portal
-- [ ] professional routing
-
-Examples:
-- IRS → CPA/tax counsel
-- USCIS → immigration counsel if needed
-- court → lawyer
-- DMV → state process
-
-不要做 use phone number from suspicious message until independently verified.
-
----
-
-# Runbook 12 — Passport Lost Abroad
-
-- [ ] secure other IDs
-- [ ] police report if useful/required
-- [ ] nearest embassy/consulate
-- [ ] travel itinerary
-- [ ] secure passport scan
-- [ ] airline/hotel if trip disrupted
-- [ ] wallet/payment backup
-- [ ] home contact
-
-For U.S. citizens:
-https://travel.state.gov/
-
----
-
-# Runbook 13 — China Phone / Bank Access Failure
-
-## If SIM fails
-
-- [ ] carrier account
-- [ ] roaming/SIM/eSIM issue
-- [ ] backup identity route
-- [ ] bank notifications
-- [ ] WeChat/Alipay recovery
-
-## If bank risk-control blocks account
-
-- [ ] official bank channel
-- [ ] identity documents
-- [ ] branch requirement?
-- [ ] transaction records
-- [ ] do not ask strangers to “解封”
-
-This is why China secondary system must be tested annually.
-
----
-
-# Runbook 14 — One Spouse Incapacitated
-
-Within one hour, the other spouse should know:
-
-- [ ] hospital
-- [ ] medications/allergies
-- [ ] health proxy
-- [ ] insurer
-- [ ] employer
-- [ ] parents/family
-- [ ] pets/children
-- [ ] key bills
-- [ ] bank liquidity
-- [ ] attorney
-- [ ] upcoming travel
-
-If this list is impossible today, the household has key-person risk.
-
----
-
-# Runbook 15 — One Spouse Dies
-
-First 24 hours:
-
-- [ ] immediate medical/funeral process
-- [ ] key family
-- [ ] children/pets
-- [ ] home security
-- [ ] employer
-- [ ] accessible cash
-- [ ] estate attorney / executor
-- [ ] do not rush account transfers before authority is clear
-
-Then move to Death Administration chapter.
-
----
-
-# Emergency binder architecture
-
-Private household system should contain **locations and instructions**, not all secrets in one plain-text file.
-
-Suggested sections:
-
-- Emergency Sheet
-- Medical
-- Insurance
-- Legal / POA
-- Employment
-- Home
-- Car
-- Pets
-- Parents
-- China
-- Travel
-- Digital recovery
-
----
-
-# Testing the runbook
-
-Once a year, ask:
-
-### Scenario A
-Phone lost abroad.
-
-Can both spouses still:
-- get into email?
-- access money?
-- access hotel/flight?
-- contact family?
-
-### Scenario B
-One spouse unconscious.
-
-Can the other:
-- find medications?
-- identify insurance?
-- access cash?
-- contact employer?
-- care for pets/children?
-
-### Scenario C
-Water leak while traveling.
-
-Can:
-- neighbor/building enter?
-- plumber/management respond?
-- insurer be contacted?
-
-A plan that has never been mentally tested is weaker than it looks.
-
----
-
-# 最小执行集
-
-- [ ] household Emergency Sheet
-- [ ] emergency contacts
-- [ ] 911/120 routing
-- [ ] home leak/fire plan
-- [ ] car accident card
-- [ ] phone-loss plan
-- [ ] identity-theft plan
-- [ ] pet emergency plan
-- [ ] parent hospitalization plan
-- [ ] job-loss plan
-- [ ] legal-notice plan
-- [ ] spouse incapacity plan
-
-最后更新：2026-09-21
+最后编辑：2026-09-21。本章为行动索引，引用已审章节的流程与来源，不新增统一医疗或法律时限。不同事件的实际规则、设备说明和机构要求分别核验；医疗急症依当地调度和救援人员指示。

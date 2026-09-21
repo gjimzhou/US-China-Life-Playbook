@@ -1,437 +1,117 @@
 # 32 — 家庭年度复查（Annual Household Review）
 
-一个家庭最常见的 operational failure 不是：
+已做过的安排也可能过期。年度复查用于确认仍然适用、发现缺口并分配处理，不要求把所有生活事项重新规划一次。独居、伴侣或其他家庭结构都可以按需要使用。
 
-> 从来没做过规划。
+可执行表见[年度复查清单](../checklists/annual-review.md)。
 
-而是：
+## 1. 年度复查是补漏窗口
 
-> **三年前做过一次，后来 quietly stale 了。**
+每年安排一次总览，有助于发现联系人、受益人、保障和文件已变化的事项。它不是所有事项的处理频率：法定期限、账单、医疗随访、设备维护和安全警报器测试都按各自要求进行。
 
-所以需要 annual review。
+## 2. 先准备资料，再讨论缺口
 
-这不是“家庭会议形式主义”，而是把低频、高后果事项集中到一个固定窗口处理。
+提前收集账户索引、保单、到期日期和未完成事项。可以分几次短时段完成，不设必须几小时内做完的标准。讨论只需确定哪些仍适用、哪里需要修补、谁负责和何时确认完成。
 
-详见可执行 checklist：
+## 3. 选择自己能坚持的时间
 
-[Annual Household Review](../checklists/annual-review.md)
+可以结合税务规划、雇主开放参保或其他容易记住的节点，但这些事项本身可能有不同截止日。先列真实期限，再选总览日期，不能为凑一次家庭会议错过办理窗口。
 
----
+## 4. 先看紧迫事项与严重后果
 
-## 1. 为什么一年一次足够有价值
+先处理正在发生的事件、临近期限和人身安全缺口，再看医疗、账户、保险、法律、税务与照护。投资表现只是其中一部分，不应遮住失效授权、断保或无人接手等问题。
 
-很多 household risk：
+## 5. 安全检查
 
-- beneficiary；
-- insurance；
-- passwords；
-- emergency contacts；
-- passport；
-- address；
-- doctor；
-- China SIM；
-- parents；
-- property；
-- tax；
+确认警报器维护记录、疏散路线、家庭紧急信息、车辆召回与急救学习安排。烟雾和一氧化碳警报器按制造商与适用要求定期测试，不能只在年度复查时按一下。细节见[第01章](01-不要意外死亡.md)。
 
-平时不会每天变化。
+## 6. 身份与账户安全
 
-但三年不看，可能已经完全失效。
+检查主要邮箱、密码管理器、金融账户和运营商保护，清理异常会话，确认恢复资料仍可用。用备用设备试一个恢复场景，不必为“年度任务”无理由更换所有强密码。见[第15章](15-网络安全与身份盗窃.md)。
 
----
+## 7. 保险与责任
 
-## 2. Review 不应超过几个小时
+对照实际住房、车辆、收入和家庭变化，核对适用保障、限额、除外责任与报案入口。不需要购买每一种保险；取消或变更前先确认是否造成必要保障空缺。见[第07章](07-保险与灾难风险.md)。
 
-目标不是重做人生规划。
+## 8. 遗产与失能文件
 
-建议：
+确认文件位置、代理人是否仍愿意和适合、机构登记及受益人状态。结婚、分居、身故或迁居等变化需另行复查，不能等到年底。见[第10章](10-Estate-Planning与失能.md)。
 
-### Before meeting
-自动生成/准备：
-- account inventory；
-- insurance declarations；
-- tax summary；
-- calendar；
-- document expirations。
+## 9. 税务与付款对账
 
-### Meeting
-2–3 hours：
-- scan；
-- identify gaps；
-- assign owners；
-- set deadlines。
+按税年核对已申报资料、工资预扣、预缴、退税或余额，以及州别与跨境记录。
 
-### After
-每个人只处理自己负责的 task。
+| 税年／机构 | 付款人和付款类别 | 确认号与账户入账 | 申报抵扣或结转 | 差额与下一步 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
----
+银行扣款、税务账户入账和报税表采用的金额要相互对应；不一致时留原始凭证并找专业人士查明。见[第14章](14-美国税务与State-Residency.md)。
 
-## 3. 固定在一个容易记的月份
+## 10. 医疗与连续照护
 
-例如：
+与医生讨论适用预防安排、药物、过敏和随访，确认病历能取得、保险变化已处理。复查目标不是多做检查；跨境就医要考虑记录和治疗衔接。见[第02章](02-预防医学.md)与[第06章](06-医疗记录药物与跨境Continuity.md)。
 
-- January；
-- tax season 前；
-- wedding anniversary；
-- birthday month；
-- summer planning season。
+## 11. 父母希望的支持
 
-关键不是最佳月份。
+询问健康、日常功能和照护偏好有何变化，确认附近联系人、医疗入口和合法授权。尊重父母自主决定，不把年度复查变成未经同意的监督。见[第20章](20-父母养老与远程照护.md)。
 
-是：
-> 每年真的发生。
+## 12. 中国侧必要服务
 
----
+按实际需要测试号码、支付、银行和办事入口，核对证件与资料变化；账户和机构要求可能不同，不以应用还能打开当成可用。出行或重要办理前再测相关功能。见[第18章](18-中美双栖生活基础设施.md)。
 
-## 4. Review 要从 P0 开始，不是从 investment performance 开始
+## 13. 美国政务与证件
 
-优先顺序：
+检查适用的税务、社会保障、车辆和移民事项，以及护照和其他文件到期日。身份或地址更新逐个向机构确认，不依赖邮件转寄自动同步。见[第11章](11-美国政府到底找谁.md)。
 
-1. safety
-2. medical
-3. cyber
-4. insurance/liability
-5. legal/estate
-6. tax
-7. parents
-8. China/US infrastructure
-9. home/car/pets
-10. finance/investments
-11. social/career
+## 14. 住房与维修
 
-避免 annual review 变成：
-> 今年 S&P 跑赢多少？
+核对漏水、消防、温控和日常维护，确认物业及紧急维修入口。自有住房另按专业检查与设备要求安排屋顶、机电等项目；租客按合同和当地程序及时报告问题。不要自行处理不具备能力的危险维修。
 
----
+## 15. 车辆
 
-## 5. Safety scan
+核对登记、适用年检、保险、轮胎、保养和召回；确认道路救援与事故资料可取用。保养按车辆要求和实际使用进行，不把年行驶少视为无需维护。
 
-- smoke alarms；
-- CO alarms；
-- emergency sheet；
-- CPR/AED familiarity；
-- home access；
-- pet emergency；
-- car recall；
-- travel emergency。
+## 16. 宠物
 
-这是最便宜的一组 risk controls。
+确认兽医、急诊、用药、芯片联系方式和备用照护。旅行文件按目的地与时间另查，不能以去年办过为由直接沿用。见[第17章](17-宠物Operating-System.md)。
 
----
+## 17. 员工福利看实际记录
 
-## 6. Identity / Cyber scan
+逐个核对参保人、保障日期、工资扣款、雇主供款、退休账户入账及受益人。休假、失能保障和股权归属按实际计划处理。发现扣款或入账不符，记录向谁查询及更正凭证。见[第22章](22-工作失业与Employee-Benefits.md)。
 
-检查：
+## 18. 家庭资金与近期支出
 
-- primary email MFA；
-- password manager；
-- financial MFA；
-- credit freeze；
-- recovery codes；
-- phone recovery；
-- large-wire rule；
-- device security。
+看必要现金、税款储备、债务和近期大额支出，再检查存款保障、退休安排与账户复杂度。不要为提高收益动用有明确短期用途的资金而忽略损失风险。见[第13章](13-高收入家庭财务Operating-System.md)。
 
-问：
-> 如果今天手机丢了，能不能恢复？
+## 19. 关系与支持安排
 
----
+问自己是否有愿意继续的活动、需要联系的人，以及照护或应急支持是否仍已获同意。朋友不需要接受年度“绩效评估”，也不设置交往人数指标。见[第25章](25-如何建立美国本地社会基础设施.md)与[第26章](26-如何维持中国社会关系.md)。
 
-## 7. Insurance scan
+## 20. 删掉不再需要的负担
 
-至少：
+检查订阅、重复服务和无人使用的账户；先确认取消是否影响保障、历史资料、付款、奖励或其他关联事项，再按正规渠道办理并保存确认。减少维护成本不等于立即关闭所有旧账户。
 
-- auto；
-- home/renters；
-- umbrella；
-- valuables；
-- life；
-- disability；
-- pet；
-- travel。
+## 21. 重大变化立即触发专项检查
 
-问：
-> 最大 uninsured tail 是什么？
+结婚、离婚、生育、迁居、购房、换工作、失业、重大诊断、照护变化、身故、长期出境或大额赠与，都可能改变原安排。按事件核对具体期限；年度复查只是补漏。
 
-不是：
-> 哪张保单今年涨了 $100？
+## 22. 每项记录明确状态
 
----
+可以标记“保持”“修补”“待核实”“不适用”或“暂缓”。需要处理的项目写负责人、下一步、期限依据与完成证据；暂缓项目说明何时重看，不用含糊的“以后研究”。
 
-## 8. Estate scan
+## 23. 把任务分批，但别遗漏必须处理的事
 
-检查：
+先选少量最影响安全、期限或家庭运作的事项执行。可选改进分到以后，紧急事项和强制义务不能因为任务额度已满而延后。需要帮助时安排明确委托。
 
-- will；
-- POA；
-- health proxy；
-- beneficiary；
-- executor；
-- document location；
-- digital estate。
+## 24. 保留简短私人复查记录
 
-问：
-> 如果其中一个人今晚失能，另一个人能不能接管 household？
+| 日期与触发原因 | 项目／状态 | 负责人 | 下一步与期限 | 完成证据／下次复查 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
----
+记录文件位置与结论，不把全部密码或证件复制进表。真实家庭信息不要提交到公开仓库。
 
-## 9. Tax scan
+## 25. 复查以修补完成为结束
 
-检查：
+一次讨论不等于改好了。检查确认信、实际入账、受益人登记或恢复测试结果，未完成项继续追踪。工具可以很简单：一份私人表格和必要日历提醒就足够开始。
 
-- prior return archive；
-- current-year projection；
-- withholding；
-- estimated tax；
-- state days；
-- cross-border days；
-- foreign reporting；
-- major gains/gifts。
-
-不要等 return preparation 才第一次看全年。
-
----
-
-## 10. Healthcare scan
-
-不是多做检查。
-
-而是：
-
-- PCP；
-- dentist；
-- guideline screening；
-- vaccines；
-- medication list；
-- records；
-- urgent care / ER map；
-- China continuity。
-
----
-
-## 11. Parents scan
-
-问：
-
-- health changes？
-- falls？
-- medication？
-- local responder？
-- bank/scam risk？
-- preferred hospital？
-- phone/digital access？
-- legal authorization？
-
-父母系统的变化可能比 household 自己更快。
-
----
-
-## 12. China system scan
-
-至少测试：
-
-- China SIM；
-- bank；
-- WeChat/Alipay；
-- ID expiry；
-- hospital；
-- property；
-- 12345/12315 knowledge；
-- parent support；
-- social network。
-
-不是只看 app icon 还在不在。
-
----
-
-## 13. U.S. government scan
-
-- IRS account；
-- Social Security；
-- DMV/MVC；
-- USCIS if applicable；
-- passport；
-- state/local accounts。
-
-搬家/身份变化后尤其重要。
-
----
-
-## 14. Home scan
-
-- insurance；
-- leak/fire；
-- maintenance；
-- plumber；
-- HVAC；
-- electrician；
-- locksmith；
-- HOA；
-- property inventory。
-
-Owner property 加：
-- roof；
-- mechanical；
-- capital projects；
-- flood。
-
----
-
-## 15. Car scan
-
-- registration；
-- inspection；
-- insurance；
-- recall；
-- tires；
-- roadside；
-- accident card。
-
-不要只做 oil change。
-
----
-
-## 16. Pet scan
-
-- vet；
-- emergency vet；
-- insurance；
-- sitter；
-- backup；
-- microchip；
-- travel docs；
-- medication。
-
----
-
-## 17. Employment scan
-
-两个人都看：
-
-- employer benefits；
-- LTD；
-- life；
-- health；
-- HSA/FSA；
-- equity；
-- vesting；
-- leave；
-- COBRA backup；
-- career network。
-
----
-
-## 18. Household finance scan
-
-- liquidity；
-- large cash；
-- bank insurance；
-- debts；
-- retirement；
-- tax reserve；
-- major upcoming purchase；
-- account simplification。
-
-重点不是“净资产涨了多少”。
-
----
-
-## 19. Relationship / social scan
-
-问：
-
-- 本地有谁 emergency 能来？
-- neighbor connection？
-- professional network？
-- 中国 core friends？
-- parents social network？
-- couple calendar 是否过载？
-
-social infrastructure 也会 stale。
-
----
-
-## 20. Stop-doing scan
-
-每年删东西：
-
-- unused subscriptions；
-- bad service provider；
-- redundant account；
-- dead club；
-- unnecessary admin；
-- stale app；
-- old insurance rider。
-
-复杂度本身有成本。
-
----
-
-## 21. Trigger events 不等 annual review
-
-发生以下事件马上 special review：
-
-- marriage/divorce；
-- child；
-- move；
-- new home；
-- job change；
-- layoff；
-- diagnosis；
-- parent decline；
-- death；
-- long overseas stay；
-- new business；
-- large inheritance/gift。
-
----
-
-## 22. Annual review 输出只能有三类结果
-
-### Keep
-没问题。
-
-### Fix
-有 owner + deadline。
-
-### Investigate
-需要 professional advice。
-
-不要输出：
-> “以后研究一下。”
-
----
-
-## 23. 每年最多选 3–5 个 major improvement
-
-如果一次列 40 个 task：
-
-大概率一个都不做。
-
-优先：
-- high impact；
-- low friction；
-- irreversible downside；
-- clear owner。
-
----
-
-## 24. Review log 保留简短 history
-
-每年只写：
-
-- date；
-- major changes；
-- decisions；
-- open items；
-- next review。
-
-不要保存敏感 details 在 public repo。
-
----
-
-## 25. 核心原则
-
-> **家庭系统最怕的不是从来没设计，而是设计完成后没人维护。Annual review 就是 household 的 preventive maintenance。**
-
-最后更新：2026-09-21
+最后编辑：2026-09-21。本章为维护框架与跨章索引；不新增年度税额、医疗频率或法律期限，相关事实与核验范围见所链接章节。

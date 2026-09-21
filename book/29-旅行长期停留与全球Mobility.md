@@ -1,400 +1,130 @@
 # 29 — 旅行、长期停留与全球流动（Global Mobility）
 
-频繁旅行家庭的风险不是“忘带牙刷”。
+旅行准备的重点是：能否顺利入境、需要时取得医疗与药物、丢失手机后仍能联系和付款，以及家中事务有人接手。不同国籍、居留身份和行程的要求不同，以下是核对框架，不是一套全球通用规则。
 
-真正高后果的是：
-- passport / entry；
-- health；
-- medication；
-- phone/MFA；
-- payment；
-- home/pet；
-- tax/work location；
-- high-value items；
-- emergency evacuation。
+## 1. 先区分三种停留
 
----
+| 情形 | 最低准备 | 需要额外确认 |
+|---|---|---|
+| 短期旅行 | 入境与转机、医疗、药物、支付、离家安排 | 行程变更或返程受阻如何处理 |
+| 境外远程工作或反复长期停留 | 上述项目及真实工作与停留记录 | 工作许可、雇主批准、数据规则、税务与医保 |
+| 迁居或长期两地生活 | 当地可持续的住房、通信、医疗与办事入口 | 身份、税务、账户服务资格、授权与家庭交接 |
 
-## 1. Trip 先分三类
+短期也不自动免除工作或税务限制，不能只按天数给行程贴标签。
 
-### Vacation
-短、无工作、return date fixed。
+## 2. 入境要求看对应身份的官方信息
 
-### Work-from-abroad / extended stay
-可能触发：
-- tax；
-- employer policy；
-- data security；
-- visa/work permission；
-- health coverage。
+以目的地移民部门、使领馆的现行要求为主，核对护照签发国、签证或豁免资格、访问目的和离境材料。航空公司登机查验另行确认。[美国国务院旅行准备入口](https://travel.state.gov/en/international-travel/planning/checklist.html)主要面向美国公民，不能直接替代其他护照持有人的规则。
 
-### Relocation / dual-home
-需要完整 systems migration。
+## 3. 护照有效期不是统一的六个月
 
-不要把三类都当“旅游”。
+核对目的地对有效期的起算点、空白页和证件状况要求，再检查签证与护照信息是否匹配。不要把他国经验或订票成功当成可入境确认。具体要求从上一节的目的地官方渠道取得。
 
----
+## 4. 转机地也要检查
 
-## 2. Entry rule 看 official source
+分开出票、换机场、重新托运行李、过夜或航班取消，可能改变是否需要入境的判断。按实际机场和航班组合核对过境要求；留一个无法登机或改签后的联系入口。
 
-美国公民：
-https://travel.state.gov/
+## 5. 境外医疗不能按美国境内体验推断
 
-其他 nationality/visa status：
-- destination embassy/immigration authority；
-- airline Timatic as operational check；
-- current visa/document rules。
+向保险方确认哪些地区和治疗适用、是否先付款后报销、如何联系救援、是否有事先批准要求。询问既往病症、免赔额和材料。参考[国务院旅行保险说明](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html)，具体结论以保单为准。
 
-**执行原则**
-不要只靠 travel blog。
+## 6. 医疗转运要看目的地与触发条件
 
----
+偏远地区应提前确认可接收的医疗机构、地面或航空转运的安排方，以及医疗转运（Medical evacuation）保单的触发条件、目的地和批准程序。不要把“转到最近合适医院”理解为一定送回家；保险限额也不保证任何天气下都能及时转运。
 
-## 3. Passport “6 months rule” 不是全球统一
+## 7. 药物数量、合法性与储存一起核对
 
-不同国家：
-- departure validity；
-- 3 months；
-- 6 months；
-- no general extra period
+出发前向目的地及转机地主管机构核对药品能否携带、数量、证明和申请要求；医生处方不自动构成进口许可。与医生或药师讨论时差服药、冷藏和延误备用量，保留原包装标签及通用名。
 
-都可能存在。
+[CDC 携药旅行说明](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)支持上述准备方向，但各国具体允许药品和数量须另查；不要自行停药或替换。
 
-**执行原则**
-查 destination-specific rule。
+## 8. 关键物品不只依赖托运行李
 
----
+按安检和运输规定安排证件、必要药物、钥匙、重要设备与充电用品。考虑随身包也可能遗失，把恢复资料与唯一设备分开保存。电池、液体和医疗器械的运输规定需向航空公司及机场核对。
 
-## 4. Transit country 也可能有 rule
+## 9. 备用支付不要和主支付一起失效
 
-尤其：
-- separate tickets；
-- airport change；
-- luggage recheck；
-- overnight；
-- certain passport nationality。
+可准备分开放置的实体卡、不同机构的备用付款方式及适量当地可用资金，按费用和合法携带要求选择。手机钱包、验证码和银行卡若都依赖同一手机，就不算独立备用。出发前确认海外联系与挂失方式。
 
-不要只查 final destination。
+## 10. 实测丢手机后的恢复路径
 
----
+用另一台受信任设备确认能找到住宿、航班、联系人和账户恢复入口；检查设备锁定、备份和恢复资料。不要把所有恢复码只放在手机里，也不要用公开共享链接保存密码。详细见[网络安全](15-网络安全与身份盗窃.md)。
 
-## 5. International medical insurance 与 U.S. domestic plan 分开确认
+## 11. 网络连接之外，也要核对设备与网站
 
-问：
-- emergency abroad；
-- direct billing or reimbursement；
-- out-of-network；
-- evacuation；
-- preauthorization；
-- pre-existing condition；
-- deductible。
+优先使用自己的已更新设备，核对网址与连接，避免在共享电脑登录关键账户。蜂窝网络或私人网络不能防止钓鱼网站；验证码、恢复码和远程控制权限都不应交给陌生“客服”。
 
-不要假设高端 U.S. PPO 全球都“像在美国一样”。
+## 12. 离家安排包括重要纸质通知
 
----
+让已同意且有适当权限的人按需要查收信件，及时转达机关、法院、保险或银行通知；不要等回国后再拆所有信。另安排漏水、温控、包裹、门禁和停车。无法返程时谁可继续处理、授权不足怎么办，也要留路径。
 
-## 6. Medical evacuation 是 remote luxury travel 的真实 tail risk
+## 13. 宠物安排要能覆盖延误
 
-Remote island、ski、safari、cruise 等：
-- local hospital capacity；
-- air ambulance；
-- transfer to tertiary center
+留下喂养与用药说明、常规和急诊兽医、合理的费用与就医授权，以及备用照护人的联系方式。确认对方实际接受，不能只发一份文件便视为完成。详见[宠物照护](17-宠物Operating-System.md)。
 
-可能成本非常高。
-
-**执行原则**
-越 remote，越要问 evacuation coverage，不只 trip cancellation。
+## 14. 行程分享按需要限范围
 
----
+让可信联系人知道必要行程与联系方法；公开发布时避免暴露实时位置、空置住房及随身贵重物品。私下分享同样应控制接收者和访问期限。
 
-## 7. Medication 带够 + 查 legality
+## 15. 旅行保障逐项比较
 
-某些：
-- controlled substance；
-- stimulant；
-- sedative；
-- injectable；
-- large quantity
+| 保障 | 要问的条件 | 要留的材料 |
+|---|---|---|
+| 取消／中断 | 哪些原因、哪些人、何时购买才适用 | 订单、取消证明、事由证明 |
+| 延误／行李 | 等待条件、限额、除外物品 | 承运人记录、必要支出凭证 |
+| 医疗／转运 | 地区、既往病症、批准与救援安排 | 医疗记录、账单、联系记录 |
+| 租车 | 车辆、国家、驾驶人、付款和拒绝柜台产品条件 | 租约、车况、事故材料 |
 
-在目的地有特殊 import rules。
+信用卡权益可能只覆盖部分项目。把支付方式、报案期限和实际受保对象写下来，不只比较最高金额。
 
-带：
-- original label；
-- prescription/doctor letter when appropriate；
-- carry-on。
+## 16. 租车车损与对他人责任分开
 
----
+分别核对车辆损坏或盗抢、第三方责任、人身医疗与随身物品。自己的车险、信用卡权益、旅行险和租车产品可能分担不同风险；同一张卡在不同国家、车型或租期的条件也可能不同。拿到具体条款再决定是否购买柜台产品。
 
-## 8. 不把唯一关键物放 checked baggage
+## 17. 工作与长期停留在出发前审查
 
-包括：
-- passport；
-- visa；
-- medication；
-- valuables；
-- keys；
-- critical work device；
-- essential charger/access token。
+记录真实停留日和实际工作地点，向雇主确认境外工作与数据要求，并向合适专业人士核对目的地许可、税务和工资安排。休假名义不能改变实际工作的事实。参见[跨境税与境外工作](38-中美跨境税与Work-from-Abroad.md)。
 
----
+## 18. 中美通信与支付分任务测试
 
-## 9. Payment rails 要分散 failure domain
+分别测试上网、接收所需短信、登录、支付、联系家人和找回账户，记下设备、套餐与测试日期。某一项成功不代表其余都可用；身份或证件变化后重新核对。不要通过陌生代办规避实名或风控流程。
 
-至少：
-- primary card；
-- backup issuer/network；
-- mobile wallet；
-- physical card；
-- some local/emergency cash。
+## 19. 安全提醒服务不等于救援保证
 
-不要：
-> 手机丢 + wallet 丢 = 全部支付归零。
+符合条件的美国公民可了解[旅行者登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html)，接收相关使领馆信息。其他国籍人员应另查本国领事保护渠道。登记、旅行警示和旅行保险各有作用，不能互相替代。
 
----
+## 20. 护照遗失按签发国流程补办
 
-## 10. Phone 是旅行 identity device
+从本国使领馆正式渠道查询预约、材料和紧急证件，另向目的地主管机构核对离境或签证记录恢复要求。美国护照持有人可查看[国务院境外遗失护照说明](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html)。扫描件可帮助提供信息，不能代替有效旅行证件，也不保证当日补发。
 
-它可能包含：
-- boarding pass；
-- hotel；
-- MFA；
-- bank；
-- passport scan；
-- eSIM；
-- maps。
+## 21. 医疗入口按需求和能力判断
 
-所以出发前：
-- strong passcode；
-- device tracking；
-- cloud backup；
-- recovery plan；
-- power bank。
+出发前向治疗团队或保险救援方了解目的地的合适入口；发生急症直接使用当地急救服务，不因等待保险批准或寻找“最好医院”而延误。酒店或豪华诊所的宣传不能证明具备处理严重急症的能力。
 
----
+## 22. 邮轮、海岛与偏远行程先问转诊安排
 
-## 11. Public Wi-Fi 不要承担最高价值操作
+确认船上或度假村医疗设施能做什么、何时需转诊、如何联系外部救援及天气或交通影响。已有健康问题时，把行程与活动交给医生讨论，不自行以酒店星级判断是否适合。
 
-优先：
-- cellular；
-- trusted hotel/home network；
-- own device。
+## 23. 驾驶资格、保险与道路规则逐项查
 
-避免 shared computer 登录：
-- primary email；
-- bank；
-- brokerage。
+[国务院境外驾驶说明](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html)提醒核对当地接受的驾照与保险；需要国际驾驶许可（International Driving Permit，IDP）时仍须携带有效本国驾照。租车公司愿意交车不代表所有法律和保险条件已满足。
 
----
+## 24. 文件夹可以离线取用，但不要公开
 
-## 12. Home-away plan 是旅行的一部分
+保存预订、保险、领事与紧急联系入口，以及受保护的证件副本。给必要联系人最小访问范围，并准备少量纸质联络信息。不要在公共仓库、论坛或开放云盘分享真实证件与行程。
 
-离家前：
-- pet；
-- water leak；
-- thermostat；
-- package；
-- mail；
-- building contact；
-- plants；
-- car parking；
-- alarm；
-- emergency neighbor。
+## 25. 返程后确认未结事项
 
-长旅行尤其如此。
-
----
-
-## 13. Pet care 要 primary + backup
-
-Sitter cancel、flight delay、pet illness 都会发生。
-
-留下：
-- vet；
-- emergency vet；
-- medication；
-- food；
-- insurance；
-- authorization/payment method；
-- backup sitter。
-
----
-
-## 14. 高价值 items 不要在 social media 实时广播
-
-Public post：
-- 你不在家；
-- 住哪家 hotel；
-- 带了哪些 valuables
-
-可能产生 unnecessary exposure。
-
-Delay posting 是很便宜的 risk control。
-
----
-
-## 15. Travel insurance 看 component，不看品牌
-
-拆开：
-- cancellation；
-- interruption；
-- delay；
-- baggage；
-- medical；
-- evacuation；
-- rental car。
-
-Credit card coverage 可能只覆盖其中一部分。
-
----
-
-## 16. Rental car coverage 至少问四层
-
-- liability；
-- collision/loss damage；
-- personal accident/medical；
-- personal effects。
-
-你的：
-- personal auto；
-- credit card；
-- travel policy；
-- rental counter product
-
-可能分别 cover 不同层。
-
----
-
-## 17. Long stay 需要 tax/work review
-
-当 travel 变成：
-- 多月；
-- recurring；
-- remote work；
-- second home；
-
-要重新看：
-- tax residency；
-- income sourcing；
-- employer payroll；
-- permanent establishment/business risk；
-- visa/work permission；
-- health coverage。
-
----
-
-## 18. 中美双栖尤其要维护两个 phone/payment identity systems
-
-回中国前不要当场发现：
-- SIM expired；
-- bank frozen；
-- Alipay re-verification；
-- WeChat old passport；
-- hospital app 不可用。
-
-提前测试。
-
----
-
-## 19. U.S. State Department STEP 可按情况使用
-
-Smart Traveler Enrollment Program:
-https://step.state.gov/
-
-用途包括帮助 U.S. citizens 接收 embassy/consulate safety information，并在 emergency context 改善 communication。
-
-是否 enrollment 由个人根据 destination/risk 决定。
-
----
-
-## 20. Lost passport 有 recovery plan
-
-至少有：
-- secure scan；
-- passport number stored securely；
-- emergency contacts；
-- nearest embassy/consulate path；
-- backup ID。
-
-扫描件不能代替 passport，但可以减少 recovery friction。
-
----
-
-## 21. 海外 hospital 不要先问“哪家最豪华”
-
-先问：
-- emergency capability；
-- ICU；
-- trauma；
-- relevant specialist；
-- blood bank；
-- transfer capability。
-
-Luxury clinic 适合 routine care，不一定适合 high-acuity emergency。
-
----
-
-## 22. Cruise / resort / island 的 medical center 有能力边界
-
-如果 itinerary remote：
-- nearest tertiary center；
-- transport time；
-- evacuation；
-- insurance coordination
-
-值得提前知道。
-
----
-
-## 23. 国际驾车不是“美国驾照全球通用”
-
-可能需要：
-- International Driving Permit；
-- local permit；
-- age rule；
-- insurance；
-- road rule。
-
-IDP 通常是 translation/companion document，不替代 valid license。
-
----
-
-## 24. Travel document folder 不要 over-share
-
-Private travel folder 可存：
-- booking；
-- insurance；
-- passports copies；
-- emergency contacts。
-
-不要用公开 shared link。
-
----
-
-## 25. 回国后也做 security review
-
-- card transactions；
-- bank alerts；
-- phone/eSIM；
-- lost item；
-- insurance claim deadlines；
-- device sessions；
-- medical follow-up。
-
----
+检查异常交易、设备登录、遗失物、医疗后续和保险索赔期限。报案或提交材料后记录回执与下一步；退款、赔款或账户恢复需确认实际完成，再清理不再需要的共享权限。
 
 ## 26. 最小执行集
 
-- [ ] passport/entry
-- [ ] medical + evacuation
-- [ ] medication legality/supply
-- [ ] phone recovery
-- [ ] two payment rails
-- [ ] home/pet backup
-- [ ] valuables coverage
-- [ ] long stay tax/work review
-- [ ] secure document copies
-- [ ] official government sources
+- [ ] 按身份和行程核对入境、转机与返程证件。
+- [ ] 医疗、药物与适用转运安排有明确入口。
+- [ ] 丢手机后仍能联系、付款和取得必要文件。
+- [ ] 住房、重要邮件与适用照护事项有人接手。
+- [ ] 实际境外工作与长期停留已做额外核对。
 
-详见 [International Travel Checklist](../checklists/international-travel.md)。
+详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
 
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对国务院旅行准备、保险、驾驶、STEP与境外补办美国护照说明，以及 CDC 携药旅行建议。CDC该页面标注2022年复核；未将其视为各国现行药品目录。具体目的地入境、药品、保险合同与工作资格须按出发日期另查。
