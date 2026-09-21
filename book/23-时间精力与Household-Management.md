@@ -1,419 +1,111 @@
 # 23 — 时间、精力与家庭运营（Household Management）
 
-高收入 household 很容易出现一个奇怪状态：
+家庭安排的目标，是减少漏事与重复沟通，让照护和事务不总由一个人记住。以下是可调整的实践方法，不是经过验证、适合所有家庭的唯一流程。
 
-> 有能力 outsource 很多事，但家庭仍然靠一个人的脑子维持。
+## 1. 从最少工具开始
 
-典型表现：
-- 一个 spouse 知道所有医生；
-- 一个 spouse 知道所有账单；
-- 一个 spouse 负责所有 travel；
-- 一个 spouse 记得父母、宠物、物业、保险、税务 deadline。
+一个共同日历、一份待办、一张资料索引和必要的应急说明，通常比不断更换应用更容易维护。选择家里真正愿意使用的方式，也可以是纸质和数字工具结合。
 
-这不是效率，是 **key-person risk**。
+## 2. 每项事务明确协调人
 
----
+注明负责跟进的人、期限、当前状态和备用人。“我们都记得”不能代替明确分工。共同决定的事项仍可由双方讨论，由一人负责把下一步落实。
 
-## 1. Household 要像一个小型 operating system
+## 3. 协调不等于全部亲自做
 
-不需要把家庭公司化。
+负责人可以委托、购买服务或使用自动化，但要确认接手者已经同意、材料齐备、结果可检查。分工应一起商量，不让一个人长期承担所有提醒与监督。
 
-但值得有：
-- shared calendar；
-- shared task list；
-- document map；
-- emergency sheet；
-- recurring review；
-- clear owner。
+## 4. 有日期的事项进日历
 
----
+预约、续保、税款、证件更新和报名截止应有明确日期及必要提前量。区分最终截止与自己开始准备的时间。
 
-## 2. 一个 task 只能有一个 owner
+## 5. 待办写成下一步动作
 
-“我们记得做”通常等于没人负责。
+“处理法律文件”太模糊，可以改为“联系两家律所，询问初次咨询范围与费用”。没有固定时点的任务也应有复查日期，避免无限延期。
 
-更有效：
-- Owner: A
-- Deadline
-- Status
-- Backup
+## 6. 自动化重复事务
 
-例如：
-- insurance renewal → A
-- parent medical appointment → B
-- pet boarding → A
+适当设置扣款、续药或维护提醒。医疗随访与设备维护频率按专业指示和说明书安排，不为凑“年度体检”或统一周期重复做不必要项目。
 
----
+## 7. 自动化仍需确认结果
 
-## 3. Owner 不等于全部亲自做
+定期查看扣款、异常费用和失败通知。更换银行卡、设备或联系方式后检查关联设置，确认自动流程仍有效。
 
-Owner 的责任是：
-> 确保 outcome 发生。
+## 8. 资料索引按用途组织
 
-可以：
-- delegate；
-- hire；
-- automate；
-- ask spouse。
+可分为身份、法律、税务、保险、医疗、住宅、车辆、宠物、工作、父母及跨境资料。索引说明原件位置、负责人和访问方式，不要求所有原件堆在同一个地方。
 
----
+## 9. 凭据与普通文档区别管理
 
-## 4. 用 calendar 管有日期的事
+密码、恢复码和密钥放在适当的受保护系统。共享说明只描述入口及授权流程，不把全部秘密写进一份所有人可见的文件。
 
-适合：
-- appointment；
-- renewal；
-- tax date；
-- travel；
-- medication refill；
-- passport expiry；
-- annual review。
+## 10. 低频事件写简短操作单
 
-不要把具体日期的事放 vague to-do list。
+事故、手机遗失、漏水、住院、身份盗用或失业时，先写紧急联系、立即动作和资料位置。使用[第 30 章](30-Household-Emergency-Runbook.md)及对应清单，并按实际情况填私人副本。
 
----
+## 11. 复查频率可轻可重
 
-## 5. 用 task list 管没有固定 clock time 的事
+每周简短看近期日程，每月检查未完成事项，年度再做系统复查，是一种可尝试的安排。没有必要规定每次必须开会多少分钟；如果负担大于收益，就减少字段和频率。
 
-例如：
-- 找 estate attorney；
-- compare insurance；
-- repair door；
-- book dentist。
+## 12. 非紧急事务集中处理
 
-calendar 和 task list 角色不同。
+报销、购物和一般预约可集中到固定时段，减少反复打断。但医疗急症、法律期限和可疑资金交易不能为了“统一处理”而等待。
 
----
+## 13. 外包前明确要买到什么
 
-## 6. Recurring maintenance 尽量自动化
+清洁、税务、维修和照护可考虑专业服务。比较范围、能力、总费用、沟通成本和隐私，而不只是“自己能不能做”。
 
-适合：
-- autopay；
-- calendar reminders；
-- subscription renewals；
-- filter replacement；
-- annual physical；
-- insurance review；
-- password audit。
+## 14. 使用服务也要看交付
 
-不要靠：
-> “到时候应该会想起来。”
+确认完成标准、期限、费用、资料去向和失败后的处理。请人报税后仍要确认申报回执，请人维修后仍需验收约定工作；不必事事监督操作细节，但要知道结果。
 
----
+## 15. 关键事务有可接手的人
 
-## 7. 但 autopay 不能替代 review
+让适当的家庭成员或可信代理人知道银行、保险、医护、物业和照护入口。单人家庭可以设计可信联系人与专业服务组合，不假设每个人都有配偶。
 
-每月/季度：
-- card；
-- bank；
-- recurring bill；
-- insurance；
-- utility
+接手安排须尊重法律权限与隐私，不能把共享登录当成完整授权。
 
-仍需异常检测。
+## 16. 出门前使用固定清单
 
-自动化解决 missed deadline，不解决错误。
+检查药物、证件、通信、支付、住宅、邮件和宠物。按旅行性质调整，不用每次重新从空白开始。跨境准备见[旅行清单](../checklists/international-travel.md)。
 
----
+## 17. 共同日历只放需要共同知道的事
 
-## 8. Household Master Folder 要有目录
+接送、照护、维修、来客和家人出差通常有共享价值；不必同步所有个人会议、医疗细节或私人活动。由参与者约定可见范围。
 
-分类可以是：
+## 18. 定期停止没有作用的安排
 
-- Identity
-- Legal
-- Tax
-- Insurance
-- Medical
-- Home
-- Car
-- Pets
-- Employment
-- China
-- Parents
-- Travel
+清理不用的订阅、重复表格和长期不合适的服务。取消前检查合同、资料迁移与替代路径，不为追求简洁制造新的中断。
 
-不必所有原件都放同一个 folder。
+## 19. 购买时计算持续管理成本
 
-重要的是知道：
-> 哪类东西在哪里。
+额外房屋、车辆、收藏和会员，都可能带来保管、保险、维护与沟通。除价格外，问清每年需要多少精力、本人不在时谁处理，以及退出是否容易。
 
----
+## 20. 给休息和关系留空间
 
-## 9. Secrets 与 documents 分开
+不是每个邀请都需要接受，也不是每个周末都要完成任务。根据共同意愿为独处、陪伴、爱好和恢复体力保留时间。
 
-Password / recovery code：
-- password manager；
-- secure storage。
+## 21. 父母照护分工落实到人
 
-普通 PDF：
-- document storage。
+医疗、财务、到场接应与信息更新可分别负责。兄弟姐妹多人不等于自然有人接手，详见[第 20 章](20-父母养老与远程照护.md)。
 
-不要把所有 secrets 写进 shared Google Doc。
+## 22. 重大决定保留简短记录
 
----
+保险变更、治疗选择、住房、学校或跨境迁移，可记录决定、依据、尚存不确定性及何时重新考虑。敏感信息控制访问，不把它变成家庭成员互相追责的账本。
 
-## 10. 重要 workflow 要写成 runbook
+## 23. 年度复查不能替代更频繁维护
 
-最值得写：
-- car accident；
-- phone lost；
-- water leak；
-- medical emergency；
-- parent hospitalized；
-- passport lost；
-- identity theft；
-- job loss；
-- death/incapacity。
+证件、受益人和整体保障可纳入年度检查；烟雾或一氧化碳报警器测试、账单核对及其他维护，仍按设备说明和实际需要执行。不要因为列进年度清单就一年只做一次。
 
-这些事件越 rare，越不应该依赖 memory。
+## 24. 重大变化后额外复查
 
----
+婚姻、子女、搬家、工作、诊断、父母能力变化和长期境外停留，都可能让原安排失效。优先查受影响的部分，不必每次重做全部系统。
 
-## 11. 每周不需要开家庭董事会
-
-推荐轻量：
-
-### Weekly 10–15 min
-- next week calendar
-- travel
-- pet
-- household issue
-
-### Monthly 30 min
-- bills
-- big purchases
-- outstanding tasks
-
-### Annual 2–3 hours
-- insurance
-- tax
-- estate
-- health
-- parents
-- China/US systems
-
----
-
-## 12. 把“随时打扰”变成 batch
-
-非 urgent：
-- maintenance；
-- shopping；
-- calls；
-- reimbursements；
-- paperwork
-
-可以 batch。
-
-减少 context switching。
-
----
-
-## 13. Outsource 最适合低 comparative advantage 的任务
-
-可能包括：
-- cleaning；
-- bookkeeping；
-- tax prep；
-- legal drafting；
-- handyman；
-- pet sitting；
-- travel agent for complex trips；
-- organizer。
-
-判断不是：
-> “我自己能不能做？”
-
-而是：
-> “这是我最值得花时间做的吗？”
-
----
-
-## 14. 但不要 outsource control
-
-即使 hire professional，household 仍需知道：
-- scope；
-- deadline；
-- total cost；
-- access；
-- documents；
-- backup。
-
-例如：
-CPA 报税，不代表你可以不知道 return filed 没。
-
----
-
-## 15. One spouse 不应成为 household CIO
-
-至少两个人能处理：
-- bank login recovery；
-- insurance claim；
-- medical emergency；
-- pet emergency；
-- tax professional；
-- home access；
-- parent contact。
-
----
-
-## 16. Travel-heavy household 需要 departure checklist
-
-每次出发：
-- pets；
-- packages；
-- home temperature；
-- medication；
-- IDs；
-- valuables；
-- payment；
-- phone；
-- calendar。
-
-减少 repeated planning。
-
----
-
-## 17. Shared calendar 应只放共同需要知道的事
-
-不要把每个人所有会议 merge。
-
-放：
-- travel；
-- doctor；
-- important social；
-- maintenance；
-- guest；
-- pet；
-- family events。
-
-否则 signal-to-noise 太低。
-
----
-
-## 18. 家庭项目也要 stop doing
-
-每年问：
-- 哪些 subscription 不用？
-- 哪些 service provider 很差？
-- 哪些 hobby/club 不再有价值？
-- 哪些复杂 system 可以删？
-
-减少 maintenance burden 本身就是收益。
-
----
-
-## 19. 旅行/生活 luxury 最怕 administrative tax
-
-每多一个：
-- home；
-- car；
-- country；
-- account；
-- club；
-- collectible；
-- pet；
-- property
-
-都增加 operational load。
-
-买之前不仅问 purchase price，还问：
-> maintenance complexity 是什么？
-
----
-
-## 20. Family social calendar 也要有 capacity constraint
-
-不是每个 invitation 都去。
-
-保留：
-- couple time；
-- family；
-- rest；
-- hobbies；
-- travel recovery。
-
-社会融入不是把日历填满。
-
----
-
-## 21. Parents care 需要明确 owner
-
-即使兄弟姐妹多人：
-- medical coordinator；
-- finance coordinator；
-- on-site responder
-
-要明确。
-
-群聊里“大家一起管”容易漏事。
-
----
-
-## 22. Household decision log 对重大决定有用
-
-不是所有事都记。
-
-值得记：
-- insurance change；
-- tax residency plan；
-- estate changes；
-- major medical choice；
-- home purchase；
-- school；
-- cross-border move。
-
-写：
-- decision；
-- why；
-- what would make us revisit。
-
----
-
-## 23. 低频高风险事项放 annual review
-
-例如：
-- CO alarm；
-- beneficiary；
-- umbrella；
-- credit freeze；
-- passports；
-- parents emergency；
-- China SIM。
-
-平时不用占 mental bandwidth。
-
----
-
-## 24. 重大生活变化触发 special review
-
-Trigger：
-- marriage；
-- child；
-- move；
-- new job；
-- layoff；
-- diagnosis；
-- parent decline；
-- home purchase；
-- long China stay。
-
-不要等 annual review。
-
----
-
-## 25. 最小执行集
-
-- [ ] shared calendar
-- [ ] shared task system
-- [ ] household folder map
-- [ ] emergency sheet
-- [ ] tasks have owner
-- [ ] weekly lightweight sync
-- [ ] annual review
-- [ ] high-risk runbooks
-- [ ] spouse redundancy
-- [ ] yearly “stop doing” review
-
-最后更新：2026-09-21
+## 25. 最小执行集与审阅范围
+
+- [ ] 有共同可用的日历、待办和资料索引。
+- [ ] 重要事项有协调人、期限及接手安排。
+- [ ] 应急说明简短，凭据与敏感资料受保护。
+- [ ] 自动化有结果检查，维护按适当频率执行。
+- [ ] 分工、工具和服务会根据负担与需要调整。
+
+最后逐段编辑：2026-09-21。本章为家庭协作建议，没有把时间分配、工具或会议频率标作科学定论；涉及医疗、安全和法律权限时，以所链接专题与适用专业要求为准。

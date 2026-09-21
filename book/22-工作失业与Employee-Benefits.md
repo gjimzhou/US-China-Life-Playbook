@@ -1,549 +1,199 @@
 # 22 — 工作、失业与员工福利（Employee Benefits）
 
-高收入 professional household 的一个典型风险：
+福利的价值取决于是否符合资格、及时提出申请并提交所需材料。把岗位保护、收入替代与医疗保障分别看清，才能在生病、照护家人或离职时安排下一步。
 
-> 平时只关注 salary / bonus，真正发生 illness、layoff、parent-care、job change 时，才第一次读 employee handbook。
+## 1. 家庭与医疗休假有适用条件
 
-很多最有价值的 protection 都有：
-- eligibility；
-- notice；
-- election window；
-- documentation；
-- deadline。
+联邦家庭与医疗休假法（FMLA）对受覆盖雇主的符合条件员工提供保护。常见员工条件包括任职至少 12 个月、休假前 12 个月至少服务 1,250 小时，以及工作地点周围 75 英里内雇主至少有 50 名员工；特定人员有特殊规则。
 
-所以这章的核心是：
+多数适用事由在 12 个月期间最多 12 个工作周，军人照护有特定的 26 周安排。资格、事由、通知及证明应结合本人情况确认。
 
-> **在不需要的时候先知道入口。**
+来源：[美国劳工部第 28 号说明](https://www.dol.gov/agencies/whd/fact-sheets/28-fmla)。远程员工不要仅按住宅位置自行推算资格。
 
----
+## 2. 岗位保护、工资与医保是三件事
 
-## 1. FMLA 是 job-protected leave，不是“公司福利”
+FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有团体医疗保障按原条件延续及返岗保护。不要把“12 周保护”理解成必然得到 12 周全薪。
 
-**证据等级:** A · **优先级:** P1
+分别确认谁支付收入、自己是否仍需缴保费，以及休假如何计入各项额度。
 
-美国联邦 Family and Medical Leave Act 对符合条件的员工提供 qualifying family/medical reasons 的 job-protected leave，并要求 group health benefits 在 leave 期间按相同条件继续。
+## 3. 州和雇主制度分别查询
 
-DOL 当前说明，通常 eligible employee 需要：
-- 为 covered employer 工作；
-- 已为 employer 工作至少 12 个月；
-- leave 前 12 个月至少 1,250 hours of service；
-- 在 worksite 75 miles 内 employer 至少有 50 employees。
+州休假、带薪家庭假或失能给付可能有不同资格、事由和申请渠道。雇主也可能提供额外福利，但不应只凭人事部门口头简介作决定。
 
-多数 qualifying reasons 下最多 12 workweeks；military caregiver 情形可更长。
+询问适用州、申请方、通知时间、需要的证明，以及各制度是否同时计时。本章不把某州待遇推广到全国。
 
-**来源**
-- U.S. Department of Labor — FMLA  
-  https://www.dol.gov/agencies/whd/fmla
-- Fact Sheet #28  
-  https://www.dol.gov/agencies/whd/fact-sheets/28-fmla
+## 4. 短期失能给付不自动等于岗位保护
 
-**执行原则**
-不要等住院第二周才第一次问 HR：
-> “我有没有 FMLA？”
+短期失能保险（STD）通常关注符合定义的失能期间收入给付，FMLA 等则处理休假保护。可能同时符合，也可能只符合其中一个。
 
----
+向管理员确认给付认定、等待期、复核材料和返岗要求，不能只拿到保险批准就停止与雇主沟通。
 
-## 2. FMLA 可以是 unpaid，同时与 employer-paid leave overlap
+## 5. 长期失能保障核对实际金额
 
-Federal FMLA 本身通常不是“12 周带薪假”。
+长期失能保险（LTD）应看计算收入的定义、月度上限、等待期、其他收入抵扣、职业定义和持续资格。奖金是否纳入须查保单。
 
-实际 income replacement 可能来自：
-- PTO；
-- sick leave；
-- employer parental leave；
-- state paid leave；
-- short-term disability；
-- other employer benefits。
+同时确认税务处理和离职后能否继续。一个百分比不能说明家庭实际能收到多少。
 
-**执行原则**
-把：
-- job protection；
-- health coverage；
-- cash replacement
+## 6. 失去工作医保时立即比较衔接方案
 
-分成三层看。
+联邦续保制度（COBRA）在适用计划和事件下允许合格人员延续团体保障。常见离职或减时情形通常为 18 个月，但并非所有雇主计划都适用，也可能提前终止或有延长条件。
 
----
+同时比较配偶计划、保险市场和新雇主计划的资格、网络、保费、生效日及自付累计，避免只看月费。
 
-## 3. State leave law 可能比 federal 更好
+来源：[劳工部 COBRA 员工问答](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers)。
 
-California、New York、New Jersey 等州可能有：
-- paid family leave；
-- temporary disability；
-- broader definitions；
-- different employer size / eligibility。
+## 7. 续保的选择和付款分别有期限
 
-**执行原则**
-重大 medical/family event 要同时查：
-1. federal；
-2. state；
-3. employer policy。
+上述 COBRA 指引说明，通常从保障结束或选择通知提供之日两者较晚者起有 60 天选择；选择后首次付款通常有 45 天期限。记录通知、选择及付款回执，按实际计划和适用救济核对。
 
----
+费用可能包括原先雇主承担的份额，通常可达计划总费用的 102%。不要用原工资单上自己支付的金额估算续保预算，也不要假定停止 COBRA 就随时获得其他计划的特别参保机会。
 
-## 4. Short-Term Disability 与 FMLA 不是一回事
+## 8. 换工作要迁移福利记录
 
-STD 常用于部分 wage replacement。
+逐项核对医疗、牙科、视力、退休、医疗及托育账户、寿险、失能、股权、递延薪酬和剩余假期。记录结束日、新计划开始日及中间空档。
 
-FMLA 主要处理 job-protected leave。
+不同项目由不同管理员处理，不能把离职手续签完当成全部迁移已完成。
 
-可能：
-- 同时运行；
-- 只符合其中一个；
-- employer policy 不同。
+## 9. 健康储蓄账户与灵活支出账户分清
 
-不要把 “disability approved” 自动理解成 “job protected”。
+健康储蓄账户（HSA）供款资格需要核对符合要求的高免赔额医疗计划（HDHP）、其他保障及个人条件。一般用途医疗灵活支出账户（health FSA）可能使本人或受其覆盖的配偶失去 HSA 供款资格；限用途或免赔额后 FSA 可能兼容。
 
----
+2026 年 HSA 基本供款上限为个人保障 4,400 美元、家庭保障 8,750 美元；不是夫妻各有一份完整家庭上限，雇主供款也应计入。2026 年开始的计划年度，医疗 FSA 员工工资减额供款上限为 3,400 美元。
 
-## 5. Long-Term Disability 是 human-capital insurance
+来源：[IRS 第 15-B 号刊物（2026）](https://www.irs.gov/publications/p15b)。资格月份、追加供款和特殊规则另行核对，账户有余额不等于当年仍可继续供款。
 
-高收入 professional 应知道：
-- benefit percentage；
-- monthly cap；
-- covered compensation definition；
-- bonus included?
-- elimination period；
-- own-occupation definition；
-- taxable or tax-free benefit；
-- portability。
+## 10. 报销截止与发生费用截止分开
 
-“公司提供 60% LTD”可能因为 monthly cap，远低于 headline 60%。
+FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决于计划设计，不是同一个日期。离职时特别确认哪些费用仍可报销、需要什么凭证。
 
----
+查计划摘要（Summary Plan Description，SPD），不要看到余额还在界面上就认为仍能用于新费用。
 
-## 6. Job loss 后 health insurance 要立刻处理
+## 11. 退休账户转移先比较后操作
 
-**证据等级:** A · **优先级:** P0 when job ends
+离职后可能有留在原计划、转到新计划、转入个人退休账户或领取分配等选择，具体看计划。比较费用、投资、税务、债权保护及贷款后果。
 
-Federal COBRA 在适用 plan/qualifying event 下允许 qualified beneficiary 暂时继续 group health coverage。
+不要为了尽快“清空旧账户”贸然取现或转移。涉及税后供款、罗斯转换和个人退休账户合并计算等复杂事项时，请熟悉相关规则的人核对。
 
-DOL 当前说明：termination（非 gross misconduct）或 reduction in hours 导致失去 coverage 时，employee/spouse/dependent child 的 maximum continuation period 通常为 **18 months**；其他 qualifying events 可能到 36 months。
+## 12. 离职日期影响哪些权益要书面确认
 
-**来源**
-- DOL COBRA FAQ  
-  https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers
-- Employer guide  
-  https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employers-guide-to-group-health-continuation-coverage-under-cobra
+检查奖金资格、股权归属、雇主退休供款归属、递延薪酬、未休假支付和签约奖金返还。不要把同事经验当成本人的合同条件。
 
-**执行原则**
-COBRA 是 bridge option，不代表一定最便宜。
+重要选择在提交辞职或签解除协议前评估；不作虚假出勤或其他记录。
 
-同时比较：
-- spouse plan special enrollment；
-- ACA Marketplace；
-- new employer plan。
+## 13. 合法保存股权文件
 
----
+保存自己有权保留的授予协议、归属、行权、成本及扣税记录，确认离职后的行权或处理期限和登录方式。
 
-## 7. COBRA premium 可能非常高
+税务表格可能不足以还原全部成本资料。不要带走公司的研究、客户或其他机密信息。
 
-在职时 employer 往往承担大部分 premium。
+## 14. 雇主寿险结束后的选项要核对
 
-COBRA 后，qualified beneficiary 通常需要承担接近 full group premium，加 permitted administrative charge。
+询问转为个人保单或携带保障的资格、费用和申请窗口，并结合家庭依赖程度评估替代保障。
 
-所以不要看到：
-> “Coverage can continue 18 months”
+旧保障结束前确认新安排何时有效，不能只因已提出申请就推定无缝衔接。
 
-就理解成：
-> “和现在每月 payroll deduction 差不多。”
+## 15. 医保最后有效日不要猜
 
----
+可能按最后工作日、月末或其他计划规则处理。取得明确日期，核对家属保障、未决理赔、处方和已安排治疗。
 
-## 8. Job change 是 benefits migration event
+需要特别参保时联系接收计划确认，保存失去原保障的证明。[HealthCare.gov 特别参保入口](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)可用于查询适用市场规则。
 
-不要只看 salary/title。
+## 16. 保存个人雇佣资料，遵守数据政策
 
-需要迁移：
-- medical；
-- dental/vision；
-- HSA/FSA；
-- 401(k)；
-- deferred comp；
-- life/disability；
-- commuter；
-- stock/RSU/options；
-- legal plan；
-- dependent care；
-- vacation payout。
+工资单、税表、福利摘要、个人薪酬和合同文件按授权方式下载。哪些绩效记录可以保留，须看政策与法律。
 
----
+不要绕过访问限制，也不批量带走公司邮件、源代码、交易资料或客户信息。
 
-## 9. HSA 与 FSA 规则不要混
+## 17. 找得到自己签过的协议
 
-**证据等级:** A
+保存保密、知识产权、竞业、招揽限制、仲裁及返还条款。离职、创业或加入其他雇主前，向独立律师说明实际安排。
 
-IRS 2026 guidance：
-- HSA eligibility 一般要求 qualified HDHP 且没有 disqualifying other coverage；
-- general-purpose health FSA 通常会让个人不再 HSA-eligible；
-- limited-purpose FSA / post-deductible FSA 可能 compatible。
+本章不声称竞业条款在全国一律有效或无效；适用法律与最新裁判须单独查。
 
-2026 HSA contribution limit 为：
-- self-only: $4,400
-- family: $8,750
+## 18. 人事部门与个人律师的角色不同
 
-2026 health FSA salary-reduction limit 为 $3,400。
+人事部门解释公司流程和福利，个人律师可评估歧视、报复、工资、解除协议或限制性条款等个人权益。
 
-**来源**
-- IRS Publication 15-B (2026)  
-  https://www.irs.gov/publications/p15b
+需要专业意见时先确认代理关系与保密范围，不把公司内部沟通默认当成自己的律师咨询。
 
-**执行原则**
-夫妻双方 employer plans 组合时，不要只比较 premium；要看 HSA eligibility interaction。
+## 19. 裁员协议不能只看补偿金额
 
----
+查看终止日、支付条件、放弃权利、保密、限制条款、福利、股权、税务与签署期限。留出独立审阅时间，询问不清楚的条款。
 
-## 10. FSA 通常有 use-it-or-lose-it mechanics
+不同人和不同协议可能有不同法定要求，不套用一个固定“考虑期”或撤回期。
 
-具体：
-- carryover；
-- grace period；
-- run-out period；
-- claim deadline
+## 20. 失业保险向适用州查询
 
-由 plan design 决定。
+核对工作的州、申请条件、申请时间、持续申报及其他收入如何报告。获得离职补偿不必然等于不能申请，也不等于无需申报补偿。
 
-**行动**
-离职/年底前看 Summary Plan Description，不要留下无法报销的 balance。
+如实提交，由主管机构按规则判断；不要等全部补偿到账才第一次找入口。
 
----
+## 21. 在职时维护职业联系
 
-## 11. 401(k) rollover 不需要离职当天做决定
+定期与前同事、校友和行业联系人交流，了解市场与技能变化。关系维护不需要只围绕求职，也不能通过泄露雇主资料证明能力。
 
-常见 options：
-- 留 former employer plan；
-- rollover new employer；
-- rollover IRA；
-- distribution。
+失业后使用清楚的个人经历和目标介绍，给对方可具体帮助的事项。
 
-每个选项影响：
-- fees；
-- investment options；
-- creditor protection；
-- backdoor Roth pro-rata；
-- loan；
-- plan features。
+## 22. 每年重新看开放参保材料
 
-**执行原则**
-不要让 call-center sales pitch 替你决定 rollover。
+检查保费、网络、药品、免赔额、账户资格、寿险和失能的变化。去年合适的选择未必今年仍合适。
 
----
+提交后保存选择确认，再看工资扣款与保险系统是否一致。
 
-## 12. Vesting 与 termination date 要确认
+## 23. 夫妻计划一起比较
 
-离职前看：
-- RSU vest；
-- bonus eligibility；
-- carried interest；
-- deferred comp；
-- 401(k) match vesting；
-- unused PTO；
-- clawback；
-- signing bonus repayment。
+合并评估保费、自付额、网络、配偶附加费、放弃保障补助、HSA/FSA 相互影响及照护假期。不要只比较单人的工资扣款。
 
-“差几天”有时经济差异很大。
+先向双方管理员核对，再计算方案，避免因另一方可报销自己的医疗费用而误判 HSA 资格。
 
----
+## 24. 建立私人福利资料夹
 
-## 13. Equity compensation 要提前拿 grant documents
+保存管理员联系、计划文件、保险卡、当前工资单、合同和股权资料。共享时只给适当人员必要权限。
 
-离职后 portal access 可能改变。
+纸质索引可写机构和资料位置，不必写账户密码。
 
-保存：
-- grant agreement；
-- vest history；
-- exercise records；
-- 83(b) if relevant；
-- cost basis；
-- tax withholding；
-- plan documents。
+## 25. 个人联系不依赖公司账户
 
----
+合法将个人福利通知地址改为可持续使用的私人邮箱，确认离职后税表如何寄送。个人手机号和恢复入口也应能继续使用。
 
-## 14. Employer life insurance 不应是唯一 layer
+迁移的是自己的合法资料，不是复制公司通讯录或商业数据。
 
-Job loss/change：
-- group life 可能结束；
-- conversion/portability 有 deadline；
-- price 可能变化。
+## 26. 定期记录可公开的工作经历
 
-如果家庭真的依赖这份 coverage，应理解 individual insurance need。
+记录职位、日期、职责及允许披露的成果，更新简历。对受保密约束的数字、客户和技术细节先做权限判断。
 
----
+日后求职时不应为了证明经历而拿出无权保留的材料。
 
-## 15. Health insurance termination date 要问清
+## 27. 过渡期预算按实际风险设计
 
-可能是：
-- last day worked；
-- end of month；
-- later date。
+估计固定支出、医疗保费、家属需要、招聘周期和地理限制，分别考虑有无离职补偿及其他收入的情形。
 
-不要猜。
+不机械套用三个月或六个月。预算应说明能维持到何时、什么时点需要调整支出或求职范围。
 
-离职前确认：
-- last covered day；
-- COBRA notice；
-- HSA/FSA；
-- pending claims；
-- prescriptions；
-- appointments。
+## 28. 工作授权与福利同时处理
 
----
+依赖特定身份或授权者，离职、换雇主和旅行可能有另外的时限。及时联系合适的移民律师，提供终止日期及当前文件。
 
-## 16. 辞职前下载你合法可保留的 personal employment documents
+支付补偿、医保仍有效或处于工资系统，不自动证明移民身份与工作权限不受影响。见[第 37 章](37-移民身份与文件维护.md)。
 
-例如：
-- pay stubs；
-- W-2；
-- benefits summaries；
-- compensation letters；
-- performance records where lawful/appropriate；
-- equity grants；
-- tax documents。
+## 29. 职业准备保留选择空间
 
-**不要**
-带走 employer confidential/proprietary data。
+技能、健康、联系、资金和可迁移的合法资历共同影响恢复能力。不能把全部家庭支出建立在某一职位持续存在的假设上。
 
----
+可定期评估替代路径，不必为了准备风险而持续处于求职焦虑。
 
-## 17. Noncompete / confidentiality / IP agreement 要保留
+## 30. 离职当天先记录这些事项
 
-离职、创业、加入 competitor 时可能需要。
+确认终止日、医保结束、协议期限、股权和薪酬事项、适用身份期限及设备归还要求。指定下一步负责人，保存合法资料，按时与专业人士联系。
 
-**执行原则**
-不要等收到 legal letter 才去找自己当年签了什么。
+具体执行见[失业应对清单](../checklists/job-loss.md)。不需要在同一天完成所有退休账户或长期财务决定。
 
----
+## 31. 最小执行集与核验范围
 
-## 18. HR 是 process owner，不是你的私人 legal adviser
+- [ ] 休假保护、收入给付和医保分别明确。
+- [ ] 医保衔接、续保选择与付款日期已记录。
+- [ ] 双方 HSA/FSA 及福利互动已核对。
+- [ ] 合同、股权、个人税务资料可合法取得。
+- [ ] 离职预算与适用身份期限有处理路径。
 
-HR 可以解释：
-- benefits；
-- leave；
-- payroll；
-- company policy。
-
-如果问题涉及：
-- discrimination；
-- retaliation；
-- termination negotiation；
-- restrictive covenant；
-- serious wage dispute，
-
-必要时找 independent employment counsel。
-
----
-
-## 19. Layoff 时先做 checklist，不要只谈 severance number
-
-需要 review：
-- termination date；
-- severance；
-- release/waiver；
-- benefits；
-- COBRA；
-- bonus/equity；
-- PTO；
-- references；
-- non-disparagement；
-- confidentiality；
-- unemployment；
-- equipment return；
-- tax withholding。
-
-重大 release 在签前可以找 lawyer。
-
----
-
-## 20. Unemployment insurance 是 state system
-
-Eligibility、benefit、deadline 由州管理。
-
-**执行原则**
-被裁后尽快查 relevant state workforce agency，不要因为 severance 存在就自动认为不能申请。
-
----
-
-## 21. Career network 要在在职时维护
-
-失业时最有价值的不是：
-> 立刻认识 100 个陌生 recruiter。
-
-而是过去几年持续存在的：
-- former colleagues；
-- alumni；
-- industry contacts；
-- recruiters；
-- friends；
-- conferences。
-
-职业 social capital 也属于 emergency reserve。
-
----
-
-## 22. Employer benefits annual enrollment 要认真做一次
-
-每年 open enrollment 至少 review：
-- health plan；
-- HSA/FSA；
-- spouse coordination；
-- life；
-- disability；
-- legal plan；
-- dependent care；
-- voluntary benefits。
-
-不要因为去年选过就 automatic rollover。
-
----
-
-## 23. Household 要知道两个 employer 的 benefits 不是独立的
-
-夫妻共同看：
-- whose health plan；
-- deductible/OOP；
-- HSA eligibility；
-- spouse surcharge；
-- waiver credit；
-- PT/specialist coverage；
-- fertility/maternity；
-- disability；
-- life；
-- parental leave。
-
-这是 household optimization，不是每个人单独 enrollment。
-
----
-
-## 24. Emergency employment folder
-
-私下保存：
-- HR contact；
-- benefits portal；
-- plan summaries；
-- recent paystub；
-- insurance cards；
-- equity docs；
-- employment agreement；
-- restrictive covenants；
-- emergency leave policy。
-
----
-
-## 25. Personal identity 不要完全绑在 employer 系统上
-
-长期职业 resilience 包括：
-- personal email；
-- personal phone；
-- personal cloud；
-- personal professional profile；
-- personal contacts。
-
-**执行原则**
-不要让离职当天 company account disabled = 你同时失去：
-- tax/benefit notices；
-- recruiter contacts；
-- professional network；
--个人文件。
-
-同时严格遵守 employer confidentiality / data policies，不带走公司数据。
-
----
-
-## 26. Resume / CV / portfolio 要持续更新
-
-不要只在失业后才回忆：
-- project；
-- scope；
-- measurable impact；
-- title/date；
-- publication/patent；
-- public work sample。
-
-可以每季度做一次 private career log。
-
-只记录你合法可以保留的 personal accomplishments，不复制 proprietary information。
-
----
-
-## 27. 失业 emergency fund 要按 transition risk 设计
-
-高收入职位未必更容易快速替代。
-
-Runway 应考虑：
-- monthly fixed burn；
-- health insurance；
-- bonus season；
-- visa/work authorization if applicable；
-- geographic constraints；
-- hiring cycle；
-- spouse income；
-- severance uncertainty。
-
-不要只用“3–6个月”一句通用规则结束分析。
-
----
-
-## 28. Immigration / work authorization 是职业 risk layer（如适用）
-
-对于依赖特定 status/work authorization 的 household：
-- job termination 可能触发 immigration timeline；
-- job change 可能需要 filing；
-- travel 可能影响 status/documentation。
-
-**执行原则**
-这类 deadline 与 severance/benefits 同时处理，必要时第一时间找 immigration counsel。
-
-不要把 employer HR 当 independent immigration adviser。
-
----
-
-## 29. Career risk 不等于追求最大稳定
-
-职业 resilience 也来自：
-- portable skill；
-- public/professional reputation；
-- network；
-- savings；
-- geographic optionality；
-- immigration optionality；
-- multiple credible career paths。
-
-目标不是永远不失业，而是：
-> 即使 job ends，household 不进入 uncontrolled emergency。
-
----
-
-## 30. Layoff day runbook
-
-当天优先：
-
-- [ ] termination date
-- [ ] severance/release deadline
-- [ ] health coverage end date
-- [ ] COBRA / spouse / Marketplace options
-- [ ] equity/bonus/vesting
-- [ ] final paycheck/PTO
-- [ ] unemployment route
-- [ ] immigration deadline if applicable
-- [ ] benefits documents downloaded legally
-- [ ] personal contacts preserved
-- [ ] company equipment/data returned correctly
-- [ ] do not sign complex release before understanding it
-
----
-
-## 31. 最小执行集
-
-- [ ] 知道 FMLA eligibility framework
-- [ ] 知道 employer leave policy
-- [ ] STD/LTD coverage review
-- [ ] COBRA + spouse/Marketplace backup
-- [ ] HSA/FSA interaction understood
-- [ ] equity/vesting records saved
-- [ ] employment agreements accessible
-- [ ] job-change benefits checklist
-- [ ] annual open-enrollment household review
-- [ ] career network 在 crisis 前维护
-
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对劳工部 FMLA 与 COBRA 说明、IRS 2026 年第 15-B 号刊物和 HealthCare.gov 特别参保入口。州休假、失业、具体退休转移、竞业及雇主合同没有全国统一结论，必须按个人情况另查。

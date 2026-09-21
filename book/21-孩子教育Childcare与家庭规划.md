@@ -1,375 +1,149 @@
 # 21 — 孩子、托育（Childcare）与家庭规划
 
-有孩子后，家庭 operating system 的复杂度会出现 regime change。
+有孩子后，需要把照护、医疗、工作、交通和家庭授权连起来。准备的重点不是一次购买所有用品，而是在主要照护安排临时失效时，仍有人能够安全接手。
 
-主要不是“多一个人吃饭”，而是新增：
+## 1. 提前研究托育选择
 
-- childcare；
-- backup care；
-- pediatric healthcare；
-- school；
-- transportation；
-- safety；
-- estate/guardianship；
-- employer leave；
-- household staffing；
-- China/US family coordination。
+在需要入托前了解托育中心、家庭托育、保姆、亲属照护及其他合法服务的名额、年龄要求、费用和时间。是否有候补名单、入托时间能否调整，直接向机构确认。
 
----
+先确定每日需要覆盖的时段、通勤和特殊照护需求，再比较方案，不把一种选择视为所有家庭的最优解。
 
-## 1. Childcare 要比预产期更早研究
+## 2. 执照与实际质量分别核对
 
-高需求地区常见 waitlist。
+向州或地方托育主管机构查询该类服务是否需要许可、注册或符合豁免，以及具体经营者的状态。不要仅凭机构展示的证书照片判断仍有效。
 
-**行动**
-提前了解：
-- center-based care；
-- family child care；
-- nanny；
-- nanny share；
-- au pair（如 applicable）；
-- grandparents/family；
-- backup care。
+原始查询入口可参考 [ChildCare.gov 托育许可指引](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing)。本次该页未能读取，本文不据此宣称已核验所有州的许可或豁免规则。
 
-不要等 parental leave 快结束才第一次看 daycare。
+## 3. 背景审查问清覆盖范围
 
----
+询问适用背景审查要求、涉及哪些工作人员、如何处理临时人员及更新。不要把一个人的无犯罪记录照片等同于全部人员均符合当地要求。
 
-## 2. Licensing 是最低 safety floor，不是 quality guarantee
+对直接雇佣的保姆，还需核实工作推荐、照护技能和适用雇佣要求；收集个人信息及背景调查也应依法进行。
 
-**证据等级:** A · **优先级:** P1
+## 4. 看检查与整改记录
 
-ChildCare.gov 说明：child-care licensing 由州/territory 设定最低 health/safety requirements；licensed program 会被 monitoring，但 **licensed 并不自动保证高质量**。
+从主管机构渠道查询可公开的检查、违规、投诉处理和整改情况。问机构如何处理具体问题，而不是只按照片、装修或营销材料判断。
 
-**来源**
-- ChildCare.gov — Child Care Licensing  
-  https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing
+不同地区公开记录的范围不同，未查到记录不一定代表从未出过问题。
 
-**执行原则**
-先看 licensing，再看 quality。
+## 5. 参观时问日常操作
 
----
+核对师生比例、人员稳定、病童政策、给药、过敏、睡眠安全、接送授权、出入管理、事故通知与疏散安排。要求看到适用的书面政策，并观察人员如何与孩子互动。
 
-## 3. Licensed child care 的 staff background checks 是重要 baseline
+关注自己的孩子是否适应，包括语言、残障或特殊医疗需求。不要把课程名词当作安全管理的替代品。
 
-**证据等级:** A
+## 6. 准备备用照护
 
-ChildCare.gov 说明 federal law 要求 states/territories 确保 licensed child-care program 的相关 staff 完成 state/federal criminal background checks，包括 FBI fingerprint/National Sex Offender Registry 和相关 state registries。
+为孩子生病、机构关闭、保姆请假、恶劣天气和家长出差安排替代方法。确认备用服务是否接受病童、能否临时预约及谁负责接送。
 
-**来源**
-- https://childcare.gov/consumer-education/regulated-child-care/staff-background-checks
+可以是家长分工、亲友或合适服务，但必须先征得对方同意；备用安排不能突破孩子的安全和照护需要。
 
----
+## 7. 雇保姆也是雇佣问题
 
-## 4. 查 inspection / violation history
+直接控制工作内容和做法的家庭雇佣，可能涉及雇员分类、工资税和劳动法。通过支付应用付款或合同写“独立承包人”，不能单独决定法律身份。
 
-ChildCare.gov 建议通过 state/territory childcare search 查：
-- licensing status；
-- monitoring/inspection；
-- violations；
-- corrective action。
+联邦税务框架见 [IRS 家庭雇主指南](https://www.irs.gov/publications/p926)，细节见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。先明确工作范围、休假、替班和付款记录。
 
-**执行原则**
-tour 漂亮不能替代 regulatory history。
+## 8. 育儿休假分清保障来源
 
----
+联邦家庭与医疗休假法（FMLA）对符合条件的员工提供适用的岗位保护及团体医保延续要求，但本身通常不保证带薪。州制度与雇主福利可能另外提供收入。
 
-## 5. Childcare tour 要问 operations，不只问 curriculum
+资格、通知和证明材料见[第 22 章](22-工作失业与Employee-Benefits.md)，不要等返岗前才确认。
 
-问：
-- adult-child ratio；
-- staff turnover；
-- sick policy；
-- medication；
-- nap/safe sleep；
-- food/allergy；
-- diaper/toilet；
-- outdoor time；
-- security；
-- emergency；
-- pickup authorization；
-- closure days；
-- late pickup；
-- incident communication。
+## 9. 出生前复核福利与费用
 
----
+询问产假、育儿假、失能福利、医保、托育账户、备用照护和哺乳支持。确认家庭新增成员后的保费、自付额与预算，并保留计划说明。
 
-## 6. Backup childcare 是家庭 P0/P1 system
+雇主的口头简介不能替代实际计划文件。两位家长的安排应放在一起比较。
 
-真正 disruption:
-- child sick；
-- daycare closed；
-- nanny sick；
-- snow day；
-- parent business trip；
-- school vacation。
+## 10. 新生儿参保主动办理
 
-至少有两个 fallback：
-- spouse split；
-- backup nanny/sitter；
-- family；
-- employer backup-care benefit；
-- flexible work plan。
+出生可能触发特别参保期（special enrollment period），但期限与材料按计划类型确认。不要假设医院登记出生后就自动完成所有保险手续。
 
----
+[HealthCare.gov 特别参保说明](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)说明出生等事件可触发相应窗口；雇主计划另向管理员确认。记录通知日期、生效日和提交回执。
 
-## 7. Nanny 是 childcare + employment relationship
+## 11. 提前了解儿科服务
 
-如果家庭长期直接雇 nanny，可能涉及：
-- household employment tax；
-- wage/hour；
-- workers’ comp；
-- paid leave；
-- payroll；
-- background/reference；
-- employment agreement。
+询问是否接收新生儿、同日急病、夜间咨询、周末覆盖、保险网络及新生儿首次就诊如何安排。了解疫苗和发育随访方式，有特殊情况时与医疗团队预先协调。
 
-不要因为 paid by Venmo 就假设一定是 independent contractor。
+孩子急症的识别与处理由医护指导，不能以“等家庭儿科医生上班”替代及时求助。
 
-具体 federal/state rules 找 payroll/CPA/employment professional。
+## 12. 安全座椅按身高体重和说明书使用
 
----
+CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上限；之后使用适合的前向约束，再到增高垫，直至成人安全带正确贴合。13 岁前在后排正确约束。
 
-## 8. Parent leave 不只看公司 handbook
+年龄只是参考，还要看每辆车内安全带的贴合情况。来源：[CDC 儿童乘车安全](https://www.cdc.gov/child-passenger-safety/prevention/index.html)。州法最低要求与安全建议可能不同，两者都应核对。
 
-Federal FMLA 对 eligible employee / covered employer 提供 qualifying family/medical reasons 的 unpaid, job-protected leave，通常可达 12 workweeks，并要求 group health benefits 在 leave 中按相同条件继续。
+## 13. 不确定安装时寻求检查
 
-**来源**
-- U.S. Department of Labor — FMLA  
-  https://www.dol.gov/agencies/whd/fmla
+按车辆和座椅说明书安装，查当地认证儿童乘车安全技术员（CPST）的检查服务、预约及费用。可从上述 CDC 页的相关入口继续查询。
 
-州法、paid family leave、employer benefit 可能更优。
+接送人也要知道正确使用方式。临时换车、租车或祖父母接送时重新检查，不认为安装过一次就永远适用。
 
----
+## 14. 有孩子后复查法律与财务安排
 
-## 9. 生孩子前同时 review employer benefits
+和律师讨论监护人提名、资产管理、受益人、授权和备用照护。学校或保姆接送授权，不等于长期法律监护安排。
 
-包括：
-- maternity/paternity/parental leave；
-- short-term disability；
-- health enrollment；
-- dependent-care FSA；
-- backup childcare；
-- life insurance；
-- legal benefit；
-- lactation support；
-- childcare subsidy。
+不要未经分析就让未成年人直接承接复杂资产，具体结构见[第 10 章](10-Estate-Planning与失能.md)。
 
----
+## 15. 养育与管钱可以是不同职责
 
-## 10. 出生是 special-enrollment trigger
+讨论候选监护人和资产管理人的意愿、居住地、能力及备用人，了解法院及当地法律的作用。亲属口头答应不等于所有手续已经完成。
 
-Health-plan enrollment 有 deadline。
+跨国候选安排还要考虑孩子身份、旅行、学校和实际照护能力。
 
-**执行原则**
-出生后不要把 insurance enrollment 当“医院会自动弄”。
+## 16. 祖父母协助也要有边界
 
-具体 deadline 看 employer/plan/Marketplace rules。
+共同讨论时间、休息、交通、就医、育儿安全与决定方式。确认身份和旅行安排能否支持计划，不把探亲默认视为无限期、全天候照护。
 
----
+对喂养、睡眠和纪律存在分歧时，提前与儿科医生或合适人员讨论，不把代际冲突留到疲惫的夜间处理。
 
-## 11. Pediatrician 要在出生前建立候选
+## 17. 双语目标按家庭实际安排
 
-至少问：
-- hospital affiliation；
-- newborn acceptance；
-- same-day sick visit；
-- after-hours nurse line；
-- vaccine approach；
-- network；
-- portal；
-- weekend coverage。
+如果希望孩子维持两种语言，可安排日常交流、阅读、亲友互动与适合的活动。结合孩子需要和家庭时间逐步调整，不把某一种语言分工作为必达标准。
 
----
+语言或发育有疑虑时咨询专业人士，不凭单次表现或其他孩子的进度作判断。
 
-## 12. Car seat 是 birth-before-arrival infrastructure
+## 18. 住房决定前确认学校分配
 
-**证据等级:** A · **优先级:** P0
+向学区或招生机构核对具体地址、年级、入学资格、边界、交通与课后照护。邮政编码、房产广告和往届入学经历不能保证当前学位分配。
 
-CDC 2026 guidance:
-- rear-facing until child reaches seat height/weight limit（often age 2–4）；
-- forward-facing harness after outgrowing rear-facing until seat limit；
-- booster until seat belt fits properly（often 9–12）；
-- back seat until age 13。
+保存官方答复，重大购房决定仍需了解边界或项目可能变化。
 
-**来源**
-- CDC — Preventing Child Passenger Injury  
-  https://www.cdc.gov/child-passenger-safety/prevention/index.html
+## 19. 比较学校看适配与支持
 
-州法可能有不同 minimum；best-practice 与 legal minimum 也不一定相同。
+把教育方式、学习支持、通勤、家校沟通、课外安排、费用及招生流程放在一起比较。排名不替代孩子体验和支持需求。
 
----
+问清额外费用、退出或退费条款及长期预算，避免只看第一年学费。
 
-## 13. CPST 是被低估的免费/低成本资源
+## 20. 托育预算算上间断与附加成本
 
-CDC 提醒 certified child passenger safety technicians 可以提供 hands-on car-seat assistance，很多 inspection service 是免费的。
+除常规学费或工资外，计算备用照护、假期、夏令营、接送、雇佣税费和临时延时。明确哪些支出不可随时取消。
 
-**执行原则**
-第一台 car seat 不确定 installation，找 CPST 比看十个 TikTok 更可靠。
+用可持续的安排覆盖实际工作时间，而不是默认家长能无限补上所有缺口。
 
----
+## 21. 共享日历记录共同责任
 
-## 14. Estate plan 有孩子后必须 review
+放入学校关闭、接送、医疗、照护排班、家长出差和关键报名期限。为每项注明负责人和替补，不把所有提醒默认发给同一个人。
 
-新增：
-- guardian nomination；
-- trust/asset management；
-- life insurance；
-- beneficiary；
-- education funding；
-- emergency caregivers。
+## 22. 儿童应急表与接送授权分开核对
 
-不要让 minor child 直接面对 unmanaged inheritance structure。
+记录儿科、过敏、药物、保险、家长及备用联系人。向机构确认谁能接走孩子、如何核验，以及本人无法联系时怎样处理。
 
----
+应急表不自动赋予医疗或监护权，正式授权按当地规则完成。
 
-## 15. Guardianship 要区分“谁养孩子”和“谁管钱”
+## 23. 从小保护孩子隐私
 
-同一个人可以做，也可以不同。
+与家人约定照片、实时位置、学校和健康信息的分享范围。避免将完整姓名、出生日期、证件和住址组合公开。
 
-与 estate attorney 讨论：
-- guardian；
-- trustee；
-- successor；
-- location；
-- values；
-- family conflict。
+向服务机构提供所需资料时，核对收集目的和安全渠道；随着孩子成长让其参与隐私决定。
 
----
+## 24. 最小执行集与核验范围
 
-## 16. 中国 grandparents 是资源，也需要制度设计
+- [ ] 托育资格、检查记录和具体操作已核对。
+- [ ] 备用照护与接送授权可执行。
+- [ ] 休假、参保和福利期限有负责人。
+- [ ] 儿科、安全座椅、监护与财务安排已讨论。
+- [ ] 学校、预算、共享日历与儿童隐私相互配合。
 
-可能帮助：
-- postpartum；
-- childcare；
-- summer；
-- Chinese language/culture。
-
-同时提前谈：
-- travel；
-- visa/status；
-- medical consent；
-- discipline；
-- sleep/safety；
-- grandparents workload；
-- decision authority。
-
----
-
-## 17. 双语教育要靠环境，不只靠周末课
-
-长期目标如果是 bilingual：
-- home-language policy；
-- grandparents interaction；
-- books/media；
-- China stay；
-- school；
-- peer group
-
-共同作用。
-
-不需要所有家庭完全一样，但要 deliberate。
-
----
-
-## 18. School district 不应该在买房后才第一次研究
-
-如果 public school 是重要变量：
-- attendance boundary；
-- enrollment；
-- special programs；
-- transportation；
-- aftercare；
-- school calendar。
-
-“ZIP code”不一定等于 exact school assignment。
-
----
-
-## 19. Private school 也不是只看 ranking
-
-看：
-- educational philosophy；
-- student support；
-- commute；
-- parent culture；
-- admissions；
-- afterschool；
-- college counseling；
-- fit；
-- tuition escalation。
-
----
-
-## 20. Childcare cost 要算全套 operating cost
-
-不只是 tuition/salary：
-- backup；
-- summer；
-- camps；
-- nanny payroll；
-- school closure；
-- transportation；
-- activities；
-- date-night sitter；
-- travel childcare。
-
----
-
-## 21. 家庭 calendar 会成为 critical infrastructure
-
-至少 shared：
-- pediatric visits；
-- school closures；
-- childcare；
-- parent travel；
-- activities；
-- grandparents visits；
-- vaccination；
-- camps。
-
----
-
-## 22. Child emergency sheet
-
-至少：
-- pediatrician；
-- allergy；
-- medication；
-- insurance；
-- emergency contacts；
-- authorized pickup；
-- sitter；
-- preferred hospital；
-- parent travel contacts。
-
----
-
-## 23. Child privacy 也要从出生开始
-
-避免公开：
-- full legal name + DOB；
-- school/location；
-- passport；
-- medical details；
-- real-time vacation/home-away information。
-
-家庭要有一致的 social-media policy。
-
----
-
-## 24. 最小执行集
-
-- [ ] childcare search early
-- [ ] licensing/inspection check
-- [ ] backup childcare
-- [ ] parental leave/benefits review
-- [ ] pediatrician candidate
-- [ ] car seat/CPST
-- [ ] estate/guardian review
-- [ ] child emergency sheet
-- [ ] shared family calendar
-- [ ] bilingual/China-grandparent plan if desired
-- [ ] school/location planning before housing decision
-
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对 CDC 乘车安全、劳工部 FMLA、HealthCare.gov 特别参保及 IRS 家庭雇主框架。ChildCare.gov 许可和背景审查页面本次访问受限，相关段落已改为向州主管机构核验的具体问题，未声称完成全国托育规则复核。
