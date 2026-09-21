@@ -10,6 +10,8 @@
 
 核对税务申报、工资预扣、雇主福利、医疗和其他保险、退休受益人、遗产文件、银行权限及紧急联系人。逐项记录生效日期与接收确认。参见[结婚清单](../checklists/marriage-checklist.md)，不要把举行婚礼当成所有机构已获通知。
 
+**结婚后常用入口：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：Retirement Plans and ERISA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。雇主福利的具体期限仍以本人 plan documents 为准。
+
 ## 2. 共同与个人财务可以组合
 
 可以合并大部分收入与支出，也可以保留各自账户、共同承担家庭账单。约定谁存入多少、何时补足、谁对账和如何应急。账户是否联名与法律上财产如何分类不是同一问题，需要分别确认。
@@ -24,6 +26,8 @@
 
 例如[纽约州《家庭关系法》第236条 B(3)](https://www.nysenate.gov/legislation/laws/DOM/236)对书面、签署和确认形式作了规定，并对部分内容附加条件。这是纽约示例，不是其他州的签署模板。
 
+**找本州律师 / 规则：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。
+
 ## 5. 尽早开始，给双方理解和协商时间
 
 在婚礼或登记日期之外预留准备、披露、咨询、翻译和修改时间。不要在重大时间压力下突然提出最后版本。询问各自律师适用法律的签署要求，保存最终版本和所需附件；本章不设全国通用的提前天数。
@@ -31,6 +35,8 @@
 ## 6. 分别获得独立法律意见
 
 双方各自的律师应解释条款对自己客户的影响，并识别潜在利益冲突。即使某地允许不同安排，也先问清谁代表谁、谁不代表谁。独立咨询有助于理解，但不保证任何协议都能执行。
+
+**找律师：** [ABA：Find Legal Help](https://www.americanbar.org/groups/legal_services/flh-home/) · [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)。真正的签署形式、披露义务和可执行性必须按适用州法判断。
 
 ## 7. 未来收入与家庭贡献都要讨论
 
@@ -40,17 +46,23 @@
 
 大额房款或其他支持要明确是赠与、借款还是投资，给谁、是否期待偿还、由谁持有。文件、转账记录、贷款申请和实际安排应一致；涉及跨境申报或税务的部分另请专业人士核对。
 
+**税务入口：** [IRS：Frequently Asked Questions on Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。是否需要申报取决于赠与人身份、金额、资产性质和年度。
+
 ## 9. 房屋产权与贷款责任分别判断
 
 房契上的所有人、贷款借款人、首付来源、日常还款和身故后的归属需分别说明。不要为了贷款办理方便就默认某种产权形式适合双方。详见[买房与交割](36-买房Mortgage-Closing与HOA.md)，签署前请当地律师解释。
 
 ## 10. 退休受益人不是只看婚前协议
 
-结婚后向计划管理人更新婚姻状态，逐个核对受益人和配偶同意要求。[IRS 退休受益人说明](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)列出不同计划的配偶保护。不要假定婚前协议中的一般放弃条款已满足退休计划的手续，也不要把401(k)规则直接套到个人退休账户（IRA）。
+结婚后向计划管理人更新婚姻状态，逐个核对受益人和配偶同意要求。[IRS 退休受益人说明](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)列出不同计划的配偶保护。不要假定婚前协议中的一般放弃条款已满足退休计划的手续，也不要把 401(k) 规则直接套到个人退休账户（IRA）。
+
+**继续看：** [DOL：Retirement Plans and ERISA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa) · [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。最终以 plan administrator 提供的 beneficiary / spousal-consent 表格为准。
 
 ## 11. 医疗与财务授权仍需主动安排
 
 与律师讨论医疗代理、预先医疗指示、财务授权及资料取得权限，并问相关机构如何登记。婚姻身份、紧急联系人、医疗信息访问和代办财务并非同一种权限。详见[遗产与失能规划](10-Estate-Planning与失能.md)。
+
+**继续看：** [NIA：Choosing a Health Care Proxy](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy) · [CFPB：What is a Power of Attorney?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
 
 ## 12. 让家务与资料可以交接
 
@@ -76,11 +88,15 @@
 
 让税务专业人士按实际税年、居住地、收入与资格比较合法申报方式，并更新预扣或预缴。夫妻之间约定谁出钱，不等于限制税务机关追缴。
 
-[IRS 第501号刊物](https://www.irs.gov/publications/p501)说明夫妻联合申报通常涉及连带责任，某些情形有救济程序。当前读取为2025版；此处仅用于责任原则，不据此提供2026税档或扣除数字。
+[IRS 第 501 号刊物](https://www.irs.gov/publications/p501)说明夫妻联合申报通常涉及连带责任，某些情形有救济程序。此处只用于责任原则，不据此提供当前年度税档或扣除数字。
+
+**税务继续看：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS Publication 505 — Tax Withholding and Estimated Tax](https://www.irs.gov/publications/p505) · [IRS：Innocent Spouse Relief](https://www.irs.gov/individuals/innocent-spouse-relief)。
 
 ## 18. 医保按家庭总成本与使用情况比较
 
 比较保费、网络、免赔额、自付上限、常用药物、预计治疗、配偶附加费与雇主供款。另核对健康储蓄账户（HSA）和灵活支出账户（FSA）的资格互动，记录特别参保期限。不要只比较月保费，详见[员工福利](22-工作失业与Employee-Benefits.md)。
+
+**参保 / 资格入口：** [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [IRS Publication 969 — HSA / FSA / HRA](https://www.irs.gov/publications/p969) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)。
 
 ## 19. 同时考虑失能和身故场景
 
@@ -90,6 +106,8 @@
 
 搬州或跨国长期居住前，向相关地区律师说明既有协议、资产所在地和未来安排，核对是否需要更新。合同写了适用法律，也不能自行假定所有事项都只受该地法律控制。
 
+**找当地法律入口：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。跨境文件另见第 19 章的 apostille / authentication 入口。
+
 ## 21. 共同管理不等于失去隐私
 
 可以共享家庭必须知道的信息，同时保留个人沟通、账户与独立咨询空间。若存在控制、威胁或财务胁迫，不能用“更透明”要求受影响的一方交出全部安全与资金控制；应通过安全渠道取得当地专业支持。
@@ -97,6 +115,8 @@
 ## 22. 应急资金要依法可用
 
 确认一方住院时，另一方如何支付必要账单；身故后的权限变化另行安排。知道密码、持有卡片或曾获授权，不代表任何情况下都可继续使用。让律师与金融机构确认账户持有、授权和继承安排，再做合法访问演练。
+
+**财务代理参考：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [CFPB：Power of Attorney](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
 
 ## 23. 争议时先保存事实与选择
 
@@ -117,4 +137,4 @@
 - [ ] 福利、税务、受益人、产权与授权分别办理并保存确认。
 - [ ] 应急访问可以依法执行，重大变化有复查节点。
 
-最后编辑与来源核验：2026-09-21。核对纽约州协议条文、IRS 退休受益人说明及第501号刊物的联合申报责任。未逐州审查婚姻财产制度，也未提供中美协议互认结论；个人条款须按适用地区与事实另行审查。
+最后编辑与来源核验：2026-09-21。已补入并核对 IRS withholding / joint-liability / gift / foreign-gift 入口、DOL 退休计划配偶权益、HealthCare.gov 婚姻特别参保、NIA / CFPB 医疗与财务代理，以及 ABA 州律师转介入口。纽约州第 236 条继续仅作州法示例；婚前协议的签署、披露、婚姻财产分类、跨州 / 跨国效力和具体条款必须按适用地区与事实由各自律师审查。
