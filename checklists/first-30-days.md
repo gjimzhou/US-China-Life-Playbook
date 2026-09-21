@@ -1,206 +1,136 @@
-# First 30 Days — 家庭基础设施加固清单
+# 前 30 天：家庭基础设施加固清单
 
-如果第一次读这个项目，不需要从 40 章顺序看完。
+先完成低成本、后果重要、一次设置可长期受益的准备。不适用的项目可以跳过；需要律师、医生或其他专业人士的事项，30 天内先建立联系和预约，不必强行办完。
 
-先做这张表。
+这是准备清单，不是急救流程。正在发生紧急情况时，直接使用当地紧急服务。
 
-目标：
+## 第一周：安全、紧急联络与账户
 
-> 用 30 天完成一批 **低成本、高后果、一次设置长期受益** 的 household controls。
+### 居家安全
 
----
+- [ ] 测试烟雾报警器，核对一氧化碳报警器的适用安装要求与工作状态。
+- [ ] 知道当地急救、消防和报警入口；美国为 911，中国医疗急救为 120。
+- [ ] 保存美国中毒咨询入口，了解附近医院急诊的位置。
+- [ ] 预约心肺复苏（CPR）、自动体外除颤器（AED）与急救培训。
+- [ ] 找到物业或房屋紧急维修入口。
 
-# Week 1 — Emergency & Identity
+操作与来源见[紧急情况与急救](../book/03-紧急情况与急救.md)。视频可帮助预习，不能替代实际训练。
 
-## Safety
-- [ ] test smoke alarms
-- [ ] test / install CO alarms where applicable
-- [ ] save 911 / Poison Control
-- [ ] know preferred ER
-- [ ] watch a current Hands-Only CPR/AED guide
-- [ ] know building/home emergency maintenance
+### 紧急信息
 
-## Emergency Sheet
-- [ ] spouse/household legal names
-- [ ] emergency contacts
-- [ ] doctors
-- [ ] medications/allergies
-- [ ] insurance locations
-- [ ] pet emergency
-- [ ] China family responder
+- [ ] 在私人系统填写[家庭紧急信息表](emergency-sheet.md)。
+- [ ] 记录紧急联系人、医生、关键用药与过敏史。
+- [ ] 标明保险及医疗代理文件的位置。
+- [ ] 安排宠物接应人及中国家人所在地的第一响应联系人。
+- [ ] 授权的家人实际找过一次资料，确认离线也能取得必要信息。
 
-Use:
-[Household Emergency Sheet](emergency-sheet.md)
+不要把真实姓名、电话、病历或账户提交到公开仓库。
 
-## Cyber
-- [ ] primary email strongest MFA
-- [ ] password manager
-- [ ] financial MFA
-- [ ] recovery codes outside phone
-- [ ] phone-loss plan
-- [ ] decide credit freeze
+### 数字安全
 
----
+- [ ] 主要邮箱及金融账户启用合适的多因素认证（MFA）。
+- [ ] 使用密码管理器；重要账户不共用密码。
+- [ ] 恢复码不只存于同一部手机，备用恢复方式已确认。
+- [ ] 准备手机丢失后的恢复步骤。
+- [ ] 了解信用冻结（credit freeze），决定是否实施。
 
-# Week 2 — Insurance & Legal
+## 第二周：保险与法律文件
 
-## Insurance
-- [ ] auto liability reviewed
-- [ ] renters/homeowners reviewed
-- [ ] umbrella decision
-- [ ] valuables insurance decision
-- [ ] employer disability coverage reviewed
-- [ ] life insurance need reviewed
-- [ ] pet insurance/self-insurance decision
+### 保险
 
-## Legal / Estate
-- [ ] will status
-- [ ] health-care proxy
-- [ ] financial POA
-- [ ] advance directive
-- [ ] beneficiaries
-- [ ] document locations
-- [ ] digital estate recovery
+- [ ] 复查汽车责任险及租客险或房屋保险。
+- [ ] 评估个人超额责任险（umbrella insurance）需求。
+- [ ] 明确贵重物品的保障限额与除外责任。
+- [ ] 复查雇主失能保障及人寿保险需求。
+- [ ] 决定宠物保险或自行预留费用的安排。
 
-If not done:
-> book a qualified estate attorney consultation.
+记录“已经咨询但待处理”的项目，不把购买保险本身当作检查完成；应理解保单实际覆盖什么。
 
----
+### 遗产与失能准备
 
-# Week 3 — Healthcare & Government
+- [ ] 确认遗嘱、财务授权委托书（POA）、医疗决策代理及预先医疗指示的状态。
+- [ ] 核对退休账户、保险等受益人指定。
+- [ ] 确认文件原件位置及授权访问方式。
+- [ ] 建立数字账户在失能或死亡后的处理路径。
+- [ ] 如需准备或更新文件，预约熟悉所在地及家庭情况的律师。
 
-## Healthcare
-- [ ] PCP
-- [ ] dentist
-- [ ] urgent care
-- [ ] preferred hospital/ER
-- [ ] pharmacy
-- [ ] medication list
-- [ ] vaccine record
-- [ ] major medical records export
+详见[遗产与失能规划](../book/10-Estate-Planning与失能.md)。
 
-## U.S. government
-- [ ] IRS Online Account
-- [ ] my Social Security
-- [ ] DMV/MVC account
-- [ ] passport expiry checked
-- [ ] USCIS account/address if applicable
+## 第三周：医疗与两地办事渠道
 
-## China system
-- [ ] China SIM active
-- [ ] China bank login
-- [ ] WeChat/Alipay
-- [ ] ID/passport expiry
-- [ ] preferred hospital
-- [ ] 12345 / 12315 known
+### 医疗
 
----
+- [ ] 建立初级保健医生（PCP）、牙医及常用药房联系。
+- [ ] 区分普通预约、紧急门诊（urgent care）和医院急诊。
+- [ ] 更新用药、过敏与疫苗记录。
+- [ ] 导出关键病历、影像及手术资料。
 
-# Week 4 — Household Operations
+使用[医疗记录与跨境连续性照护](../book/06-医疗记录药物与跨境Continuity.md)整理一页摘要。
 
-## Home
-- [ ] water shutoff location
-- [ ] breaker panel
-- [ ] plumber route
-- [ ] electrician route
-- [ ] HVAC route
-- [ ] locksmith route
-- [ ] home inventory
+### 美国办事渠道
 
-## Car
-- [ ] insurer claims number
-- [ ] roadside
-- [ ] recall check
-- [ ] accident card
+- [ ] 按适用情况建立美国国税局（IRS）、社会安全局和州车辆管理机构的账户。
+- [ ] 检查护照、驾驶证及相关身份文件期限。
+- [ ] 如适用，确认移民账户、地址申报及待办事项。
 
-## Pet
-- [ ] regular vet
-- [ ] 24h emergency vet
-- [ ] sitter
-- [ ] backup sitter
+### 中国生活支持
 
-## Parents
-- [ ] primary local responder
-- [ ] backup
-- [ ] preferred hospital
-- [ ] medication list
-- [ ] emergency sheet
+- [ ] 核验中国手机号、银行及微信或支付宝的登录与恢复路径。
+- [ ] 检查证件期限，不依赖只在旧手机上有效的登录状态。
+- [ ] 确认常用医院、医保及家人现场办事渠道。
+- [ ] 了解政务服务与消费者投诉的当地入口。
 
----
+## 第四周：房屋、车辆、宠物与父母
 
-# Money / Tax
+### 房屋
 
-完成最低限度：
+- [ ] 找到水阀与配电箱，确认自己能安全操作哪些设备。
+- [ ] 保存水管、电工、暖通空调及锁匠的联系入口。
+- [ ] 完成基本财产清单，并与原件分开备份。
 
-- [ ] account inventory
-- [ ] large-cash / FDIC review
-- [ ] tax projection
-- [ ] CPA contact
-- [ ] large-wire verification rule
-- [ ] spouse knows liquidity access
-- [ ] foreign-account reporting screen if relevant
+### 车辆
 
----
+- [ ] 保存保险理赔与道路救援入口。
+- [ ] 检查召回及必要维护。
+- [ ] 备好事故现场的信息记录清单。
 
-# Social Infrastructure
+### 宠物
 
-30 天内不需要“融入美国社会”。
+- [ ] 确认常规兽医及夜间急诊接诊安排。
+- [ ] 安排主要和备用照护者，说明如何进入住所与取得用品。
 
-只做：
+### 父母
 
-- [ ] know one neighbor/building contact
-- [ ] one recurring local activity
-- [ ] one professional/alumni context
-- [ ] core China friends/family contact refreshed
+- [ ] 确认当地主要与备用接应人。
+- [ ] 在父母知情授权下整理用药、医院及紧急信息。
+- [ ] 与现场联系人一起过一遍[父母紧急应对计划](parents-emergency.md)。
 
----
+## 同期完成：财务、税务与社会联系
 
-# End of Month Test
+- [ ] 建立私人账户索引，并确认授权家人的应急资金获取路径。
+- [ ] 复查大额存款保障范围及资金集中风险。
+- [ ] 安排当年税务预估，确认注册会计师联系渠道。
+- [ ] 约定大额电汇必须独立核验收款信息。
+- [ ] 有跨境账户或收入时，安排申报义务检查。
+- [ ] 认识一位邻居或楼宇联系人。
+- [ ] 选择一项可持续参加的本地活动。
+- [ ] 恢复与重要亲友、同学或专业同行的联系。
 
-### Test A
-手机现在丢了。
+## 月末演练：不靠一个人的记忆
 
-- 能登录 email 吗？
-- 能登录 bank 吗？
-- 能恢复 MFA 吗？
+| 情境 | 应能回答的问题 |
+|---|---|
+| 手机丢失 | 能否恢复邮箱、银行登录与多因素认证？ |
+| 家人突然住院 | 谁能取得用药及保险信息？谁有决策权限？宠物和父母由谁照应？ |
+| 人在国外，家中漏水 | 谁能进入？谁能关水？谁联系物业或维修人员？ |
+| 父母突然住院 | 谁先到场？去哪家医院？谁提供用药记录？远程与现场如何分工？ |
 
-### Test B
-一个 spouse 突然住院。
+演练可以只做口头走查，不需要真的锁住账户或关闭设备。发现缺口后写下负责人和下一次跟进日期。
 
-- 知道 meds 吗？
-- 知道 insurer 吗？
-- 知道 legal proxy 吗？
-- 知道 pets/parents 怎么处理吗？
+## 30 天之后
 
-### Test C
-人在国外，家里漏水。
+转入[年度复查](annual-review.md)与事件触发复查。搬家、结婚、失业、住院或跨境停留方式改变时，再更新相关安排。
 
-- 谁能进去？
-- 谁能关水？
-- 谁能联系 management/plumber？
+目标是让最危险的未知变成已有准备的事情，而不是让家庭永远处于整理资料的状态。
 
-### Test D
-父母突然住院。
-
-- 谁第一时间到？
-- 哪家医院？
-- medication？
-- 你是否真的需要当天飞回去？
-
----
-
-# 30 天之后
-
-进入 maintenance mode：
-
-- annual household review；
-- trigger-based review；
-- 每次 life event 更新。
-
-不要继续无限“优化”。
-
-这个项目的目标不是让生活变复杂，而是：
-
-> **把最危险的未知变成已经设计好的 routine。**
-
-模板最后更新：2026-09-21
+模板最后编辑：2026-09-21
