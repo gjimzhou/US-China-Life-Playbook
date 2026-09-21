@@ -10,15 +10,21 @@
 
 推荐或官方目录 → 核对资格和公开记录 → 询问具体匹配与费用 → 确认书面服务范围。完成标志是对方接受了明确任务、负责人和下一步已确定，而不是互加了联系方式。涉及临近期限，首次联系就明确提示。
 
+**通用原则：** 优先从正式执照 / 监管目录找到候选，再用评价和朋友推荐补充，而不是反过来。
+
 ## 3. 律师：问类似问题、执行人员和交付
 
 准备事件摘要与材料目录，先询问初次咨询是否收费、能否接案及利益冲突核查所需信息。[FTC 聘请律师指引](https://consumer.ftc.gov/articles/hiring-lawyer)建议询问经验、实际经办人员、费用与时间，并取得书面约定。
+
+**继续看：** [FTC：Hiring a Lawyer](https://consumer.ftc.gov/articles/hiring-lawyer) · [ABA：Find Legal Help / Lawyer Referral](https://www.americanbar.org/groups/legal_services/flh-home/)。
 
 请对方说明哪些结果可以交付，哪些取决于法院、对方或其他机构；任何“保证胜诉”的承诺都不应替代判断。
 
 ## 4. 律师转介目录是起点
 
 从[ABA 州与地方律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)找到所在地区入口，再向该州负责律师执业管理的机构核对姓名、执业状态及可公开的纪律记录。律师协会会员身份、搜索广告和执照有效都不能单独证明该律师擅长你的问题。
+
+**查资格：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [ABA：State Bar Associations](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。
 
 ## 5. 律师收费要拆开看
 
@@ -36,15 +42,21 @@
 
 [IRS 税务专业人士选择入口](https://www.irs.gov/tax-professionals/choosing-a-tax-professional)说明可选人员包括 CPA、注册税务师（Enrolled agent，EA）、律师等。不要把“不是 CPA”直接等同于不能报税，也不要把 CPA 头衔等同于精通跨境税。
 
+**查税务专业人士：** [IRS：Directory of Federal Tax Return Preparers](https://irs.treasury.gov/rpo/rpo.jsf) · [IRS：Credentials and Qualifications](https://www.irs.gov/tax-professionals/understanding-tax-return-preparer-credentials-and-qualifications) · [IRS：Choosing a Tax Professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional)。
+
 ## 8. 确认谁编制、谁复核、谁答疑
 
 让事务所说明资料由谁接触、实际编制人与复核人、关键假设如何确认、报税后通知由谁处理。团队分工本身不是问题，但应有明确负责人。提交前自己核对姓名、账户、收入和主要选择，保留最终申报文件及接收确认。
 
 ## 9. 税务资格分别核验
 
-[NASBA 说明](https://nasba.org/licensure/gettingacpalicense/)指出 CPA 由州会计委员会颁照；可向相关州委员会核验，或使用其链接的查询服务。
+[NASBA 说明](https://nasba.org/licensure/gettingacpalicense/)指出 CPA 由州会计委员会颁照；可向相关州委员会核验。
+
+**查 CPA 资格：** [NASBA：State Boards of Accountancy](https://nasba.org/stateboards/) · [CPAverify：CPA license lookup](https://cpaverify.org/)。
 
 IRS 上述入口链接的名录收录持特定资质或完成指定项目的报税人员，并非所有报税员总名单。报税员识别号（PTIN）也不是专业能力认证。找不到记录时先核对姓名和资质类型，必要时向发证机构确认。
+
+**继续看：** [IRS：PTIN requirements](https://www.irs.gov/tax-professionals/ptin-requirements-for-tax-return-preparers) · [IRS：Return preparer directory FAQ](https://www.irs.gov/tax-professionals/faqs-directory-of-federal-tax-return-preparers-with-credentials-and-select-qualifications)。
 
 ## 10. 税务规划与报税委托分开写
 
@@ -54,6 +66,8 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 确认专科是否对应问题、是否接收新患者、所需转诊、具体保险计划、预约时间和病历传递方式。[州医学委员会联合会的目录](https://www.fsmb.org/contact-a-state-medical-board/)可定位各州主管机构，进一步查执照和公开记录。专科认证、保险网络与州执照是不同事项，需要分别确认。
 
+**查医生：** [FSMB：Contact a State Medical Board](https://www.fsmb.org/contact-a-state-medical-board/) · [DocInfo：Physician license / disciplinary information](https://www.docinfo.org/) · [Medicare Care Compare：Doctors & Clinicians](https://www.medicare.gov/care-compare/?providerType=Physician)。
+
 ## 12. 评价有用，但不能等同治疗质量
 
 评论可以提示预约、沟通或账单体验，不能单独判断诊断与治疗是否适合。不要按星级自行选择高风险治疗；把自己的症状、既往检查和希望解决的问题带给医生讨论。
@@ -62,13 +76,19 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 问清常规预约、急性问题、非工作时间咨询、处方续配、检验结果通知和转诊怎么处理。如果主要需求是长期管理，持续沟通与病历衔接应纳入选择，而不是只看名气。参见[美国医疗系统](04-美国医疗系统怎么用.md)。
 
+**保险网络仍要另查：** 医生在州执照、CMS 或医院目录中出现，不代表属于你这份具体保险计划；最终回到 insurer provider directory 并向诊所确认具体地点与 billing entity。
+
 ## 14. 第二意见要问清是否来得及
 
 面对重大、不可逆或存在明显分歧的治疗决定，可以询问独立第二意见（Second opinion），带齐影像、病理和病历。先问当前医生安全的决策时间窗口，避免因预约延迟耽误急症。重点是理解诊断、替代方案、收益与风险，不是寻找必然同意自己想法的人。
 
+**继续看：** [NCI：Finding Cancer Care / second opinions（癌症场景）](https://www.cancer.gov/about-cancer/managing-care/services)；其他疾病应从相应专业协会或大型医疗系统寻找具体 second-opinion 入口。
+
 ## 15. 保险：先列风险再问产品
 
 说明住房用途、车辆、个人责任、贵重物品和家庭雇员等适用情况，询问代理或经纪承接哪些险种、哪些不在其服务范围。[NAIC 州保险部门目录](https://content.naic.org/state-insurance-departments)可定位监管入口，按州核验所需执照与授权。
+
+**查资格 / 投诉：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments) · [NIPR：Licensing Center](https://nipr.com/licensing-center) · [NAIC：Insurance Complaints](https://content.naic.org/consumer/insurance-complaints)。
 
 ## 16. 独立经纪也不代表全市场
 
@@ -84,6 +104,8 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 使用[FINRA BrokerCheck](https://brokercheck.finra.org/)和[SEC 投资顾问公开查询](https://adviserinfo.sec.gov/)，核对姓名、注册编号、所属机构和监管披露。入口用途可参照[Investor.gov 的核验说明](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
 
+**直接核验：** [FINRA BrokerCheck](https://brokercheck.finra.org/) · [SEC IAPD](https://adviserinfo.sec.gov/) · [Investor.gov：Check Out Your Investment Professional](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
+
 [FINRA 对查询结果的说明](https://www.finra.org/investors/investing/working-with-investment-professional/about-brokercheck)提醒：部分披露涉及尚未解决或未被证明的指控。既不要忽略，也不要把每条记录直接当成定罪；核验记录不能保证投资收益。
 
 ## 19. 把收费、利益冲突和托管问具体
@@ -93,6 +115,8 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 ## 20. 承包商：按所在地要求核查
 
 向地方主管机构确认项目所需执照、登记和许可，核对承包商保险、书面报价、付款节点及变更流程。保险证明与具体项目承保范围仍可能不同，必要时向出具方独立确认。详细见[住房与承包商](09-住房物业与Contractor.md)；本章不把某州许可要求推广到全国。
+
+**找本地监管入口：** [USA.gov：State Consumer Protection Offices](https://www.usa.gov/state-consumer) · [USA.gov：State and Local Governments](https://www.usa.gov/state-local-governments)。
 
 ## 21. 初次咨询可以直接用这五个问题
 
