@@ -8,6 +8,8 @@
 
 把漏水、设备故障、门锁、公共区域及夜间紧急情况分别问清，并保留书面回复。不以“平时是谁来修”代替合同责任判断。
 
+**查本地主管入口：** [USA.gov：州与地方政府目录](https://www.usa.gov/state-local-governments) · [USA.gov：州消费者保护办公室](https://www.usa.gov/state-consumer)。租客权利、物业责任与 HOA 权限仍以当地法律、租约和管理文件为准。
+
 ## 2. 漏水先考虑人身与电气安全
 
 **优先级：** P0
@@ -26,9 +28,13 @@
 
 不必预先签约所有服务，但至少知道如何核验身份和取得报价。
 
+**找人前先看：** [FTC：How To Avoid a Home Improvement Scam](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。FTC 建议核对执照与保险、取得多份书面估价，并在签约前查投诉记录。
+
 ## 5. 承包商资质与口碑分别核对
 
 询问项目所需执照或注册，并到州、市或县的官方渠道核实企业名称、状态和业务范围。推荐与评价可提供线索，不能替代资质和书面合同。
+
+**核验入口：** [FTC：Home Improvement Scam — license / insurance / complaint checklist](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：State Consumer Protection Offices](https://www.usa.gov/state-consumer) · [USA.gov：State and Local Governments](https://www.usa.gov/state-local-governments)。具体 license lookup 应从项目所在地政府官网进入。
 
 取得可比较的书面报价，确认是否包含相同范围。不同工种及地区的许可要求不同，不宣称全国存在统一“承包商牌照”。
 
@@ -38,11 +44,15 @@
 
 增加项目时用书面变更单（change order）记录价格与工期影响，避免开工后才发现原价只涵盖一部分。
 
+**继续看：** [FTC：Home Improvement Scam — written estimates and contracts](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。FTC 的消费者清单建议书面估价至少写明工作内容、材料、预计完成日期和价格，并把谈判承诺写进合同。
+
 ## 7. 付款与可核验进度挂钩
 
 避免在工程尚未完成时支付全部价款。订金、材料付款与阶段款应符合当地要求并写入合同，保留收据和可追踪记录。
 
 具体订金上限、取消权、留置权通知和尾款条件要查适用法规，不从其他州案例套用。大型工程可请律师审合同。
+
+**继续看：** [FTC：Home Improvement Scam — payments and cancellation rights](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：State Consumer Protection Offices](https://www.usa.gov/state-consumer)。FTC 明确提醒不要预付全部工程款，并指出部分州会限制订金；具体上限和取消权必须查项目所在地规则。
 
 ## 8. 许可要求向主管部门确认
 
@@ -50,17 +60,23 @@
 
 物业同意不自动替代政府许可，政府许可也不自动替代物业审批。
 
+**找 permit 主管部门：** [USA.gov：State and Local Governments](https://www.usa.gov/state-local-governments)。从项目地址所属 city / county 的 building、construction code 或 permitting 部门进入，不使用搜索广告里的代办站替代政府页面。
+
 ## 9. 保险证明不等于所有风险都已覆盖
 
 核对保险证明（Certificate of Insurance，COI）中的公司名称、期限及项目要求，必要时通过独立确认的保险方核实。向物业和保险经纪询问责任险、工伤保障或附加被保险人的具体要求。
 
 一张证明不能修改实际保单，也不能保证未来理赔结果。
 
+**保险监管入口：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。需要确认保险公司、代理人或投诉渠道时，从项目所在州的保险监管部门进入。
+
 ## 10. 紧急维修也要确认身份与授权范围
 
 灾后上门、逼迫当场签字、拒绝书面报价或只接受难以追回付款方式，都值得提高警惕。先处理必须立即控制的危险，再区分临时减损和长期修复合同。
 
 不要因对方自称“保险合作方”就授权其代签、收取全部赔款或进行无限额施工。
+
+**灾后尤其要查：** [FTC：Avoid Scams After Weather Emergencies and Natural Disasters](https://consumer.ftc.gov/articles/how-avoid-scams-after-weather-emergencies-and-natural-disasters) · [FTC：ReportFraud](https://reportfraud.ftc.gov/)。FTC 建议独立核验承包商执照与保险、取得书面合同，并警惕要求现金全额预付或拒绝提供文件的人。
 
 ## 11. 锁在门外先找已有入口
 
@@ -80,15 +96,21 @@
 
 清单帮助证明损失，但承保范围和赔偿方式仍以保单为准。
 
+**继续看：** [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance)；同时把照片、序列号、发票和估价副本存到住宅之外的受保护位置。
+
 ## 14. 租客单独核对自己的保险
 
 房东的房屋保障一般不替代租客财物与责任保障。额外生活费用、贵重物品及其他限制见[第 07 章](07-保险与灾难风险.md)，不要等事故发生再问。
+
+**继续看：** [NAIC：Renters Insurance](https://content.naic.org/consumer/renters-insurance) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
 
 ## 15. 公寓总保单与个人保单一起看
 
 向协会、物业和代理人确认公共区域、单元内部、装修升级、免赔额分摊及特别损失分摊分别由谁承担。不要仅凭“包墙内”之类简称作结论。
 
 保存管理文件、总保单摘要及个人保单，发生变更时一起复查。
+
+**保险入口：** [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。HOA / condo master policy 与 unit-owner policy 的实际边界仍以两份保单和 governing documents 为准。
 
 ## 16. 业主协会不等同于房东
 
@@ -110,6 +132,8 @@
 
 邮件转寄不能替代逐个机构改地址；临时离开也应确认房屋空置或出租是否改变保险条件。
 
+**搬家入口：** [USPS：Official Change of Address](https://moversguide.usps.com/) · [USA.gov：Change your address](https://www.usa.gov/change-address)。保险、车辆、税务和其他机构仍需分别更新。
+
 ## 20. 最小执行集与核验范围
 
 - [ ] 取得住房责任文件与夜间紧急入口。
@@ -118,4 +142,4 @@
 - [ ] 许可、付款、变更和验收责任写清楚。
 - [ ] 私下保存物品证据与备用联系人。
 
-最后编辑：2026-09-21。完成逐段中文与流程审阅。住宅保险部分与第 07 章已核对来源衔接；原稿的 [FTC 装修防诈骗链接](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)本轮未能读取，不继续将整章标为已有官方核验。各地许可、租赁义务、订金及工伤保险要求仍须按项目向主管机关核实；本章为准备与询问清单，不提供统一法律结论。
+最后编辑与来源核验：2026-09-21。已重新核对 FTC 当前 Home Improvement Scam 与灾后维修防诈骗页面，并补入 USA.gov 州 / 地方政府与消费者保护入口、NAIC 保险监管入口和 USPS 搬家入口。各地许可、租赁义务、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。
