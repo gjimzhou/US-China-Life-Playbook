@@ -1,360 +1,91 @@
-# Contributing
+# 贡献指南（Contributing）
 
-欢迎贡献。
+欢迎帮助本项目形成可验证、可执行、适合公开阅读的中美生活指南。
 
-这个项目不是“大家随便分享生活经验”的论坛，而是一套：
+## 1. 优先欢迎的贡献
 
-> **可验证、可执行、低噪音、public-safe 的 US–China household playbook（中美家庭生活操作手册）。**
+- 高后果但容易忽略的规则和机构入口。
+- 中美跨境流程、紧急操作手册及事件清单。
+- 第一代移民不容易获得的生活常识。
+- 官方规则更新、失效链接修正和事实纠错。
+- 术语解释、语言校订、重复内容合并与导航改进。
 
----
+不为凑条数增加空泛建议。新增内容应说明适用人群、行动和来源。
 
-## 1. 优先欢迎什么内容
+## 2. 不适合提交的内容
 
-- 高后果但容易忽略的生活规则；
-- 美国 / 中国 institutional routing（机构入口与分流）；
-- 中美 cross-border interface（跨境接口）；
-- emergency runbook（紧急操作手册）；
-- insurance / legal / tax / healthcare workflow；
-- first-generation immigrant tacit knowledge（第一代移民没人教的隐性知识）；
-- checklist；
-- 反面清单；
-- official rule update；
-- broken link / stale rule 修正；
-- 更清楚、更准确的双语术语解释。
+无来源传闻、个案诊断或法律意见、投资热点断言、逃税或规避合规的方法、签证投机技巧、政治宣传、商业软文、返佣链接、私人纠纷和不能泛化的个人经历。
 
----
+不得为了中文化改变法律概念、事实限定或官方表格编号。
 
-## 2. 不适合提交
+## 3. 来源与证据
 
-- 个人故事流水账；
-- 无来源的“听说”；
-- investment hot take；
-- 政治宣传；
-- 医疗诊断；
-- 个案法律意见；
-- tax evasion / compliance workaround；
-- visa hack；
-- 商业软广；
-- affiliate links；
-- provider advertising；
-- 无法泛化的私人恩怨；
-- 单纯为了“更中文/更英文”而降低准确性的改写。
+优先采用政府、法规、专业指南及高质量研究；论坛和个人经验用于发现问题，不应独立支撑高后果结论。
 
----
+按[来源原则](references/source-policy.md)引用，按[方法论](METHODOLOGY.md)说明证据与优先级。证据等级反映权威性、质量、适用性与确定性，不能因为“有一篇文章”就标为高可信。
 
-# Evidence & Sources
+动态规则应记录对应条目的核验日期；语言编辑日期单独记录。
 
-## 3. Primary source first
+## 4. 绝不提交真实个人信息
 
-优先使用：
+包括姓名、住址、工作地点、个人联系方式、出生日期、社会安全号码、身份证和护照号码、移民编号或案件号码、银行及证券账户、保险会员号码、病历、可识别个人的处方、家人身份、雇主、薪酬、净资产、精确行程、私人往来、签署文件、密码和恢复码。
 
-1. U.S./China government；
-2. professional guideline / professional body；
-3. peer-reviewed academic evidence；
-4. reputable practical source；
-5. community/anecdotal source 仅用于发现问题，不应独立支撑高后果规则。
+不能用仓库所有者的真实生活作为示例，即使相关信息曾经公开过。使用通用或虚构情境；去标识处理还需防止组合信息重新识别个人。
 
-详见：
+## 5. 附件与空白模板
 
-[Source Policy](references/source-policy.md)
+截图、文档和扫描件须检查元数据、账户名称、浏览器个人资料、地址、案件编号、二维码、条形码、签名、人脸、邮件及隐藏批注。能用虚构文字表达时，不上传真实私人截图。
 
----
+清单只提交空白模板，例如“初级保健医生：______”。真实家庭记录留在密码管理器或加密私人系统。
 
-## 4. 动态规则必须注明核验日期
+## 6. 统一使用中文（English）
 
-以下内容尤其需要：
-
-- tax threshold；
-- filing deadline；
-- immigration rule；
-- government form；
-- insurance requirement；
-- benefits limit；
-- travel/entry rule；
-- phone number；
-- document authentication。
-
-格式：
-
-> Last checked: YYYY-MM-DD
-
----
-
-## 5. 不把“有文献”自动等于“证据强”
-
-Evidence grading 见：
-
-[METHODOLOGY.md](METHODOLOGY.md)
-
-A/B/C 分的是：
-- authority；
-- study quality；
-- generalizability；
-- certainty。
-
-不是给观点贴“科学”标签。
-
----
-
-# Privacy — 绝对要求
-
-## 6. Public repo 不得提交真实个人信息
-
-包括但不限于：
-
-- full name；
-- home/work address；
-- phone；
-- personal email；
-- DOB；
-- SSN；
-- Chinese ID；
-- passport number；
-- A-number；
-- USCIS receipt/case number；
-- bank/brokerage account；
-- insurance member ID；
-- medical record；
-- prescription details tied to a real identifiable person；
-- lawyer/doctor/private-provider personal details；
-- parent/family identity；
-- employer；
-- compensation；
-- net worth；
-- exact travel itinerary；
-- immigration case facts；
-- private correspondence；
-- signed legal documents。
-
----
-
-## 7. 不要用 repo owner 的真实生活作为 example
-
-即使信息已经公开过，也不要写：
-
-> “例如 repo owner 住在 X，收入 Y，所以……”
-
-示例必须：
-
-- generic；
-- fictional；
-- de-identified；
-- broadly applicable。
-
----
-
-## 8. Screenshots / PDFs 特别危险
-
-提交前检查：
-
-- metadata；
-- account name；
-- browser profile；
-- address；
-- case number；
-- QR code；
-- barcode；
-- signature；
-- face；
-- email；
-- hidden comments。
-
-能用文字重写时，不要上传真实私人 screenshot。
-
----
-
-## 9. Checklist 只能提交 blank template
-
-正确：
-
-> PCP: ______
-
-错误：
-
-> PCP: Dr. Real Name, phone...
-
-真实 household data 应留在：
-- password manager；
-- encrypted private storage；
-- private personal document system。
-
----
-
-# Writing Style
-
-## 10. 中文为主，术语采用中文（English）
-
-本项目使用：
-
-> **中文为主，必要术语首次出现时写作「中文（English）」**
-
-完整规范：
-
-[STYLE.md](STYLE.md)
-
----
-
-## 11. 首次出现时中文在前，英文在后
-
-美国制度中的固定术语也采用同一顺序：
+中文为主；每章或独立清单首次出现的重要术语采用中文在前、英文在后的格式：
 
 > 个人超额责任险（umbrella insurance）
-
-中文概念为主时：
-
 > 信用冻结（credit freeze）
 
-后文优先使用中文，必要时使用已解释的缩写，不必每次重复括号。标题、步骤和表格须有中文；可复制英文话术应附中文对照。
+后文优先中文，必要时使用已解释的缩写。标题、表头、步骤和导航都要有中文；可复制的英文问句应附中文对照。
 
----
+保留官方名称、表格编号、网址和代码的准确性。中文解释不自动成为法定译名。完整规则见[写作规范](STYLE.md)，术语参考[中英术语表](GLOSSARY.md)。
 
-## 12. 不发明“看起来官方”的中文法定译名
+## 7. 推荐条目结构
 
-例如：
+> ## 规则标题
+> **证据等级：** A / B / C
+> **优先级：** P0 / P1 / P2 / P3
+> **适用地区与人群：** ……
+> **原因：** ……
+> **行动：** ……
+> **不要做：** ……
+> **来源及核验范围：** ……
+> **最后核验：** 年-月-日
 
-- probate；
-- trust；
-- escrow；
-- FMLA；
-- COBRA；
-- HSA；
-- chargeback。
+按内容取用字段，不强行填满。每条尽量回答一个问题，例如“收到税务通知后先做什么”，而不是“税务很重要”。
 
-可以解释，但不要让中文括号看起来像法律官方译名。
+## 8. 章节与清单分工
 
----
+章节解释原因、概念、判断、例外与来源；清单帮助读者当下执行。重复出现同一事项时，章节讲清判断，清单列操作并链接回章节。
 
-## 13. Agency / Form 保留官方英文
+新增规则前先搜索相关内容，避免同一问题分散维护、出现冲突。
 
-例如：
+## 9. 提交前检查
 
-- IRS
-- USCIS
-- CFPB
-- Form I-9
-- Form 1041
-- Closing Disclosure
+- 结论是否真实，今天是否仍适用？
+- 适用于谁，哪个地区，有哪些例外？
+- 来源是否直接支持所写结论？
+- 是否把中国和美国、不同州或不同产品的规则混为一谈？
+- 是否包含能识别真实个人的信息？
+- 行动是否明确，是否遗漏期限或升级处理入口？
+- 是否已在其他章节出现？
+- 中文是否独立可读，术语是否一致？
+- 链接与官方编号是否保持正确？
+- 是否准确区分语言编辑与事实复核范围？
 
-这样读者可以直接搜索官方来源。
+## 10. 高后果内容的处理
 
----
+急救、移民、税务、刑事、证券、劳动、保险及跨境授权等内容，无法确认时写明不确定性，不猜测。专业建议需保留适用条件，不把通用框架包装成个案结论。
 
-# Structure
+一条内容的价值在于帮助读者少犯高后果错误、更快找到机构、知道何时寻求专业帮助，并把一次性知识转化为长期准备。
 
-## 14. 新 rule 推荐格式
-
-> ## Rule title  
-> **Evidence:** A/B/C  
-> **Priority:** P0/P1/P2/P3  
-> **Geography:** US / China / Cross-border  
->  
-> **Why**  
-> ...  
->  
-> **Action**  
-> ...  
->  
-> **Do not**  
-> ...  
->  
-> **Source**  
-> ...  
->  
-> Last checked: YYYY-MM-DD
-
-不需要为了形式强行把所有字段都填满。
-
----
-
-## 15. Rule 应尽量回答一个明确问题
-
-好的：
-
-> 收到 IRS notice 后第一步做什么？
-
-差的：
-
-> 税务很重要。
-
----
-
-## 16. 章节不要追求数字凑齐
-
-可以：
-- 18 条；
-- 23 条；
-- 31 条。
-
-不要为了“正好 30 条”加入低价值 filler。
-
----
-
-## 17. Checklist 与 chapter 分工
-
-Chapter：
-- 为什么；
-- 概念；
--判断；
--例外；
--来源。
-
-Checklist：
-- 当下执行；
-- 一页能完成；
-- 少解释。
-
-如果一段内容两边都有价值，可以：
-- chapter 讲 reasoning；
-- checklist 放 action。
-
----
-
-# Pull Request Review
-
-## 18. Review questions
-
-提交前问：
-
-- 这条建议是真的吗？
-- 现在还是真的吗？
-- 对谁适用？
-- 有什么 exception？
-- 来源是不是 primary？
-- 是否误把 China/US 规则类推？
-- 是否泄露 personal info？
-- 是否能实际执行？
-- 是否已经在别的章节重复？
-- 英文术语是否保留了检索价值？
-
----
-
-## 19. 高风险领域宁可保守
-
-尤其：
-
-- emergency medicine；
-- immigration；
-- tax；
-- criminal law；
-- securities；
-- employment；
-- insurance claim；
-- cross-border legal authority。
-
-如果无法确认：
-
-> 标记 uncertainty，而不是猜。
-
----
-
-## 20. 项目的最终标准
-
-一条内容值得存在，如果它能让读者：
-
-- 少犯一次高后果错误；
-- 少一次临时 Google；
-- 更快找到正确机构；
-- 更快知道什么时候该请 professional；
-- 把一次性知识变成长期 household infrastructure。
-
-最后更新：2026-09-21
+最后编辑：2026-09-21

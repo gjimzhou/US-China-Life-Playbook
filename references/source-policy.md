@@ -1,98 +1,57 @@
-# Source Policy
+# 来源原则（Source Policy）
 
-## 原则
+本项目优先回答：**这句话是真的吗？今天还是真的吗？** 有链接本身不足以证明结论。
 
-本项目优先回答两个问题：
+## 1. 来源优先级
 
-1. **这句话是真的吗？**
-2. **今天还是真的吗？**
+| 层级 | 优先使用 | 阅读时要判断 |
+|---|---|---|
+| 第一层：原始与权威来源 | 中美各级政府、法律法规、法院、监管机构、执照主管机关 | 管辖范围、有效日期、适用人群与例外 |
+| 第二层：专业机构 | 医学专业协会、预防服务指南机构、律师协会、标准组织 | 是否为正式指南，是否有更新或不同意见 |
+| 第三层：学术证据 | 系统综述、荟萃分析、随机对照试验、大型前瞻性研究 | 研究质量、适用性、不确定性及结果一致性 |
+| 第四层：实务来源 | 可靠医院、保险机构、专业事务所及消费者组织 | 哪些是工作流程或经验，哪些有法律依据 |
 
-“有链接”不是充分条件。
+来源层级与[证据等级](../METHODOLOGY.md)相关，但不能机械等同。官方网页可能只介绍办事入口，不能据此证明所有延伸建议。
 
-## 来源优先级
+## 2. 不应独立支撑关键结论的来源
 
-### Tier 1 — Primary / authoritative
-优先：
-- U.S. federal / state / local government；
-- 中国中央及地方政府官方站点；
-- 法律、法规、agency guidance；
-- CDC、FDA、IRS、SSA、FTC、USCIS、State Department 等；
-- 中国国家税务总局、外交部、市场监管总局、国家医保局等；
-- 法院、监管机构、专业 licensing board。
+搜索引擎内容农场、未署名博客、网红视频、论坛单帖、人工智能摘要以及产品营销材料，可以提示问题，但高后果结论应尽量回到第一手材料。
 
-### Tier 2 — Professional bodies
-例如：
-- American Heart Association；
-- USPSTF；
-- specialty medical societies；
-- ABA / state bar public guidance；
-- recognized standards organizations。
+论坛中的个案不能直接推广到所有州、所有身份或所有银行产品。
 
-### Tier 3 — Academic evidence
-优先：
-- systematic review / meta-analysis；
-- RCT；
-- large prospective cohorts；
-- 高质量 peer-reviewed literature。
+## 3. 动态事实要标明核验日期
 
-### Tier 4 — Practical sources
-社会习俗、contractor workflow、travel practice 等领域可使用：
-- major insurers；
-- reputable hospitals；
-- established professional firms；
-- major consumer organizations。
+税务门槛、移民规则、政府表格、申报期限、保险要求、福利上限、电话号码、文件认证及入境规则，应注明具体核验时间与适用范围。
 
-必须明确它们属于 practical guidance，而非法律或科学事实。
+语言编辑不是事实核验。不能因改写中文就更新整章的事实核验日期；只复核一个来源时，要明确限定到对应条目。
 
-## 不应作为关键结论唯一依据
+## 4. 引用靠近被支持的结论
 
-- SEO 内容农场；
-- 未署名博客；
-- influencer 视频；
-- Reddit 单帖；
-- AI-generated summary；
-- 商业机构对自身产品的营销材料。
-
-这些可以帮助发现问题，但关键规则应尽量回到 primary source。
-
-## 动态事实
-
-以下内容必须写 **Last checked**：
-- tax thresholds；
-- immigration rules；
-- government forms；
-- filing deadlines；
-- insurance requirements；
-- benefit limits；
-- phone numbers；
-- document authentication rules；
-- travel / entry rules。
-
-## 引用方式
-
-正文尽量把 source 放在相关 rule 下，而不是只放在章节末尾。
+正文尽量把来源放在相应规则附近。链接显示文字用中文说明内容，必要时附官方英文标题，网址保持原样。
 
 示例：
 
-> **Sources:**  
-> - FTC — Credit Freezes and Fraud Alerts: https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts  
-> - Last checked: 2026-09-21
+> **来源：** [美国联邦贸易委员会：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts)
+> **最后核验：** 年-月-日，注明本次检查的规则及适用范围。
 
-## 跨国规则
+读者应能看出链接支持的是期限、机构入口、定义，还是操作建议。不要让章末一串网址代替逐项依据。
 
-中美任何一边的法律结论都不应从另一国类推。
+## 5. 跨国规则不能类推
 
-例如：
-- U.S. POA 不自动等于中国机构接受；
-- 中国公证文件不等于美国所有机构自动接受；
-- “183 天”不是所有跨境税务问题的万能答案。
+美国授权委托书不等于中国机构一定受理；中国公证书也不等于美国机构全部接受。“183 天”不是所有跨境税务问题的通用答案。
 
-## 隐私
+描述跨境流程时，分别核对签发地规则、接收地规则和最终机构要求。
 
-Public repo 中的 citation 或 example 不得包含：
-- repo owner 的真实个人文件；
-- 真实 case number；
-- private correspondence；
-- personal medical / tax / immigration records。
+## 6. 不确定性与失效内容
 
-最后核验：2026-09-21
+无法确认时明确写出未知点，保留待查来源，不补造结论。发现旧规则被替代，应说明变更范围，避免新旧说法并列却不解释。
+
+链接可以访问，只说明页面仍在，不表示其中规则仍适用；自动链接检查不能替代事实核验。
+
+## 7. 公开来源也不能夹带私人资料
+
+引用、截图和示例不得含仓库所有者或使用者的真实文件、案件编号、私人往来、病历、税务和移民记录。
+
+示例使用通用或虚构资料，清单只保存空白模板。
+
+最后编辑：2026-09-21

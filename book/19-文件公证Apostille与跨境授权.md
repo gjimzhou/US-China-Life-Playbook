@@ -1,314 +1,154 @@
 # 19 — 文件、公证、附加证明书（Apostille）与跨境授权
 
-跨境文件最常见的误区是把所有问题都叫：
+跨境文件不能用“公证一下”概括。至少要分别判断：
 
-> “公证一下。”
+1. 文件本身是否符合用途；
+2. 是否需要经认证的副本（certified copy）或签名公证；
+3. 是否需要附加证明书或其他认证；
+4. 翻译及接收机构的要求是否满足。
 
-实际上至少有四层：
+**先确认谁接收、用于什么，再决定找谁办理。**
 
-1. **document itself**
-2. **certified copy / notarization**
-3. **authentication / Apostille**
-4. **translation + receiving institution acceptance**
+## 1. 附加证明书简化认证环节
 
-四层不能互相替代。
+**证据等级：A · 优先级：P2，使用跨境文件时触发**
 
----
+《取消外国公文书认证要求的公约》于 **2023-11-07** 在中国生效实施。公约适用的公文书跨国使用，可以通过附加证明书替代原先的领事认证环节。
 
-## 1. Apostille 解决的是 authentication
+具体文件是否适用，还要看文件性质、公约对有关国家或地区的适用情况和接收要求，不应照搬十年前的“公证、州认证、使领馆认证”路线。
 
-**证据等级:** A · **优先级:** P2 / trigger-based
+来源：[中国外交部关于公约在中国生效实施的说明](https://www.mfa.gov.cn/wjbxw_new/202310/t20231023_11165858.shtml)。
 
-中国自 **2023-11-07** 起实施 Hague Apostille Convention。
+## 2. 认证形式不等于证明内容
 
-在公约适用范围内，中国与其他缔约国之间公文书使用 Apostille 取代很多旧的领事双认证流程。
+附加证明书主要涉及签字、签字人身份及印章等真实性认证，不代表文件中陈述的事实正确、合同有效、译文准确或某家银行必须接受。
 
-**来源**
-- 中国外交部相关说明  
-  https://www.mfa.gov.cn/wjbxw_new/202310/t20231023_11165858.shtml
+认证、文件实体效力与机构受理是不同问题。不要把获得附加证明书当成整个事项已经办妥。
 
-**执行原则**
-不要机械照搬十年前：
-> notary → state → embassy → consulate
+## 3. 先向接收机构取得具体要求
 
-的旧攻略。
+向银行、房产登记机构、法院、学校、雇主或移民主管机构确认：
 
----
+- 接受原件、认证副本还是普通复印件？
+- 文件是否必须近期签发？
+- 是否需要公证、附加证明书或其他认证？
+- 需要哪种翻译，译者须具备什么资格？
+- 是否接受电子文件及电子附加证明书？
+- 原件是否会被留存？
 
-## 2. Apostille 不证明文件内容“是真的”
+尽量保留书面答复、办事指南和经办部门信息，避免只依赖中介口头承诺。
 
-它主要认证：
-- signature；
-- seal/stamp；
-- signer capacity
+## 4. 美国签发机关取决于文件来源
 
-等 public-document authentication elements。
+美国州或地方文件通常按所属州的程序办理；联邦文件可能需要美国国务院办理；经公证的私人文件通常从相应州的程序查起。
 
-它不代表：
-- translation accurate；
-- contract valid；
-- receiving bank 必须接受；
-- facts are substantively correct。
+不要把所有文件都寄给美国国务院。先根据文件的签发机关和公证所在地查路线，参见[美国国务院：附加证明书文件准备要求](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/apostille-requirements.html)。
 
----
+## 5. 出生及婚姻证明先确认副本要求
 
-## 3. 第一步永远问 receiving institution
+接收方或认证机关可能要求由生命事件登记机关（vital records office）签发的认证副本，手机照片或自行复印件通常不能替代。
 
-不是问：
-> “美国一般怎么做？”
+申请时确认具体版本、签字及印章要求；不要先找人把普通复印件公证，就假定达到全部要求。
 
-而是问：
-> “你们具体接受什么？”
+## 6. 美国公证员不等于律师
 
-例如：
-- 中国银行；
-- 房产登记；
-- court；
-- school；
-- employer；
-- immigration agency。
+美国公证员（notary public）的权限通常围绕身份核验、签名确认或宣誓等事项，具体由州法规定。他们不会仅因盖章就证明文件内容正确、代替律师判断法律效力，或保证外国机构接受。
 
-需要确认：
-- original/copy？
-- recent issuance？
-- Apostille？
-- translation？
-- translator qualification？
-- notarization？
-- electronic apostille accepted？
+## 7. 中美“公证”不能机械对应
 
----
+中国公证机构可能根据事项出具涉及身份、事实、亲属关系、复印件或签名的公证书。美国公证员的权限与程序并不完全相同。
 
-## 4. 美国 Apostille issuing authority 取决于 document type
+办理时说明所需证明的事实与用途，不要只把中文“公证”翻成英文后要求对方照办。
 
-常见：
-- state-issued public document → state competent authority；
-- federal document → federal authentication route；
-- notarized private document → state route。
+## 8. 翻译是一项独立要求
 
-不要把所有美国文件都寄 State Department。
+接收方可能要求认证翻译（certified translation）、宣誓译员、译者声明或特定排版。不同机构对这些名称的使用也可能不同，应问清具体标准。
 
----
+附加证明书不替代翻译；翻译完成也不意味着原始文件满足认证要求。
 
-## 5. Birth / marriage certificate 通常先拿 certified copy
+## 9. 跨境授权委托书逐机构确认
 
-普通手机照片/photocopy 往往不能直接用于 Apostille。
+授权委托书（power of attorney，POA）在一地有效，不应自动推断另一地的银行、法院或登记机构会接受。
 
-**执行原则**
-先从 proper vital-records authority 获取 acceptable certified copy，再走 authentication。
+先询问具体措辞、授权范围、见证或公证、附加证明书、翻译及原件留存要求，再请熟悉当地业务的律师或公证机构准备。
 
----
+## 10. 授权越宽不一定越好
 
-## 6. Notary public 不等于律师
+某些事项需要明确到具体房产、账户、交易及有效期。笼统的全面授权可能被拒绝，也可能扩大滥用风险。
 
-美国 notary 的核心功能通常是：
-- witness/acknowledge signature；
-- identity/formality。
+让专业人士根据用途设计授权，并确认撤销、期限和原件管理方式。不要把网上模板当成跨境通用文件。
 
-它不自动：
-- 起草法律文件；
-- 证明内容正确；
-- 让文件国际有效。
+## 11. 婚姻文件考虑后续用途
 
----
+婚姻证明可能用于移民、配偶福利、户籍或房产、继承、银行以及姓名变更。根据需要申请适量认证副本，保存加密扫描件，并记录重新申领与认证的途径。
 
-## 7. 中国“公证”概念与美国 notary 不完全等价
+不要为了“以后可能有用”无差别办理所有认证；先看预期用途。
 
-中国公证机构可能对：
-- 身份；
-- 事实；
-- copy；
-- signature；
-- family relationship
+## 12. 学历有独立的核验程序
 
-出具不同类型公证书。
+学校、雇主或学历评估机构可能要求密封成绩单、学校直接发送的电子成绩单、学历认证或学位核验。
 
-美国 notary public 通常权限更窄。
+附加证明书不能替代这些程序。先问接收方接受哪些签发和传递方式。
 
-跨国使用时不要一一机械翻译。
+## 13. 医疗资料通常先解决信息交接
 
----
+跨境就医通常先确认病历释放、翻译、影像文件及临床摘要的要求。用于法律证明、保险或移民等其他用途时，按相应机构另行确认。
 
-## 8. Translation 是独立 requirement
+不要因为文件跨境就一律办理附加证明书。医疗整理步骤见[医疗记录与跨境连续性照护](06-医疗记录药物与跨境Continuity.md)。
 
-Receiving institution 可能要求：
-- certified translation；
-- sworn translator；
-- translator affidavit；
-- specific language formatting。
+## 14. 文件新旧可能影响受理
 
-Apostille 不能替代 translation。
+接收机构可能要求近期出具的文件或认证副本。例如要求近几个月内签发，这属于具体机构的受理条件，不能概括成所有附加证明书统一有效期。
 
----
+使用旧文件前，核对底层文件、翻译与认证是否仍满足当前要求。
 
-## 9. POA 是最容易出问题的跨境文件之一
+## 15. 姓名差异提前建立对照
 
-一个美国 POA 不应自动假设：
-- 中国银行接受；
-- 中国房产机构接受；
-- 中国法院接受。
+记录中文姓名顺序、拼音、英文名、中间名、婚前姓名、空格及历史写法的差异。重大申请前询问是否需要更正文件或补充姓名关联证明。
 
-反之亦然。
+不要自行改动已经签发的官方文件来“统一拼写”。
 
-**行动**
-先向 specific institution 问：
-- wording；
-- scope；
-- witness/notary；
-- Apostille；
-- translation；
-- original retention。
+## 16. 邮寄原件保留交接记录
 
----
+保存扫描件、申请编号、付款凭证、寄出及退回的物流记录，并核对附加证明书与底层文件是否对应。
 
-## 10. Broad POA 不一定比 specific POA 更好
+安排可追踪寄送；不要让唯一原件既没有副本，也没有可查询的去向。
 
-某些机构更喜欢：
-- specific property；
-- specific account；
-- specific transaction；
-- defined validity period。
+## 17. 中介代办也需要可追踪
 
-太泛可能：
-- 被拒；
-- 风险过大。
+交付前明确经办机构、预计时间、收据、查询方式、原件退回和延误升级联系人。不要长期处于“不知道原件在哪、谁在处理”的状态。
 
-让 local lawyer/notary 按用途设计。
+收回后核对文件完整性，按签发机关提供的官方渠道核验认证信息。
 
----
+## 18. 建立跨境文件索引
 
-## 11. 跨境婚姻文件要考虑后续使用
+| 文件 | 签发机关 | 认证副本要求 | 附加证明书要求 | 翻译要求 | 更新条件 | 接收机构确认 |
+|---|---|---|---|---|---|---|
+| 出生证明 |  |  |  |  |  |  |
+| 婚姻证明 |  |  |  |  |  |  |
+| 学历文件 |  |  |  |  |  |  |
+| 授权委托书 |  |  |  |  |  |  |
+| 房产文件 |  |  |  |  |  |  |
+| 企业文件 |  |  |  |  |  |  |
 
-Marriage certificate 未来可能用于：
-- immigration；
-- spouse benefits；
-- China household/property；
-- inheritance；
-- bank；
-- name/status changes。
+公开仓库只保存空白模板。实际证件、姓名、账户和签名存入私人档案。
 
-建议保留：
-- multiple certified copies；
-- secure digital scan；
-- Apostille workflow knowledge。
+## 19. 从官方机关查当前要求
 
----
+美国文件先查签发州的主管机关或相关联邦机关；公约适用情况查[海牙国际私法会议的附加证明书专题](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
-## 12. 学历/成绩单有自己的 verification ecosystem
-
-不要默认：
-> Apostille = school/credential evaluator 接受。
-
-Education/employment 可能要求：
-- sealed transcript；
-- electronic official transcript；
-- credential evaluation；
-- degree verification。
-
-问 receiving organization。
-
----
-
-## 13. Medical records 通常不是 Apostille 问题
-
-跨境医疗更多是：
-- records release；
-- PDF；
-- translation；
-- imaging files；
-- clinical summary。
-
-不要给所有跨境文档都套 Apostille。
-
----
-
-## 14. Document age 会影响接受
-
-某些 receiving institution 会要求：
-- last 3 months；
-- last 6 months；
-- recent certified copy。
-
-即使 Apostille 本身没有“自动过期”，institution 也可能要求 newer underlying document。
-
----
-
-## 15. Name mismatch 提前处理
-
-跨中美文件常见：
-- Chinese name order；
-- English name；
-- middle name；
-- maiden name；
-- spacing；
-- transliteration。
-
-**执行原则**
-重大 application 前建立 name-consistency table。
-
----
-
-## 16. 保留 chain-of-custody / receipts
-
-寄 original document：
-- tracked shipping；
-- scan；
-- order number；
-- return tracking；
-- copy of Apostille。
-
-不要只有唯一 original 且无记录。
-
----
-
-## 17. 不要把重要 original 长期放在 consulate/agent 不知状态
-
-任何 third-party handling：
-- expected timeline；
-- receipt；
-- tracking；
-- escalation contact。
-
----
-
-## 18. Cross-border document inventory
-
-| Document | Issuer | Certified copy | Apostille | Translation | Expiry/refresh |
-|---|---|---|---|---|---|
-| Birth |  |  |  |  |  |
-| Marriage |  |  |  |  |  |
-| Degree |  |  |  |  |  |
-| POA |  |  |  |  |  |
-| Property |  |  |  |  |  |
-| Corporate |  |  |  |  |  |
-
-Public repo 不填真实信息。
-
----
-
-## 19. Official source first
-
-美国：
-- issuing state Secretary of State；
-- U.S. Department of State for relevant federal authentication；
-- Hague Conference status tables。
-
-中国：
-- Ministry of Foreign Affairs；
-- local foreign-affairs office；
-- receiving institution。
-
----
+中国文件查外交部、获授权的地方外事办公室及最终接收机构。办理前重新确认地址、费用、受理方式和材料要求，不能仅凭旧攻略寄送原件。
 
 ## 20. 最小执行集
 
-- [ ] 先问 receiving institution
-- [ ] 区分 certified copy / notarization / Apostille / translation
-- [ ] 知道中国自 2023-11-07 实施 Apostille Convention
-- [ ] POA 单独确认 local acceptance
-- [ ] certified originals 有 inventory
-- [ ] name consistency table
-- [ ] tracked shipping
-- [ ] public repo 不存真实 documents
+- [ ] 取得接收机构的具体要求。
+- [ ] 分清认证副本、公证、附加证明书和翻译。
+- [ ] 根据文件来源确定签发及认证机关。
+- [ ] 对跨境授权单独确认措辞和受理条件。
+- [ ] 检查姓名差异及文件新旧要求。
+- [ ] 建立原件、副本和办理进度索引。
+- [ ] 使用可追踪的交接与邮寄方式。
+- [ ] 真实文件只存私人系统。
 
-最后核验：2026-09-21
+最后编辑：2026-09-21
+本次来源复核：2026-09-21，外交部公约实施说明及美国国务院文件准备页面。具体文件、公约适用关系与接收机构要求仍须按办理时情况核查。

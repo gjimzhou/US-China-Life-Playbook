@@ -1,303 +1,136 @@
 # 06 — 医疗记录、药物与跨境连续性照护（Continuity of Care）
 
-Dual-home household 最容易把 medical history 变成：
+跨境家庭的医疗信息很容易散落在不同医院的患者平台、手机应用和相册里，每位医生只知道一部分。日常就诊时这会增加沟通成本，到了急诊、手术或新诊断时，还可能延误关键判断。
 
-> “美国一个 portal、中国三个 app、手机相册一堆报告、医生各知道一点。”
+本章的目标是建立一份**可携带、可更新、经授权的人能找到**的医疗资料包。整理流程属于实务建议；诊疗、药物调整及文件效力仍由相应专业人士判断。
 
-这在 routine care 时只是麻烦。
+## 1. 每人一页医疗摘要
 
-在 emergency / surgery / new diagnosis 时会变成真正风险。
+医疗摘要（medical summary）建议包含：
 
----
+- 法定姓名、出生日期及紧急联系人；
+- 过敏史，并注明已知的反应；
+- 当前用药、重要诊断和既往手术；
+- 植入物或医疗器械信息；
+- 关键影像、病理及疫苗记录的索引；
+- 医疗决策代理文件的位置；
+- 摘要更新时间。
 
-## 1. 建一个 one-page Medical Summary
+摘要用于快速交接，不替代完整病历。真实资料只保存在私人系统，不填写到公开仓库。
 
-每个家庭成员一页，字段：
+## 2. 用药清单必须可读、可复制
 
-- legal name
-- DOB
-- emergency contact
-- allergies
-- current medications
-- major diagnoses
-- surgeries/procedures
-- implanted devices
-- major imaging/pathology
-- vaccination highlights
-- health-care proxy location
+跨境用药以通用名（generic name）为主，必要时附中英文。品牌相同或名称相似，不代表剂型、浓度和用法相同。
 
-Public repo 不保存真实内容。
+| 通用名 | 商品名 | 剂型与规格 | 每次剂量 | 用药途径与频率 | 用途 | 开方医生 | 最后核对 |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
 
----
+按需用药（PRN）应抄录医嘱中的使用条件、间隔与上限。把非处方药（OTC）和补充剂也列给医生或药师核对；不要自行补写剂量或把已停药项目当作现用药。
 
-## 2. Medication list 必须可读、可复制
+## 3. 不要只依赖医院患者平台
 
-推荐格式：
+医生离职、医院更换系统、账户锁定、手机丢失或跨境访问不畅，都可能使患者平台暂时不可用。关键资料应另有可携带副本，并确认授权的家人知道存放位置。
 
-| Generic | Brand | Dose | Frequency | Reason | Prescriber |
-|---|---|---|---|---|---|
+## 4. 便携资料包与完整档案分层保存
 
-尤其 cross-border：
-- generic name first；
-- English + Chinese if needed；
-- include PRN rule；
-- include OTC/supplement if clinically relevant。
+就医时优先提供医疗摘要、用药与过敏清单、重要手术和病理报告、相关检验、关键影像、疫苗记录及最近的专科意见。完整病历另行归档，供需要时调取。
 
----
+不要用上千页无索引文件代替一页交接摘要，也不要因有摘要就删除原始资料。
 
-## 3. 不要只依赖 portal
+## 5. 影像既保存报告，也保存原始图像
 
-Portal risk：
-- provider leaves；
-- account expires；
-- health system changes；
-- you lose phone/MFA；
-- China access blocked/slow；
-- emergency clinician can't log in。
+磁共振（MRI）、计算机断层扫描（CT）等检查，建议保存：
 
-关键 records 要有 portable copy。
+- 正式报告；
+- 原始医学影像文件（DICOM）或医院提供的影像访问方式；
+- 检查日期、部位及机构；
+- 文件读取说明或访问链接有效期。
 
----
+第二诊疗意见可能需要重新查看图像。预约前确认接收方能读取所提供的格式。
 
-## 4. 也不要打印 1,000 页 medical record
+## 6. 病理资料值得长期保留
 
-真正 useful 的 portable core：
+涉及活检或肿瘤时，保留病理报告、相关分子检测和手术报告，并记录切片或蜡块由哪家机构保管、如何申请调阅。不要把取回全部实物当作默认要求；先问接诊医生需要什么。
 
-- medical summary；
-- medication/allergy list；
-- major surgery notes；
-- pathology；
-- key imaging reports；
-- relevant labs；
-- vaccination；
-- recent specialist note。
+## 7. 手术记录要能追溯植入物
 
-原始 full chart 可以 secondary archive。
+至少保存手术名称、日期、医生与机构、植入物或器械型号、并发症及术后限制。后续手术或影像检查可能需要这些资料。
 
----
+能否接受磁共振等检查，应由医疗团队依据具体器械信息确认，不能仅凭“以前做过同类检查”判断。
 
-## 5. Imaging 保存 report + actual images
+## 8. 疫苗记录保留电子副本
 
-MRI/CT：
-- written report；
-- DICOM/cloud link；
-- date/body part；
-- facility。
+保存纸卡扫描件及可取得的正式电子记录，记录疫苗名称、接种日期和生产商等原始信息。跨境时不要自行把不同品牌改写成同一产品；由接种机构判断记录与后续安排。
 
-Second opinion 经常需要看 actual images，不只是 report。
+## 9. 检验结果必须带单位与背景
 
----
+“我的低密度脂蛋白胆固醇是 2.8”缺少必要信息。转交结果时保留单位、日期、参考范围，以及报告中相关的空腹状态和检测方法。不同国家或实验室使用的单位及参考范围可能不同。
 
-## 6. Pathology 是长期高价值 record
+## 10. 临床翻译保留原文供核对
 
-Cancer/biopsy-related：
-- pathology report；
-- slides/block availability；
-- molecular test；
-- operative report。
+机器翻译可辅助理解普通摘要，但病理、手术、失能证明、移民体检或理赔材料，应按接收机构要求采用专业翻译，必要时请临床人员复核。
 
-这些可能多年后仍决定 treatment。
+原文与译文一起保存，尤其核对否定词、药名、剂量、左右侧和日期。不要只交一份无法回查的译文。
 
----
+## 11. 请医生写转诊交接摘要
 
-## 7. Surgery record 至少保存 procedure + implant
+跨境转诊前，可请治疗医生说明诊断、已完成检查、已经排除的问题、当前治疗、待解决问题和下一步计划。接诊医生据此判断还需调取哪些原始资料。
 
-包括：
-- operation name；
-- date；
-- surgeon/facility；
-- implant/device model if any；
-- complications；
-- post-op restrictions。
+## 12. 提前安排旅行期间的续药
 
-未来 MRI、revision、airport/security、new surgeon 可能需要。
+出发前与医生、药师和保险方确认药量、续药时间、提前配药限制，以及是否可申请旅行提前配药例外（vacation override）。
 
----
+同时核查药物保存条件、管制属性及目的地和过境地的携带要求。获准配药不等于获准跨境携带。
 
-## 8. Vaccine record 不要只存在纸卡
+## 13. 冷链药物要有温度异常预案
 
-保存：
-- scan；
-- electronic record；
-- vaccine/date/manufacturer if available。
+向药师核对具体产品的保存温度、离开冷藏后的允许条件，以及温度异常后如何处置。提前安排随身携带、冷却设备、住宿储存与备用方案。
 
-跨境时某些 vaccine brand 不同，但记录仍有用。
+不要默认酒店迷你冰箱适合储药，也不要把药物直接冻在冰袋上。发生温度异常时记录情况，联系药师或生产商确认，不自行判断药效。
 
----
+## 14. 管制药物按目的地规定核查
 
-## 9. Lab result 传递要保留单位
+在美国合法开具的兴奋剂、阿片类药物、苯二氮䓬类药物或安眠药，在其他地区可能受到不同限制。核查目的地及过境地政府、使领馆或卫生主管机关的要求，包括数量、证明和事前许可。
 
-不要写：
-> “我的 LDL 是 2.8。”
+不要用美国处方代替入境许可判断。旅行相关入口见[国际旅行清单](../checklists/international-travel.md)。
 
-必须保留：
-- unit；
-- date；
-- reference range；
-- fasting/status if relevant；
-- assay context。
+## 15. 紧急信息要能离线找到
 
-不同国家 unit system 可能不同。
+手机没电、没有网络或本人无法表达时，授权的家人应能找到过敏、关键药物、重要疾病、医疗代理文件及保险信息。随身卡只保留急救所需信息，完整病历放在受保护的位置。
 
----
+## 16. 决策权限与信息权限分别确认
 
-## 10. Clinical translation 不要只用普通机器翻译
+医疗决策代理人（health-care proxy）涉及谁能在适用条件下代作医疗决定；健康信息披露授权（HIPAA authorization）涉及哪些信息可以向谁披露。二者不能简单互相替代。
 
-对 routine summary，machine translation 可以辅助。
+合法代理人的查阅权取决于适用法律和授权范围；医疗机构也可能在法律允许的情况下与参与照护的家人分享信息。不能推断“没有书面授权就一概不能交流”，也不能推断“配偶可以随时取得全部病历”。
 
-对：
-- pathology；
-- legal medical certification；
-- surgery；
-- insurance claim；
-- disability；
-- immigration medical
+向医疗机构确认代理登记、信息披露和患者平台代理访问手续。依据美国卫生与公众服务部（HHS）的[患者健康信息权利说明](https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-consumers/index.html)，受相关规则约束的机构应提供规定范围内的病历查阅与副本获取渠道。
 
-可能需要 professional/clinician-reviewed translation。
+## 17. 父母的资料也需要统一索引
 
----
+在父母知情及授权的前提下，整理慢性病、用药、常用医院与医生、最近住院、影像和医保信息。让现场照护者与远程家人使用同一份更新记录，减少互相转述造成的错误。
 
-## 11. Doctor-to-doctor summary 比完整 record 更重要
+## 18. 医疗档案采用受保护的存储方式
 
-如果从美国转中国或反向：
-让 treating doctor 写：
-- diagnosis；
-- workup；
-- what has been ruled out；
-- current treatment；
-- open questions；
-- next plan。
+使用加密存储、可靠的账户恢复机制和按需共享。不要依赖公开链接、工作账户或零散聊天记录。授权家人能取用资料，不等于所有亲友都应有访问权。
 
-一页高质量 summary 常比 200 页 chart 更 useful。
+## 19. 定期复查，也在治疗变化后更新
 
----
+每年检查疫苗、医生、保险、代理文件和主要病史是否变化。用药调整、出院或获得重要诊断后应及时更新，不等到年度复查。
 
-## 12. Medication refill 要考虑 travel horizon
-
-出国前：
-- supply length；
-- refill-too-soon rule；
-- vacation override；
-- cold chain；
-- controlled substance；
-- destination import restriction。
-
-不要等出发前一天。
-
----
-
-## 13. Cold-chain medication 要做 failure plan
-
-如 applicable：
-- temperature range；
-- carry-on；
-- hotel refrigeration；
-- backup cooling；
-- airline security；
-- what if excursion occurs。
-
-不要默认 minibar 是 medical refrigerator。
-
----
-
-## 14. Controlled medication 要查 destination law
-
-某些 U.S.-legal prescription：
-- stimulant；
-- opioid；
-- benzodiazepine；
-- sleep medication
-
-在 destination 可能受更严格限制。
-
-**执行原则**
-查 destination government/embassy/health authority。
-
----
-
-## 15. Emergency info 要离线可用
-
-如果：
-- phone dead；
-- internet unavailable；
-- unconscious；
-
-至少 spouse/agent 能找到：
-- allergies；
-- meds；
-- major conditions；
-- proxy；
-- insurer。
-
----
-
-## 16. Health-care proxy 与 HIPAA permission 是不同概念
-
-美国：
-- health-care proxy：incapacity decision-making；
-- HIPAA authorization / provider permission：information access。
-
-具体 state/provider paperwork 不同。
-
-**执行原则**
-不要以为“我是配偶”一定能随时拿全部 records。
-
----
-
-## 17. Parents records 也要 structured
-
-尤其：
-- medication；
-- chronic disease；
-- hospital；
-- doctor；
-- last admission；
-- imaging；
-- insurance。
-
-远程照护最怕“每个人知道一部分”。
-
----
-
-## 18. Privacy：medical archive 要比普通相册更安全
-
-适合：
-- encrypted cloud；
-- password manager secure document；
-- encrypted drive。
-
-不适合：
-- public link；
-- shared work account；
-- random chat history。
-
----
-
-## 19. 年度 medical-record audit
-
-每年：
-- medication list；
-- vaccines；
-- new surgery；
-- new diagnosis；
-- key lab/imaging；
-- doctor changes；
-- proxy；
-- insurance。
-
----
+由患者与医生或药师核对用药，避免把不同就诊记录中的重复项目直接合并。
 
 ## 20. 最小执行集
 
-- [ ] one-page Medical Summary
-- [ ] generic-name medication list
-- [ ] allergy list
-- [ ] vaccine record
-- [ ] major imaging reports + images
-- [ ] surgery/pathology archive
-- [ ] portable discharge summaries
-- [ ] proxy/privacy authorization understood
-- [ ] travel refill plan
-- [ ] encrypted storage + spouse access
+- [ ] 一页医疗摘要，注明更新时间。
+- [ ] 通用名用药清单与过敏清单。
+- [ ] 疫苗、重要手术和病理档案。
+- [ ] 关键影像报告及可读取的原始图像。
+- [ ] 可携带的出院及转诊摘要。
+- [ ] 已确认医疗决策与信息访问权限。
+- [ ] 旅行续药、保存与跨境携带安排。
+- [ ] 加密存储、离线紧急信息及授权访问路径。
 
-最后更新：2026-09-21
+最后编辑：2026-09-21
+本次来源复核：2026-09-21，仅涉及第 16 节所引健康信息权利说明；药物与跨境携带规则需按具体产品和行程另行核验。
