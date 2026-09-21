@@ -2,3 +2,5 @@
 
 /* Task checkboxes must never inherit search-field dimensions. */
 article .task-item{list-style:none;position:relative;padding-left:1.65em;margin:.45em 0}article ul:has(> .task-item){padding-left:0}article .task-item>p{margin:.45em 0}article input[type="checkbox"]{position:absolute;left:0;top:.48em;display:inline-block;width:1em;height:1em;min-width:0;margin:0;padding:0;accent-color:var(--blue);cursor:default}#content:focus:not(:focus-visible){outline:none}@media print{article input[type="checkbox"]{appearance:auto;opacity:1}}
+
+.reader-notice{font-size:14px;line-height:1.8;background:var(--wash);border-left:3px solid #82a8bb;padding:12px 16px;margin:20px 0;overflow-wrap:anywhere}.reader-notice a{margin-left:.4em}@media print{.reader-notice{font-size:9pt;border:1px solid #bbb;background:white;break-inside:avoid}}
