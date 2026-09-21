@@ -1,593 +1,133 @@
 # 36 — 买房、房贷（Mortgage）、交割（Closing）与业主协会（HOA）
 
-高收入家庭买房最容易掉进一个错觉：
+能支付首付或月供，不代表房屋状况、贷款、产权、保险和后续维护都已核对。先明确每位专业人士代表谁、做什么、由谁付费；任何一位参与者都不会自动替买方判断全部风险。
 
-> **“我能负担这套房，所以流程应该很简单。”**
+## 1. 把交易拆成五类检查
 
-真正复杂的部分往往不是 affordability，而是：
+分别检查房屋状态、合同与产权、贷款条件、保险，以及入住后费用与维护。列出每一类负责人与未解决问题。经纪、律师、检查员、估价师、贷款方和交割机构的职责不同，委托前确认书面范围与利益关系。
 
-- contract；
-- inspection；
-- mortgage；
-- title；
-- HOA/condo documents；
-- insurance；
-- closing wire；
-- tax；
-- maintenance；
-- future liquidity。
+## 2. 预批准不等于最终贷款承诺
 
----
+贷款预批准（Preapproval）通常仍有条件，后续可能审查收入、资金、信用与房产资料。签约前理解融资失败时的合同后果；购车借款、换工作或资金安排变化及时告知贷款方，不能隐瞒重要事实。
 
-## 1. 先把“买房”拆成五个并行系统
+## 3. 收到规定申请信息后取得贷款估算表
 
-### Property
-房子/公寓本身的 condition。
+[CFPB说明](https://www.consumerfinance.gov/ask-cfpb/what-information-do-i-have-to-provide-a-lender-in-order-to-receive-a-loan-estimate-en-1987/)列出姓名、收入、用于查信用的社保号、房屋地址、估值和拟借金额六项信息。对适用贷款，提供这些信息后通常应在三个营业日内提供贷款估算表（Loan Estimate）；不应写成等全部审核材料齐全才起算。
 
-### Legal
-contract、title、deed、easement、HOA、closing。
+比较相同贷款类型、期限和锁定条件下的利率、年化综合成本（APR）、点数、贷款方补贴与费用。估算表不是最终批准，参见[表格用途说明](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/)。
 
-### Financing
-mortgage、rate、points、underwriting。
+## 4. 交割披露要留足收到后的审阅时间
 
-### Insurance
-homeowners/condo/flood/umbrella。
+对多数适用房贷，消费者应至少在贷款合同成立前的规定三个营业日**收到**交割披露表（Closing Disclosure），不能只看贷款方何时发送。营业日、送达与变更后的等待期有具体规则，向贷款方确认。[CFPB表格说明](https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/)及[第1026.19条](https://www.consumerfinance.gov/rules-policy/regulations/1026/19/)提供依据。
 
-### Operations
-maintenance、tax、utilities、future capex。
+逐项对比借款额、利率、月供、费用、税费预缴和交割需付现金；差异先问清再签，不把所有变更都视为必须重新等三天。
 
-任何一层出问题，都会改变 deal quality。
+## 5. 提前阅读借款和产权文件
 
----
+要求提前取得可审阅的借据（Promissory note）、抵押或担保文件及房契，核对姓名、产权安排、贷款义务和不理解的条款。可参考[CFPB交割前审阅指南](https://www.consumerfinance.gov/owning-a-home/close/review-documents-before-closing/)。交割当天仍应核对最终版本与已理解内容一致。
 
-## 2. Preapproval 不等于 final approval
+## 6. 电汇指令独立核实
 
-Preapproval 只是 lender 基于当前资料的初步判断。
+**优先级：P0；大额交割付款前触发。**
 
-真正 closing 前，underwriting 还会看：
-- income；
-- assets；
-- liabilities；
-- property；
-- appraisal；
-- source of funds；
-- credit changes。
+提前通过可信渠道保存交割方联系方式；收到付款指令后用该渠道核实账户与金额，不拨新邮件提供的陌生号码。临时更改指令先暂停，付款后确认实际到账。依据[CFPB交割诈骗提醒](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。
 
-**执行原则**
-contract 后不要随便：
-- 开新 credit；
-- 换工作；
-- 大额转账不留记录；
-- 买车；
-- 改资产结构。
+## 7. 发现汇错立即联系银行
 
-重大变化先问 lender。
+立即联系汇出银行或转账机构，请求评估拦截或追回，并按情况向FBI网络犯罪投诉中心等入口报告。保存交易与指令，不等待内部讨论结束才行动；追回并无保证。来源同上方CFPB诈骗提醒。
 
----
+## 8. 房屋检查与估价分开
 
-## 3. Loan Estimate 是 mortgage shopping 的核心文件
+房屋检查（Inspection）关注约定范围内的状况；估价（Appraisal）用于价值判断，不能替代结构、屋顶或机电检查。向服务方询问范围、排除项目、报告形式与后续问题，不把完成估价当成房屋没有缺陷。
 
-**证据等级:** A · **优先级:** P1
+## 9. 检查报告要读未覆盖部分
 
-CFPB 当前说明：
-- 对适用 mortgage application，lender 在收到完整 application 后通常必须在 **3 business days** 内给 Loan Estimate；
-- 它列出 estimated rate、monthly payment、closing costs、tax/insurance estimates 等。
+问哪些区域无法进入、哪些系统未运行、哪些迹象需进一步查，以及问题影响安全、近期使用还是长期维护。把重大不确定性、合同检查期限和处理选择交给相应专业人士，不只加总表面维修价格。
 
-**来源**
-- CFPB — What is a Loan Estimate?  
-  https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/
+## 10. 出现具体信号再安排专项检查
 
-**执行原则**
-比较 lenders 时，不只比较 headline rate。
+可能需要结构、排水、地下管线、油罐、烟囱、虫害或环境等专项评估，取决于房屋和当地情况。要求一般检查员说明何时需要何种专业人士，核对是否能在合同相关期限内完成。
 
-同时比较：
-- APR；
-- points；
-- lender credits；
-- origination；
-- lock；
-- cash to close；
-- monthly payment；
-- prepayment feature。
+## 11. 买公寓也要看整栋楼
 
----
+核对业主协会或公寓组织的预算、储备、重大维修、特别征费、诉讼、保险、会议记录与规则。能取得哪些材料、如何审查及退出权依合同与当地规定，不假定所有地区流程一致。
 
-## 4. Closing Disclosure 要和 Loan Estimate 对比
+## 12. 协会费用同时看支出与储备
 
-**证据等级:** A · **优先级:** P0/P1
+低月费可能对应较少服务，也可能有递延维修或储备不足；高月费也不保证管理良好。对照楼况、服务与财务资料，询问已知缺口和资金计划。
 
-CFPB 当前说明：
-- Closing Disclosure 是 final loan terms/costs 的五页表；
-- 对多数适用 mortgage，必须至少在 closing 前 **3 business days** 提供。
+## 13. 特别征费要核对分摊规则
 
-**来源**
-- CFPB — Closing Disclosure  
-  https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/
-- CFPB — Review documents before closing  
-  https://www.consumerfinance.gov/owning-a-home/close/review-documents-before-closing/
+确认已批准或讨论中的项目、预算、付款日期、各户分摊方法及买卖双方承担方式。不能简单把总额除以户数当成自己的义务，比例与规则以文件为准。
 
-**行动**
-逐项对比：
-- loan amount；
-- interest rate；
-- loan type；
-- monthly payment；
-- points/credits；
-- lender fees；
-- title/settlement；
-- prepaid taxes/insurance；
-- cash to close。
+## 14. 公寓总保单与自有单元保单衔接
 
-看到差异就问：
-> 为什么变了？
+请保险人士解释公共部分、室内装修、改善工程、总保单免赔额及损失分摊（Loss assessment）分别如何处理。业主单元保单（常见HO-6）不是自动填补所有缺口，需读实际条款。
 
----
+## 15. 洪水与其他进水风险分别问
 
-## 5. 不要在 closing table 才第一次看 documents
+查看官方或地方风险资料、历史进水和排水情况，向贷款及保险方确认要求与可用保障。地图上的风险分类不代表零风险；也不要把洪水、管道破裂和排水倒灌当成保单中的同一事故。本次不提供具体洪水保单覆盖结论。
 
-CFPB 建议提前 review：
+## 16. 产权保险与住房保险用途不同
 
-- Closing Disclosure；
-- Promissory Note；
-- Mortgage/Security Instrument；
-- Deed。
+询问产权保险（Title insurance）保护谁、覆盖什么既往产权风险、有哪些例外；贷款方的保护不应被默认成买方同等保障。住房保险另看财物与责任，细节由产权和保险服务方书面解释。
 
-**执行原则**
-closing day 的目标应该是：
-> 确认并签署已理解的内容。
+## 17. 产权持有方式要主动决定
 
-不是：
-> 现场开始学习 mortgage。
+共同购房者与当地律师讨论份额、生存者权利、遗产安排和既有婚姻协议。房契、借款人身份和出资比例分别确认，不让表格默认选项替代决定。
 
----
+## 18. 首付款来源如实保留记录
 
-## 6. Mortgage closing wire fraud 是 P0 风险
+按贷款方要求保存对账单、大额入账、资产出售与转账链条，避免临近交割出现无法解释的资金。只提供真实资料，资料传递用已核实的安全渠道。
 
-**证据等级:** A · **优先级:** P0
+## 19. 父母资金先明确赠与或借款
 
-CFPB 明确警告：
-scammer 会冒充 realtor / title company / settlement agent，发送 last-minute wiring instruction change，试图把 down payment / closing funds 导向 fraudulent account。
+资金性质、收款对象、偿还义务与产权安排应一致，并由贷款方、律师及税务人士按需要核对。不能为了获批把实际借款写成无偿赠与。
 
-**来源**
-- CFPB — Beware of mortgage closing scams  
-  https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/
+## 20. 锁定利率也有期限和条件
 
-**Household rule**
-任何 closing wire：
+利率锁定（Rate lock）需确认有效期、延长费用、贷款或房产变化后的处理，以及是否存在降息调整选项。要求书面确认，不能只看一句“已经锁了”。
 
-1. 使用提前保存的 trusted contact；
-2. 不用 email 里新出现的 phone number；
-3. 独立电话核实；
-4. 核对 account name/number；
-5. last-minute change = red flag；
-6. wire 后立即确认收到。
+## 21. 点数比较未来净成本
 
----
+贷款点数（Points）可能用前期费用换较低利率。先比较预计持有期间的费用与月供差额，再考虑提前出售、再融资与现金其他用途。简单回本月数只是起点，不能保证未来一定能再融资或一定节税。
 
-## 7. 如果 wire 错了，时间极其重要
+## 22. 浮动与固定利率都要做压力测试
 
-CFPB 建议：
-- 立即联系 bank/wire-transfer company 尝试 recall；
-- 尽快向 FBI IC3 等渠道报告。
+浮动利率房贷（ARM）需看初始期间、调整指标、加点、频率和上限；固定利率也不固定房产税、保险和维护费用。测试收入下降或费用上升时能否承担，避免把未来再融资当成唯一退路。
 
-**执行原则**
-发现错误时不要先在群里讨论半小时。
+## 23. 预算包括入住后的全部现金支出
 
----
+列入本息、房产税、保险、协会费、水电、停车、维护、装修、交易成本和储备。还要在普通工作日实测通勤、采购、夜归与照护路线；房子本身合适不等于日常生活可持续。
 
-## 8. Inspection 与 appraisal 不是一回事
+## 24. 交割后收齐最终文件
 
-### Inspection
-帮 buyer 了解 property condition。
+保存最终披露、借据、担保文件、房契及适用登记确认；另保存合同、检查、产权、保险和协会资料。[CFPB交割后指南](https://www.consumerfinance.gov/owning-a-home/close/after-closing/)列出主要文件与后续事项。若尚待登记或出具正式保单，列入追踪。
 
-### Appraisal
-主要帮助 lender 判断 collateral value。
+## 25. 收到貌似官方的房贷邮件先核实
 
-Appraisal 不是：
-- plumbing inspection；
-- roof inspection；
-- mold inspection；
-- structural guarantee。
+购房相关公开记录可能被用于营销或诈骗。不要仅凭姓名、地址或贷款方标志付款；从已核实的服务机构入口确认。来源同上方CFPB交割后指南。
 
----
+## 26. 税费代管仍要对账
 
-## 9. Inspection 要从“维修报价”升级成 risk map
+贷款方代管账户（Escrow）处理税费和保险时，核对对账单、实际支付、余额不足与费用变化。自行付款则单独记录真实到期日。不能因月供已扣就默认地方税款必然无误。
 
-关注：
+## 27. 维修储备按实际房屋估算
 
-- structure；
-- roof；
-- HVAC；
-- electrical；
-- plumbing；
-- moisture；
-- drainage；
-- windows；
-- pests；
-- environmental risk；
-- safety；
-- expected remaining life。
+列出屋顶、机电、管道、电器及协会大项目等已知支出，结合检查与专业报价规划。不要机械采用房价某个百分比，也不把预期寿命视为保证；留出不确定事项的余量。
 
-真正问题不是：
-> “这些 repair 加起来 $8,000。”
+## 28. 入住触发保险、法律和门禁更新
 
-而是：
-> “有没有 unknown tail risk？”
+确认必要保障已生效，房契与遗产安排一致，门锁、钥匙、设备和紧急维修资料已交接。搬家后的账户与地址变更另按机构办理。
 
----
+## 29. 比较自住价值与财务后果
 
-## 10. Specialist inspection 在高风险 signal 下很值得
+自住房提供居住与地点价值，也带来集中资产、借款与流动性风险。比较未来租买或还贷投资方案时，采用一致期间和假设，不把已花掉的交易成本当成继续持有的唯一理由。
 
-例如：
-- structural engineer；
-- sewer scope；
-- chimney；
-- roof；
-- oil tank；
-- mold/environmental；
-- pool；
-- waterfront/flood；
-- old electrical。
+## 30. 分阶段完成与确认
 
-General inspector 不一定覆盖所有 specialty risk。
+出价前：预算、代理关系、合同与初步融资。签约后：按期限检查房屋、产权、贷款和保险。交割前：解释差异、核实付款、最后查验和必要保障。交割后：收齐文件、确认到账与登记、安排门禁和维护。
 
----
+具体记录见[买房清单](../checklists/home-purchase.md)。提交申请不等于批准，签字不等于所有后续登记都已完成。
 
-## 11. Condo 买的不只是 unit
-
-同时买入：
-
-> **association balance sheet + building condition + governance**
-
-要看：
-
-- budget；
-- reserve；
-- assessments；
-- insurance；
-- litigation；
-- capital projects；
-- meeting minutes；
-- rules；
-- rental restrictions；
-- pet rules；
-- move rules。
-
----
-
-## 12. HOA fee 低不一定是好事
-
-低 common charge 可能意味着：
-
-- maintenance deferred；
-- reserve underfunded；
-- future special assessment；
-- owner self-manages more items。
-
-**执行原则**
-不要把 HOA fee 当纯“浪费”。
-
-它是一种 service + reserve funding structure。
-
----
-
-## 13. Special assessment 要看概率与规模
-
-问：
-
-- facade；
-- roof；
-- elevator；
-- garage；
-- windows；
-- mechanical；
-- structural；
-- amenity renovation
-
-未来有没有大项目。
-
-**执行原则**
-$1M assessment 对 100-unit building 与 10-unit building 完全不同。
-
----
-
-## 14. Master insurance policy 必须读
-
-Condo owner 需要知道：
-
-- master policy；
-- unit-owner HO-6；
-- walls-in / studs-in；
-- improvements/betterments；
-- master deductible；
-- loss assessment；
-- water damage allocation。
-
-不要等 claim 时才学。
-
----
-
-## 15. Flood risk 与普通 homeowners coverage 分开
-
-**优先级:** P1
-
-查：
-- FEMA/local map；
-- lender requirement；
-- flood history；
-- basement/first floor；
-- drainage；
-- separate flood insurance。
-
-**执行原则**
-“不是 flood zone”不等于 flood probability 为 0。
-
----
-
-## 16. Title insurance 与 homeowners insurance 不一样
-
-Title insurance 处理 property title / ownership-related risk。
-
-Homeowners 处理 property/liability-related risk。
-
-不要把两个“insurance”混在一起。
-
----
-
-## 17. Deed ownership 要 deliberate
-
-夫妻/共同 buyer 应和 real-estate/estate attorney 明确：
-
-- ownership form；
-- survivorship；
-- percentage；
-- prenup consistency；
-- estate consequence；
-- creditor/tax considerations。
-
-不要让 closing form default 替你决定。
-
----
-
-## 18. Down payment source 要保留 documentation
-
-Mortgage underwriting 常会关注：
-
-- bank statements；
-- large deposit；
-- gift funds；
-- transfer；
-- sale proceeds。
-
-**执行原则**
-大额资金不要在 closing 前无记录地在多个账户跳来跳去。
-
----
-
-## 19. 父母 gift / loan 要提前定性
-
-如果 family money 参与：
-
-- gift；
-- loan；
-- ownership contribution
-
-要与：
-- lender；
-- tax adviser；
-- attorney；
-- prenup/title
-
-一致。
-
----
-
-## 20. Rate lock 不是“锁住整个 deal”
-
-问：
-
-- expiration；
-- float down；
-- extension fee；
-- closing delay；
-- property change；
-- loan change。
-
-不要只看“rate locked”四个字。
-
----
-
-## 21. Points 要按 break-even 看
-
-Pay points 本质上通常是：
-
-> upfront cash 换 lower rate。
-
-是否值得取决于：
-
-- expected holding period；
-- refinance probability；
-- alternative use of cash；
-- tax treatment。
-
-不要因为 “rate 看起来漂亮” 就 buy points。
-
----
-
-## 22. ARM 不是天然坏，fixed 也不是天然安全
-
-比较：
-
-- initial rate；
-- adjustment index/margin；
-- caps；
-- fixed period；
-- expected holding；
-- worst-case payment；
-- refinance dependence。
-
-真正风险是：
-> 自己只看 teaser rate。
-
----
-
-## 23. 房屋 affordability 不能只看 mortgage payment
-
-总 housing cost：
-
-- principal/interest；
-- property tax；
-- insurance；
-- HOA；
-- maintenance；
-- utilities；
-- parking；
-- assessment；
-- furnishing；
-- transaction cost。
-
-高收入 household 尤其容易低估：
-> maintenance complexity，而不是 monthly payment。
-
----
-
-## 24. Closing 后保存完整 document stack
-
-CFPB 当前建议保存：
-
-- Closing Disclosure；
-- Promissory Note；
-- Mortgage/Security Instrument；
-- Deed。
-
-**来源**
-- CFPB — After closing  
-  https://www.consumerfinance.gov/owning-a-home/close/after-closing/
-
-同时保留：
-- purchase contract；
-- inspection；
-- title；
-- survey；
-- appraisal；
-- insurance；
-- HOA docs；
-- major repair records。
-
----
-
-## 25. Closing 后 junk/scam mail 会突然增加
-
-CFPB 提醒：
-mortgage/deed 的部分信息成为 public record 后，可能出现大量看起来像 lender 官方信件的 marketing/scam mail。
-
-**执行原则**
-有 lender logo 不等于来自 lender。
-
-从 known website/phone 验证。
-
----
-
-## 26. Property tax 不要假设 escrow 永远正确
-
-如果 escrow：
-- review annual statement；
-- reassessment；
-- shortage；
-- insurance premium change。
-
-如果 self-pay：
-- calendar due dates。
-
-不要因为 mortgage company 处理就完全不看。
-
----
-
-## 27. Home maintenance reserve 要单独思考
-
-Single-family：
-- roof；
-- HVAC；
-- plumbing；
-- exterior；
-- appliances；
-- landscaping。
-
-Condo：
-- unit interior；
-- HOA assessment；
-- appliances；
-- deductible exposure。
-
-不需要用固定 1% rule 机械估算；按 property-specific capex 更好。
-
----
-
-## 28. 买房后立刻更新 estate/insurance
-
-Trigger：
-
-- homeowners/HO-6；
-- umbrella；
-- valuables；
-- deed/title；
-- will/trust；
-- POA；
-- beneficiary；
-- emergency plan。
-
-House purchase 是 household legal/insurance event，不只是 real-estate event。
-
----
-
-## 29. 投资属性与自住属性不要混着评价
-
-一套自住房同时提供：
-
-- housing consumption；
-- location；
-- school/commute；
-- lifestyle；
-- leverage；
-- asset exposure。
-
-**执行原则**
-不要只用 IRR 判断 home，也不要完全忽略 opportunity cost。
-
----
-
-## 30. Home Purchase Checklist
-
-### Before offer
-- [ ] budget / total cost
-- [ ] attorney model
-- [ ] mortgage shopping
-- [ ] property tax
-- [ ] insurance
-- [ ] HOA/condo
-
-### Under contract
-- [ ] inspection
-- [ ] specialty inspection
-- [ ] title
-- [ ] appraisal
-- [ ] financing
-- [ ] source of funds
-
-### Before close
-- [ ] Closing Disclosure
-- [ ] Loan Estimate comparison
-- [ ] wire verification
-- [ ] final walkthrough
-- [ ] insurance active
-- [ ] deed/title confirmed
-
-### After close
-- [ ] documents archived
-- [ ] locks/access
-- [ ] maintenance map
-- [ ] insurance/umbrella
-- [ ] estate update
-- [ ] annual review
-
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对CFPB贷款估算申请信息、交割披露与第1026.19条的时间规则、电汇诈骗及交割前后指南。地方合同、产权、协会与施工要求未逐州核验；洪水官方覆盖页本次访问失败，相关段落仅列核对问题，未声明具体承保结论。

@@ -1,599 +1,143 @@
 # 35 — 死亡后的实际操作与遗产管理（Estate Administration）
 
-Estate planning 解决的是：
+身故后的处理需要同时照顾在世家人、保护财物、确认权限和办理机构手续。不要把知道密码、被写为联系人或是配偶，直接理解为可操作全部遗产。
 
-> **提前设计。**
+本章主要提供美国事项的分流框架；法院程序、债务顺序和跨境受理需要按地区与资产另行确认。正在发生的医疗或安全事件先按当地紧急流程处理。
 
-Estate administration 解决的是：
+## 1. 先处理必要生活
 
-> **人真的去世以后，活着的人接下来怎么做。**
+安排儿童、宠物、住所安全、家人通知、必要交通和依法可用的资金。医疗机构、临终照护方或当地机构可以说明下一步。无需立即卖房、重新投资或分配遗产，但真正的通知与办理期限不能忽略。
 
-这两件事完全不同。
+## 2. 确认谁有权处理哪类资产
 
-死亡后的第一周最容易犯的错误是：
+遗嘱指定的执行人（Executor）、法院任命的遗产管理人（Administrator）、信托受托人（Trustee）、联名持有人与指定受益人的权限并不相同。请当地律师确认是否需要法院任命及证明文件。
 
-- 试图一天处理完所有账户；
-- 不清楚谁有 legal authority；
-- 把 will、beneficiary、joint title 混在一起；
-- 关闭账户太快；
-- 忘记 survivor benefits；
-- 忘记 tax；
-- 在 grief 状态下做不可逆决定。
+不要继续依靠生前财务授权或登录凭据操作；死亡后适用权限和机构程序需要重新确认。配偶身份本身也不能回答所有权限问题。
 
----
+## 3. 先建立文件索引
 
-# 第一阶段：First 24–72 Hours
+寻找遗嘱、信托、殡葬意愿、身份与关系文件、受益人记录、房契、保单、报税资料、雇主福利和账户目录。记录原件在哪里，暂不把唯一原件寄给多个机构，按要求提供副本或认证件。
 
-## 1. 先处理人，不是先处理 estate
+## 4. 死亡证明按机构要求取得
 
-优先：
+向登记机构或协助办理的殡葬方询问认证副本（Certified copy）的申请。先列出各机构需要原件、认证副本、普通副本还是上传件，再决定份数；同时核对姓名等信息是否正确。
 
-- family；
-- children/pets；
-- hospital/funeral home；
-- home security；
-- immediate travel；
-- medication；
-- accessible cash；
-- work notification。
+## 5. 确认社会保障署已收到死亡报告
 
-不需要第一天：
-- 卖房；
-- 清空 brokerage；
-- 关闭所有信用卡；
-- 重新投资；
-- 分遗产。
+[SSA说明](https://www.ssa.gov/personal-record/when-someone-dies)指出殡葬机构通常报告死亡；若没有参与或未报告，应联系SSA。境外情形另有联邦福利部门或使领馆入口。请确认实际已报告，不根据“通常如此”省略核对。
 
----
+## 6. 遗属福利资格另查
 
-## 2. 确认谁是 legal representative
+[SSA遗属福利](https://www.ssa.gov/survivor)可能适用于符合条件的配偶、前配偶、子女或受供养父母，取决于工作记录与个人条件。死亡报告与福利申请不是同一件事，既有福利如何转换也应向SSA确认。
 
-可能是：
+## 7. 不要为等齐全部资料而迟迟不联系
 
-- surviving spouse；
-- executor named in will；
-- court-appointed administrator；
-- trustee；
-- agent authority that ended at death。
+从SSA正式入口询问申请方式、需要的身份与关系材料，以及开始申请时间可能怎样影响待遇。记录工作人员要求和待补文件。不承诺所有家属都可领取或都能网上申请；具体依申请人情形。
 
-**重要**
-普通 power of attorney 通常用于生前代理；死亡后 authority framework 会变化。
+## 8. 联系雇主福利与薪资部门
 
-不要因为生前能登录/签字，就默认死后仍能继续操作。
+核对未付工资、奖金、股权、退休计划、人寿或意外保险、健康保障及公司财物。说明自己身份与权限，询问各事项负责人、所需文件和期限。只通知直属经理不等于已启动这些程序。
 
-找 estate attorney 按州法确认。
+## 9. 雇主人寿保险按计划申领
 
----
+确认保险公司、保单或计划、受益人和理赔材料，取得案号。雇主知道身故不等于赔款已申请；收到补件要求及时处理，到账后核对金额与说明。
 
-## 3. 找到 core documents
+## 10. 个人购买的寿险另行追踪
 
-至少：
+列出每张保单、保险方和申请状态，从正式渠道提交所需资料。不要把给代理发过消息当成提交完成，也不要向未经核实的来电提供完整身份和银行资料。
 
-- will；
-- trust；
-- death-related wishes；
-- marriage certificate；
-- birth certificates if relevant；
-- beneficiary records；
-- deeds/titles；
-- insurance；
-- tax returns；
-- employer benefits；
-- bank/brokerage inventory；
-- digital assets。
+## 11. 按机构的身故处理渠道操作账户
 
-不要立即把 originals 寄给多个机构。
+联系银行或券商的遗产或受益人服务，说明持有方式及自己的法律身份，取得文件清单。不要借用逝者登录身份转钱、交易或冒名确认。合法访问与资产最终归属需要分别处理。
 
----
+## 12. 先分类资产，再确定程序
 
-## 4. Death certificates 要准备多份 certified copies
+可能涉及法院遗产程序的资产，与信托、有效受益人指定或特定联名形式下的资产分开列出。不能假定所有联名资产自动归生存者，也不能认为遗嘱能覆盖每个账户。分类由文件、适用法律与机构共同确认。
 
-实际会用于：
+## 13. 付款衔接先于盲目关户
 
-- financial institutions；
-- insurers；
-- employer；
-- title/property；
-- courts；
-- government agencies。
+盘点房贷、水电、保险、税款和必要维护，询问哪些账户需冻结或关闭、何时建立合适的遗产账户及如何合法付款。不隐瞒死亡以维持账户，也不在无替代安排时自行切断关键服务。
 
-具体需要多少取决于 estate structure。
+## 14. 债务先确认责任，不急着用自己的钱还
 
-**执行原则**
-先问 institution 是否需要：
-- original certified copy；
-- upload；
-- photocopy。
+[CFPB说明](https://www.consumerfinance.gov/ask-cfpb/am-i-responsible-for-my-spouses-debts-after-they-die-en-1467/)指出配偶一般不因婚姻就承担全部逝者债务，但共同债务及州法可能带来例外。联名持卡人与附属卡使用者也不同。要求书面债务信息，请律师核对责任、遗产偿付顺序与争议期限。
 
-不是每个机构都值得消耗一份 certified original。
+## 15. 逐项检查自动付款
 
----
+区分需延续的住房、保险与维护，和可取消的订阅、会员或其他服务。改变付款方式须有合法权限，并保留确认。退款、押金和应收款也要列入，不只记录支出。
 
-# Social Security
+## 16. 确认最终个人所得税申报义务
 
-## 5. Funeral home 通常会报告 death 给 SSA
+由合适代表与税务人士核对死亡年度及以前漏报年度是否需要申报、谁签字及如何支付或申领退税。[IRS最终个人申报说明](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person)提供入口；不要以身故为由认为所有税务自动结束。
 
-**证据等级:** A · **优先级:** P1
+## 17. 遗产所得税另行判断
 
-SSA 当前说明：funeral home 通常会把死亡报告给 Social Security，因此 family 往往不需要另行报告。
+遗产在管理期间产生的利息、租金等，可能需要单独税号和申报。[当前可读取的2025版Form 1041说明](https://www.irs.gov/instructions/i1041)对美国境内遗产列出总收入**达到600美元**、存在非居民外国人受益人等申报触发条件，并列有其他特定情形。
 
-如果 funeral home 未参与或未报告，应联系 SSA。
+600美元不是遗产价值门槛，也不是所有遗产或信托通用的免报线。让税务人士按实际年度、实体性质和受益人核对，不能仅据这一个数字判断。
 
-**来源**
-- SSA — What to do when someone dies  
-  https://www.ssa.gov/personal-record/when-someone-dies
+## 18. 区分三种税务问题
 
----
+最终个人所得税处理逝者个人税务；遗产所得税处理管理期间的相关收入；遗产税（Estate tax）涉及资产转移的制度。联邦、州及境外义务可能不同，有时即使没有应纳税额也需评估申报或选择事项。这里不提供统一免税额判断。
 
-## 6. Survivor benefits 不会自动等于“已经申请”
+## 19. 房屋管理不能一直等待
 
-SSA survivor benefits 可能适用于：
+确认合法维护人、保险状态、房贷、税款、公共事业和协会费用。住所空置或用途变化时向保险方核对要求，安排安全、气候和漏水风险管理。出售或出租属于另外的权限与决策问题。
 
-- spouse；
-- divorced spouse；
-- child；
-- dependent parent。
+## 20. 清理遗物前保留资产与文件记录
 
-Eligibility 与 age、work record、family situation 等有关。
+先保护重要文件、贵重物、财产来源或成本记录及需估值项目，确认谁有权处分。家庭纪念物也可能引发争议，不自行把无人立即认领理解为可以丢弃。危险或卫生问题由适当人员处理并尽可能记录。
 
-**来源**
-- SSA — Survivor benefits  
-  https://www.ssa.gov/survivor
+## 21. 不要急着重置设备
 
-**执行原则**
-不要因为 death 已经被 SSA 知道，就假设 survivor benefit application 自动完成。
+设备可能含病历、账单、照片和工作资料。先确认合法保存与取得方式，必要时请专业协助，不破解或绕过访问权限。资料保护与账户所有权不是一回事。
 
----
+## 22. 通过合法途径寻找遗漏账户
 
-## 7. Survivor benefit application 要及时看
+账户索引、纸质信件及依法取得的电子账单可帮助找出保险、订阅与资产。不能因邮箱可能有线索就假定家属有权登录；使用平台与机构的身故资料申请流程。
 
-SSA 当前 guidance 提醒，一些 survivor claims 的 benefit timing 与申请时间有关，因此不要无故拖延。
+## 23. 社交平台按自身流程处理
 
-需要的文件可能包括：
+核对是否支持纪念账号、指定联系人、数据申请或删除。先讨论需保留的家庭资料与逝者意愿，再由有权人员办理；共享密码不应是唯一准备。
 
-- proof of death；
-- SSNs；
-- birth certificate；
-- marriage/divorce documents；
-- recent W-2/self-employment records；
-- bank information。
+## 24. 中国资产单独查受理要求
 
-来源:
-https://www.ssa.gov/pubs/EN-05-10084.pdf
+对中国银行、房产、社保及支付账户逐项询问遗产受理流程、关系证明与授权。美国法院文件不能被假定为自动在中国直接执行，需要两地专业人士协调。
 
----
+## 25. 死亡证明跨境使用先问接收方
 
-# Employer / Insurance
+询问认证副本、附加证明书、翻译与地方材料的具体要求，再向合适签发机关办理。一般框架见[第19章](19-文件公证Apostille与跨境授权.md)，不能仅凭办理了附加证明书就保证受理。
 
-## 8. 尽快联系 employer benefits / HR
+## 26. 两地沟通分工，但不要混淆法律身份
 
-可能涉及：
+可各指定一位沟通协调人汇总材料与待办，确保版本一致。谁负责联络不等于谁拥有继承份额、代表权或资金使用权；涉及处分由有权人员确认。
 
-- final payroll；
-- unpaid compensation；
-- bonus；
-- equity；
-- life insurance；
-- AD&D；
-- 401(k)；
-- pension；
-- HSA/FSA；
-- survivor health coverage；
-- company property。
+## 27. 陌生催款与紧急付款先核实
 
-**执行原则**
-不要只联系 deceased 的 manager。
+公开讣告和其他资料可能被用于冒充亲属、机构或债权人。通过独立渠道核对事项，要求书面说明，不因对方知道家庭姓名就付款。见[第15章](15-网络安全与身份盗窃.md)。
 
-真正流程通常在 HR/benefits/payroll。
+## 28. 安排合法查收重要邮件
 
----
+通过邮政和机构的适当程序安排接收，及时处理银行、税务、保险和法院通知。保存原件及收到日期，不等全部遗产程序结束后才看邮件。
 
-## 9. Employer life insurance 要单独 claim
+## 29. 非必要的大决定可以暂缓
 
-有 group life insurance 不代表自动 payout。
+在不违反期限、不扩大损失的前提下，给自己时间评估卖房、赠与、迁居和投资等决定。不设统一30天等待期；有迫近事项时取得独立意见。见[临时生活安排](34-重大打击后的Temporary-Operating-Mode.md)。
 
-需要：
-- beneficiary；
-- claim form；
-- death certificate；
-- employer/carrier workflow。
+## 30. 维护一张私人办理总表
 
----
-
-## 10. Individual life insurance 也要 claim
-
-Private life policy：
-
-- carrier；
-- policy number；
-- beneficiary；
-- death certificate；
-- claim form。
-
-不要仅因为 agent “知道了”就认为 claim filed。
-
----
-
-# Financial Accounts
-
-## 11. 不要立刻登录 deceased account 转钱
-
-即使知道密码，也可能违反：
-
-- institution terms；
-- estate authority；
-- recordkeeping；
-- fiduciary duty。
-
-正确 route：
-
-- beneficiary process；
-- joint-owner process；
-- executor/administrator process；
-- trust process。
-
----
-
-## 12. Beneficiary-designated assets 与 probate assets 分开
-
-常见 non-probate transfer 可能包括：
-
-- life insurance；
-- retirement beneficiary；
-- TOD/POD；
-- jointly owned property；
-- trust assets。
-
-Will 通常主要控制 probate estate。
-
-**执行原则**
-先 classify，再操作。
-
----
-
-## 13. 不要过早关闭 checking account
-
-Estate 可能仍需：
-
-- utilities；
-- mortgage；
-- tax；
-- insurance；
-- funeral；
-- maintenance；
-- refunds。
-
-Attorney/executor 应决定何时关闭、是否建立 estate account。
-
----
-
-## 14. Credit cards 要逐一处理，但不要 blindly pay
-
-需要区分：
-
-- authorized user；
-- joint account；
-- individual card；
-- estate liability；
-- autopay；
-- rewards。
-
-不要假设 spouse 自动承担所有 deceased 单独债务，也不要假设一律不承担。
-
-州法、community-property、joint debt 等会影响。
-
----
-
-## 15. 自动付款先 inventory
-
-检查：
-
-- housing；
-- utilities；
-- insurance；
-- subscriptions；
-- phone；
-- storage；
-- clubs；
-- charitable giving。
-
-优先避免：
-- critical insurance lapse；
-- property damage；
-- missed mortgage/tax。
-
-然后再逐步 cancel nonessential services。
-
----
-
-# Tax
-
-## 16. Deceased 仍需要 final individual income tax return
-
-**证据等级:** A · **优先级:** P1
-
-IRS 当前说明：
-- surviving spouse / executor / administrator / legal representative 通常负责 final individual return；
-- generally 和生前一样报告到 death date 为止的 income；
-- prior-year unfiled returns 也可能需要处理。
-
-**来源**
-- IRS — Deceased person  
-  https://www.irs.gov/individuals/deceased-person
-- IRS — File the final income tax returns of a deceased person  
-  https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person
-
----
-
-## 17. Final individual return 与 estate income tax return 是两件事
-
-如果 death 后 estate assets 继续产生 income：
-
-- interest；
-- dividends；
-- rent；
-- capital gain
-
-estate 可能需要独立 tax ID 和 Form 1041。
-
-IRS 当前 guidance：
-> estate annual gross income 超过 $600 时，通常需要 Form 1041。
-
-**来源**
-- IRS — File an estate income tax return  
-  https://www.irs.gov/individuals/file-an-estate-tax-income-tax-return
-
-让 CPA/estate attorney 按 actual estate 处理。
-
----
-
-## 18. Estate tax 与 estate income tax 不同
-
-不要混：
-
-### Estate tax
-对 transfer / estate value 的 tax regime。
-
-### Estate income tax
-estate 在 administration 期间赚到 income。
-
-### Final individual income tax
-deceased death-year personal return。
-
-三个概念不同。
-
----
-
-# Home / Property
-
-## 19. 房子不能“等 probate 完了再管”
-
-继续处理：
-
-- insurance；
-- mortgage；
-- utilities；
-- security；
-- weather；
-- HOA；
-- maintenance；
-- mail。
-
-Vacant home 还可能触发 insurance condition。
-
-尽快通知 insurer / attorney。
-
----
-
-## 20. 不要急着清空房子
-
-先确认：
-
-- will；
-- heirs；
-- valuables；
-- tax basis records；
-- appraisals；
-- business papers；
-- family items；
-- digital devices。
-
-“清理遗物”也可能意外丢掉重要 asset/document。
-
----
-
-# Digital
-
-## 21. 手机和电脑不要第一天 factory reset
-
-可能包含：
-
-- MFA；
-- contacts；
-- photos；
-- documents；
-- account access；
-- authenticator；
-- business records。
-
-先由 executor/family/attorney 评估合法 access 与 preservation。
-
----
-
-## 22. Email 是 estate map
-
-Primary email 往往能帮助找到：
-
-- statements；
-- insurance；
-- bills；
-- subscriptions；
-- cloud；
-- professional contacts。
-
-这也是为什么 digital estate planning 很重要。
-
----
-
-## 23. Social-media memorialization 要按平台流程
-
-不同平台有：
-
-- legacy contact；
-- memorialization；
-- deletion；
-- data request。
-
-不要靠共享密码作为唯一 plan。
-
----
-
-# China / Cross-Border
-
-## 24. 有中国资产时要单独做 China-side administration
-
-可能涉及：
-
-- bank；
-- property；
-- pension/social security；
-- WeChat/Alipay；
-- inheritance；
-- notarization；
-- death certificate authentication；
-- translation。
-
-不要假设美国 probate order 自动解决中国机构问题。
-
----
-
-## 25. U.S. death certificate 在中国使用可能需要 Apostille
-
-自中国实施 Hague Apostille Convention 后，适用 public documents 可按 Apostille framework 办理，但 receiving institution 仍可能要求：
-
-- certified copy；
-- Apostille；
-- translation；
-- additional local forms。
-
-先问 receiving institution。
-
----
-
-## 26. China family communication 要指定 coordinator
-
-跨境 estate 很容易出现：
-
-- U.S. spouse；
-- China parents；
-- siblings；
-- lawyers
-
-多人同时拿到不同版本信息。
-
-指定：
-- one U.S. coordinator；
-- one China coordinator。
-
-减少 confusion。
-
----
-
-# Fraud
-
-## 27. Death 后 fraud risk 会增加
-
-Obituary/public records 可能暴露：
-
-- name；
-- age；
-- family；
-- address。
-
-风险：
-
-- fake creditor；
-- fake charity；
-- identity theft；
-- property scam；
-- account takeover。
-
-不要根据 unsolicited caller 付款。
-
----
-
-## 28. Mail 要尽快控制
-
-包括：
-
-- bank；
-- tax；
-- insurance；
-- medical；
-- investment；
-- government。
-
-不要让 mailbox 长期 unattended。
-
----
-
-# Decision Discipline
-
-## 29. 前 30 天避免非必要不可逆大决定
-
-如果不是法律/财务必要：
-
-先不急：
-
-- 卖房；
-- 大额 gifting；
-- 重仓投资；
-- relocation；
-- quit job；
-- major luxury purchase。
-
-Grief 状态下先让 system 稳定。
-
----
-
-## 30. Estate administration 最好有一个 master tracker
-
-字段：
-
-| Item | Owner | Deadline | Status | Professional |
+| 事项 | 有权办理人／专业协助 | 期限依据 | 当前状态与下一步 | 完成证据 |
 |---|---|---|---|---|
-| Death certificates |  |  |  |  |
-| SSA |  |  |  |  |
-| Employer |  |  |  |  |
-| Life insurance |  |  |  |  |
-| Probate/trust |  |  |  |  |
-| Tax |  |  |  |  |
-| Home |  |  |  |  |
-| Bank |  |  |  |  |
-| Brokerage |  |  |  |  |
-| China assets |  |  |  |  |
+| 死亡证明及必要通知 |  |  |  |  |
+| 法院／信托／账户 |  |  |  |  |
+| 雇主／保险／遗属福利 |  |  |  |  |
+| 税务／债务／住房 |  |  |  |  |
+| 中国资产与跨境文件 |  |  |  |  |
 
----
+以机构接收、依法完成转移、实际到账或专业结案确认作为相应节点，不能只标“已联系”。
 
-# 最小执行集
+## 最小准备与核验范围
 
-如果一个 household 今天只能准备十件事：
+提前保留文件和账户索引、明确意愿与合法权限，让可信接手人知道入口。事件发生后使用[身故办理清单](../checklists/death-administration.md)，真实信息只私下填写。
 
-- [ ] will
-- [ ] executor
-- [ ] health/financial POA
-- [ ] beneficiary review
-- [ ] life insurance inventory
-- [ ] employer benefit inventory
-- [ ] account map
-- [ ] document location
-- [ ] digital-estate plan
-- [ ] spouse knows professionals
-
-死亡后的目标不是“最快把所有东西结束”。
-
-而是：
-
-> **用正确 authority、正确顺序，把生活系统从两个人安全地迁移到 survivor/estate。**
-
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对SSA死亡报告与遗属福利入口、IRS最终个人申报及2025版Form1041说明、CFPB配偶债务责任。更正原文“超过600美元”为“达到600美元”，补充非居民外国人受益人等其他触发情形。未逐州核验遗产法院、债务顺序或两地继承规则，须按个案办理。

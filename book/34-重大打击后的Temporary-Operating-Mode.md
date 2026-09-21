@@ -1,340 +1,99 @@
-# 34 — 重大打击后的临时运行模式（Temporary Operating Mode）
+# 34 — 重大打击后的临时生活安排
 
-重大事件发生后，人的 decision quality、attention、sleep、memory 和 risk tolerance 都可能短期改变。
+丧亲、重大疾病、失业、分居、事故或诈骗后，可以暂时减少事务，把有限精力留给安全、必要照护和真正有期限的事。本章提供分工方法，不把所有人经历概括为同一种心理反应，也不规定恢复时限。
 
-事件可能包括：
-- sudden death；
-- major diagnosis；
-- ICU；
-- layoff；
-- divorce/separation；
-- serious accident；
-- parent emergency；
-- crime；
-- major financial fraud。
+## 1. 先减少必须马上作出的决定
 
-这时最危险的错误之一是：
+先处理安全、医疗、必要住处、儿童或动物照护、关键付款和实际期限。可以安全延后的投资调整、购房、赠与或其他大决定暂缓；不要把本章建议当成固定等待天数或错过期限的理由。
 
-> **仍要求自己按平时模式做重大、不可逆决定。**
+## 2. 指定自愿协调人，并设置替代
 
-所以 household 应该有 temporary operating mode。
+由一位愿意且有能力的人汇总联系与下一步，其他人分担餐食、交通、照护和账单。独居者可找可信亲友或相关服务协助。协调不等于获得医疗、财务或法律代理权。
 
----
+## 3. 把基本生活安排交给具体的人
 
-## 1. 首先降低 decision load
+尽可能保持饮食、休息和按医嘱用药；需要改变药物或症状持续影响生活时，联系医生。可以请人送饭、接送或轮班，避免要求照护人持续不眠不休。这里不是要求受打击者靠自律立即恢复。
 
-事件后 24–72 小时，只处理：
+## 4. 用简短记录减轻记忆负担
 
-- safety；
-- medical；
-- housing；
-- children/pets；
-- immediate legal deadline；
-- essential money；
-- travel；
-- work notification。
+记录谁说了什么、待确认问题、下一步、负责人和日期。把事实、专业意见与家人推测分开写，重要结论向相关专业人员复述确认。敏感记录只给必要人员。
 
-能延后的：
-- investment reallocation；
-- house sale；
-- large gift；
-- career resignation；
-- major confrontation；
-- luxury purchase
+## 5. 大额决定先问是否真的迫切
 
-先延后。
+需要支付治疗、住宿或避免迫近损失的事项不能一律拖延；其他交易先确认期限与可逆性。即使请人帮助复核，也不让对方代替自己作未经授权的决定。
 
----
+## 6. 身故后先照顾在世的人
 
-## 2. 建一个 incident coordinator
+先安排必要医疗或殡葬联络、儿童与宠物、住所和合法可用资金，再按权限处理遗产。没有统一要求必须在某一天关闭全部账户。见[身故后操作](35-死亡后的实际操作与Estate-Administration.md)。
 
-家庭多人时指定一个人负责：
-- timeline；
-- contacts；
-- documents；
-- next steps。
+## 7. 失业后的工作分阶段
 
-其他人负责：
-- food；
-- travel；
-- pet；
-- family communications；
-- bills。
+先列保障结束、协议与适用身份等真实期限，合法保存文件并做现金预算；再规划求职和可能迁居。不要因压力立即签不理解的协议或作长期资金决定。见[员工福利](22-工作失业与Employee-Benefits.md)。
 
-不要所有人同时给医院/律师打电话。
+## 8. 重大诊断后先问医疗团队几个问题
 
----
+目前确认了什么、还缺什么检查、谁负责下一步、有什么治疗选择、何时必须决定、哪些症状需要立即求助？让医生推荐适合当前病情的资料。网上他人的最坏经历不能说明自己的预后。
 
-## 3. Sleep / food / medication 是 operational requirement
+## 9. 需要时请第二人陪同沟通
 
-重大打击时，人很容易：
-- 不吃；
-- 不睡；
-- 停 regular medication；
-- excessive alcohol；
-- endless caffeine。
+在患者同意和机构允许的范围内，陪同人可帮助提问、记要点和处理后勤。患者能自行决定时仍由患者决定；不能自行决定时按适用法律和授权处理。
 
-这会直接恶化 decision quality。
+## 10. 信息更新由一人汇总，范围由当事人决定
 
-**执行原则**
-把基础生理功能当任务，不当“情绪管理建议”。
+商量哪些消息可以告诉谁、用什么渠道、多久更新一次。不必每天向所有亲友汇报，也不要让医疗团队反复向多个未获授权的人说明同一内容。
 
----
+## 11. 把帮助写成可接手的任务
 
-## 4. 用 notes 记录，不依赖 working memory
+| 任务 | 谁已同意负责 | 需要的权限或信息 | 完成证据 | 备用方案 |
+|---|---|---|---|---|
+| 接送或住宿 |  | 时间、地址、行动需要 | 到达或预订确认 |  |
+| 医疗沟通记录 |  | 患者同意、提问清单 | 记录与下一次沟通 |  |
+| 儿童／宠物照护 |  | 接送、喂药与费用授权 | 接手确认 |  |
+| 雇主／保险联络 |  | 最少必要资料 | 案号、期限与答复 |  |
+| 必要账单／邮件 |  | 合法访问与代办范围 | 已付款或已转交 |  |
 
-Stress 下容易忘：
-- doctor name；
-- diagnosis；
-- case number；
-- callback；
-- deadline。
+这张表只在私人系统填写；没有人接手的任务明确标出，而非默认某位家人会做。
 
-记录：
-- 谁说了什么；
-- 下一步；
-- 谁负责；
-- 什么时候 follow up。
+## 12. 大额付款独立核实
 
----
+确认收款机构、费用项目和账户，通过事先核实的渠道联系；有可信第二人时请其协助复核。不要因对方声称“必须现在付”就跳过验证。正在发生诈骗损失时立即联系金融机构。
 
-## 5. 不要在医院 hallway 做复杂财务决定
+## 13. 不向陌生来电提供完整资料
 
-如果不是必要：
-- investment sale；
-- loan；
-- property；
-- business transaction
+殡葬、医院、灾后维修或亲属名义的联系都需核对。公开的信息越多，越容易被用来编造可信故事；保留必要隐私，不依据来电显示或熟悉称呼付款。具体防护见[第15章](15-网络安全与身份盗窃.md)。
 
-等 acute phase 后处理。
+## 14. 不要把严重身体症状一律归因于情绪
 
----
+出现危及生命的症状按急救流程处理，不能因为刚经历悲痛就忽略。持续难以维持日常生活时也可以寻求医疗或心理支持。紧急入口见[第03章](03-紧急情况与急救.md)。
 
-## 6. Death 后第一天不需要解决全部 estate
+## 15. 可以暂停非必要社交
 
-优先：
-- immediate family；
-- hospital/funeral home；
-- pets/children；
-- home security；
-- employer；
-- immediate cash access。
+可简短说明：“家里正在处理紧急情况，我们可能回复较慢。”（We’re dealing with a family emergency and may be slow to respond.）不必分享完整经过，也不需要为了礼貌继续承办聚会。
 
-之后再：
-- death certificates；
-- executor；
-- accounts；
-- benefits；
-- tax；
-- probate。
+## 16. 向雇主说明需要的安排
 
----
+告知目前可联络时间、请假需求和下一次更新方式，按政策向指定部门提交必要证明。只向需要的人提供相应信息；休假期间收入、岗位保护和医保分别核对。
 
-## 7. Layoff 后不要第一天重做整个人生
+## 17. 真正的期限单独管理
 
-第一层：
-- health coverage；
-- severance deadline；
-- cash runway；
-- unemployment；
-- equity/benefits documents。
+法院答复、保险通知、福利选择、申诉、税务、移民和合同等可能各有期限。请适当专业人士确认起算点、可否延期和提交方式。记下完成证据，不能用“已经问了客服”替代办理。
 
-第二层：
-- job search；
-- career direction；
-- relocation。
+## 18. 按实际情况安排复盘
 
-分阶段。
+在急迫事项有人接手后，约一个可调整的复盘时间：哪些已完成，哪些仍待核实，暂缓决定是否需要恢复，照护负担是否可持续。不要求在一至四周内恢复正常，持续事件可以继续简化安排。
 
----
+## 19. 事后修补流程，不给家人打分
 
-## 8. Major diagnosis 要防 Google spiral
+记录找不到的文件、失效电话、权限缺口和可改善的交接。尊重当时的压力与能力，避免把复盘变成追责会议。把修补写回[家庭紧急手册](30-Household-Emergency-Runbook.md)。
 
-更好的 sequence：
-1. confirm diagnosis；
-2. staging/severity；
-3. appropriate specialist；
-4. second opinion if meaningful；
-5. treatment options；
-6. timeline；
-7. trusted sources。
+## 20. 最小行动清单
 
-不要第一晚搜索到所有 worst-case anecdote。
+- [ ] 人身安全与必要医疗已得到处理。
+- [ ] 必要照护、住处、餐食与付款有人接手。
+- [ ] 重要决定与真实期限已区分。
+- [ ] 权限、信息分享与收款渠道已核对。
+- [ ] 未完成事项有负责人、下一步和适当复盘。
 
----
+暂时减少任务是允许的。目标是维持必要生活，并在需要时取得帮助。
 
-## 9. 医疗重大决定带第二个人
-
-尤其：
-- cancer；
-- surgery；
-- ICU；
-- neurologic disease。
-
-第二个人帮助：
-- notes；
-- questions；
-- memory；
-- logistics。
-
-不是为了替 patient 决定。
-
----
-
-## 10. Family communication 设 spokesperson
-
-避免：
-- 每个人 separately call；
-- doctor repeating same update；
-- inconsistent information。
-
-一个 coordinator 发 daily summary。
-
----
-
-## 11. “帮忙”要给别人具体任务
-
-比：
-> “有需要告诉我。”
-
-更有用：
-- pick up pet；
-- bring clothes；
-- cancel reservation；
-- call insurer；
-- drive parent；
-- collect mail。
-
-接受帮助也是 crisis skill。
-
----
-
-## 12. 大额付款设置 second-person check
-
-Stress + urgency 是 scam 最爱环境。
-
-任何：
-- funeral；
-- hospital；
-- lawyer；
-- emergency travel；
-- wire
-
-大额支付最好第二个人看一眼。
-
----
-
-## 13. Scam risk 在重大打击期上升
-
-Obituary、hospitalization、disaster 都可能暴露信息。
-
-警惕：
-- fake charity；
-- fake relative；
-- government impersonation；
-- funeral upsell；
-- contractor scam。
-
----
-
-## 14. Grief 与 medical emergency 可以共存
-
-丧亲/重大 stress 后如果出现真正严重身体症状，不要把一切归为：
-> “只是难过/焦虑。”
-
-该走 emergency pathway 就走。
-
----
-
-## 15. Crisis 后暂时降低 social obligations
-
-可以直接：
-> “We’re dealing with a family emergency and may be slow to respond.”
-
-不用维持正常 hosting/social calendar。
-
----
-
-## 16. Work communication 简洁即可
-
-通知 manager/HR：
-- emergency；
-- expected availability；
-- leave request；
-- contact method。
-
-不需要给整个团队完整 medical/family details。
-
----
-
-## 17. Legal deadline 单独标红
-
-Crisis 中最不能延误：
-- court；
-- insurance notice；
-- benefit election；
-- appeal；
-- tax；
-- immigration；
-- contract termination。
-
-让 attorney/CPA 帮忙识别 deadlines。
-
----
-
-## 18. Temporary mode 要有 exit review
-
-1–4 周后问：
-- 哪些 emergency task finished？
-- 哪些 postponed decision 可以恢复？
-- insurance/legal/tax 下一步？
-- health follow-up？
-- household workload 是否需要 temporary help？
-
----
-
-## 19. 重大事件后更新 runbook
-
-事后：
-- 什么找不到？
-- 哪个号码错了？
-- 哪个保险不清楚？
-- 谁最有用？
-- 哪个授权缺失？
-
-把 lesson 写回 system。
-
----
-
-## 20. Crisis checklist
-
-### First hours
-- [ ] safety
-- [ ] medical
-- [ ] children/pets
-- [ ] local responder
-- [ ] key family
-
-### First day
-- [ ] employer
-- [ ] insurance
-- [ ] documents
-- [ ] travel
-- [ ] food/sleep/meds
-- [ ] coordinator
-
-### First week
-- [ ] professional advice
-- [ ] deadlines
-- [ ] cash
-- [ ] benefits
-- [ ] follow-up appointments
-- [ ] temporary household support
-
----
-
-## 核心原则
-
-> **重大打击后的目标不是立刻“恢复正常”，而是暂时把 household 切到一个更简单、更安全、犯错成本更低的 operating mode。**
-
-最后更新：2026-09-21
+最后编辑：2026-09-21。本章为家庭分工实践框架；删除了没有充分依据的固定24—72小时及1—4周时程，不作为心理诊断或治疗建议。医疗、法律与福利流程及核验范围见所链接章节。
