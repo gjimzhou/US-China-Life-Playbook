@@ -283,7 +283,8 @@
 
 完整规则：
 
-[STYLE.md](STYLE.md)
+- [STYLE.md](STYLE.md) — 双语写作规范
+- [GLOSSARY.md](GLOSSARY.md) — 常用中英术语表
 
 这样做的原因是：
 
@@ -430,7 +431,7 @@ Current:
 - **11 actionable checklists**
 - **100 U.S. tacit-knowledge rules**
 - methodology + source policy
-- bilingual style guide
+- bilingual style guide + glossary
 - contribution policy
 - public-first privacy policy
 - repository privacy audit
