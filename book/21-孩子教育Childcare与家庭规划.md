@@ -8,11 +8,13 @@
 
 先确定每日需要覆盖的时段、通勤和特殊照护需求，再比较方案，不把一种选择视为所有家庭的最优解。
 
+**找托育入口：** [ChildCare.gov：Getting Started — Finding and Choosing Child Care](https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care/simple-steps-for-finding-and-choosing-child-care)；从页面进入本人州 / territory 的 provider search、consumer education 与 licensing 资源。
+
 ## 2. 执照与实际质量分别核对
 
 向州或地方托育主管机构查询该类服务是否需要许可、注册或符合豁免，以及具体经营者的状态。不要仅凭机构展示的证书照片判断仍有效。
 
-原始查询入口可参考 [ChildCare.gov 托育许可指引](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing)。本次该页未能读取，本文不据此宣称已核验所有州的许可或豁免规则。
+**直接查询：** [ChildCare.gov：What Is Child Care Licensing?](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing) · [ChildCare.gov：How Child Care Is Regulated](https://www.childcare.gov/consumer-education/regulated-child-care)。页面现可读取；它说明 licensing 是最低健康与安全监管框架，但具体 license-exempt 类别和主管机构仍由州 / territory 决定。
 
 ## 3. 背景审查问清覆盖范围
 
@@ -20,17 +22,23 @@
 
 对直接雇佣的保姆，还需核实工作推荐、照护技能和适用雇佣要求；收集个人信息及背景调查也应依法进行。
 
+**继续看：** [ChildCare.gov：Staff Background Checks](https://childcare.gov/consumer-education/regulated-child-care/staff-background-checks)；直接雇保姆不等于 licensed child-care program，家庭雇佣的税务与劳动规则另见第 39 章。
+
 ## 4. 看检查与整改记录
 
 从主管机构渠道查询可公开的检查、违规、投诉处理和整改情况。问机构如何处理具体问题，而不是只按照片、装修或营销材料判断。
 
 不同地区公开记录的范围不同，未查到记录不一定代表从未出过问题。
 
+**查检查记录：** [ChildCare.gov：Monitoring and Inspections](https://childcare.gov/consumer-education/regulated-child-care/monitoring-and-inspections)。该页说明各州 / territory 应在线提供 licensed programs 的 monitoring / inspection 结果，并从州资源页进入实际记录。
+
 ## 5. 参观时问日常操作
 
 核对师生比例、人员稳定、病童政策、给药、过敏、睡眠安全、接送授权、出入管理、事故通知与疏散安排。要求看到适用的书面政策，并观察人员如何与孩子互动。
 
 关注自己的孩子是否适应，包括语言、残障或特殊医疗需求。不要把课程名词当作安全管理的替代品。
+
+**参观前可用：** [ChildCare.gov：Simple Steps for Finding and Choosing Child Care](https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care/simple-steps-for-finding-and-choosing-child-care)，里面把 licensing status、inspection reports、quality ratings、hours、cost 与现场访问放在同一流程中。
 
 ## 6. 准备备用照护
 
@@ -44,11 +52,15 @@
 
 联邦税务框架见 [IRS 家庭雇主指南](https://www.irs.gov/publications/p926)，细节见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。先明确工作范围、休假、替班和付款记录。
 
+**表格入口：** [IRS：Publication 926](https://www.irs.gov/publications/p926) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [USCIS：Form I-9](https://www.uscis.gov/i-9-central)。
+
 ## 8. 育儿休假分清保障来源
 
 联邦家庭与医疗休假法（FMLA）对符合条件的员工提供适用的岗位保护及团体医保延续要求，但本身通常不保证带薪。州制度与雇主福利可能另外提供收入。
 
 资格、通知和证明材料见[第 22 章](22-工作失业与Employee-Benefits.md)，不要等返岗前才确认。
+
+**联邦入口：** [U.S. Department of Labor：FMLA](https://www.dol.gov/agencies/whd/fmla) · [DOL：Am I Eligible for FMLA Leave?](https://www.dol.gov/agencies/whd/fmla/am-i-eligible-FMLA-leave)。州带薪假和雇主福利另查。
 
 ## 9. 出生前复核福利与费用
 
@@ -56,11 +68,13 @@
 
 雇主的口头简介不能替代实际计划文件。两位家长的安排应放在一起比较。
 
+**工作场所哺乳支持：** [DOL：Pump at Work](https://www.dol.gov/agencies/whd/pump-at-work) · [Fact Sheet #73](https://www.dol.gov/agencies/whd/fact-sheets/73-flsa-break-time-nursing-mothers)。州法和雇主福利可能提供更高保护。
+
 ## 10. 新生儿参保主动办理
 
 出生可能触发特别参保期（special enrollment period），但期限与材料按计划类型确认。不要假设医院登记出生后就自动完成所有保险手续。
 
-[HealthCare.gov 特别参保说明](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)说明出生等事件可触发相应窗口；雇主计划另向管理员确认。记录通知日期、生效日和提交回执。
+**参保入口：** [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：Pregnant or Planning to Get Pregnant](https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)。Marketplace 与 job-based plan 的通知窗口不同；雇主计划另向 administrator 确认并保存回执。
 
 ## 11. 提前了解儿科服务
 
@@ -68,15 +82,21 @@
 
 孩子急症的识别与处理由医护指导，不能以“等家庭儿科医生上班”替代及时求助。
 
+**找儿科医生 / 查资格：** [Medicare Care Compare](https://www.medicare.gov/care-compare/)可辅助查 clinician / facility，州医师执照从 [FSMB State Medical Board Directory](https://www.fsmb.org/contact-a-state-medical-board/)核对；儿科保险网络仍以本人 plan directory 为准。
+
 ## 12. 安全座椅按身高体重和说明书使用
 
 CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上限；之后使用适合的前向约束，再到增高垫，直至成人安全带正确贴合。13 岁前在后排正确约束。
 
-年龄只是参考，还要看每辆车内安全带的贴合情况。来源：[CDC 儿童乘车安全](https://www.cdc.gov/child-passenger-safety/prevention/index.html)。州法最低要求与安全建议可能不同，两者都应核对。
+年龄只是参考，还要看每辆车内安全带的贴合情况。
+
+**继续看 / 选座椅：** [CDC：Child Passenger Safety](https://www.cdc.gov/child-passenger-safety/prevention/index.html) · [NHTSA：Car Seats and Booster Seats](https://www.nhtsa.gov/car-seats-and-booster-seats)。州法最低要求与安全建议可能不同，两者都应核对。
 
 ## 13. 不确定安装时寻求检查
 
-按车辆和座椅说明书安装，查当地认证儿童乘车安全技术员（CPST）的检查服务、预约及费用。可从上述 CDC 页的相关入口继续查询。
+按车辆和座椅说明书安装，查当地认证儿童乘车安全技术员（CPST）的检查服务、预约及费用。
+
+**安装检查入口：** [NHTSA：Car Seats and Booster Seats](https://www.nhtsa.gov/car-seats-and-booster-seats) · [NHTSA：Keep Kids Safe on the Road](https://www.nhtsa.gov/car-seats-and-booster-seats/keep-kids-safe-road)。NHTSA 页面可继续进入 inspection station / technician 查找工具。
 
 接送人也要知道正确使用方式。临时换车、租车或祖父母接送时重新检查，不认为安装过一次就永远适用。
 
@@ -107,6 +127,8 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 ## 18. 住房决定前确认学校分配
 
 向学区或招生机构核对具体地址、年级、入学资格、边界、交通与课后照护。邮政编码、房产广告和往届入学经历不能保证当前学位分配。
+
+**找官方学区入口：** [NCES：Search for Public School Districts](https://nces.ed.gov/ccd/districtsearch/)可用于找到 district；具体 address assignment、enrollment 和 boundary 仍以该学区当前官网为准。
 
 保存官方答复，重大购房决定仍需了解边界或项目可能变化。
 
@@ -146,4 +168,4 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 - [ ] 儿科、安全座椅、监护与财务安排已讨论。
 - [ ] 学校、预算、共享日历与儿童隐私相互配合。
 
-最后编辑与来源核验：2026-09-21。核对 CDC 乘车安全、劳工部 FMLA、HealthCare.gov 特别参保及 IRS 家庭雇主框架。ChildCare.gov 许可和背景审查页面本次访问受限，相关段落已改为向州主管机构核验的具体问题，未声称完成全国托育规则复核。
+最后编辑与来源核验：2026-09-21。已重新核对 ChildCare.gov 当前可访问的 licensing、background checks、monitoring / inspections 与 provider-selection 页面，以及 CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、HealthCare.gov 新生儿特别参保、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。
