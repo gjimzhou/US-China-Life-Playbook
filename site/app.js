@@ -24,6 +24,7 @@ function safeMarkdown(text,path){
    }catch{node.removeAttribute('href')}
   }
  }
+ for(const input of template.content.querySelectorAll('input[type="checkbox"]'))input.closest('li')?.classList.add('task-item');
  return template.content;
 }
 function directory(){const container=$('directory');container.replaceChildren();for(const kind of ['正文','清单','参考']){const group=el('details');group.open=true;group.append(el('summary',kind));for(const doc of docs.filter(d=>d.kind===kind)){const a=el('a',doc.title);a.href=route(doc.path);a.dataset.path=doc.path;group.append(a)}container.append(group)}}
