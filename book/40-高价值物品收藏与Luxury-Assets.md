@@ -1,645 +1,247 @@
 # 40 — 高价值物品、收藏与奢侈品资产（Luxury Assets）
 
-高收入家庭的一个典型 blind spot：
+手表、珠宝、艺术品、酒、乐器和其他收藏，需要管理的不只是价格。所有权证明、真伪、存放、运输、保险和继承安排决定了出事后能否说明情况、获得赔偿或顺利交接。以下以整理和核对为主，不构成投资回报判断。
 
-> **会认真管理股票，却用普通 household habits 管理六位数的实物。**
+## 1. 区分使用、收藏与投资目的
 
-可能包括：
-
-- watches；
-- jewelry；
-- art；
-- wine；
-- handbags；
-- cameras；
-- musical instruments；
-- collectibles；
-- rare books；
-- precious metals；
-- sports memorabilia。
-
-这类资产的风险不是只有：
-
-> “会不会涨价？”
-
-还包括：
-
-- theft；
-- mysterious loss；
-- fire/water；
-- breakage；
-- authentication；
-- provenance；
-- insurance；
-- shipping；
-- customs；
-- storage；
-- estate；
-- resale fraud。
+先写下购买的主要目的：日常使用、兴趣收藏，还是预期出售获利。存在二手市场不代表随时能按标价卖出；不要为了合理化消费而假设固定升值率。
 
 ---
 
-## 1. 先区分“消费品”与“资产”
+## 2. 建立私人清单
 
-不是所有贵东西都值得当 investment。
-
-可以分：
-
-### Consumption luxury
-主要价值来自使用/体验。
-
-### Collectible
-有 secondary market，但价格高度 idiosyncratic。
-
-### Investment-like collectible
-长期保存、交易、provenance、market depth 都更重要。
-
-**执行原则**
-不要因为 resale value 存在就强行给所有 luxury purchase 算 IRR。
+记录类别、制作者、型号、序列号、购买日期、卖方、价格、凭证、照片、附件、估价与保险情况。清单只放在受保护的私人位置，公开仓库只留空白模板。
 
 ---
 
-## 2. Inventory 是第一层 infrastructure
+## 3. 证明材料另存一份
 
-每件高价值物品至少有：
-
-- category；
-- brand/maker；
-- model/reference；
-- serial；
-- purchase date；
-- seller；
-- purchase price；
-- receipt；
-- photos；
-- box/papers；
-- appraisal if relevant；
-- insurance status；
-- storage location。
-
-Public repo 不保存真实 inventory。
+物品与唯一纸质发票不要成为同一次火灾或盗窃的共同损失。保留清晰的数字副本和必要异地备份，确认有权限的家人在需要时能找到。
 
 ---
 
-## 3. Receipt、serial、photos 分开存
+## 4. 逐项问保险保障
 
-不要出现：
+不要从住房保险总保额推断每件珠宝都获足额保障。请经纪按保单回答下表，并指出具体条款。
 
-> 物品和唯一证明都在同一个家里。
-
-更合理：
-
-- secure digital archive；
-- offsite/cloud copy；
-- physical originals as appropriate。
-
-如果 burglary/fire：
-> proof 不应一起消失。
+| 要问的问题 | 需要确认的内容 |
+|---|---|
+| 如何列保 | 逐件列明（Scheduled）还是合并额度（Blanket） |
+| 如何赔付 | 约定价值（Agreed Value）、重置成本（Replacement Cost）或其他基础 |
+| 什么损失受保 | 盗窃、意外损坏、原因不明的遗失及除外责任 |
+| 哪里受保 | 家中、旅行、运输、异地仓储和借出 |
+| 有哪些条件 | 自付额、估价文件、成对物品、新购物品与保管要求 |
 
 ---
 
-## 4. Homeowners/renters policy 可能有 valuables sublimit
+## 5. 自担损失也应是明确决定
 
-普通 policy 对：
-
-- jewelry；
-- watches；
-- art；
-- collectibles
-
-常见有 category limit / peril limitation。
-
-**执行原则**
-问 agent：
-
-- scheduled?
-- blanket?
-- agreed value?
-- replacement cost?
-- mysterious disappearance?
-- worldwide?
-- deductible?
-- appraisal?
-- pair/set?
-- newly acquired item grace period?
+评估单件损失及同一地点全部损失对现金流的影响。能够承受经济损失，不等于能补回纪念意义；可以选择少带、分散存放或投保，而不必为所有东西购买相同保障。
 
 ---
 
-## 5. “我买得起再买一个”也要做 deliberate self-insurance
+## 6. 估价先说明用途
 
-自保是一个真实选择。
-
-但要算：
-
-- single-item loss；
-- total collection loss；
-- theft cluster；
-- fire；
-- travel；
-- liquidity；
-- emotional irreplaceability。
-
-**执行原则**
-uninsured 应该是 decision，不是 oversight。
+保险、出售、捐赠、离婚或遗产使用的估价可能有不同标准。请估价人说明用途、日期、方法和资格，不把商家的零售重置估价直接当成可成交市价。涉及报税或诉讼时，先让相应专业人士明确报告要求。
 
 ---
 
-## 6. Appraisal 的用途要明确
+## 7. 区分标价与可得金额
 
-可能用于：
-
-- insurance；
-- estate；
-- donation；
-- divorce；
-- resale。
-
-不同目的 valuation standard 可能不同。
-
-不要拿：
-> dealer replacement appraisal
-
-自动当成：
-> fair market value。
-
-重大 legal/tax matter 用 qualified appraisal professional。
+原价、经销商挂牌价、拍卖落槌价、出售净收入和保险估值是不同数字。清单注明价格来源与日期；调整保额前与经纪确认，不机械沿用购买价格。
 
 ---
 
-## 7. Market price 与 replacement value 不同
+## 8. 保存来源与附件
 
-某些 collectible：
-
-- MSRP；
-- dealer ask；
-- auction hammer；
-- private sale；
-- insured replacement
-
-可能差很大。
-
-**执行原则**
-保险 limit 不要机械等于 purchase price。
+发票、鉴定证书、来源记录（Provenance）、原配附件和进出口文件有助于解释物品历史。记录缺失情况，不为提高售价编造完整来源。
 
 ---
 
-## 8. Box/papers/provenance 有时显著影响 resale
+## 9. 维修也是档案的一部分
 
-尤其：
-
-- watches；
-- art；
-- collectibles；
-- limited edition。
-
-保存：
-
-- original invoice；
-- certificates；
-- service records；
-- provenance；
-- export/import docs。
-
-不是为了“囤盒子”，而是 preserve optionality。
+保存维修机构、日期、项目、替换零件、保修和前后照片。未来转售或理赔时，能够区分原始状态与后续改动。
 
 ---
 
-## 9. Service record 本身就是资产记录
+## 10. 送修前约定责任
 
-高价值 watch/camera/instrument 等：
-
-- service center；
-- date；
-- replaced part；
-- serial；
-- warranty。
-
-未来 authenticity / resale / insurance 都可能需要。
+拍摄外观与识别标记，取得详细收件凭证，问清运输保障、维修授权、旧件归还和无法修复的处理。稀有物品的更换、抛光或修复先确认对价值的可能影响。
 
 ---
 
-## 10. 不要让维修把 provenance 弄丢
+## 11. 运输申报价值不等于足额保险
 
-送 repair/service：
-
-- photos before；
-- serial；
-- itemized receipt；
-- shipping insurance；
-- return tracking；
-- replaced parts policy。
-
-特别是 rare/original parts 对 collectible value 可能重要。
+向承运人和保险人分别核对责任上限、物品除外、包装、签收、途中保障和索赔期限。发货前明确由谁承担风险、保存什么证据；追踪显示“已送达”不能解决全部争议。
 
 ---
 
-## 11. Shipping risk 不是只看 carrier tracking
+## 12. 旅行存放按实际条件选择
 
-高价值 shipping 要问：
-
-- declared value；
-- carrier limit；
-- exclusions；
-- signature；
-- packaging；
-- insurer transit coverage；
-- dealer responsibility；
-- lost package process。
-
-**执行原则**
-$50,000 item 用 $500 default carrier liability 是结构性错误。
+酒店保险箱、前台寄存或随身携带都不是绝对安全。结合物品大小、行程、保单要求和可接受损失决定是否携带，保存寄存凭证，避免实时公开存放位置。
 
 ---
 
-## 12. Hotel safe 不是绝对 security guarantee
+## 13. 托运前核对责任限制
 
-Travel 时分层：
-
-- 身上；
-- room safe；
-- hotel vault；
-- luggage；
-- checked baggage。
-
-根据：
-- item；
-- insurer conditions；
-- destination；
-- hotel；
-- personal comfort
-
-决定。
-
-不要把所有 valuables 一股脑放同一个位置。
+贵重小件若能合法、安全随身携带，通常更容易自行看管；但仍需遵守安检与航空公司要求。必须托运时，核对承运及保险保障，拍照并保存交接凭证。
 
 ---
 
-## 13. Checked baggage 不适合多数小型高价值物品
+## 14. 出境前登记可帮助识别原有物品
 
-原因：
+**证据等级：A · 优先级：P2**
 
-- loss；
-- delay；
-- damage；
-- airline liability limits；
-- theft；
-- temperature（某些物品）。
+美国海关的个人物品登记表（Form 4457）可用于符合条件、有序列号或其他永久独特标记的外国来源物品。法规要求向海关人员出示物品与未签名表格办理核验；不是自行填表就完成登记。出发前向办理口岸确认安排。
 
-可随身安全携带时，通常更可控。
-
-仍要遵守 aviation/security rules。
+来源：[美国海关法规第148.1条](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
 
 ---
 
-## 14. 出境前可考虑 CBP Form 4457 证明原本就拥有
+## 15. 境外维修另看海关处理
 
-**证据等级:** A · **优先级:** P2 when relevant
+原有物品在境外维修或改装，不能仅凭旧购买证明排除税务问题。第148.31条对维修改装与旅途中使用磨损附带维修作了区分。保存工单和费用，向海关说明，不自行推定全部免税。
 
-CBP 提供 Form 4457 / Registration for Dutiable Personal Articles Prior to U.S. Departure，用于在离境前登记某些贵重 personal articles，以便返美时帮助证明这些物品并非国外新购。
-
-**来源**
-- CBP — Registration for Dutiable Personal Articles Prior to U.S. Departure  
-  https://www.help.cbp.gov/s/article/Article1833
-
-适合考虑的场景：
-
-- expensive foreign-made watch；
-- camera；
-- jewelry；
-- other identifiable serial-number goods。
-
-具体是否需要，按 CBP 当前 guidance。
+来源：[美国海关法规第148.31条](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
 
 ---
 
-## 15. 海外 repair / alteration 返美也可能需要 declare
+## 16. 返美按要求如实申报
 
-CBP 当前说明：
-即使 item 原本是你的，美国境外进行的 repair / alteration 也可能产生 customs duty，并应在返美时申报。
+**证据等级：A**
 
-**来源**
-- CBP Article 1833  
-  https://www.help.cbp.gov/s/article/Article1833
+第148.11条规定入境物品的申报义务。对境外购买、获赠或维修的物品，准备清单与凭证，按海关要求说明；不确定适用分类时主动询问。
 
-**执行原则**
-不要认为：
-> “这东西本来就是我的，所以海外 service 完全不关海关。”
+来源：[美国海关申报法规](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
 
 ---
 
-## 16. 海外新购物品：不确定就 declare
+## 17. 免税额度不是免申报
 
-**证据等级:** A
+申报与是否缴税是两件事。适用免税待遇还取决于身份、行程、物品和其他条件，不应以“金额不大”或“已经拆包装”为由省略说明。
 
-CBP 当前明确：
-> anything you bring back that you did not have when you left the United States must be declared.
-
-**来源**
-- CBP — Customs Duty Information  
-  https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information
-
-**执行原则**
-declare ≠ 一定要交很多 duty。
-
-不申报却应该申报的 downside 通常更差。
+来源：[美国海关法规第148.11、148.33条](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
 
 ---
 
-## 17. Duty-free exemption 不是“国外买东西不用报”
+## 18. 酒类携带逐项确认
 
-CBP personal exemption 是：
-
-- duty treatment；
-- allowance。
-
-不是：
-> “低于 allowance 就不用 declare。”
-
-CBP guidance 强调 qualifying goods 也要 declare。
+出发前向美国海关、入境州酒类主管机构及航空公司核对年龄、数量、税费、个人或商业用途、携带与运输要求。本章不提供通用于所有口岸的酒类数量表；中国出入境也需另外核对。
 
 ---
 
-## 18. Alcohol / wine 有额外 federal + state rules
+## 19. 酒类收藏保留储存记录
 
-CBP 当前说明：
-
-- returning resident 的 federal personal exemption 对 alcohol 有特定数量规则；
-- beyond allowance 可能需要 duty/internal revenue tax；
-- state law 可能更严格；
-- unusually large quantity 可能被视为 commercial import。
-
-**来源**
-- CBP — Customs Duty Information  
-  https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information
-
-**执行原则**
-带 rare wine 回美前同时看：
-- CBP；
-- arrival state law；
-- airline baggage；
-- temperature/shipping。
+按具体酒类的保存要求管理温度、光照、振动和环境，记录购入与转移历史。设置适合储存设施的故障提醒和断电处置，不把标签完整当作储存状态可靠的证明。
 
 ---
 
-## 19. Wine 的最大风险经常不是盗窃，而是 provenance/storage
+## 20. 酒类保险问清变质与设备故障
 
-长期 wine collection 需要：
-
-- temperature；
-- stability；
-- light；
-- vibration；
-- humidity/label preservation；
-- power failure plan；
-- inventory。
-
-Resale 时：
-> storage history / provenance
-
-可能直接影响 value。
+向保险人分别询问破损、渗漏、温度变化、停电和设备失灵是否承保，需要哪些记录。储存设施提供的保障与个人保单是否重叠或有缺口，也应写清。
 
 ---
 
-## 20. Wine insurance 要确认 breakage / leakage / temperature
+## 21. 艺术品重视状态与搬运
 
-普通 valuables policy 未必按你想象 cover：
-
-- spoilage；
-- temperature fluctuation；
-- cork failure；
-- accidental breakage；
-- power outage。
-
-Collection 有规模后问 specialist insurer。
+记录作品、尺寸、来源、状态、装裱、安装和运输历史。脆弱、体积大或价值重大的作品，可请熟悉该类作品的搬运或保护人员评估；先确定包装、环境和交接责任。
 
 ---
 
-## 21. Art 的风险是 handling / transit / water / light
+## 22. 二手交易核对真伪与退货
 
-不仅 theft。
-
-记录：
-
-- artist/work；
-- dimensions；
-- provenance；
-- condition；
-- framing；
-- installation；
-- transport；
-- appraisal。
-
-重大 work 搬家最好用 art mover，而不是普通 mover。
+独立查看卖方历史、鉴定范围、退货条件、付款保护和所有权说明。所谓鉴定保障覆盖什么、谁受理争议，应有明确文件；异常低价不能代替核验。
 
 ---
 
-## 22. Luxury handbag / collectibles 要防 authentication risk
+## 23. 不要把假货当作无风险纪念品
 
-Secondary market purchase：
-
-- seller；
-- authentication；
-- payment protection；
-- return；
-- stolen-goods risk；
-- provenance。
-
-**执行原则**
-“价格低得离谱”不是 deal thesis。
+疑似侵权、来源不明或可能涉及受保护材料的物品，先核对交易及进出口限制，再决定是否购买或携带。本轮未完成假冒商品例外规则核验，不据旧稿断言任何“自用豁免”。
 
 ---
 
-## 23. Counterfeit goods 有 customs/legal risk
+## 24. 公开分享避免暴露实时位置
 
-CBP 对 counterfeit / trademark-restricted goods 有特定 import restrictions，即使存在 narrow personal-use exemptions，也不是“假货随便带”。
-
-**来源**
-- CBP — Personal Use Exemption from Trademark Restrictions  
-  https://www.help.cbp.gov/s/article/Article1858
-
-不要把 counterfeit 当无风险 souvenir。
+分享收藏时遮去序列号、地址、保单与钥匙信息。旅行结束后再发布行程照片，是可选择的简单做法；不要同时公开空房时间与完整收藏位置。
 
 ---
 
-## 24. 贵重物品不要在 social media 实时广播
+## 25. 存放设施按风险选择
 
-风险组合：
-
-- exact collection；
-- home；
-- trip dates；
-- hotel；
-- live location。
-
-**执行原则**
-公开分享可以 delay，不必实时。
+比较防盗、防火、防水、安装条件、报警、访问权限和保险要求。保险柜、银行保管箱或专业仓储各有不同条件，重量和外观不能代替性能与合同核对。
 
 ---
 
-## 25. Home storage 要匹配 threat model
+## 26. 安排合法的备用访问
 
-可能选择：
-
-- hidden storage；
-- rated safe；
-- bank vault；
-- offsite wine/art storage；
-- alarm；
-- camera；
-- building security。
-
-不要只买“看起来很重”的 safe。
-
-评估：
-
-- burglary；
-- fire；
-- flood；
-- access；
-- insurer requirement。
+指定人员需要知道记录在哪里、何时有权访问、如何取得帮助。密码与钥匙的获取能力不等于法律权限；与[失能及遗产规划](10-Estate-Planning与失能.md)一同安排。
 
 ---
 
-## 26. Safe 也会制造 key-person risk
+## 27. 紧急原件不要只有难取的一份
 
-如果只有一个人知道：
-
-- combination；
-- location；
-- key；
-- bank box；
-
-失能/死亡后可能无法访问。
-
-用 estate/digital emergency access 解决。
+护照、遗嘱原件或紧急资金若仅存于本人控制的银行保管箱，失能或死亡后可能不便及时取得。向银行与律师核对访问手续，安排合法可用的替代路径，不默认家属持钥匙就能开箱。
 
 ---
 
-## 27. Bank safe-deposit box 不适合所有 emergency-critical originals
+## 28. 出售前确定付款与交付程序
 
-如果：
-
-- will original；
-- passport；
-- emergency cash
-
-只在本人单独控制的 box，death/incapacity 时可能造成 access friction。
-
-和 estate attorney / bank 确认 ownership/access。
+独立核验买方、中介或托管服务，拒绝只凭付款截图交货。合同写清鉴定争议、退款、运输责任与交接证据；线下面交也要选择合适场所和安全安排。
 
 ---
 
-## 28. Resale 要考虑 payment / fraud / shipping
+## 29. 比较出售净收入
 
-高价值 private sale：
-
-- counterfeit payment；
-- chargeback；
-- stolen card；
-- fake escrow；
-- shipping fraud；
-- meetup robbery。
-
-使用 reputable dealer/auction/escrow-like professional channel 可降低 operational risk，但也有 fee。
+向经销商或拍卖行索取费用明细，区分卖方佣金、买方佣金、运输、保险、摄影、撤拍及税费。明确哪些从自己的款项扣除，比较净收入与到账时间，而不是只比较落槌价。
 
 ---
 
-## 29. Auction hammer price 不是 seller net
+## 30. 遗产安排包含实物
 
-可能有：
-
-- seller commission；
-- buyer premium；
-- insurance；
-- shipping；
-- photography；
-- tax；
-- reserve；
-- withdrawal fee。
-
-投资回报按 net proceeds 算。
+让合法执行人能够找到清单、来源文件和专业联系人，说明重要纪念物品的分配意愿。涉及多人继承时，提前考虑估价与公平分配方法，并让律师确认表达意愿的文件是否有效。
 
 ---
 
-## 30. Estate plan 要包含 physical valuables
+## 31. 赠与家人保留记录
 
-问：
-
-- 谁知道 inventory？
-- 谁继承？
-- 谁能鉴定？
-- 谁能出售？
-- appraisal？
-- equalization between heirs？
-- sentimental items？
-
-不要只在 will 写：
-> “personal property to spouse”
-
-然后没有 inventory。
+记录日期、物品、双方及是否真正转移所有权，移交必要凭证并调整保险。重大或跨境赠与的申报、计税基础及继承影响，请税务与法律专业人士分别核对。
 
 ---
 
-## 31. Gift 给 family 也要保留 record
+## 32. 借出、寄售与展览先问保障
 
-高价值 gift 可能涉及：
-
-- tax reporting；
-- insurance；
-- provenance；
-- ownership；
-- divorce/estate。
-
-保留 dated gift record。
+借给朋友、交给商家寄售或送展，可能改变保管人与风险条件。书面约定期限、状态、运输和损坏处理，并让保险人确认对应情形。
 
 ---
 
-## 32. 借给朋友/活动佩戴也有 insurance implication
+## 33. 清单模板只保留空白
 
-不要假设：
+| 物品及识别信息 | 购买与来源凭证 | 估值日期与用途 | 保险及限制 | 存放与合法访问 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
-- borrowing；
-- entrustment；
-- exhibition；
-- consignment
-
-都和“本人佩戴”一样 covered。
-
-重大 item 先问 insurer。
+填写后移至私人档案，不上传公开版本。
 
 ---
 
-## 33. Collection inventory 不要公开
+## 34. 年度复查与事件更新
 
-公开 repo 最多保存 template：
+- [ ] 核对物品实际状态、清单与凭证。
+- [ ] 检查保额、保障范围及是否需要重估。
+- [ ] 安排必要维修与储存设施检查。
+- [ ] 更新新购、出售、赠与和异地存放记录。
+- [ ] 确认合法备用访问与继承安排。
 
-| Item | Serial | Cost | Appraisal | Insurance | Storage |
-|---|---|---|---|---|---|
-|  |  |  |  |  |  |
-
-真实 serial + home location = security risk。
-
----
-
-## 34. Annual Collection Review
-
-每年：
-
-- [ ] inventory
-- [ ] current value
-- [ ] insurance
-- [ ] appraisal need
-- [ ] receipts/provenance
-- [ ] service
-- [ ] storage
-- [ ] security
-- [ ] estate
-- [ ] items to sell
+购买、搬家或借出重大物品时及时更新，不必等到年底。
 
 ---
 
-## 35. 核心原则
+## 35. 管理做到能证明、能交接
 
-> **高价值实物的最佳管理方式，不是把生活变成保险库，而是让 ownership、proof、insurance、storage、travel、customs 和 estate 都是 deliberate，而不是靠运气。**
+先做好私人清单、来源备份、实际保险核对与合法访问，再按收藏规模增加服务。目的在于减少无法说明和无法交接的问题，不是把兴趣收藏变成不断增加的管理负担。
 
-最后核验：2026-09-21
+## 本轮核验范围与限制
+
+本轮核对美国海关法规第148.1、148.11、148.31及148.33条；法规页面显示更新至2026-09-17。海关帮助文章未成功读取，已移除以其为依据的未核实细节。各州酒类规则、中国海关要求、假冒商品例外、个别保单与估价税务标准未逐一核实，相关段落保留为核对问题，不作资格或赔付保证。其余为一般档案与交接建议。
+
+最后编辑与来源查阅：2026-09-21
