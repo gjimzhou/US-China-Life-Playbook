@@ -10,3 +10,5 @@ article .task-item{list-style:none;position:relative;padding-left:1.65em;margin:
 #theme-toggle{white-space:nowrap;font-size:13px}
 @media(max-width:480px){header nav{gap:6px}header nav>a{display:none}.brand{font-size:14px}.brand small{font-size:11px}#theme-toggle,#menu{padding:6px 8px;font-size:12px}}
 @media print{:root,:root[data-theme="dark"]{--ink:#193545;--muted:#586975;--line:#dce3e7;--blue:#175a7c;--paper:#fff;--wash:#f3f6f8;color-scheme:light}}
+
+.home-link{display:block;margin-top:20px;font-weight:650;font-size:14px}

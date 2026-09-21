@@ -1,6 +1,6 @@
 'use strict';
 const $=id=>document.getElementById(id), repo='https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/';
-let docs=[], current='checklists/first-30-days.md';
+let docs=[], current='HOME.md';
 const route=(path,section='')=>'#'+new URLSearchParams({doc:path,...(section?{section}: {})}).toString();
 function plain(s){return s.replace(/\]\([^)]*\)/g,']').replace(/[#*`>\[\]]/g,'').replace(/https?:\/\/\S+/g,'').replace(/\s+/g,' ').trim()}
 function el(tag,text,cls){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e}
@@ -45,7 +45,7 @@ function render(){
  const article=el('article');for(const s of doc.sections){const section=el('section');section.id=s.id;section.append(safeMarkdown(s.markdown,doc.path));article.append(section)}out.append(article);const a=el('a','查看本章原文与修改记录 ↗','source');a.href=repo+doc.path;out.append(a);
  const section=new URLSearchParams(location.hash.slice(1)).get('section');if(section)requestAnimationFrame(()=>$(section)?.scrollIntoView());
 }
-function navigate(){const params=new URLSearchParams(location.hash.slice(1));current=params.get('doc')||'checklists/first-30-days.md';$('search').value='';$('priority').value='';$('evidence').value='';render();$('sidebar').classList.remove('open');$('menu').setAttribute('aria-expanded','false');if(!params.get('section'))window.scrollTo(0,0)}
+function navigate(){const params=new URLSearchParams(location.hash.slice(1));current=params.get('doc')||'HOME.md';$('search').value='';$('priority').value='';$('evidence').value='';render();$('sidebar').classList.remove('open');$('menu').setAttribute('aria-expanded','false');if(!params.get('section'))window.scrollTo(0,0)}
 for(const id of ['search','priority','evidence'])$(id).addEventListener('input',render);
 $('reset').onclick=()=>{for(const id of ['search','priority','evidence'])$(id).value='';render()};
 $('menu').onclick=()=>{$('menu').setAttribute('aria-expanded',String($('sidebar').classList.toggle('open')))};

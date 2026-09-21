@@ -1,345 +1,125 @@
 # 10 — 遗产与失能规划（Estate Planning）：重点不只是死后分钱
 
-很多年轻高收入家庭听到 estate planning，会自动理解成：
+这类规划先回答两个问题：如果你暂时或长期无法决定事情，谁有权处理；如果你去世，谁负责管理与交接。资产规模不应成为拖延这些问题的理由。
 
-> “资产很多的人才需要做遗产税规划。”
+本章为与律师和医疗人员讨论的准备清单，不是可直接签署的法律文本。州别、身份、家庭和跨境资产都会改变安排。
 
-这是错的。
+## 1. 不同文件解决不同问题
 
-对普通年轻家庭，更现实的问题是：
+| 文件或安排 | 主要讨论的问题 |
+|---|---|
+| 遗嘱（will） | 身后财产处理、执行人及适用的监护提名 |
+| 财务授权委托书（financial power of attorney，POA） | 在规定范围和条件下，由谁处理财务事务 |
+| 医疗决策代理（health-care proxy） | 无法自行决定时由谁代作医疗决定 |
+| 预先医疗指示（advance directive） | 预先表达医疗意愿及相关代理安排 |
+| 受益人指定（beneficiary designation） | 某账户或保单按什么安排支付 |
+| 信托（trust） | 特定财产由谁、按什么条件管理与分配 |
 
-> **如果今晚发生车祸、stroke、昏迷或死亡，谁有法律权力替你行动？**
+表格仅解释分工，不能替代各州定义，也不表示每个人都必须建立信托。
 
----
+## 2. 医疗代理先选人，再讨论文件
 
-## 1. Estate planning 先解决 incapacity，再解决 inheritance
+**优先级：** P1
 
-**优先级:** P1
+选择愿意承担职责、能够联系、理解你的价值观并能与医疗团队沟通的人。询问本人是否同意，再考虑备用人选；不是写下名字就完成安排。
 
-核心文件通常包括不同功能：
+医疗代理的作用是当你不能作决定时，在适用范围内代表你。来源：[美国国家医学图书馆：预先医疗指示](https://medlineplus.gov/advancedirectives.html)。
 
-- will；
-- financial power of attorney；
-- health-care proxy / durable power of attorney for health care；
-- living will / advance directive；
-- beneficiary designations；
-- trust（特定家庭/资产结构）。
+## 3. 医疗意愿与代理安排相互补充
 
-这些不是同一个东西。
+生前预嘱（living will）可表达特定情形下的治疗意愿；医疗授权文件可指定代理人。现实情境难以全部写成选择题，因此还要与代理人讨论你如何权衡收益、痛苦和生活质量。
 
----
+普通预先指示是否需要另外的临床医嘱才能在急救现场执行，应向医生确认，不能自行把它等同于任何形式的不施行心肺复苏医嘱。
 
-## 2. Health-care proxy 要在健康时指定
+## 4. 不假设配偶或伴侣必然拥有全部权限
 
-**证据等级:** A · **优先级:** P1
+无文件时谁可代理、签署需何种见证、谁有资格担任以及跨州认可，均要按适用规则确认。婚姻关系也不等于可以随时取得全部账户和病历。
 
-NIH National Institute on Aging 说明：health-care proxy 是当你无法自己表达医疗决定时，代你做 health-care decisions 的人；具体 legal form 和资格要求因州而异。
+未婚伴侣、重组家庭或存在冲突时，尤其需要明确授权和沟通路径。
 
-**来源**
-- NIA — Choosing a Health Care Proxy  
-  https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy
+## 5. 财务授权须同时考虑便利与滥用风险
 
-**行动**
-选择一个：
-- 你信任；
-- 能理解你的 values；
-- 敢问医生问题；
-- 面对 family conflict 还能执行你的意愿；
-- emergency 时可联系的人。
+财务 POA 可以用于代为处理钱款或财产；持续有效授权（durable power of attorney）可在规定条件下于本人失能后继续有效。生效时点、范围、撤销和监督方式应与律师确认。
 
-最好再有 alternate。
+特别讨论赠与、资产转移和受益人变更是否允许，是否要求向另一位可信赖的人定期报告。不要为方便而授予超出本意的权限，也不把共享密码当成合法授权。
 
----
+来源：[美国消费者金融保护局（CFPB）：授权委托书与滥用防范](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
 
-## 3. Living will 与 health-care proxy 是互补关系
+## 6. 遗嘱不能单独代表全部资产安排
 
-**证据等级:** A
+逐项列出资产所有权形式、受益人、账户协议和可能适用的信托，再请律师核对其与遗嘱是否一致。退休账户、保险、联名财产、死亡后支付或转移安排（POD/TOD）不能仅凭名称推断结果。
 
-NIA 对 advance directive 的解释：
-- **living will**：表达你对特定 medical treatment / end-of-life care 的 preferences；
-- **durable power of attorney for health care**：指定代理人在你不能决策时替你做决定。
+不要假设更新遗嘱自动更新每个金融机构记录。死亡后代理、执行人和受托人的权限也需要分别确认，见[第 35 章](35-死亡后的实际操作与Estate-Administration.md)。
 
-来源:
-https://www.nia.nih.gov/health/advance-care-planning-advance-directives-health-care
+## 7. 受益人记录直接向机构核实
 
-**执行原则**
-现实 medical situation 无法全部预先写死，所以：
-> written preferences + trusted human proxy
+婚姻、离婚、子女出生、受益人去世、换工作或账户转移后，取得当前指定记录，检查姓名、比例、备用受益人及机构是否实际受理。
 
-通常比只填表格更 robust。
+涉及配偶权利、未成年人、信托或跨境受益人时，让律师与计划管理方协同确认，不机械填入同一套姓名。
 
----
+## 8. 婚姻变化触发一次共同复查
 
-## 4. “配偶当然能决定”不要当 universal legal assumption
+一起核对医疗代理、财务授权、遗嘱、受益人、保险、账户所有权、雇主福利、紧急联系和相关协议义务。双方分别理解后再签署，不以“家庭统一管理”为由取消另一方的知情与自主。
 
-State law 会决定：
-- default surrogate hierarchy；
-- unmarried partner rights；
-- witnessing/notary；
-- who can serve；
-- document recognition。
+## 9. 律师委托范围要写明
 
-NIA 也明确提醒：没有 advance directive 时，州法决定谁可以代表你；unmarried partner 如果未被指定，可能被排除在 decision-making 外。
+预约前准备居住与法律住所、家庭关系、资产所在国家、所有权、既有文件和想解决的问题。询问委托是否涵盖起草、签署指导、账户衔接、跨境协调及后续更新，费用如何计算。
 
-**执行原则**
-完成本州合法文件，不靠常识推断。
+跨境或复杂税务不应默认包含在基础遗嘱套餐中。
 
----
+## 10. 签署以后还有实施步骤
 
-## 5. Financial POA 与 medical proxy 不同
+通知被指定的人，交付适当副本，让机构登记，核对受益人变更是否生效。如采用信托，询问哪些资产应如何转入，哪些不应直接改名转入，及相关税务或贷款影响。
 
-Financial power of attorney 可能用于：
-- bank；
-- bill payment；
-- tax；
-- property；
-- contracts；
-- investment/account administration。
+做一张实施清单，逐项记录完成凭证；未执行的安排不能仅因文件已签就视为可用。
 
-它不自动等于 medical decision authority。
+## 11. 与代理人讨论真实价值取舍
 
-**行动**
-与 estate attorney 明确：
-- immediate vs springing；
-- durable；
-- gifting powers；
-- digital assets；
-- real estate；
-- retirement accounts；
-- tax authority；
-- successor agent。
+可以谈什么生活能力对你重要、对长期生命支持的看法、疼痛控制、家人沟通及不确定情况下希望如何决定。用自己的话说明，避免只写抽象的“不要受苦”。
 
-各州规则不同，不照抄网上模板。
+意愿变化时及时更新讨论和适当文件，不让代理人根据多年以前的闲聊猜测。
 
----
+## 12. 定期及重大变化后复查
 
-## 6. Will 的作用也有边界
+年度复查可作为提醒；搬州、婚姻变化、重大诊断、代理人关系或能力变化、资产变化时提前复查。更新后询问旧文件如何处理并通知相关机构，防止同时流通互相冲突版本。
 
-Will 通常处理 probate estate 中的分配、executor 等，但并不是所有资产都按 will 走。
+## 13. 紧急时能找到文件
 
-可能通过其他机制 transfer 的资产包括：
-- retirement beneficiary；
-- life insurance beneficiary；
-- jointly titled property；
-- POD/TOD accounts；
-- trust assets。
+私下记录原件位置、律师联系方式、有效版本及谁持有副本。避免唯一副本只能由本人打开；也不要把所有文件和密码放入公开共享链接。
 
-**执行原则**
-estate plan = documents + account titling + beneficiary designations。
+医疗团队需要什么格式、是否已入档，应实际确认。
 
----
+## 14. 跨境安排单独设计
 
-## 7. Beneficiary designation 要单独年度 review
+美国文件不能仅靠翻译就假定被中国银行、医院或不动产机构接受，反向亦然。先向受理方确认内容、签署、翻译和证明要求，再安排律师、公证或附加证明书（Apostille）。
 
-**优先级:** P1
+证明文件来源真实性与认可其法律效果是不同问题，详见[第 19 章](19-文件公证Apostille与跨境授权.md)。
 
-重大 life event 后检查：
-- marriage；
-- divorce；
-- child；
-- death of beneficiary；
-- employer change；
-- retirement-account rollover。
+## 15. 父母也有自己的意愿与授权安排
 
-不要假设改了 will 就自动改了 401(k)/IRA/life insurance beneficiary。
+在父母知情同意下，确认当地接应、医疗联络、生活账单、资料位置和必要权限。子女住在海外不能替代父母作所有决定，也不能仅凭亲属关系推定授权范围。
 
----
+照护安排见[第 20 章](20-父母养老与远程照护.md)。
 
-## 8. Marriage 后做一次 full legal/financial reset
+## 16. 数字资产与账户恢复一并准备
 
-建议触发：
-- beneficiary review；
-- health proxy；
-- POA；
-- will；
-- insurance；
-- account ownership；
-- employer benefits；
-- emergency contact；
-- tax filing planning；
-- prenup/postnup obligations if applicable。
+整理主要邮箱、密码管理器、云存储、域名、订阅及其他重要数字资产的索引，核对平台提供的代理、遗产联系人或恢复渠道。
 
-婚姻是 household operating system merge event。
+实际密码和恢复资料私下保护。技术上能登录不等于法律上有权操作，安排中应同时讨论权限与证据。
 
----
+## 17. 税务是其中一部分
 
-## 9. Estate attorney 不只是“写一份 will”
+向专业人士说明公民身份、税务身份、财产所在地及受益人情况，再判断联邦、州及跨境遗产或赠与规则。不以单一联邦免税额推断所有义务，也不为了税务优化延误基本授权与照护准备。
 
-好的 engagement 应该至少讨论：
-- domicile/state law；
-- family structure；
-- assets/titling；
-- beneficiaries；
-- incapacity；
-- executor/trustee/agent；
-- tax considerations；
-- cross-border assets；
-- digital estate；
-- pets；
-- document storage。
+本章不固定免税额或推荐特定信托税务策略。
 
----
+## 18. 实施清单与核验范围
 
-## 10. Document signed ≠ plan operational
+- [ ] 医疗意愿及代理人已讨论，文件按当地要求办理。
+- [ ] 财务授权的范围、生效和监督已明确。
+- [ ] 遗嘱、资产所有权、受益人与信托安排由专业人士核对。
+- [ ] 指定人员知情，机构登记与实施步骤有记录。
+- [ ] 原件、副本和数字资料可由适当人员取得。
+- [ ] 跨境受理和重大变化后的复查有负责人。
 
-最常见失败：
-- proxy 不知道自己被指定；
-- original 找不到；
-- doctor 没 copy；
-- spouse 不知道 attorney；
-- beneficiary 还是十年前的人；
-- trust 建了但没有 funding；
-- 搬州后不 review。
-
-**行动**
-签完后完成 implementation checklist。
-
----
-
-## 11. Health-care proxy 要知道你的 values，不只是 treatment list
-
-NIA 强调 advance-care planning 的核心之一是持续 conversation。
-
-讨论：
-- 什么样的生活质量对你重要；
-- 是否愿意长期依赖某种生命支持；
-- 对 severe neurologic disability 的价值判断；
-- pain control；
-- organ donation；
-- 谁应参与 family communication。
-
-目标不是让代理人背答案，而是理解你的 decision framework。
-
----
-
-## 12. 每年 review 一次 advance directives
-
-NIA 建议 advance directives 应被当作 living documents，并在重大 life/health changes 后更新。
-
-**Trigger**
-- marriage/divorce；
-- moving state；
-- major diagnosis；
-- proxy relationship changes；
-- child；
-- retirement；
-- major asset change。
-
----
-
-## 13. 文件必须能在 emergency 中被找到
-
-不要把唯一 original：
-- 锁在没人知道的 safe；
-- 放在只有本人能开的 bank safe-deposit box；
-- 藏在某个 email attachment。
-
-至少：
-- proxy 有 copy；
-- spouse 知道 location；
-- attorney 有 record；
-- medical provider 有 health directive copy（按当地 practice）。
-
----
-
-## 14. Cross-border family 需要单独处理 China interface
-
-美国 document 不应自动假设能被中国机构接受。
-
-反之亦然。
-
-可能需要分别处理：
-- China-side authorization；
-- notarization / Apostille；
-- translation；
-- local bank requirements；
-- real-estate authority；
-- parent-care authorization。
-
-**执行原则**
-跨境 estate/POA 不是“翻译一份美国文件”这么简单。
-
----
-
-## 15. 父母也需要自己的 incapacity plan
-
-对长期在海外的子女尤其重要：
-
-如果父母明天住院：
-- 谁在当地？
-- 谁有医院信息？
-- 谁能管理日常账单？
-- 谁知道药物？
-- 谁知道 property documents？
-- 谁是 sibling/family point person？
-
-详见未来《父母养老与远程照护》。
-
----
-
-## 16. Digital estate 要纳入
-
-列出：
-- password manager；
-- primary email；
-- Apple/Google；
-- domains；
-- cloud photos；
-- social media；
-- online financial accounts；
-- crypto（如有）；
-- paid subscriptions。
-
-**执行原则**
-不要把所有 digital access 建成：
-> 本人死亡 = 永久 cryptographic lockout。
-
----
-
-## 17. 高收入家庭还要问 estate tax，但不要一上来只问 estate tax
-
-Estate tax / gift tax / trust planning 可能很重要，但优先顺序通常是：
-
-1. incapacity authority；
-2. beneficiary correctness；
-3. guardianship/family；
-4. liquidity；
-5. probate/administration；
-6. tax optimization。
-
-不要因为资产尚未达到某个 federal exemption，就推迟 1–5。
-
----
-
-## 18. Public repo 的正确做法
-
-本 repo 只保存：
-- blank checklist；
-- role names；
-- document categories；
-- process。
-
-不要保存：
-- will 内容；
-- beneficiary names；
-- addresses；
-- account numbers；
-- attorney-client privileged advice。
-
----
-
-## Estate Planning 最小执行集
-
-- [ ] health-care proxy
-- [ ] alternate proxy
-- [ ] advance directive / living will
-- [ ] financial POA
-- [ ] will
-- [ ] beneficiary review
-- [ ] executor/agent 知情
-- [ ] spouse 知道 originals 在哪里
-- [ ] digital estate recovery plan
-- [ ] cross-border assets/authority 单独 review
-- [ ] annual + trigger-based review
-
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对 MedlinePlus 对医疗指示的解释、CFPB 对财务授权及滥用防范的说明，以及[财务代理角色指引](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。其他条目为向律师和机构确认的规划事项，未核验全美各州或中美跨境文件效力。

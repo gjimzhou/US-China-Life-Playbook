@@ -5,8 +5,8 @@ ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'_site'
 if OUT.exists():shutil.rmtree(OUT)
 shutil.copytree(ROOT/'site',OUT)
-labels={'first-30-days':'前 30 天','annual-review':'年度复查','emergency-sheet':'紧急信息表','cyber-incident':'网络安全事件','death-administration':'死亡后事务','home-purchase':'购房与交割','international-travel':'国际旅行','job-loss':'失业应对','marriage-checklist':'婚姻准备','move-checklist':'搬家','parents-emergency':'父母紧急应对','GLOSSARY':'中英术语表','METHODOLOGY':'方法论','STYLE':'写作规范','CONTRIBUTING':'贡献指南','source-policy':'来源原则','README':'项目介绍','DISCLAIMER':'阅读须知与免责声明'}
-paths=sorted((ROOT/'book').glob('*.md'))+sorted((ROOT/'checklists').glob('*.md'))+[ROOT/p for p in ['DISCLAIMER.md','GLOSSARY.md','METHODOLOGY.md','STYLE.md','CONTRIBUTING.md','references/source-policy.md','README.md']]
+labels={'first-30-days':'前 30 天','annual-review':'年度复查','emergency-sheet':'紧急信息表','cyber-incident':'网络安全事件','death-administration':'死亡后事务','home-purchase':'购房与交割','international-travel':'国际旅行','job-loss':'失业应对','marriage-checklist':'婚姻准备','move-checklist':'搬家','parents-emergency':'父母紧急应对','GLOSSARY':'中英术语表','METHODOLOGY':'方法论','STYLE':'写作规范','CONTRIBUTING':'贡献指南','source-policy':'来源原则','HOME':'首页与阅读导览','editorial-status':'编辑审查进度','README':'项目介绍','DISCLAIMER':'阅读须知与免责声明'}
+paths=sorted((ROOT/'book').glob('*.md'))+sorted((ROOT/'checklists').glob('*.md'))+[ROOT/p for p in ['HOME.md','references/editorial-status.md','DISCLAIMER.md','GLOSSARY.md','METHODOLOGY.md','STYLE.md','CONTRIBUTING.md','references/source-policy.md','README.md']]
 docs=[]
 for p in paths:
  text=p.read_text();path=p.relative_to(ROOT).as_posix()

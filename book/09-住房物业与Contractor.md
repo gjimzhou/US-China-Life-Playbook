@@ -1,364 +1,121 @@
 # 09 — 住房、物业与承包商（Contractor）
 
-美国住房生活中一个非常典型的第一代移民 gap：
+房子出现问题时，先确认紧急程度，再找负有责任或有能力处理的人。房东、物业、业主协会、公用事业公司、维修人员和保险公司承担不同角色。
 
-> **你知道“房子坏了”，但不知道这件事应该找 landlord、building management、HOA、super、plumber、HVAC contractor、electrician 还是 insurer。**
+## 1. 入住时画清责任范围
 
-真正需要建立的是 routing。
+租客先查租约和物业维修入口；公寓业主另查业主协会（HOA）或公寓协会的管理文件与总保单；独栋屋主确认自身维护、公共设施和市政责任的边界。
 
----
+把漏水、设备故障、门锁、公共区域及夜间紧急情况分别问清，并保留书面回复。不以“平时是谁来修”代替合同责任判断。
 
-## 1. 首先搞清住房 ownership / responsibility map
+## 2. 漏水先考虑人身与电气安全
 
-### Renter
-可能涉及：
-- landlord；
-- property manager；
-- building super；
-- tenant responsibility；
-- renters insurer。
+**优先级：** P0
 
-### Condo
-可能涉及：
-- unit owner；
-- HOA/condo association；
-- master policy；
-- unit-owner policy；
-- common element vs unit boundary。
+先避开带电或结构危险；能安全操作且有权限时才关闭相关水源，随后通知物业、房东或协会，并联系保险。安全条件下保存照片和损失记录。
 
-### Single-family owner
-很多问题直接由 owner 负责，但：
-- municipality；
-- utility；
-- insurer；
-- licensed contractor
+不要涉水接触电器、开关或配电箱，也不要为了查明责任而延误减损。无法判断安全时交给救援或合格专业人员。
 
-仍各有角色。
+## 3. 知道阀门在哪里，不等于自行维修
 
-**执行原则**
-入住后第一周就回答：
-> 哪些东西坏了是我负责，哪些是 building/association 负责？
-
----
+让物业或技师说明水阀、配电箱和适用设备的位置，以及哪些操作允许住户进行。闻到疑似燃气、发生烟火或一氧化碳报警时，先撤离并联系当地应急服务或燃气公司，不自行试验开关寻找来源。
 
-## 2. Water leak 的第一目标是 stop loss
+## 4. 保存常用服务入口
 
-**优先级:** P0
+建议记录物业紧急电话、水管工、电工、暖通空调技师（HVAC）、锁匠、设备维修及水损处理机构。优先询问楼宇是否有准入、保险证明和工作时间要求。
 
-优先顺序：
-1. electrical / personal safety；
-2. stop source if safe；
-3. notify building/landlord/HOA；
-4. protect property；
-5. photograph/document；
-6. insurer；
-7. remediation / repair；
-8. liability allocation later。
+不必预先签约所有服务，但至少知道如何核验身份和取得报价。
 
-**不要**
-站在漏水现场先研究谁法律责任。
+## 5. 承包商资质与口碑分别核对
 
----
+询问项目所需执照或注册，并到州、市或县的官方渠道核实企业名称、状态和业务范围。推荐与评价可提供线索，不能替代资质和书面合同。
 
-## 3. 知道 water shutoff / electrical panel 在哪
+取得可比较的书面报价，确认是否包含相同范围。不同工种及地区的许可要求不同，不宣称全国存在统一“承包商牌照”。
 
-**优先级:** P1
+## 6. 估价要写明工程范围
 
-至少知道：
-- unit/main water shutoff；
-- breaker panel；
-- gas shutoff policy（如 applicable）；
-- building emergency maintenance。
+写清拆除、材料规格或预算额度、人工、清理、垃圾处置、许可、检查、开始与完工安排，以及哪些项目不包含。口头承诺加入合同。
 
-这不代表自己做危险维修。
+增加项目时用书面变更单（change order）记录价格与工期影响，避免开工后才发现原价只涵盖一部分。
 
-而是 emergency 时能：
-- communicate；
-- isolate；
-- prevent damage。
+## 7. 付款与可核验进度挂钩
 
----
+避免在工程尚未完成时支付全部价款。订金、材料付款与阶段款应符合当地要求并写入合同，保留收据和可追踪记录。
 
-## 4. 建 Home Rolodex
+具体订金上限、取消权、留置权通知和尾款条件要查适用法规，不从其他州案例套用。大型工程可请律师审合同。
 
-至少知道入口：
-- building emergency maintenance；
-- plumber；
-- electrician；
-- HVAC；
-- locksmith；
-- appliance repair；
-- handyman；
-- cleaner；
-- pest control；
-- mover；
-- restoration/water remediation。
+## 8. 许可要求向主管部门确认
 
-不需要每类都提前签 contract，但不要 crisis 时从零开始。
+结构、电气、燃气、管道或重要设备改动，先向当地建筑主管部门确认是否需要许可和检查。合同中写清谁申请、费用由谁承担、谁负责收尾验收。
 
----
+物业同意不自动替代政府许可，政府许可也不自动替代物业审批。
 
-## 5. Contractor 不要只看 Yelp stars
+## 9. 保险证明不等于所有风险都已覆盖
 
-**证据等级:** A/C · **优先级:** P1
+核对保险证明（Certificate of Insurance，COI）中的公司名称、期限及项目要求，必要时通过独立确认的保险方核实。向物业和保险经纪询问责任险、工伤保障或附加被保险人的具体要求。
 
-FTC 建议：
-- 考虑 licensed and insured contractor；
-- 向 state/county 核验 license；
-- multiple written estimates；
-- written contract；
-- 不因低价自动选 lowest bidder；
-- 避免 full payment upfront。
+一张证明不能修改实际保单，也不能保证未来理赔结果。
 
-**来源**
-- FTC — How To Avoid a Home Improvement Scam  
-  https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam
+## 10. 紧急维修也要确认身份与授权范围
 
----
+灾后上门、逼迫当场签字、拒绝书面报价或只接受难以追回付款方式，都值得提高警惕。先处理必须立即控制的危险，再区分临时减损和长期修复合同。
 
-## 6. Written estimate 至少写清 scope
+不要因对方自称“保险合作方”就授权其代签、收取全部赔款或进行无限额施工。
 
-FTC 建议 estimate/contract 应明确：
-- work description；
-- materials；
-- price；
-- start/completion；
-- contractor identity/license；
-- oral promises。
+## 11. 锁在门外先找已有入口
 
-**执行原则**
-“Fix bathroom — $25k” 不是 adequate scope。
+公寓先联系物业并核对夜间开门政策；自行找锁匠时，先确认出车、人工、材料及可能损坏费用，要求解释为何需要钻锁。
 
-应该能回答：
-- demolition 谁做；
-- material allowance；
-- permit；
-- cleanup；
-- disposal；
-- change order；
-- warranty；
-- payment milestones。
+备用钥匙或智能锁恢复方案应由可信赖的人妥善保管，不能公开发布地址和进入方式。
 
----
+## 12. 设备故障按环境和住户状况分级
 
-## 7. 不要 full payment upfront
+极端高温、严寒、脆弱人群或燃烧设备风险，可能使故障超出普通舒适问题。安排安全的临时居住或专业援助，不用不适当的燃烧设备替代取暖。
 
-**证据等级:** A/C
+维护频率按制造商、设备状态和专业建议确定，不把每年购买某个套餐当成统一要求。
 
-FTC 明确把要求全额 upfront 作为 scam/red-flag 之一；某些州还限制 down payment。
+## 13. 家庭物品清单提前准备
 
-**执行原则**
-合理 payment schedule 与：
-- mobilization；
-- material；
-- milestone；
-- completion
+拍照并保存重要物品的发票、序列号、购买日期及必要估价。加密备份，不能只有屋内一台电脑上的副本。
 
-挂钩。
+清单帮助证明损失，但承保范围和赔偿方式仍以保单为准。
 
-具体合法 deposit limit 看 state/local law。
+## 14. 租客单独核对自己的保险
 
----
+房东的房屋保障一般不替代租客财物与责任保障。额外生活费用、贵重物品及其他限制见[第 07 章](07-保险与灾难风险.md)，不要等事故发生再问。
 
-## 8. Permit 不要靠 contractor 一句 “不用”
+## 15. 公寓总保单与个人保单一起看
 
-高风险项目可能涉及：
-- electrical；
-- plumbing；
-- structural；
-- HVAC；
-- gas；
-- major renovation。
+向协会、物业和代理人确认公共区域、单元内部、装修升级、免赔额分摊及特别损失分摊分别由谁承担。不要仅凭“包墙内”之类简称作结论。
 
-**执行原则**
-是否需 permit 是 legal/local question，不是 contractor convenience question。
+保存管理文件、总保单摘要及个人保单，发生变更时一起复查。
 
-不确定就问 municipality/building department。
+## 16. 业主协会不等同于房东
 
----
+协会可能管理公共区域、规则、费用和大修，但具体权限来自适用法律与管理文件。争议先取得相应条款、会议记录或书面决定，必要时向当地律师咨询。
 
-## 9. License + insurance 要验证，不只看 PDF
+不能因为每月支付管理费就推断所有单元内部损坏都由协会负责。
 
-Contractor 发一张 certificate 不等于：
-- current；
-- valid；
-- coverage adequate；
-- entity 匹配。
+## 17. 关键服务准备备用联系人
 
-**行动**
-适用时：
-- state license lookup；
-- COI；
-- policy dates；
-- exact business name；
-- workers’ comp / liability（按项目）。
+物业管理、清洁、水管或照护服务只有一位联系人时，询问其休假、停业或无法到场的替代安排。备份联系人同样要核验，不能因紧急自动免除检查。
 
----
+## 18. 家政关系还可能涉及雇佣义务
 
-## 10. Emergency contractor 场景最容易被骗
+固定家政或保姆是否属于家庭雇员，取决于实际工作关系与适用规则，不取决于用哪个支付应用或合同是否写“独立承包商”。具体税务、工资和保险见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。
 
-暴雨、冻裂、漏水、storm 后：
-- door-to-door；
-- “今天不签就没材料”；
-- cash/wire only；
-- huge deposit；
-- no written contract
+## 19. 搬家要迁移账户与责任
 
-都是 red flags。
+使用[搬家清单](../checklists/move-checklist.md)核对邮寄地址、车辆、保险、雇主、银行、医生、政府记录、宠物及楼宇权限。分别记录旧服务终止、新服务生效和押金结算。
 
-FTC 对 weather-emergency scam 也反复提醒：
-> licensed/insured、multiple estimates、written contract、避免不可追回支付方式。
+邮件转寄不能替代逐个机构改地址；临时离开也应确认房屋空置或出租是否改变保险条件。
 
----
+## 20. 最小执行集与核验范围
 
-## 11. Locksmith 是一个应该提前知道入口的服务
+- [ ] 取得住房责任文件与夜间紧急入口。
+- [ ] 知道阀门位置及操作边界。
+- [ ] 核验承包商资质、保险与书面范围。
+- [ ] 许可、付款、变更和验收责任写清楚。
+- [ ] 私下保存物品证据与备用联系人。
 
-被锁门外时：
-- apartment 先找 management/super；
-- owner 再找 verified locksmith；
-- 不要 panic-click 第一条 sponsored result。
-
-提前知道：
-- building lockout policy；
-- after-hours fee；
-- smart lock battery backup；
-- spare-key plan。
-
----
-
-## 12. HVAC failure 要区分 comfort vs safety
-
-普通夏天 AC 坏与：
-- extreme heat；
-- vulnerable person；
-- freeze risk；
-- combustion/CO concern
-
-不是同一个 urgency。
-
-**执行原则**
-annual maintenance 的价值之一是降低最坏时间点 failure。
-
----
-
-## 13. Home inventory 是 insurance infrastructure
-
-至少对高价值 category：
-- photo；
-- receipt；
-- serial；
-- appraisal where appropriate；
-- purchase date。
-
-不要等 burglary/fire 后靠记忆列清单。
-
-存储时注意：
-- encrypted backup；
-- 不只存在屋内单台电脑。
-
----
-
-## 14. Renters 不要假设 landlord policy 赔你的东西
-
-Landlord 的 insurance 通常主要是 landlord's property/liability system。
-
-Tenant 自己需要 review：
-- personal property；
-- liability；
-- ALE/loss of use；
-- valuables。
-
-详见保险章节。
-
----
-
-## 15. Condo 要读 master policy
-
-Condo owner 要知道：
-- walls-in / studs-in；
-- deductible assessment；
-- water loss allocation；
-- improvements/betterments；
-- loss assessment coverage。
-
-不要等楼上漏水才第一次看 HOA documents。
-
----
-
-## 16. HOA / Condo board 不是 landlord
-
-Owner-controlled association 可能管理：
-- common areas；
-- rules；
-- assessments；
-- building insurance；
-- major capital projects。
-
-但不一定负责 unit interior。
-
-**执行原则**
-有争议先看 governing docs + master policy，而不是用 rental intuition。
-
----
-
-## 17. Service professional 要有 backup
-
-特别是：
-- plumber；
-- pet sitter；
-- cleaner；
-- property manager。
-
-一个人 unavailable 不应让 household 停摆。
-
----
-
-## 18. 家政/cleaner 也有 legal/insurance implications
-
-如果 household worker 关系变成 regular employment，可能涉及：
-- payroll tax；
-- workers’ comp；
-- labor rules；
-- insurance。
-
-不要因为 payment through Venmo 就自动认为对方永远是 independent contractor。
-
-具体规则按 federal/state law + CPA/employment counsel review。
-
----
-
-## 19. 搬家要当作 systems migration
-
-不只是搬箱子。
-
-需要迁移：
-- USPS；
-- DMV；
-- banks；
-- insurers；
-- employer；
-- doctors/pharmacy；
-- subscriptions；
-- government records；
-- pet records；
-- building access；
-- emergency map。
-
-未来单独维护 Move Checklist。
-
----
-
-## 20. 最小执行集
-
-- [ ] housing responsibility map
-- [ ] water shutoff / breaker location
-- [ ] building emergency number
-- [ ] plumber/electrician/HVAC/locksmith 至少有入口
-- [ ] contractor license/insurance verification habit
-- [ ] written estimate + contract
-- [ ] no full payment upfront
-- [ ] home inventory
-- [ ] insurance/HOA/master-policy responsibilities 明确
-- [ ] move 当作 systems migration
-
-最后核验：2026-09-21
+最后编辑：2026-09-21。完成逐段中文与流程审阅。住宅保险部分与第 07 章已核对来源衔接；原稿的 [FTC 装修防诈骗链接](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)本轮未能读取，不继续将整章标为已有官方核验。各地许可、租赁义务、订金及工伤保险要求仍须按项目向主管机关核实；本章为准备与询问清单，不提供统一法律结论。
