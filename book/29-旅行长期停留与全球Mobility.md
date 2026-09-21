@@ -12,35 +12,49 @@
 
 短期也不自动免除工作或税务限制，不能只按天数给行程贴标签。
 
+**旅行总入口：** [美国国务院：International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) · [美国国务院：Planning Your Travel](https://travel.state.gov/en/international-travel/planning.html) · [CDC：Travelers’ Health Destinations](https://wwwnc.cdc.gov/travel/destinations/list/)。美国国务院页面主要服务美国公民；其他国籍仍应查本人护照签发国和目的地官方要求。
+
 ## 2. 入境要求看对应身份的官方信息
 
 以目的地移民部门、使领馆的现行要求为主，核对护照签发国、签证或豁免资格、访问目的和离境材料。航空公司登机查验另行确认。[美国国务院旅行准备入口](https://travel.state.gov/en/international-travel/planning/checklist.html)主要面向美国公民，不能直接替代其他护照持有人的规则。
+
+**美国公民查目的地：** [国务院：Travel Advisories / destination guidance](https://travel.state.gov/en/international-travel/planning.html)。页面会继续链接目的地的 entry / exit / visa、passport validity、使领馆、当地法律和健康信息。
 
 ## 3. 护照有效期不是统一的六个月
 
 核对目的地对有效期的起算点、空白页和证件状况要求，再检查签证与护照信息是否匹配。不要把他国经验或订票成功当成可入境确认。具体要求从上一节的目的地官方渠道取得。
 
+**美国护照入口：** [国务院：Passports](https://travel.state.gov/content/travel/en/passports.html) · [国务院：Passport Application Status](https://passportstatus.state.gov/)。
+
 ## 4. 转机地也要检查
 
 分开出票、换机场、重新托运行李、过夜或航班取消，可能改变是否需要入境的判断。按实际机场和航班组合核对过境要求；留一个无法登机或改签后的联系入口。
+
+**核对顺序：** 先查转机国家 / 地区的官方 immigration / embassy 页面，再查 operating airline 的 transit / baggage 说明；不要只依赖第三方签证数据库。美国公民也可从[国务院目的地旅行信息](https://travel.state.gov/en/international-travel/planning.html)进入对应国家页面。
 
 ## 5. 境外医疗不能按美国境内体验推断
 
 向保险方确认哪些地区和治疗适用、是否先付款后报销、如何联系救援、是否有事先批准要求。询问既往病症、免赔额和材料。参考[国务院旅行保险说明](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html)，具体结论以保单为准。
 
+**继续看：** [国务院：Travel Insurance](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) · [NAIC：Travel Insurance](https://content.naic.org/consumer/travel-insurance)。
+
 ## 6. 医疗转运要看目的地与触发条件
 
 偏远地区应提前确认可接收的医疗机构、地面或航空转运的安排方，以及医疗转运（Medical evacuation）保单的触发条件、目的地和批准程序。不要把“转到最近合适医院”理解为一定送回家；保险限额也不保证任何天气下都能及时转运。
+
+**继续看：** [国务院：Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html) · [国务院：Travel Insurance / medical evacuation](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html)。
 
 ## 7. 药物数量、合法性与储存一起核对
 
 出发前向目的地及转机地主管机构核对药品能否携带、数量、证明和申请要求；医生处方不自动构成进口许可。与医生或药师讨论时差服药、冷藏和延误备用量，保留原包装标签及通用名。
 
-[CDC 携药旅行说明](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)支持上述准备方向，但各国具体允许药品和数量须另查；不要自行停药或替换。
+**继续看：** [CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) · [CDC：Travelers’ Health Destinations](https://wwwnc.cdc.gov/travel/destinations/list/)。CDC 明确建议同时核对目的地及转机国家的使领馆 / 主管机关；各国具体允许药品和数量须另查，不要自行停药或替换。
 
 ## 8. 关键物品不只依赖托运行李
 
 按安检和运输规定安排证件、必要药物、钥匙、重要设备与充电用品。考虑随身包也可能遗失，把恢复资料与唯一设备分开保存。电池、液体和医疗器械的运输规定需向航空公司及机场核对。
+
+**美国安检入口：** [TSA：What Can I Bring?](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [TSA：Disabilities and Medical Conditions](https://www.tsa.gov/travel/tsa-cares/disabilities-and-medical-conditions)。国际航段还要看实际机场和 operating carrier。
 
 ## 9. 备用支付不要和主支付一起失效
 
@@ -77,6 +91,8 @@
 
 信用卡权益可能只覆盖部分项目。把支付方式、报案期限和实际受保对象写下来，不只比较最高金额。
 
+**航空纠纷入口：** [美国交通部：Airline Refunds](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds) · [DOT：Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。适用于美国航空消费者规则的航班时，可用这些页面核对退款、行李和投诉；其他国家另查当地监管制度。
+
 ## 16. 租车车损与对他人责任分开
 
 分别核对车辆损坏或盗抢、第三方责任、人身医疗与随身物品。自己的车险、信用卡权益、旅行险和租车产品可能分担不同风险；同一张卡在不同国家、车型或租期的条件也可能不同。拿到具体条款再决定是否购买柜台产品。
@@ -84,6 +100,8 @@
 ## 17. 工作与长期停留在出发前审查
 
 记录真实停留日和实际工作地点，向雇主确认境外工作与数据要求，并向合适专业人士核对目的地许可、税务和工资安排。休假名义不能改变实际工作的事实。参见[跨境税与境外工作](38-中美跨境税与Work-from-Abroad.md)。
+
+**美国税务入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)；目的地的工作许可、工资、数据和税务必须另查当地机关与雇主政策。
 
 ## 18. 中美通信与支付分任务测试
 
@@ -93,13 +111,19 @@
 
 符合条件的美国公民可了解[旅行者登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html)，接收相关使领馆信息。其他国籍人员应另查本国领事保护渠道。登记、旅行警示和旅行保险各有作用，不能互相替代。
 
+**直接办理：** [国务院：Smart Traveler Enrollment Program (STEP)](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [国务院：Travel Advisories](https://travel.state.gov/en/international-travel/travel-advisories.html)。
+
 ## 20. 护照遗失按签发国流程补办
 
 从本国使领馆正式渠道查询预约、材料和紧急证件，另向目的地主管机构核对离境或签证记录恢复要求。美国护照持有人可查看[国务院境外遗失护照说明](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html)。扫描件可帮助提供信息，不能代替有效旅行证件，也不保证当日补发。
 
+**美国护照直接入口：** [国务院：Lost or Stolen Passport Abroad](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html) · [国务院：U.S. Embassies and Consulates](https://www.usembassy.gov/)。
+
 ## 21. 医疗入口按需求和能力判断
 
 出发前向治疗团队或保险救援方了解目的地的合适入口；发生急症直接使用当地急救服务，不因等待保险批准或寻找“最好医院”而延误。酒店或豪华诊所的宣传不能证明具备处理严重急症的能力。
+
+**健康入口：** [CDC：Travelers’ Health Destinations](https://wwwnc.cdc.gov/travel/destinations/list/) · [国务院：Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)。
 
 ## 22. 邮轮、海岛与偏远行程先问转诊安排
 
@@ -108,6 +132,8 @@
 ## 23. 驾驶资格、保险与道路规则逐项查
 
 [国务院境外驾驶说明](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html)提醒核对当地接受的驾照与保险；需要国际驾驶许可（International Driving Permit，IDP）时仍须携带有效本国驾照。租车公司愿意交车不代表所有法律和保险条件已满足。
+
+**继续看：** [国务院：Driving and Transportation Safety Abroad](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html) · [国务院：International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html)。
 
 ## 24. 文件夹可以离线取用，但不要公开
 
@@ -127,4 +153,4 @@
 
 详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
 
-最后编辑与来源核验：2026-09-21。核对国务院旅行准备、保险、驾驶、STEP与境外补办美国护照说明，以及 CDC 携药旅行建议。CDC该页面标注2022年复核；未将其视为各国现行药品目录。具体目的地入境、药品、保险合同与工作资格须按出发日期另查。
+最后编辑与来源核验：2026-09-21。已重新核对国务院当前 International Travel Checklist、Planning / STEP / lost-passport / driving / insurance / health-abroad 入口，CDC Travelers’ Health destination 与携药页面、TSA 携带物品 / 医疗安检，以及美国交通部航空退款与消费者保护入口。具体目的地入境、过境、药品、工作许可、保险合同、航空公司规则和当地交通法规仍须按实际国籍、日期与行程逐项核验。
