@@ -1,367 +1,155 @@
 # 13 — 高收入家庭财务运行系统
 
-高收入以后，个人财务的主要问题往往不再是：
+收入增加，并不会自动解决现金安排、预缴税、账户权限和诈骗风险。本章讨论如何让家庭财务在正常月份、重大支出和突发中断时都能运作，不推荐具体证券或预测收益。
 
-> “这个月咖啡花了多少？”
+## 1. 把财务分成四层
 
-而变成：
-
-> **现金放在哪里、税怎么预缴、谁能访问账户、一次大额交易怎么防 fraud、家庭突然失能后谁知道发生了什么。**
-
-本章不讨论选股，也不做投资收益预测。它只处理 household treasury / control / resilience。
-
----
-
-## 1. 不要把 budgeting 当成唯一财务系统
-
-高收入 household 至少分四层：
-
-### Cash flow
-- payroll；
-- mortgage/rent；
-- cards；
-- taxes；
-- recurring bills。
-
-### Liquidity
-- emergency cash；
-- large upcoming purchase；
-- tax reserve；
-- travel / relocation reserve。
-
-### Long-term assets
-- retirement；
-- brokerage；
-- real estate；
-- business interests。
-
-### Control
-- beneficiary；
-- POA；
-- fraud alerts；
-- account access；
-- tax documents；
-- spouse visibility。
-
----
-
-## 2. 大额现金要理解 FDIC coverage
-
-**证据等级:** A · **优先级:** P1
-
-FDIC 当前 standard deposit insurance amount 是：
-
-**$250,000 per depositor, per insured bank, per ownership category**
-
-不同 ownership category 在满足规则时可以分别计算。
-
-**来源**
-- FDIC — Deposit Insurance at a Glance  
-  https://www.fdic.gov/resources/deposit-insurance/brochures/deposits-at-a-glance/
-- FDIC EDIE  
-  https://edie.fdic.gov/
-
-**执行原则**
-当 house down payment、bonus、sale proceeds、tax reserve 等让 bank cash 暂时显著上升时，不要默认：
-> “都在同一家大银行，所以肯定全 insured。”
-
-先理解 ownership + bank aggregation。
-
----
-
-## 3. Brokerage cash 与 bank deposit 不是一回事
-
-不要把：
-- FDIC；
-- SIPC；
-- money market mutual fund；
-- bank sweep；
-- Treasury security
-
-混成一个“现金”。
-
-每种结构的：
-- credit risk；
-- insurance/protection regime；
-- liquidity；
-- yield；
-- operational access
-
-都不同。
-
-**执行原则**
-知道你账户里的“cash”法律上到底是什么 asset。
-
----
-
-## 4. Tax 是 pay-as-you-go system
-
-**证据等级:** A · **优先级:** P1
-
-IRS 说明，通常如果预计欠税至少 $1,000，且 withholding/credits 不足，就可能需要 estimated tax。
-
-2026 一般 safe-harbor 逻辑是：支付至少以下较小者：
-- 当年 tax 的 90%；或
-- 上一年 tax 的 100%。
-
-对 prior-year AGI > $150,000（MFS 为 $75,000）的多数非 farmer/fisher taxpayer，上年 threshold 通常改为 **110%**。
-
-**来源**
-- IRS Publication 505 (2026)  
-  https://www.irs.gov/publications/p505
-- IRS Estimated Tax FAQ  
-  https://www.irs.gov/faqs/estimated-tax
-
-**执行原则**
-bonus、equity vest、capital gain、interest 等明显变化时，主动做 tax projection，不等第二年 4 月才算。
-
----
-
-## 5. High W-2 withholding 有一个特别 useful 的 operational feature
-
-Federal income tax withholding 通常被视为在全年均匀支付，用于 underpayment-penalty calculation；estimated payments 则按实际 payment timing 计算，具体规则见 Form 2210 / Pub. 505。
-
-这意味着 late-year withholding adjustment 在某些情况下可能很有用。
-
-**但：**
-具体策略要让 CPA 按当年 facts 算，不要把一句“年底多 withholding 就行”当 universal hack。
-
----
-
-## 6. Extension to file 不等于 extension to pay
-
-**优先级:** P1
-
-美国税务里经常有两个不同 deadline：
-- return filing；
-- tax payment。
-
-**执行原则**
-任何 extension 都问：
-> “What exactly is extended — filing, payment, or both?”
-
-不要因为 extension approved 就默认 interest/penalty exposure 消失。
-
----
-
-## 7. Tax notices 要有固定 workflow
-
-收到 IRS/state notice：
-
-1. 拍/scan 全部页面和 envelope；
-2. 记 received date；
-3. 不 panic，也不忽略；
-4. 看 response deadline；
-5. 发 CPA / tax counsel；
-6. 在 official portal 核验；
-7. 记录 response / certified-mail / upload confirmation。
-
-**执行原则**
-不要因为 notice 看起来像“政府吓人信”就放一个月。
-
----
-
-## 8. 建 IRS Online Account
-
-**证据等级:** A · **优先级:** P1
-
-可查看：
-- balances；
-- payments；
-- tax records；
-- notices；
-- authorizations；
-- identity information / IP PIN 等部分服务。
-
-https://www.irs.gov/payments/online-account-for-individuals
-
----
-
-## 9. 所有 household accounts 都要有分类，而不是随机开
-
-建议 inventory：
-
-| Category | Purpose |
+| 层次 | 要回答的问题 |
 |---|---|
-| Operating checking | 日常 ACH / bills |
-| High-yield cash | liquidity |
-| Tax reserve | optional mental/accounting separation |
-| Brokerage | investments |
-| Retirement | tax-advantaged |
-| HSA | health/tax |
-| Credit cards | payments/rewards |
-| China-side cash | secondary system |
+| 日常现金流 | 工资何时到账，房租、贷款和账单何时扣款？ |
+| 可用资金 | 税款、应急支出和已知大额付款的钱在哪里？ |
+| 长期资产 | 投资、退休账户、房产和其他权益有哪些？ |
+| 管理与授权 | 谁能查看、谁能操作、谁能在失能时合法接手？ |
 
-不一定每类都单独开账户。
+预算解决收支安排，但不能替代后三层。先画出账户与用途，再决定是否需要新增产品。
 
-重点是：
-> 每个 account 为什么存在？
+## 2. 存款保险按银行和所有权类别计算
 
----
+**优先级：** P1
 
-## 10. “Joint account = estate plan” 是错误简化
+联邦存款保险公司（FDIC）的标准保障以每位存款人、每家受保银行、每种所有权类别 25 万美元为基础，并有类别条件。同一家银行不同分行或多个同类别账户，并不会因此各获得一份限额。
 
-Joint titling 可能解决部分 access/survivorship 问题，但也可能改变：
-- ownership；
-- creditor exposure；
-- gift/tax characterization；
-- inheritance outcome。
+奖金、售房款或购房首付款到账后，重新核对合计余额、利息和账户所有权。用[FDIC 官方估算工具及说明](https://edie.fdic.gov/fdic_info.html)检查；复杂联名、信托或代客存款安排需进一步确认条件。
 
-**执行原则**
-账户 title、beneficiary、POA 要作为 estate plan 一起 review。
+存款保险应对受保银行倒闭，并不是交易诈骗的通用赔偿机制。
 
----
+## 3. 券商里的“现金”要看实际持有什么
 
-## 11. Spouse transparency 不等于所有钱必须 joint
+| 显示方式或产品 | 应确认什么 |
+|---|---|
+| 银行存款 | 银行是否受保、存款类别及合计限额 |
+| 银行现金归集（bank sweep） | 实际接收银行、自己在该银行的其他存款、计划条款 |
+| 货币市场基金（money market fund） | 属于基金，不是银行存款；查风险、赎回与交易规则 |
+| 短期国债或持有国债的基金 | 证券类型、到期或卖出时间、价格波动与结算安排 |
+| 券商未投资现金 | 券商会员资格、持有目的和适用保护规则 |
 
-家庭可以选择：
-- fully joint；
-- yours/mine/ours；
-- mostly separate；
-- prenup-defined。
+FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针对会员券商清算中缺失的客户证券及现金提供有限保护，标准上限为 50 万美元，其中现金上限 25 万美元；它不补偿市场下跌或不当投资建议造成的损失。
 
-但必须做到：
-- 对 household obligations 有共同 visibility；
-- emergency 时知道资产在哪里；
-- 不存在 hidden debt；
-- tax documents 能汇总；
-- one spouse incapacitated 不会导致 rent/mortgage/tax 无法支付。
+来源：[FDIC 账户保障说明](https://edie.fdic.gov/fdic_info.html)、[SIPC 保护范围](https://www.sipc.org/for-investors/what-sipc-protects)。不要只凭应用里写着“现金”就推定保障。
 
----
+## 4. 税款要在收入发生的年度安排
 
-## 12. 大额 wire 要 dual verification
+**优先级：** P1
 
-任何 unusually large wire：
+工资预扣、预估税缴款和报税时补款是不同环节。奖金、股权归属、出售资产、利息或经营收入明显变化时，更新全年税额估计，查是否需要调整预扣或按期缴预估税。
 
-1. 先通过 known channel 得到 instructions；
-2. 独立打 previously-known phone number 验证；
-3. 核对 beneficiary/account；
-4. first-time recipient 尤其谨慎；
-5. 保存 confirmation。
+预缴不足罚金有一般规则及例外，不等于年底一次补足即可。具体比例、适用条件与时间安排集中见[第 14 章](14-美国税务与State-Residency.md)，避免在多个地方各维护一套数字。
 
-**不要**
-仅根据 email thread 中突然出现的 “new wiring instructions”。
+## 5. 工资预扣与直接缴税的时间处理不同
 
----
+联邦预缴不足计算对预扣税有特别的分配规则；直接缴纳预估税通常须考虑实际付款期。年内发现差额时，把工资单、已缴税款和收入发生时间交给报税专业人士计算，而不是只问还差多少总额。
 
-## 13. Credit card autopay 不是“设完忘掉”
+是否调整工资预扣、采用收入年化计算或补缴，应在工资处理截止前确定。不能把“年底多扣一些”当成适用于所有人和所有州的补救方法。
 
-每月仍需：
-- review transactions；
-- 看 statement balance；
-- 看 unusual recurring charge；
-- confirm payment account 仍有 funds。
+## 6. 延期申报与延期付款分开问
 
-Autopay 的功能是避免 missed payment，不是替你做 fraud monitoring。
+[IRS 延期说明](https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return)明确，通常的申报延期不自动延长付款期限。请确认获准延期的到底是申报、付款，还是特定救济下的两者。
 
----
+即使材料未齐，也应估算并处理到期税款；州和地方安排单独核对。是否有利息或罚金，不能只看延期申请是否成功。
 
-## 14. Recurring subscriptions 不值得 weekly micromanage，但要 annual sweep
+## 7. 税务通知进入固定流程
 
-高收入家庭没必要为 $12 subscription 每周焦虑。
+保存通知全部页面和信封，记录收到日期与回复期限，通过独立找到的官方渠道核验。把通知连同相关税表、付款凭证和已有往来交给合适的税务专业人士。
 
-但每年一次：
-- forgotten software；
-- duplicate cloud/storage；
-- unused memberships；
-- expired trial；
-- stale insurance/add-on
+明确谁负责回复、用什么渠道、何时提交，并保存送达或上传证明。打电话咨询后仍要确认是否需要书面回复。
 
-非常值得。
+## 8. 政府账户作为复核入口
 
-不是因为节省金额巨大，而是减少 operational clutter。
+提前建立适用的税务账户，定期核对缴款归属的纳税年度和状态。IRS 账户功能与身份保护码见[第 11 章](11-美国政府到底找谁.md)。
 
----
+不要将税务门户当成所有资料的唯一存档；部分文件未显示、更新延迟和身份验证失败都可能影响使用。
 
-## 15. Human capital 是 balance sheet 的资产
+## 9. 每个账户说明用途
 
-对 professional household：
-- future earnings；
-- career optionality；
-- licensing；
-- immigration/work authorization（如适用）；
-- reputation
+| 用途 | 管理重点 |
+|---|---|
+| 日常支出 | 自动扣款、余额缓冲、异常提醒 |
+| 应急与近期大额支出 | 何时可取、是否有价格波动或转账限制 |
+| 税款准备 | 预计付款日及不可随意动用的金额 |
+| 长期投资与退休 | 风险配置、费用、供款及提款规则 |
+| 医疗专用安排 | 健康储蓄账户（HSA）等的资格、记录和用途 |
+| 中国侧资金 | 人民币需求、账户可用性及申报资料 |
 
-都属于经济资产。
+不一定每类都开独立账户。私人清单可以记录机构、账户末几位、所有权、用途和恢复入口，不必在共享表格里放密码。
 
-因此：
-- disability insurance；
-- emergency fund；
-- career network；
-- legal compliance
+## 10. 联名账户不能替代遗产与失能规划
 
-都是 financial planning，不只是“生活问题”。
+联名、受益人指定和授权解决的是不同问题。修改账户所有权前，请专业人士核对访问权限、继承、债务责任和税务影响，不要为了“方便家人”随意加名。
 
----
+把账户登记与遗嘱、信托、财务授权一起核对，见[第 10 章](10-Estate-Planning与失能.md)。
 
-## 16. Household financial dashboard 不需要很复杂
+## 11. 共同知情不要求所有资金联名
 
-每季度/半年看一次：
-- cash；
-- debt；
-- investment allocation；
-- upcoming taxes；
-- insurance changes；
-- major upcoming spend；
-- retirement/HSA contributions；
-- beneficiary/estate triggers。
+家庭可以约定共同、独立或混合管理，但应清楚共同支出、债务、税务资料和应急权限。以尊重个人边界的方式，让适当人员知道必要付款如何继续。
 
-不用每天看 net worth。
+共享密码不等于合法代理。失能或死亡后的操作，应按有效文件和机构流程办理。
 
----
+## 12. 大额电汇独立核实
 
-## 17. 不把所有 liquidity 都追求 maximum yield
+**优先级：** P1
 
-Cash 的价值包含：
-- immediate access；
-- settlement certainty；
-- operational simplicity；
-- insurance；
-- low volatility。
+转账前用事先已知、独立核实的电话联系收款方，确认户名、账号和付款用途。邮件线程里突然更改的收款信息，不能仅靠回复该邮件确认。
 
-为了多几十 basis points，把 emergency liquidity 放进复杂结构可能不值得。
+[联邦调查局（FBI）商业邮件诈骗指引](https://www.fbi.gov/how-we-can-help-you/common-frauds-and-scams/business-email-compromise)提醒核实付款请求及账户变更。若已转出可疑款项，立即联系金融机构询问止付或追回，并保存证据和按官方渠道报案；不能保证一定追回。
 
----
+## 13. 自动还款后仍需看账单
 
-## 18. China-side money 要纳入 total household view
+确认自动还款采用的是最低额、固定额还是账单全额，扣款账户是否有足够资金。每期查看异常交易、利息、费用及重复订阅，换卡或换银行后检查设置。
 
-如果长期中美双栖，至少 annual inventory：
-- China bank cash；
-- RMB liabilities；
-- property；
-- family obligations；
-- expected China spending；
-- FX exposure。
+自动还款减少漏付风险，但不承担争议识别和及时通知发卡行的工作。
 
-不是为了每天 hedge RMB/USD，而是避免“有一套资产完全没人记”。
+## 14. 定期整理订阅与闲置账户
 
----
+按自己需要的频率查看续费、试用结束、重复服务及闲置账户。取消后保存确认，并检查下一期账单。
 
-## 19. Cross-border transfer 要提前考虑 documentation
+关闭账户之前先迁移自动扣款、下载记录、检查退款或待处理事项。整理的目的是减少遗漏，不要求为了简化而关闭所有备用渠道。
 
-大额跨境资金可能涉及：
-- bank compliance；
-- source-of-funds；
-- tax reporting；
-- FX / capital-control rules；
-- gifting documentation。
+## 15. 收入中断也是财务问题
 
-**执行原则**
-先问 receiving/sending institutions 和 cross-border tax advisor，不要在 deadline 当天才发现 wire 卡住。
+评估失业、失能或家庭照护是否会影响收入和福利。应急资金、适用的保险、职业资格与工作授权维护，需要和固定支出一起考虑。
 
----
+未来收入有不确定性，不能把未获得的奖金当成随时可用现金。支出安排应能承受比预期更差的情形。
 
-## 20. 最小执行集
+## 16. 做一页定期复查表
 
-- [ ] household account inventory
-- [ ] FDIC coverage 做过 deliberate review
-- [ ] tax projection 每年至少一次
-- [ ] high-income safe harbor 理解并由 CPA 应用
-- [ ] IRS Online Account
-- [ ] large-wire verification rule
-- [ ] spouse/emergency access plan
-- [ ] annual subscription/account cleanup
-- [ ] China-side assets 纳入 household inventory
-- [ ] beneficiary/title 与 estate plan 一起 review
+记录可用现金、债务、近期税款、重大支出、保险变化、退休及医疗账户供款、受益人和授权变更。每季度或半年检查，并在搬家、婚姻、失业、重大交易时加查。
 
-最后核验：2026-09-21
+选一个家庭能够长期执行的频率，不需要每天核算全部净资产。
+
+## 17. 流动性不能只比收益率
+
+应急资金还需考虑到账时间、节假日、转账限额、市场波动及账户锁定后的替代方式。将近期确定要付款的钱与可承担波动的长期投资区分。
+
+比较产品时同时看费用、税务、保障和操作复杂度，不能仅按标示年化收益率排序。
+
+## 18. 中国侧资产与义务也纳入清单
+
+记录本人资产与债务、预计人民币支出，以及确实承诺承担的家庭费用。亲属的资产不应直接当作自己可动用的资金。
+
+向跨境税务专业人士完整披露相关账户和权益，账户能否登录与是否需要申报是两回事。
+
+## 19. 跨境转账提前准备文件
+
+事先向汇出、接收机构确认可办理的业务、资金来源、用途证明及预计处理时间；向税务专业人士确认相应申报。赠与、借款、资产出售和本人账户间划转的事实不同，记录也应相符。
+
+不要用借名、虚假用途或拆分来规避要求。保留原始合同、流水、汇款回执及必要的汇率记录。
+
+## 20. 最小执行集与核验范围
+
+- [ ] 账户用途、所有权与应急访问安排已记录。
+- [ ] 大额存款保障和券商现金实际结构已核对。
+- [ ] 预缴税与最终补款有独立预算和日期。
+- [ ] 大额转账有独立确认规则。
+- [ ] 自动还款、订阅和跨境资产定期复查。
+
+最后编辑与来源核验：2026-09-21。核对 FDIC 估算工具说明、SIPC 保护范围、FBI 电汇诈骗指引及 IRS 延期与预缴税资料。账户分工和复查频率为管理建议；未核验任何具体产品的即时收益、个人保障额度或税务适用性。

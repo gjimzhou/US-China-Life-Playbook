@@ -1,328 +1,143 @@
-# 14 — 美国税务与州税务居民身份（State Residency）：不要把报税当成年末一次性动作
+# 14 — 美国税务与州税务居民身份（State Residency）：把税务放进全年日历
 
-高收入家庭的税务风险往往不是“不会填 1040”。
+本章帮助读者识别何时需要重新估税、哪些居住与工作事实必须记录，以及应该把什么材料交给专业人士。联邦、州、市和境外规则可能同时适用，不能用一个比例或“住满多少天”解决全部问题。
 
-而是：
+## 1. 预缴税既看金额，也看时间
 
-- income timing；
-- withholding；
-- bonus/equity；
-- multi-state work；
-- move；
-- domicile/residency；
-- cross-border work；
-- estimated tax；
-- notices。
+**优先级：** P1
 
-本章不试图总结 50 个州的税法，而是建立正确的 routing framework。
+按 IRS《第 505 号刊物》2026 版的一般规则，预期扣除预扣税和适用可退抵免后欠税至少 1,000 美元，且预缴不足时，可能需要缴纳预估税（estimated tax）。一般年度付款要求参考当年税额的 90% 与上年税额的 100% 两者较小值；上年税表须覆盖完整 12 个月。
 
----
+若 2025 年调整后总收入（AGI）超过 15 万美元，或 2026 年夫妻分别申报者超过 7.5 万美元，上年比例通常改为 110%。农业、渔业等有特别规则。这些不是最终税额计算公式，也不能忽略各期付款期限。
 
-## 1. Federal tax 是 pay-as-you-go
+来源：[IRS 第 505 号刊物（2026）](https://www.irs.gov/publications/p505)。适用于其他年度时重新查看该年资料。
 
-**证据等级:** A · **优先级:** P1
+## 2. 罚金安全港不等于不用补税
 
-IRS 的基本逻辑：
-- wage withholding；
-- estimated tax；
-- current-year / prior-year safe harbor。
+安全港（safe harbor）处理预缴不足罚金问题，不免除最终应缴税款。家庭应同时计算“为避免预缴不足需付多少”和“申报时可能还欠多少”。
 
-对于 2026，多数 taxpayer 避免 estimated-tax penalty 的一般 test 是缴纳至少以下较小者：
-- current-year tax 的 90%；
-- prior-year tax 的 100%。
+如果收入集中在后半年，收入年化分期法可能有帮助，但需要相应计算和表格。不能只把全年已缴金额相加，就认定所有期间都没有罚金。
 
-若 prior-year AGI > $150,000（MFS $75,000），通常把 prior-year 100% 改为 **110%**。
+来源：[IRS 预缴不足罚金说明](https://www.irs.gov/taxtopics/tc306)。
 
-**来源**
-- IRS Publication 505 (2026)  
-  https://www.irs.gov/publications/p505
+## 3. 奖金预扣率不等于最终税率
 
----
+雇主对补充工资的预扣方法与个人全年税额计算不同。双职工、奖金、股权薪酬、投资或其他收入变化后，合并查看全年收入与已扣税额。
 
-## 2. Safe harbor ≠ final tax bill
+请报税专业人士给出预估差额、调整方法和付款日期；不应只凭某张工资单“扣得很多”判断已经足够。
 
-满足 penalty safe harbor 只代表：
-> 可能避免 underpayment penalty。
+## 4. 工资预扣与预估税的付款时间不同
 
-不代表：
-> April 不会欠一大笔 tax。
+在联邦预缴不足计算中，预扣税通常可按规则分配到各期；直接预估税缴款则须考虑付款时间。使用实际预扣日期等选择也有相应条件。
 
-**执行原则**
-tax reserve 与 penalty planning 分开。
+来源：[IRS 第 2210 表说明](https://www.irs.gov/instructions/i2210)。本次可访问的是 2025 年说明；计算 2026 年申报时还需核对该年最终表格及说明，不把上一年表格视为新年度定稿。
 
----
+年末调整前先核对工资处理截止和实际可预扣金额，不能假设次年一次补款消除此前所有罚金。
 
-## 3. Bonus withholding 可能不等于你的 marginal tax rate
+## 5. 申报延期不自动延长付款
 
-Large bonus/equity compensation 下：
-- employer withholding method；
-- federal supplemental wage rules；
-- state/local withholding
+通常联邦申报延期只延长提交税表的时间，仍要在原付款期限前估算并缴付税款。州规则、境外纳税人和灾害救济等特殊情况另行核对。
 
-可能与最终 liability 不一致。
+来源：[IRS 申报延期说明](https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return)。询问专业人士时明确问申报、付款、利息和罚金分别怎样处理。
 
-**行动**
-重大 comp 变化后做 projection。
+## 6. 州居民身份按具体州判断
 
----
+不要把移民身份、联邦税务居民身份和州税务居民身份混为一谈。相关州可能考察住所（domicile）、永久居所（permanent place of abode）和停留天数，定义及例外并不统一。
 
-## 4. Withholding 与 estimated payment 的 timing 规则不同
+搬家前列出原居住州、新居住州和工作涉及的州，分别查该州税务部门规则。常见错误是只看新州是否征税，却忘了旧州是否仍将本人认定为居民。
 
-Federal penalty calculation 对 withholding 有自己的 deemed-paid timing 规则，而 quarterly estimates 通常按 payment timing 看。
+## 7. 住所不是改一个地址就完成
 
-这使 year-end payroll withholding 有时具有 planning value。
+住所通常涉及长期作为家的地点及相关事实，而不仅是驾照、邮寄地址或某次租约。实际居住、家庭、工作及财产安排必须一致地向专业人士说明。
 
-**但**
-具体使用方式看 Pub. 505 / Form 2210 + CPA。
+例如纽约州规则分别列出住所居民与满足永久居所及停留条件的法定居民，并有特定例外。其常见法定居民测试涉及全年大部分时间维持永久居所并在州内达到 184 天，部分一天的计算也需核对；这不是全国规则，也不是唯一纽约居民测试。
 
-不要把它当 internet tax hack。
+来源：[纽约州所得税定义](https://www.tax.ny.gov/pit/file/pit_definitions.htm)。不要把停留控制在某个数字以内当成必然免除州税。
 
----
+## 8. 工作地点与工资来源另行分析
 
-## 5. Extension to file 不等于 extension to pay
+即使不是某州居民，也可能有该州来源收入。远程办公还可能涉及雇主便利规则（convenience of the employer）、州际协议和居民抵免。
 
-**优先级:** P1
+纽约州有针对非居民远程工作的具体规则，不能仅凭人在州外就认定工资不是纽约来源。其官方解释见[远程工作税务备忘录](https://www.tax.ny.gov/pdf/memos/income/m06_5i.pdf)；该文件发表于 2006 年，使用时应连同当前年度规则及本人工作安排确认，不能作为所有州的通则。
 
-任何 extension 都问：
-- filing extended?
-- payment extended?
-- interest?
-- state treatment?
+## 9. 搬家年度保留真实记录
 
-通常 federal extension 主要延长 filing，不自动延长 tax due。
+保存租约或产权、搬家公司凭证、实际入住、公共事业账单、工作安排、地址变更和旅行记录。记录解释实际发生了什么，不用于制造虚假的居住证据。
 
----
+移居前请税务专业人士确认所需资料、居民身份切换日期、收入分配及涉及的申报表；不要等收到审查通知才补回忆。
 
-## 6. State residency 不存在全国统一定义
+## 10. 停留日与工作日分开记录
 
-各州可能用：
-- domicile；
-- statutory residency；
-- day count；
-- permanent place of abode；
-- intent；
-- connections。
+在何地过夜、当天去过哪些地方、在哪里实际工作，可能对应不同测试。旅行日、短暂停留和远程工作按适用规则处理，不能把出差日历直接当作所有税务天数。
 
-定义和 threshold 不同。
+保留机票、交通和工作记录等支持材料。请假标签不能替代实际工作事实，也不要为了税务结果改写记录。
 
-**执行原则**
-搬州前后直接查 relevant state department of revenue/taxation，而不是 Reddit 总结。
+## 11. 市和地方税单独检查
 
----
+城市税不一定与州税采取同样的居民或工作地点规则。例如纽约市个人所得税针对其居民；非纽约市居民通常不负担该项税，而纽约州税可能仍适用。扬克斯另有非居民收入税安排。
 
-## 7. Domicile 与“今天住哪里”不是同一概念
+来源：[纽约州税务部门居民与非居民常见问题](https://www.tax.ny.gov/pit/file/nonresident-faqs.htm)。这里只说明地方规则不同，不能推导其他城市都只对居民征税。
 
-Domicile 通常涉及：
-- permanent home；
-- intent；
-- family；
-- property；
-- business/social ties；
-- licenses/registration；
-- facts and circumstances。
+## 12. 工资系统设置每年复核
 
-具体 law 按州。
+新工作、搬家、远程安排、婚姻和薪酬变化后，检查工资单中的联邦、州和地方预扣。通知雇主人事及薪资部门实际变化，并保留确认。
 
-一个人也可能：
-- domicile in one state；
-- statutory resident of another；
-- source income in multiple states。
+修改联邦预扣表（Form W-4）不等于州表和工作地点代码会自动正确更新。
 
----
+## 13. 大额资产交易之前评估州税
 
-## 8. Work location 可能影响 wage sourcing
+联邦资本利得分类并不保证州税同样优惠。出售房产、企业权益或其他重大资产前，说明资产性质、取得与出售时间、居住变化以及相关州。
 
-Hybrid / remote work 在不同州可涉及：
-- where services are performed；
-- convenience-of-employer rules in some jurisdictions；
-- resident credit；
-- employer withholding；
-- reciprocity。
+股权薪酬还可能涉及服务期间分配，不能只看支付当天在哪个州。具体计算交给熟悉相关州和收入类型的专业人士。
 
-**执行原则**
-“公司在 NY，所以工资全算 NY”或“人在 FL，所以肯定只交 FL”都不能当 universal rule。
+## 14. 工资税表是记录，不是最终法律结论
 
----
+工资税表（Form W-2）中的州工资和预扣信息需要与实际工作安排核对。多个州显示工资不一定是重复征收，看到异常也不能自行删除一栏了事。
 
-## 9. Move year 是 audit-sensitive period
+先让薪资部门解释或更正，再由报税人确定正确申报与抵免方法；保留原表、更正表和往来说明。
 
-建议保留：
-- leases/deeds；
-- moving invoice；
-- utilities；
-- driver license；
-- registration；
-- voter registration as applicable；
-- employment records；
-- travel/day calendar；
-- address changes；
-- property sale/purchase；
-- spouse/family location。
+## 15. 收到税务通知，先保护期限
 
-不是为了“制造 residency”，而是保留事实。
+保存全部页面、信封、收到日期和回复期限。通过官方入口核实，整理对应税表及付款记录，指定负责人回复并保存提交证明。
 
----
+纸质通知未显示在网上，不足以判定其无效。争议金额大、涉及处罚或诉讼期限时，请合适的税务专业人士及时介入。
 
-## 10. Day count 不要靠回忆
+## 16. 两州申报不等于一定重复付完整税款
 
-跨州/跨国 high-income household 应有：
-- calendar；
-- travel history；
-- flight records；
-- work-location log if needed。
+来源收入分配、居民税收抵免和特定州际安排可能减轻重复征税，但适用税种、收入类别和抵免限额各异。
 
-如果某州有 day threshold，年底再回忆常常不可靠。
+请报税人说明每个州为何需要申报、收入如何分配及抵免在哪张表体现。不能假定“已经在一个州交过”就可以不向另一个州申报。
 
----
+## 17. 境外远程工作需要事先评估
 
-## 11. City/local tax 是另一个 layer
+即使行程短，也不自动排除境外收入来源、工作许可或雇主合规问题。持续或重复境外工作，还可能涉及当地税务居民、薪资和企业义务。
 
-部分城市/localities 有自己的：
-- resident income tax；
-- wage tax；
-- local filing；
-- employer withholding。
+出行前如实向雇主确认允许的地点与安排，再由合适的专业人士评估个人和雇主事项。详见[第 38 章](38-中美跨境税与Work-from-Abroad.md)。
 
-搬城市不仅是 state question。
+## 18. 境外账户申报与所得税不是同一件事
 
----
+美国财政部金融犯罪执法网络（FinCEN）规定，符合定义的美国人对境外金融账户有财务利益或签字权，且合计价值在日历年任一时点超过 1 万美元时，一般须考虑境外银行及金融账户报告（FBAR），具体豁免按说明判断。不是每个账户各看 1 万，也不是只看年底余额。
 
-## 12. State withholding 也要 yearly sanity check
+来源：[FinCEN 申报说明](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。另有特定境外金融资产申报（Form 8938）及其他实体、赠与或基金相关表格，定义和门槛不能互相替代；应把完整资产与权限清单交给跨境税务专业人士逐项判断。
 
-尤其：
-- new job；
-- move；
-- remote work；
-- spouse change；
-- bonus；
-- second state；
-- equity vest。
+## 19. 把税务安排进全年日历
 
-不要只看 federal W-4。
+| 时点 | 要完成的事 |
+|---|---|
+| 年初 | 收集上年资料，跟踪缺失税表，估计申报与补款 |
+| 各期付款前 | 复核预扣、已缴金额及预估税要求 |
+| 年中 | 检查薪酬、投资收入、居住和工作变化 |
+| 年末前 | 更新全年估税，处理有截止日的供款或交易安排 |
+| 重大事件发生前 | 搬家、境外工作、资产出售等先咨询再实施 |
 
----
+不要把“每季度复查”误当作各项税款都在自然季度最后一天到期。具体日期写入当年日历并核对州和地方要求。
 
-## 13. Capital gain 的 state treatment 也可能不同
+## 20. 最小执行集与核验范围
 
-Federal capital-gain category 不代表：
-- every state preferential rate；
-- same sourcing；
-- same residency result。
+- [ ] 已区分最终税额、预缴要求及付款时间。
+- [ ] 工资预扣与相关州、市设置已核对。
+- [ ] 居住日、工作地及搬家记录可追溯。
+- [ ] 境外账户、权益和签字权限已完整告知报税专业人士。
+- [ ] 重大交易与境外工作提前评估，税务通知有负责人和期限。
 
-大额 sale/real estate transaction 前做 state-specific planning。
-
----
-
-## 14. Employer payroll coding 不是最终法律结论
-
-W-2 state box / withholding 是重要 record，但错误可能发生。
-
-**执行原则**
-发现：
-- wrong state；
-- wrong locality；
-- duplicate wages；
-- impossible allocation
-
-尽早联系 payroll + CPA。
-
----
-
-## 15. Tax notice workflow
-
-收到 federal/state/local notice：
-
-1. received date；
-2. response deadline；
-3. scan all pages；
-4. official portal verify；
-5. CPA/tax counsel；
-6. gather return/support；
-7. written response；
-8. proof of submission；
-9. follow-up calendar。
-
-不要只打客服电话然后没有 record。
-
----
-
-## 16. Multi-state return 不等于“双重征税一定发生”
-
-Resident credit、reciprocity、source allocation 等机制可能减少 duplicate taxation。
-
-但机制按州 pair 不同。
-
-**执行原则**
-不要只看“两个州都报税”就认为一定付两次完整税。
-
----
-
-## 17. Cross-border remote work 不是旅游问题
-
-在中国/其他国家 remote work 可能触发：
-- foreign tax residency；
-- source income；
-- payroll；
-- treaty；
-- employer compliance；
-- local work authorization；
-- permanent establishment/business issues。
-
-如果每年只是 short vacation 一回事；如果 recurring multi-month work，性质完全不同。
-
----
-
-## 18. Foreign accounts/assets 可能有 U.S. reporting
-
-U.S. person 可能面对：
-- FBAR；
-- Form 8938；
-- foreign trust/gift/corporation reporting；
-- PFIC；
-- foreign income/tax credit。
-
-Threshold 和 applicability 很复杂。
-
-**执行原则**
-有 China-side material assets/account 时，找真正做 international tax 的 professional。
-
----
-
-## 19. Tax planning calendar
-
-建议：
-
-### Q1
-- prior-year documents
-- K-1/1099 tracking
-- filing projection
-
-### Mid-year
-- bonus/equity
-- state days
-- estimated tax
-
-### Q3/Q4
-- full-year projection
-- safe harbor
-- charitable/gift
-- retirement/HSA
-- major gain
-- residency evidence
-
----
-
-## 20. 最小执行集
-
-- [ ] annual tax projection
-- [ ] federal safe harbor understood
-- [ ] state/local withholding review
-- [ ] move year day/location records
-- [ ] large transaction pre-planning
-- [ ] tax notices same-week routing
-- [ ] international assets disclosed to qualified CPA
-- [ ] remote-work country/state reviewed
-- [ ] April filing 与全年 tax planning 分开
-- [ ] official state tax source first
-
-最后核验：2026-09-21
+最后编辑与来源核验：2026-09-21。核对 IRS 2026 年第 505 号刊物、预缴不足和延期说明、2025 年第 2210 表说明、纽约州官方居民定义与远程工作资料，以及 FinCEN 的 FBAR 入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
