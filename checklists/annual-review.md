@@ -1,113 +1,98 @@
-# Annual Household Review
+# 家庭年度复查清单
 
-建议每年固定一个周末做一次，目标不是“整理生活”，而是发现已经 quietly broken 的系统。
+用于发现已经失效的联系方式、权限、保障和待办。可以分几次完成；报警器测试、用药和法定申报等有各自频率，不能一律等到年度复查。详见[第32章年度复查](../book/32-年度Household-Review.md)。
 
-## P0 — Safety
+> 公开版本仅为空白模板。实际资料请保存在受保护的私人位置。下列顺序是整理建议；具体期限以法律、合同、计划文件及机构通知为准。
 
-- [ ] Smoke alarms 能正常工作，达到使用年限时更换
-- [ ] CO alarms 能正常工作（适用住宅）
-- [ ] 家庭成员知道 911 / emergency plan
-- [ ] CPR/AED 基础知识没有完全遗忘
-- [ ] Emergency Sheet 仍然准确
-- [ ] 宠物 emergency / backup care 仍可用
-- [ ] 家庭有基本 emergency supplies，且药物/电池未失效
+## 安全与紧急联络
 
-## Identity & Cyber
+- [ ] 核对烟雾及适用的一氧化碳报警器测试、更换安排；按制造商要求持续维护。
+- [ ] 家人知道当地紧急服务入口、逃生安排和应急物资位置。
+- [ ] 核对急救培训与复训需要，更新家庭紧急信息表。
+- [ ] 确认宠物主要与备用照护者、用品及夜间兽医。
+- [ ] 检查应急药物、食物、电池及其他耗材有效状态。
 
-- [ ] Primary email 使用强 MFA
-- [ ] Financial accounts 使用 MFA
-- [ ] Password manager emergency access 可用
-- [ ] Recovery codes 有离线/安全备份
-- [ ] Credit freeze 状态符合家庭选择
-- [ ] Credit reports 有异常时及时处理
-- [ ] IRS Online Account 可登录
-- [ ] Social Security earnings record 无明显错误
+## 身份与数字安全
 
-## Insurance
+- [ ] 主要邮箱和金融账户的多因素认证可用；优先评估通行密钥或安全密钥等抗钓鱼方式。
+- [ ] 安全保管恢复码，确认备用恢复不完全依赖同一手机或邮箱。
+- [ ] 按家庭选择核对信用冻结；查看信用记录并处理异常。
+- [ ] 核对国税局账户、社会保障收入记录及异常通知。
+- [ ] 检查密码管理器的合法应急访问安排与已授权设备。
 
-- [ ] Auto liability limits 合理
-- [ ] Home/renters declarations page 已 review
-- [ ] Umbrella 与 underlying limits 匹配
-- [ ] Jewelry / watches / art 等高价值物品 coverage 与现状一致
-- [ ] Disability / life insurance 仍符合家庭依赖关系
-- [ ] Pet insurance / self-insurance 决策仍合理
-- [ ] Travel insurance 策略仍适合旅行模式
+## 保险
 
-## Estate & Legal
+- [ ] 核对汽车、住房或租客险的地址、使用情况、责任限额和自付额。
+- [ ] 超额责任险与基础保单衔接，贵重物品保障匹配实际存放与旅行。
+- [ ] 复查人寿、失能、宠物及旅行保障或自担费用安排。
+- [ ] 保存最新保单及经纪对保障缺口的书面说明。
 
-- [ ] Beneficiary designations 与意愿一致
-- [ ] Will / trust 是否需要更新
-- [ ] Financial POA 是否仍合适
-- [ ] Health-care proxy / directive 是否仍合适
-- [ ] Executor / trustee / agent 联系方式有效
-- [ ] 重要文件可被配偶或指定人找到
+## 遗产与法律权限
 
-## Tax & Finance
+- [ ] 核对受益人指定、遗嘱、信托、财务授权和医疗决策文件是否需要更新。
+- [ ] 确认执行人、受托人及代理人的意愿和联系方式。
+- [ ] 授权人员知道原件位置；实际可访问不等于自动具有处理权限。
 
-- [ ] 去年 tax return 和 supporting docs 已归档
-- [ ] 当前年度 withholding / estimated tax 做过 sanity check
-- [ ] 大额现金没有无意形成不必要的 uninsured concentration
-- [ ] Retirement / HSA / employee-benefit elections review
-- [ ] 账户是否出现不必要的 orphan / forgotten assets
-- [ ] CPA / professional contacts 仍可用
+## 税务与家庭财务
 
-## Healthcare
+- [ ] 归档报税表和支持材料，更新当年预扣与预缴估算。
+- [ ] 按账户所有权类别核对存款保障，检查遗忘账户、旧雇主资产和重复费用。
+- [ ] 复查退休、健康储蓄账户及雇主福利选择，确认专业联系人。
+- [ ] 对照付款确认、机构入账和报税表，不只看银行已扣款。
 
-- [ ] PCP / dentist 仍在网络且可预约
-- [ ] preventive care 按年龄和风险因素执行
-- [ ] 不把“检查越多”当作自动更好
-- [ ] medication list 已更新
-- [ ] vaccine record 可访问
-- [ ] preferred urgent care / ER 没有失效
-- [ ] medical records 可以跨 provider 取回
+## 缴款与申报对账表
 
-## Home
+| 年度及项目 | 付款确认 | 机构入账 | 报税列示或结转 | 差额原因 | 负责人及跟进日期 |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 
-- [ ] Building / landlord / HOA emergency contacts 有效
-- [ ] Plumber / electrician / HVAC / locksmith 至少知道入口
-- [ ] Water shutoff / electrical panel 等基础位置知道
-- [ ] Renters/home inventory 有必要时更新
-- [ ] 重要 maintenance 没有因为“暂时还能用”无限拖延
+差额未解决时保留为待办；请税务专业人士确认更正、抵扣或退款路径。
 
-## Car
+## 福利实际兑现检查
 
-- [ ] Registration / inspection / insurance 没有过期风险
-- [ ] Roadside assistance 可用
-- [ ] Tire condition / pressure / spare-or-repair plan
-- [ ] NHTSA recall lookup 无未处理 safety recall
-- [ ] Dashcam / emergency kit 按家庭选择维护
+- [ ] 列出已选择的雇主匹配、报销、保险和其他福利及适用期限。
+- [ ] 区分已经申请、已经批准和资金或保障实际到位。
+- [ ] 保留到账或生效凭证；逾期未到向计划管理员查询并记录案件号。
 
-## US Government Accounts
+## 医疗
 
-- [ ] IRS Online Account
-- [ ] my Social Security
-- [ ] state DMV/MVC account
-- [ ] passport expiration horizon
-- [ ] immigration / status documents（如适用）
-- [ ] address records 与实际情况一致
+- [ ] 核对初级保健医生、牙医及常用机构是否仍接受具体保险计划并可预约。
+- [ ] 按年龄与风险和医生讨论预防照护，不把检查数量当作质量。
+- [ ] 更新用药、过敏、疫苗及关键病历，确认跨机构取得资料的办法。
+- [ ] 确认附近急诊与紧急门诊入口；危急时不等待网络核验。
 
-## China Secondary System
+## 房屋与车辆
 
-- [ ] 中国手机号仍 active
-- [ ] 银行登录与验证方式仍 active
-- [ ] 微信/支付宝身份验证路径仍 active
-- [ ] 身份证/护照等有效期
-- [ ] 父母/家人 emergency contact 没有 single point of failure
-- [ ] 国内 preferred hospital / property contacts 仍可用
-- [ ] 重要公文跨境使用是否需要 Apostille / translation
-- [ ] 若在华停留/工作模式显著变化，重新 review tax residency
+- [ ] 核对物业、房东、业主协会及水电暖通维修联系人。
+- [ ] 知道水阀、配电箱和逃生路线，区分能安全自行操作与需专业人员处理的项目。
+- [ ] 更新财产清单、维护计划和车辆登记、检查、保险期限。
+- [ ] 检查轮胎、道路救援、未处理安全召回及自选行车记录设备。
 
-## Social Infrastructure
+## 美国办事与身份文件
 
-- [ ] 至少有一位邻居/本地朋友能在 emergency 时联系
-- [ ] CPA / attorney / insurance agent 不只是“通讯录里一个名字”
-- [ ] 中国重要亲友关系没有因为长期不在场完全失联
-- [ ] 新城市/新生活阶段是否出现尚未建立的 service network
+- [ ] 确认国税局、社会安全局和州车辆管理机构账户可用。
+- [ ] 检查护照、驾照、移民身份及工作文件期限和待办。
+- [ ] 地址变化分别核对各机构要求，不能只做邮政转寄。
 
-## 本年度三件最值得完成的事
+## 中国与跨境生活
 
-1. ______
-2. ______
-3. ______
+- [ ] 测试手机号、银行、微信或支付宝的登录和备用恢复。
+- [ ] 核对证件、医院、物业及现场联系人。
+- [ ] 确认跨境文件是否需附加证明书或翻译。
+- [ ] 停留、工作或居住安排改变时，重新核对两国及相关州税务。
 
-模板最后更新：2026-09-21
+## 社会联系与家庭意愿
+
+- [ ] 确认愿意提供帮助的本地联系人，并尊重对方边界。
+- [ ] 维持重要亲友联系，按兴趣选择可持续活动。
+- [ ] 讨论家庭成员是否对当前分工、支出和两地安排有新的需要。
+
+## 本轮待办
+
+| 问题 | 下一步 | 负责人 | 适用期限／跟进日 | 完成凭证 | 无进展时联系谁 |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+
+
+
+模板校订：2026-09-21

@@ -1,107 +1,89 @@
-# Household Emergency Sheet — 空白模板
+# 家庭紧急信息表——空白模板
 
-> 这是一个字段模板。**Public repo 不填写真实数据。**  
-> 实际副本应保存在家庭可访问、但安全的位置。
+供有权限的家人在紧急情况下找到必要信息。可为照护人员制作只含岗位所需内容的副本。医疗处理见[第03章](../book/03-紧急情况与急救.md)，权限准备见[第10章](../book/10-Estate-Planning与失能.md)。
 
-## 1. 人
+> 公开版本仅为空白模板。实际资料请保存在受保护的私人位置。下列顺序是整理建议；具体期限以法律、合同、计划文件及机构通知为准。
 
-| Field | Person A | Person B |
+## 家庭成员
+
+| 字段 | 成员甲 | 成员乙 |
 |---|---|---|
-| Legal name |  |  |
-| Preferred name |  |  |
-| DOB |  |  |
-| Mobile |  |  |
-| Primary email |  |  |
-| Emergency contact |  |  |
-| Employer emergency number |  |  |
+| 法定姓名／常用称呼 |  |  |
+| 出生日期 |  |  |
+| 电话／主要邮箱 |  |  |
+| 紧急联系人及备用联系人 |  |  |
+| 雇主紧急联系方式 |  |  |
 
-## 2. 医疗
+## 医疗摘要
 
-| Field | Person A | Person B |
+| 字段 | 成员甲 | 成员乙 |
 |---|---|---|
-| PCP |  |  |
-| Insurance carrier |  |  |
-| Member ID location |  |  |
-| Allergies |  |  |
-| Current medications |  |  |
-| Major conditions/surgeries |  |  |
-| Preferred hospital |  |  |
-| Health-care proxy location |  |  |
+| 初级保健医生及电话 |  |  |
+| 保险计划及会员资料位置 |  |  |
+| 过敏及严重反应 |  |  |
+| 当前用药、剂量及频率 |  |  |
+| 重要疾病与手术 |  |  |
+| 常用医院 |  |  |
+| 医疗代理人及文件位置 |  |  |
 
-不要在公开 GitHub 保存 member ID、完整 medical record 或身份证件号码。
+由本人或照护者核对更新时间。完整病历、证件与保险号码不放公开版本。
 
-## 3. 家庭 Emergency Routing
+## 美国紧急与维修入口
 
-- **Immediate threat to life / fire / crime in progress (US):** 911
-- Preferred ER: ______
-- Nearby urgent care: ______
-- Dentist emergency line: ______
-- Veterinarian: ______
-- 24h emergency vet: ______
-- Building / home emergency maintenance: ______
-- Plumber: ______
-- Electrician: ______
-- Locksmith: ______
-- Roadside assistance: ______
-- Auto insurer claims: ______
-- Home/renters insurer claims: ______
-- Umbrella insurer: ______
+美国正在发生危及生命、火灾或暴力等紧急情况：**911**。
 
-## 4. Professionals
+- 附近医院急诊／紧急门诊：______
+- 牙医急诊／常规与夜间兽医：______
+- 物业或房屋紧急维修：______
+- 水管工／电工／锁匠：______
+- 道路救援：______
+- 汽车、住房或租客险理赔：______
+- 超额责任险联系入口：______
 
-- CPA: ______
-- Estate attorney: ______
-- Immigration attorney (if relevant): ______
-- Insurance broker/agent: ______
-- Financial custodian emergency/fraud line: ______
+## 专业人士
 
-## 5. China-side Routing
+- 注册会计师或税务专业人士：______
+- 遗产及失能规划律师：______
+- 移民律师（如适用）：______
+- 保险经纪：______
+- 银行或证券机构官方反欺诈电话：______
 
-- Primary family contact: ______
-- Backup family contact: ______
-- Preferred hospital: ______
-- Local 12345 government-service channel: ______
-- Bank fraud/emergency contacts: ______
-- Property / household contact: ______
+## 中国现场支援
 
-## 6. Documents — location only
+- 医疗急救：**120**；具体所在地其他紧急入口：______
+- 主要与备用现场联系人：______
+- 医院、物业及家务联系人：______
+- 当地政务服务渠道：______
+- 银行官方挂失与反欺诈入口：______
 
-记录**在哪里**，不要把 secrets 本身贴进这张表：
+## 只记文件位置
 
-- Passports: ______
-- Birth/marriage certificates: ______
-- Will / trust: ______
-- POA / health-care directive: ______
-- Insurance declarations: ______
-- Tax returns: ______
-- Property / lease documents: ______
-- Vehicle title / registration: ______
-- China identity / household documents: ______
-- Password-manager emergency access instructions: ______
+- 护照、出生及结婚证明：______
+- 遗嘱、信托及财务授权：______
+- 医疗代理及预先医疗指示：______
+- 保单、税表、房产或租约：______
+- 车辆产权与登记：______
+- 中国证件及户籍材料：______
+- 密码管理器的合法应急访问说明：______
 
-## 7. If one spouse is incapacitated
+不要把密码、恢复码或保险柜口令直接写在此表。
 
-另一个人应该能在 30 分钟内回答：
+## 一名家人突然无法处理事务
 
-- 哪家医院？
-- health insurance 是什么？
-- daily medication 是什么？
-- health-care proxy 在哪里？
-- employer / family 联系谁？
-- 宠物谁照顾？
-- 哪些 travel / appointment 要取消？
-- 哪些 financial obligations 最近到期？
+- [ ] 谁知道医院、保险、用药及过敏信息？
+- [ ] 谁能取得医疗代理文件，谁有权作决定？
+- [ ] 谁联系雇主和亲友，谁照顾孩子、父母及宠物？
+- [ ] 哪些近期预约、行程和付款需处理？
+- [ ] 主要联系人联系不上时，谁接替？
 
-## 8. Review cadence
+平时做一次口头走查，记录缺口，不设置脱离病情的统一完成时限。
 
-至少每年一次，以及以下事件之后：
-- move；
-- marriage/divorce；
-- new child；
-- new home；
-- major medical diagnosis；
-- insurance change；
-- new country of residence；
-- major estate-plan update。
+## 更新
 
-最后更新模板：2026-09-21
+私人副本负责人：______　内容核对日期：______　备用存放位置：______
+
+每年至少复查一次；搬家、婚姻变化、新生儿、重大诊断、用药、保险、居住国或法律文件变化后及时更新。
+
+
+
+模板校订：2026-09-21

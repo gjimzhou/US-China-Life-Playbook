@@ -1,129 +1,62 @@
-# Marriage Checklist — 婚姻是 household operating system merge
+# 结婚与夫妻生活安排清单
 
-> 法律、税务和 benefits 规则因州、雇主和家庭结构不同。本 checklist 是 routing tool，不是个案法律意见。
+法律、税务与福利规则取决于所在地、计划和家庭情况。双方共同决定安排，透明不意味着交出全部隐私。详见[第28章婚姻与夫妻财务](../book/28-婚姻Prenup与夫妻财务.md)。
 
-## Before marriage / registration
+> 公开版本仅为空白模板。实际资料请保存在受保护的私人位置。下列顺序是整理建议；具体期限以法律、合同、计划文件及机构通知为准。
 
-### Legal
-- [ ] marriage license requirements
-- [ ] ceremony / witness requirements
-- [ ] certified certificate copies plan
-- [ ] name-change decision if any
-- [ ] prenup finalized sufficiently before marriage if used
-- [ ] cross-border use of certificate: Apostille/translation need?
+## 登记与法律文件
 
-### Finance
-- [ ] joint vs separate account philosophy
-- [ ] debt disclosure
-- [ ] recurring obligations
-- [ ] family support obligations
-- [ ] major assets inventory
-- [ ] tax filing discussion
-- [ ] property ownership philosophy
+- [ ] 核对结婚许可、仪式、见证及认证结婚证明要求。
+- [ ] 决定是否改名及后续手续；跨境使用证明时核对附加证明书和翻译要求。
+- [ ] 如使用婚前协议，提前分别取得适当法律意见，留足披露和审阅时间。
 
-### Insurance / benefits
-- [ ] employer health-plan comparison
-- [ ] HSA/FSA compatibility
-- [ ] spouse life/disability benefits
-- [ ] beneficiary implications
-- [ ] auto household-driver rules
+## 财务与既有责任
 
----
+- [ ] 交流债务、重要资产、固定支出及支持原生家庭的责任。
+- [ ] 共同决定联名或独立账户、日常分担和大额支出沟通方式。
+- [ ] 讨论产权、税务申报与合法应急资金，不假设结婚会自动调整账户。
 
-## First 30 days after marriage
+## 比较保险与福利
 
-### Employer
-- [ ] marital status / HR
-- [ ] health insurance special enrollment
-- [ ] dental/vision
-- [ ] life insurance beneficiary
-- [ ] retirement beneficiary
-- [ ] emergency contact
-- [ ] tax withholding review
+- [ ] 比较双方雇主医保、健康储蓄与灵活支出账户的兼容性。
+- [ ] 核对配偶保险、失能保障、受益人及退休计划的配偶权利。
+- [ ] 告知汽车保险家庭驾驶人和住所变化。
 
-### Accounts
-- [ ] bank beneficiaries / ownership as intended
-- [ ] brokerage beneficiaries / TOD as intended
-- [ ] retirement beneficiaries
-- [ ] credit-card authorized user decisions
-- [ ] household bill system
-- [ ] emergency access
+## 婚后按实际期限办理
 
-### Insurance
-- [ ] auto household update
-- [ ] renters/homeowners
-- [ ] umbrella
-- [ ] valuables
-- [ ] life insurance need
-- [ ] disability coverage
-- [ ] pet policies
+- [ ] 向雇主核对特别登记窗口、生效日、所需证明及牙科视力等选择。
+- [ ] 更新紧急联系人、婚姻信息及适用预扣税安排。
+- [ ] 核对每个计划的受益人指定和配偶同意要求，不使用统一“30天内”替代真实期限。
 
----
+## 账户与家庭保险
 
-## Estate / incapacity
+- [ ] 按双方意愿处理银行和证券账户的所有权、受益人或死亡时转移安排。
+- [ ] 决定信用卡授权用户、日常账单分工及合法应急访问。
+- [ ] 复查住房或租客险、超额责任险、贵重物品、人寿、失能及宠物安排。
 
-- [ ] will
-- [ ] health-care proxy
-- [ ] alternate proxy
-- [ ] advance directive
-- [ ] financial POA
-- [ ] digital estate
-- [ ] executor/agent aware
-- [ ] originals/copies accessible
+## 失能与遗产
 
-**Rule:** Marriage does not magically update every beneficiary designation or financial account.
+- [ ] 核对遗嘱、财务授权、医疗代理及备用代理、预先医疗指示。
+- [ ] 安排数字资料和原件访问，向执行人或代理人说明意愿及职责。
+- [ ] 受益人与文件逐个核对，不能假设婚姻登记会自动改好。
 
----
+## 税务
 
-## Tax
+- [ ] 评估联邦与州申报方式、共同申报责任、多州居住及跨境影响。
+- [ ] 核对当年预扣、预缴、历史记录与必要专业咨询。
 
-- [ ] federal filing-status impact
-- [ ] state filing impact
-- [ ] multi-state residency issues
-- [ ] withholding projection
-- [ ] estimated tax if applicable
-- [ ] prior-year tax records available to both spouses
-- [ ] cross-border tax issues if applicable
+## 共同生活与亲友
 
----
+- [ ] 更新家庭紧急信息表、日历分工、旅行文件、医疗及维修联系。
+- [ ] 讨论宠物、父母支持、节日、两地行程、礼物和家庭金钱边界。
+- [ ] 沟通姓名称呼、待客及分歧处理方式；安排需要双方同意的重大决定。
 
-## Household operations
+## 持续复查
 
-- [ ] Emergency Sheet
-- [ ] shared calendar philosophy
-- [ ] travel document location
-- [ ] pet care
-- [ ] home vendor contacts
-- [ ] medical provider info
-- [ ] family emergency contacts
-- [ ] password-manager emergency access
+- [ ] 每年及婚姻、居住、工作、生育或照护变化后复查受益人、保障与法律文件。
+- [ ] 讨论双方目标、分工和父母责任是否仍合适。
+- [ ] 对未完成登记记录负责人、期限及受理或生效凭证。
 
----
 
-## Social / family
 
-- [ ] expectations for holidays
-- [ ] China / US travel allocation
-- [ ] parental support
-- [ ] gifts / red envelopes / family money boundaries
-- [ ] hosting expectations
-- [ ] surname/title/social convention choices
-- [ ] conflict escalation rule
-
----
-
-## Annual marriage operating review
-
-At least annually:
-- [ ] beneficiaries
-- [ ] insurance
-- [ ] estate docs
-- [ ] tax
-- [ ] account access
-- [ ] parents/family obligations
-- [ ] major goals
-- [ ] location/residency plan
-- [ ] children plan if relevant
-- [ ] emergency contacts
-
-模板最后更新：2026-09-21
+模板校订：2026-09-21

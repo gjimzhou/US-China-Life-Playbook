@@ -1,240 +1,102 @@
-# Home Purchase & Closing Checklist
+# 买房与交割清单
 
-> Public template. Real property address, lender info, account numbers, wire instructions, net worth, and personal legal documents should stay private.
+按交易阶段核对，具体期限来自购房合同、贷款规则和当地程序。详见[第36章买房、房贷、交割与业主协会](../book/36-买房Mortgage-Closing与HOA.md)。
 
----
+> 公开版本仅为空白模板。实际资料请保存在受保护的私人位置。下列顺序是整理建议；具体期限以法律、合同、计划文件及机构通知为准。
 
-# Before Shopping
+## 看房前
 
-- [ ] total housing budget
-- [ ] emergency fund after closing
-- [ ] down-payment source
-- [ ] mortgage preapproval
-- [ ] attorney model in your state
-- [ ] target property tax
-- [ ] insurance estimate
-- [ ] flood risk
-- [ ] HOA/condo preference
-- [ ] commute / school / lifestyle constraints
+- [ ] 计算总住房支出、首付款来源及交割后应急资金，不只看月供。
+- [ ] 取得适当贷款预批准，了解所在地律师及交割安排。
+- [ ] 估算房产税、保险、洪水风险、业主协会费用及交通等生活成本。
 
----
+## 出价前检查房屋
 
-# Before Offer
+- [ ] 阅读卖方披露，核对房龄、屋顶、暖通、渗水、管线及已有维修。
+- [ ] 确认停车、公共服务、附近规划、出租与转售限制。
+- [ ] 按具体房屋风险决定进一步检查，不以普通验房替代所有专项评估。
 
-## Property
-- [ ] disclosures
-- [ ] age/condition
-- [ ] flood/water
-- [ ] roof/HVAC
-- [ ] parking
-- [ ] utilities
-- [ ] planned construction nearby
-- [ ] resale constraints
+## 公寓与业主协会
 
-## Condo / HOA
-- [ ] monthly fee
-- [ ] reserves
-- [ ] special assessments
-- [ ] litigation
-- [ ] master insurance
-- [ ] meeting minutes
-- [ ] pet rules
-- [ ] rental rules
-- [ ] move rules
-- [ ] capital projects
+- [ ] 阅读预算、储备金、会议记录、特别摊派、重大工程与诉讼资料。
+- [ ] 核对建筑主保单、单位业主应投保险及自付额分担。
+- [ ] 确认宠物、出租、装修、搬家和停车规定。
 
-## Legal
-- [ ] offer contingencies
-- [ ] attorney review if applicable
-- [ ] inspection contingency
-- [ ] financing contingency
-- [ ] appraisal contingency
-- [ ] title/deed ownership plan
+## 合同与产权
 
----
+- [ ] 核对验房、融资、估价等保护条款、退出条件、通知形式及最后期限。
+- [ ] 按适用程序安排律师审阅。
+- [ ] 确认产权持有方式与家庭法律安排，问题未解决前不随意放弃条款。
 
-# Under Contract
+## 签约后的检查
 
-## Inspection
-- [ ] general inspection
-- [ ] roof specialist if needed
-- [ ] structural engineer if needed
-- [ ] sewer scope if needed
-- [ ] chimney if needed
-- [ ] oil tank/environmental if needed
-- [ ] mold/moisture if needed
-- [ ] pool/waterfront specialty if needed
+- [ ] 完成一般验房，按需要检查结构、屋顶、下水道、烟囱、油罐、潮湿或其他特殊设施。
+- [ ] 把报告、修复约定及卖方回复写入记录，明确复查与交割条件。
 
-## Financing
-- [ ] Loan Estimate
-- [ ] compare lenders
-- [ ] rate
-- [ ] APR
-- [ ] points
-- [ ] lender credits
-- [ ] origination fees
-- [ ] rate-lock expiry
-- [ ] cash to close
-- [ ] reserves required
+## 贷款比较
 
-## Funds
-- [ ] large transfers documented
-- [ ] gift/loan documentation
-- [ ] family contribution legally/tax coordinated
-- [ ] avoid unnecessary new credit/debt
-- [ ] lender aware of employment/income changes
+- [ ] 按相同贷款条件比较贷款估算表（Loan Estimate）：利率、年化综合成本、点数、贷款方抵扣、费用及锁息期限。
+- [ ] 确认交割需付现金、所需储备和后续月供构成。
+- [ ] 记录贷款方要求的文件及未满足条件，重大就业或收入变化及时说明。
 
----
+## 资金来源
 
-# Insurance
+- [ ] 保留大额转账、赠与或借款文件，家庭出资的法律与税务性质如实说明。
+- [ ] 申请期间新增债务或改变资金安排前先与贷款方核对。
+- [ ] 不把赠与写成借款或反过来，也不临时制造与实际不符的资金证明。
 
-- [ ] homeowners / HO-6
-- [ ] dwelling replacement
-- [ ] personal liability
-- [ ] umbrella
-- [ ] valuables
-- [ ] flood
-- [ ] water backup
-- [ ] loss assessment if condo
-- [ ] master policy reviewed
-- [ ] deductible exposure understood
+## 保险生效
 
----
+- [ ] 核对房屋或公寓单位保险、重置保障、责任险和贵重物品保障。
+- [ ] 分别询问洪水、下水回流、摊派保障及建筑主保单缺口。
+- [ ] 确认生效日期、缴费及贷款方所需证明。
 
-# One Week Before Closing
+## 交割前准备
 
-- [ ] confirm closing date/location
-- [ ] know settlement agent/title/attorney
-- [ ] save trusted phone numbers
-- [ ] ask how funds will be sent
-- [ ] Closing Disclosure expected
-- [ ] other closing docs requested in advance
-- [ ] final walkthrough scheduled
-- [ ] homeowners insurance active date
-- [ ] utilities transfer planned
+- [ ] 确认日期、地点、交割代理和律师，提前保存独立核实的电话。
+- [ ] 提前索取交割文件与付款方式，预约最终走查。
+- [ ] 确认保险、水电等服务的衔接，记录尚未解决的合同问题。
 
----
+## 核对交割披露表
 
-# Closing Disclosure
+- [ ] 将交割披露表（Closing Disclosure）与最新贷款估算表逐项比较。
+- [ ] 检查借款人、房产、金额、贷款类型、利率、月供、提前还款罚金、点数和抵扣。
+- [ ] 核对税费、保险、贷款及产权费用和交割需付现金。
+- [ ] 对差异取得解释；适用贷款的收到披露表与交割间隔要求见第36章，不以发出日期代替收到日期。
 
-Compare to latest Loan Estimate:
+## 电汇防诈骗——最高优先级
 
-- [ ] borrower names
-- [ ] property
-- [ ] loan amount
-- [ ] product/type
-- [ ] rate
-- [ ] payment
-- [ ] prepayment penalty
-- [ ] points
-- [ ] lender credits
-- [ ] taxes/insurance
-- [ ] lender fees
-- [ ] title/settlement
-- [ ] cash to close
+- [ ] 通过预定渠道取得指示，再使用此前独立核实的电话确认。
+- [ ] 逐项核对收款主体、账户及银行路由信息；临时变更先暂停。
+- [ ] 不单凭邮件、付款截图或对方催促操作。
+- [ ] 汇出后通过可信渠道确认收到；发现异常立即联系汇出银行尝试拦截。
 
-If different:
-> Ask why before signing.
+## 最终走查
 
----
+- [ ] 检查约定修复、保留设施、新增损坏、水电暖通及房屋腾空情况。
+- [ ] 核对钥匙、遥控器、门禁与交接物品，按需要拍摄状态和表数。
+- [ ] 问题及时交由代理或律师按合同处理，不默认交割后能补救。
 
-# Wire Fraud Protocol — P0
+## 签署与交割
 
-- [ ] wire instructions received through expected channel
-- [ ] independently call trusted settlement contact
-- [ ] use number saved before any suspicious email
-- [ ] verify recipient name
-- [ ] verify account/routing digits
-- [ ] confirm no last-minute change
-- [ ] send only when comfortable
-- [ ] confirm receipt immediately
+- [ ] 理解借据、抵押或信托契据、产权契据、产权保险及托管文件。
+- [ ] 核对业主协会确认、税费分摊与保险。
+- [ ] 不签空白或有重大错误的文件，取得完整签署副本和结算凭证。
 
-Never rely solely on emailed “updated wire instructions.”
+## 取得房屋后
 
----
+- [ ] 安排锁具与门禁更新，测试报警器，找到水阀、配电箱与逃生路径。
+- [ ] 确认水电、网络、物业、停车和包裹邮件系统。
+- [ ] 独立核实房贷服务机构和首次付款，按选择设置自动扣款。
+- [ ] 建立维护、财产清单与维修联系人，核对托管代缴税费和保险责任。
+- [ ] 必要时更新遗产规划、超额责任险和贵重物品保障。
 
-# Final Walkthrough
+## 归档与未结事项
 
-- [ ] agreed repairs completed
-- [ ] included fixtures/items remain
-- [ ] no new damage
-- [ ] water/electric/HVAC operational
-- [ ] property vacant as agreed
-- [ ] keys/remotes/access
-- [ ] meter/condition photos if useful
+- [ ] 保存合同、验房与专项报告、估价、各版贷款估算、交割披露及签署文件。
+- [ ] 保存产权保险、测量、房屋保险、协会资料和维修凭证。
+- [ ] 对修复、押款释放或登记等未结事项记录负责人、期限和完成证据。
 
----
 
-# Closing
 
-Review before signing:
-
-- [ ] Closing Disclosure
-- [ ] Promissory Note
-- [ ] Mortgage / Security Instrument / Deed of Trust
-- [ ] Deed
-- [ ] title documents
-- [ ] escrow documents
-- [ ] HOA/condo acknowledgements
-- [ ] insurance
-- [ ] tax/assessment adjustments
-
-Do not sign blank or materially incorrect documents.
-
----
-
-# First 72 Hours After Closing
-
-- [ ] save complete document stack
-- [ ] locks/access changed
-- [ ] smoke alarms
-- [ ] CO alarms
-- [ ] water shutoff
-- [ ] breaker panel
-- [ ] utilities
-- [ ] internet
-- [ ] building management
-- [ ] emergency contacts
-- [ ] parking
-- [ ] package/mail system
-
----
-
-# First Month
-
-- [ ] estate/title review
-- [ ] umbrella updated
-- [ ] valuables coverage updated
-- [ ] home inventory
-- [ ] maintenance plan
-- [ ] plumber
-- [ ] electrician
-- [ ] HVAC
-- [ ] locksmith
-- [ ] HOA portal
-- [ ] mortgage servicer verified
-- [ ] autopay deliberate
-- [ ] property-tax / escrow understood
-
----
-
-# Archive
-
-Keep:
-
-- [ ] purchase contract
-- [ ] inspection
-- [ ] specialist reports
-- [ ] appraisal
-- [ ] Loan Estimates
-- [ ] Closing Disclosure
-- [ ] Note
-- [ ] Mortgage/Security Instrument
-- [ ] Deed
-- [ ] title policy
-- [ ] survey
-- [ ] insurance
-- [ ] HOA documents
-- [ ] renovation/repair receipts
-
-模板最后更新：2026-09-21
+模板校订：2026-09-21

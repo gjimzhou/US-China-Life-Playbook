@@ -1,5 +1,12 @@
 # 变更日志（Changelog）
 
+## 2026-09-21 — 完成正文顺序校订与清单对照
+
+- 按第01—40章顺序逐段改写，补足执行步骤，统一中文叙述及必要英文术语。
+- 核对医学、法律、税务、政府与保险等可取得的一手来源；各章保留具体核验范围、访问失败及未核实事项。
+- 对照正文校订全部11份清单，删除误导性的统一办事时限，补充缴款对账、福利兑现、事件跟踪和合法访问安排。
+- 重写术语表的中文解释，更新首页、项目介绍及审查状态；不将语言完成视为全书事实已获审定。
+
 ## 2026-09-21 — 阅读网站与急救校订
 
 - 增加搜索、优先级和证据筛选、章节直达、移动端布局与打印样式。
@@ -31,91 +38,16 @@
 
 ## v0.3 — 2026-09-21
 
-Major expansion from initial skeleton to a full public playbook.
+从初始提纲扩展到40章正文，覆盖安全、医疗、保险、住房、政府办事、财务、家庭、社会关系和中美跨境事务。
 
-### Added
-- 40 substantive chapters covering:
-  - safety and emergency response
-  - preventive medicine
-  - U.S. and China healthcare navigation
-  - insurance and liability
-  - auto accidents
-  - housing and contractors
-  - estate planning and incapacity
-  - U.S. and China government routing
-  - household treasury and tax
-  - cybersecurity and identity theft
-  - consumer disputes and scams
-  - pets
-  - dual-home US–China infrastructure
-  - Apostille / cross-border documents
-  - parent care
-  - childcare and family planning
-  - employment, leave, job loss and benefits
-  - household operations
-  - U.S. social conventions
-  - local social infrastructure
-  - maintaining China social relationships
-  - choosing professionals
-  - marriage / prenup / household finance
-  - global mobility
-  - emergency runbook
-  - 100 U.S. tacit-knowledge rules
-  - annual household review
-  - anti-checklist
-  - temporary operating mode after major shock
-  - death administration
-  - home purchase / mortgage / closing / HOA
-  - immigration status / document maintenance
-  - US–China cross-border tax and work-from-abroad
-  - household employees / nanny / payroll
-  - high-value physical assets and collectibles
-
-### Added checklists
-- Annual Household Review
-- Household Emergency Sheet
-- First 30 Days
-- Marriage
-- Move
-- International Travel
-- Parents Emergency
-- Job Loss
-- Cyber Incident
-- Death Administration
-- Home Purchase
-
-### Added project governance
-- Evidence / priority methodology
-- Source policy
-- Public-first privacy rules
-- Bilingual writing style guide
-- Contribution guidelines
-
-### Cleanup
-- Merged duplicate Chapter 22.
-- Added repository-wide privacy checks.
-- Clarified that examples must be generic, fictional, or de-identified.
-
----
+- 新增11份执行清单：年度复查、紧急信息、前30天、婚姻、搬家、旅行、父母应急、失业、网络事件、死亡事务及购房交割。
+- 增加证据与优先级方法论、来源原则、隐私规则、中英写作规范及贡献指南。
+- 合并重复的第22章，补充公开内容隐私检查与示例要求。
 
 ## v0.2 — 2026-09-21
 
-Expanded first usable public build.
-
-### Added
-- First substantial chapters
-- 100 tacit U.S. life rules
-- emergency and annual review templates
-- dual-home US–China framework
-- public privacy policy
-
----
+扩展首个可用公开版本，增加初步正文、100件生活小事、紧急与年度复查模板、中美两地生活框架及公开内容隐私规则。
 
 ## v0.1 — 2026-09-21
 
-Initial repository structure and README.
-
-### Project goals
-- Build a practical life operating system for high-income first-generation immigrant households.
-- Focus on tail risk, institutional routing, professional networks, and US–China dual-home continuity.
-- Keep the repository fully public-safe and free of personal identifying information.
+建立仓库与项目介绍，明确重大风险、机构入口、专业服务、中美衔接和公开内容不包含私人资料的目标。

@@ -1,97 +1,80 @@
-# Parents Emergency Plan — 空白模板
+# 父母紧急应对计划——空白模板
 
-> **不要在 public repo 填真实个人信息。**  
-> 建议每位父母一份私人副本。
+建议每位父母一份，在父母知情同意下填写并约定分享范围。子女负责联络不代表自动拥有医疗或财务决定权。详见[第20章父母养老与远程照护](../book/20-父母养老与远程照护.md)。
 
-## Identity
+> 公开版本仅为空白模板。实际资料请保存在受保护的私人位置。下列顺序是整理建议；具体期限以法律、合同、计划文件及机构通知为准。
 
-- Legal name: ______
-- DOB: ______
-- Mobile: ______
-- Home address: ______
-- ID document location: ______
+## 身份与联系
 
-## Local responders
+- 姓名、出生日期：______
+- 电话、住址：______
+- 证件位置：______
+- 主要、备用现场接应人：______
+- 邻居或物业联系人：______
+- 子女／兄弟姐妹联络协调人：______
 
-- Primary responder: ______
-- Backup responder: ______
-- Neighbor/building contact: ______
-- Child/sibling coordinator: ______
+## 医疗
 
-## Medical
+- 常用医院、急诊医院与医生：______
+- 医保、保险与付款办理入口：______
+- 过敏、重要诊断与既往手术：______
+- 当前用药表及病历位置：______
+- 医疗意愿文件、代理人及权限：______
 
-- Preferred hospital: ______
-- Emergency hospital: ______
-- PCP: ______
-- Specialists: ______
-- Insurance/payment: ______
-- Medication list location: ______
-- Allergies: ______
-- Major diagnoses: ______
-- Prior surgeries: ______
-- Advance-care documents: ______
+## 用药表
 
-## Medication table
+| 药物名称 | 剂量 | 频率及用法 | 用途 | 开药医生 | 核对日期 |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 
-| Medication | Dose | Frequency | Reason | Prescriber |
-|---|---|---|---|---|
-|  |  |  |  |  |
+包含需要告知医生的非处方药与补充剂；不要由远程家属凭记忆改药。
 
-## Financial / household routing
+## 财务与住所
 
-- Regular bills: ______
-- Bank contact route: ______
-- Fraud alert contact: ______
-- Property documents location: ______
-- Home keys: ______
-- Utility account routing: ______
-- Authorized person/POA status: ______
+- 定期账单与近期到期事项：______
+- 银行官方办理与反欺诈入口：______
+- 房屋文件、钥匙及水电联系人：______
+- 被授权人员、授权范围及文件位置：______
 
-## Digital
+## 手机与数字账户
 
-- Mobile carrier recovery: ______
-- WeChat recovery plan: ______
-- Alipay recovery plan: ______
-- Bank-app recovery: ______
-- Password/emergency access method: ______
+- 手机运营商及号码恢复方法：______
+- 微信、支付宝、银行应用恢复路径：______
+- 合法应急访问说明位置：______
 
-Do not write passwords in this sheet.
+只记录方法与位置，不填写密码；安排现场协助不等于共享全部账户。
 
-## If hospitalized today
+## 今天住院时如何分工
 
-1. Who goes to hospital first? ______
-2. Who calls children/siblings? ______
-3. Who brings medication/document bag? ______
-4. Who communicates with doctors? ______
-5. Who manages home/pets? ______
-6. Who handles bills/insurance? ______
+| 工作 | 主要负责人 | 备用人 | 完成后的反馈方式 |
+|---|---|---|---|
+| 到现场并联系急救／医院 |  |  |  |
+| 通知家人 |  |  |  |
+| 带证件与用药资料 |  |  |  |
+| 与医生沟通并整理信息 |  |  |  |
+| 照看住所与宠物 |  |  |  |
+| 办理账单和保险 |  |  |  |
 
-## If child must fly back from overseas
+## 海外子女返程
 
-- Airport/route: ______
-- Home access: ______
-- Hospital contact: ______
-- Temporary lodging: ______
-- Backup caregiver until arrival: ______
+- 入境所需文件与可行路线：______
+- 医院联系人、住所进入方式及临时住宿：______
+- 到达前继续在场的照护者：______
 
-## Values / preferences conversation
+先建立现场照护，不把所有处理都推迟到子女落地。
 
-- Health-care decision maker understood? [ ]
-- Major treatment preferences discussed? [ ]
-- Severe disability preferences discussed? [ ]
-- Hospice/palliative preferences discussed? [ ]
-- Funeral/end-of-life wishes discussed? [ ]
+## 尊重父母意愿
 
-## Review triggers
+- [ ] 讨论希望由谁参与医疗沟通和决定。
+- [ ] 在父母愿意的范围内讨论重大治疗、失能照护、舒缓照护和身后意愿。
+- [ ] 记录尚未决定或不愿讨论的事项，不把空白当作同意。
 
-- [ ] annually
-- [ ] new diagnosis
-- [ ] hospitalization
-- [ ] fall
-- [ ] medication change
-- [ ] cognitive concern
-- [ ] phone/bank change
-- [ ] move
-- [ ] death/change of local responder
+## 更新触发
 
-模板最后更新：2026-09-21
+- [ ] 每年及新诊断、住院、跌倒、用药变化后复查。
+- [ ] 出现认知或生活能力变化时，安排合适评估与支持。
+- [ ] 更换手机、银行、住址或现场联系人后重新确认。
+
+
+
+模板校订：2026-09-21

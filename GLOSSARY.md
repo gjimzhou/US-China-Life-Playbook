@@ -1,430 +1,393 @@
-# Glossary — 中英术语表
+# 中英术语表
 
-> 这里的中文主要用于理解，不一定是法律、税务、保险或医疗领域的官方中文译名。  
-> 真正办理事务时，请使用英文 official term（官方术语）搜索政府网站、policy、contract 或 professional guidance（专业指引）。
+中文解释用于理解，并非所有领域的官方法定译名。办理事务时，用括号中的英文或表格编号核对原文；具体规则、适用条件与来源见对应章节。术语表不重复维护年度金额和申报截止日。
 
----
+## 家庭与风险
 
-## Household / Risk
+### 家庭运行系统（Household Operating System）
 
-### household（家庭运营单元）
-本项目里的 household 不只是“家庭成员”，而是：
-- 人；
-- 资产；
--账户；
--保险；
--房屋；
--车；
--宠物；
--父母；
--法律关系；
--数字系统
+家庭成员、事务、账户、资料、权限与照护分工的组织方式，不是要求每个家庭购买同一套产品。
 
-组成的一个 operational unit（运营单元）。
+### 尾部风险（Tail Risk）
 
-### tail risk（尾部风险）
-低概率、但一旦发生后果很大的风险。
+发生概率较低，但后果严重的风险，例如重大责任、失能或未保险灾难损失。
 
-例如：
-- serious liability；
-- disability；
-- major fraud；
-- death；
-- uninsured catastrophe。
+### 关键人物风险（Key-person Risk）
 
-### key-person risk（关键人物风险）
-只有一个人知道：
-- 银行；
-- 医疗；
--保险；
--密码；
--父母；
--宠物；
--税务
+必要信息或权限只掌握在一个人手中，此人无法处理时其他人难以接续。
 
-等所有事情。
+### 单点故障（Single Point of Failure）
 
-这个人失能后，家庭系统无法运行。
+一个环节失效便影响多项功能，例如所有账户恢复都依赖同一部手机。
 
-### single point of failure（单点故障）
-一个环节失败，就让整个系统失效。
+### 操作手册（Runbook）
 
-例如：
-> 所有 MFA（多因素认证）都只依赖同一部手机。
+特定事件的执行步骤、负责人、资料入口与后续处理说明。
 
-### runbook（操作手册）
-某个低频事件发生后，按顺序执行的具体步骤。
+### 入口与分流（Routing）
 
-例如：
-- car accident runbook；
-- phone-loss runbook；
-- parent hospitalization runbook。
+判断该联系哪个机构、人员或服务；紧急危险优先使用当地应急服务。
 
-### routing（入口与分流）
-遇到问题后先找谁。
+## 医疗与照护
 
-例如：
-> medical emergency → 911 / ER，而不是先找 PCP。
+### 初级保健医生（Primary Care Physician，PCP）
 
----
+常规医疗与长期健康管理的常见入口。不能代替危急情况下的急救。
 
-# Healthcare
+### 紧急门诊（Urgent Care）
 
-### PCP / Primary Care Physician（初级保健医生 / 家庭常规医生）
-美国日常医疗的常见 first point of contact（第一入口）。
+可处理部分需要较快就诊的问题，具体能力依机构而异；不是医院急诊的同义词。
 
-### urgent care（急诊门诊 / 紧急门诊）
-介于 routine appointment（普通预约）和 ER（急诊室）之间的医疗入口。
+### 医院急诊（Emergency Room，ER）
 
-不是 mini-ER（迷你急诊室）。
+医院处理急症的医疗入口；危及生命时应使用当地急救服务。
 
-### ER / Emergency Room（医院急诊室）
-处理真正 medical emergency（医疗急症）。
+### 预防照护（Preventive Care）
 
-### preventive care（预防性医疗）
-针对特定年龄、风险和疾病，使用有 net benefit（净收益）的 screening、vaccination、counseling 等。
+针对年龄、风险与适用人群的筛查、疫苗或咨询等，不等于检查越多越好。
 
-不等于：
-> 检查越多越好。
+### 筛查（Screening）
 
-### screening（筛查）
-在没有相关症状的人群中寻找某种疾病或风险。
+在没有相关症状的人群中寻找特定疾病或风险；是否值得做取决于适用指南。
 
-### diagnostic test（诊断性检查）
-因为已有症状、异常 screening 或明确 clinical question 而做的检查。
+### 诊断性检查（Diagnostic Test）
 
-### incidental finding（偶然发现）
-做检查时意外发现、原本并非目标的问题。
+为已有症状、异常筛查或具体临床问题开展的检查。
 
-可能有价值，也可能制造后续无收益检查。
+### 偶然发现（Incidental Finding）
 
-### overdiagnosis（过度诊断）
-发现了某种异常/疾病，但即使不发现也不会在患者一生中造成临床问题。
+检查中发现原本并非检查目标的问题；其意义需要进一步判断。
 
-### prior authorization（事先授权）
-保险公司在某些检查、治疗、药物前要求的 approval process（审批流程）。
+### 过度诊断（Overdiagnosis）
 
-### in-network（网络内）
-provider/facility 与你的具体 insurance plan 有 contractual relationship（合同网络关系）。
+发现了即使不被发现，也不会在此人一生中造成临床问题的疾病；不等于所有误诊。
 
-不能只问：
-> “你们收不收 Aetna/UHC/Cigna？”
+### 事先授权（Prior Authorization）
 
-要确认 exact plan（具体计划）。
+保险对特定服务或药物要求的事前审批；获批不自动保证最终赔付。
 
-### EOB / Explanation of Benefits（保险理赔说明）
-保险公司解释 claim（理赔申请）如何处理的文件。
+### 网络内（In-network）
 
-EOB **不是账单**。
+医疗人员或机构与具体保险计划的网络关系，需核对准确计划及服务主体。
 
-### health-care proxy（医疗决策代理人）
-本人无法做医疗决定时，依法代为决策的人。
+### 保险理赔说明（Explanation of Benefits，EOB）
 
-### advance directive（预先医疗指示）
-提前表达医疗偏好/代理安排的文件体系。
+保险人说明理赔如何处理的文件，不是医疗机构账单。
 
-### living will（生前医疗意愿书）
-advance directive 的一种，主要表达特定 medical/end-of-life preferences（医疗/生命末期偏好）。
+### 医疗决策代理人（Health-care Proxy）
 
----
+依适用法律与文件获得医疗决定权限的人；该词在有些场景也指指定代理人的文件。
 
-# Insurance
+### 预先医疗指示（Advance Directive）
 
-### liability insurance（责任保险）
-当你依法对他人损失承担责任时提供保障。
+提前表达医疗意愿或代理安排的文件，形式和效力依适用法律。
 
-### umbrella insurance（个人超额责任险）
-在 auto/home/renters liability 之上增加的一层 excess liability coverage（超额责任保障）。
+### 生前医疗意愿书（Living Will）
 
-### bodily injury liability（人身伤害责任）
-车险等 policy 中，对他人 bodily injury（人身伤害）承担责任的保障。
+表达特定治疗及生命末期意愿的文件类型，不是分配遗产的遗嘱。
 
-### property damage liability（财产损害责任）
-对他人 property damage（财产损害）的责任保障。
+### 连续性照护（Continuity of Care）
 
-### UM/UIM（无保险/保险不足驾驶人保障）
-Uninsured / Underinsured Motorist coverage。
+跨医生、机构或地区保持医疗信息与照护衔接。
 
-用于特定情况下对方没有足够 liability insurance 时的保护。
+## 保险
 
-### scheduled personal property（单独列明的高价值个人财产）
-将特定 jewelry、watch、art 等单独列入 policy。
+### 责任保险（Liability Insurance）
 
-### replacement cost（重置/重购成本）
-按类似新品替换的成本逻辑。
+按保单约定处理被保险人对他人损失的特定责任，含限额、条件和除外。
 
-### actual cash value / ACV（实际现金价值）
-通常会考虑 depreciation（折旧）。
+### 个人超额责任险（Umbrella Insurance）
 
-### ALE / Additional Living Expense（额外生活费用）
-covered home loss 后临时住宿等额外生活成本的 coverage。
+可在基础责任保障之外提供额外保障，具体与基础保单的衔接和除外需核对。
 
-### deductible（免赔额）
-保险开始承担之前，insured（被保险人）需要自行承担的金额。
+### 人身伤害责任（Bodily Injury Liability）
 
-### claim（保险理赔申请）
-向 insurer 请求按 policy 支付或处理损失的正式过程。
+对他人人身伤害承担责任时涉及的保障类别。
 
----
+### 财产损害责任（Property Damage Liability）
 
-# Legal / Estate
+对他人财产损害承担责任时涉及的保障类别。
 
-### estate planning（遗产与失能规划）
-不仅是 death 后分钱，也包括：
-- incapacity；
-- POA；
-- health proxy；
-- beneficiaries；
-- trust；
-- digital estate。
+### 无保险／保险不足驾驶人保障（Uninsured／Underinsured Motorist，UM/UIM）
 
-### will（遗嘱）
-处理 probate estate（遗嘱认证遗产）等事项的核心文件之一。
+在保单及适用法律规定情形下，针对对方没有或不足保险的保障。
 
-### probate（遗产认证/法院监督的遗产管理程序）
-不同州程序不同。
+### 逐件列保财产（Scheduled Personal Property）
 
-中文只是帮助理解，不代表统一法定译名。
+把珠宝、手表或其他具体物品逐项列入保险安排。
 
-### executor（遗嘱执行人）
-按 will 指定并经适用程序取得 authority 后管理 estate 的人。
+### 重置成本（Replacement Cost）
 
-### administrator（遗产管理人）
-没有 executor 或特定情形下，由 court 授权管理 estate 的人。
+按保单定义重置或修复物品的成本基础；不等于随时可以取得的转售价格。
 
-### trust（信托）
-由 trustee（受托人）按 trust terms 管理资产的法律结构。
+### 实际现金价值（Actual Cash Value，ACV）
 
-### trustee（受托人）
-管理 trust assets 的人/机构。
+保险估损中的价值基础，通常考虑折旧，具体定义依保单与适用法律。
 
-### POA / Power of Attorney（授权委托）
-授权 agent 代表本人处理特定事务。
+### 额外生活费用（Additional Living Expense，ALE）
 
-### durable POA（持续有效授权委托）
-在 principal（授权人）失能后仍继续有效的 POA 类型，具体要求按州法。
+因承保损失造成的适用额外生活支出保障，受条件和限额约束。
 
-### beneficiary designation（受益人指定）
-retirement account、life insurance、TOD/POD 等资产的受益人安排。
+### 免赔额／自付额（Deductible）
 
-### TOD / Transfer on Death（死亡时转移）
-某些账户/资产的 beneficiary transfer mechanism（受益转移机制）。
+按保单约定由被保险人承担的金额；不能据此推断所有服务都必须先满足同一门槛。
 
-### POD / Payable on Death（死亡时支付）
-常见于银行账户的 beneficiary arrangement。
+### 理赔申请（Claim）
 
-### prenup / prenuptial agreement（婚前协议）
-婚前约定 spouses 间 property、income、support 等特定法律/财务问题的合同。
+向保险人正式申请按保单处理费用或损失的过程。
 
-### postnup / postnuptial agreement（婚后协议）
-婚后签署的夫妻财产/权利协议。
+## 法律与遗产
 
----
+### 遗产与失能规划（Estate Planning）
 
-# Tax
+包括身后资产处理，以及在世失能时的医疗、财务和代理安排。
 
-### withholding（预扣税）
-由 employer/payer 代扣并缴纳的税款。
+### 遗嘱（Will）
 
-### estimated tax（预估税）
-taxpayer 按季度等方式主动缴纳的 current-year tax。
+表达适用身后事项意愿的法律文件，不自动控制所有指定受益人的资产。
 
-### safe harbor（安全港规则）
-满足一定 payment threshold 后，通常可避免或减少 underpayment penalty（预缴不足罚金）。
+### 遗产认证与管理程序（Probate）
 
-### AGI / Adjusted Gross Income（调整后总收入）
-美国 federal income tax 的重要计算指标。
+法院相关的遗产管理程序，适用范围和简化程序依州而异。
 
-### domicile（法律/税务意义上的住所）
-不只是 physical location（实际居住地），通常涉及长期居住意图与 facts and circumstances（事实与情况）。
+### 遗嘱执行人（Executor）
 
-### statutory residency（法定居民身份）
-某些州根据天数、permanent place of abode 等规则认定 tax residency。
+依遗嘱及适用程序取得权限后管理遗产的人。
 
-### FEIE / Foreign Earned Income Exclusion（海外劳动所得排除）
-符合条件的 U.S. taxpayer 对一定金额 foreign earned income 的 federal exclusion。
+### 遗产管理人（Administrator）
 
-### FTC / Foreign Tax Credit（外国税收抵免）
-符合条件时，用 foreign income tax 抵减 U.S. tax 的机制。
+在没有适当执行人等情形下，经适用程序授权管理遗产的人。
 
-### FBAR（海外金融账户申报）
-FinCEN Form 114。
+### 信托（Trust）
 
-与 Form 8938 是不同 reporting regime（申报制度）。
+由受托人依信托条款及法律管理相关资产的安排。
 
-### PFIC（被动外国投资公司规则）
-U.S. tax 对某些 foreign funds / companies 的复杂税务制度。
+### 受托人（Trustee）
 
----
+依法及依文件管理信托资产的人或机构。
 
-# Employment / Benefits
+### 授权委托书（Power of Attorney，POA）
 
-### FMLA（家庭与医疗休假法）
-Family and Medical Leave Act。
+授权代理人处理规定事务的文件，范围、生效与终止条件需核对。
 
-符合条件时提供一定范围的 job-protected leave（职位保护休假）。
+### 持续有效授权（Durable Power of Attorney）
 
-### COBRA（离职后团体医保延续机制）
-符合条件时暂时延续 employer group health coverage 的 federal framework。
+在授权人失能后仍可继续有效的授权类型；不代表授权在死亡后继续有效。
 
-### STD / Short-Term Disability（短期失能保险/福利）
-通常提供短期 income replacement（收入替代）。
+### 受益人指定（Beneficiary Designation）
 
-### LTD / Long-Term Disability（长期失能保险）
-长期失去工作能力时的 income protection。
+为适用账户或保险等指定受益人的安排，需核对计划及配偶权利。
 
-### HSA / Health Savings Account（健康储蓄账户）
-与 qualified HDHP 配套的 tax-advantaged health account。
+### 死亡时转移（Transfer on Death，TOD）
 
-### FSA / Flexible Spending Arrangement（灵活支出账户）
-由 employer plan 提供的税前支出安排。
+适用资产按指定机制于死亡后转移的安排。
 
-### vesting（归属）
-equity / retirement benefit 从“承诺”变成个人真正拥有权益的过程。
+### 死亡时支付（Payable on Death，POD）
 
-### household employee（家庭雇员）
-在家庭中工作，并在事实关系下属于 household employer 的 employee。
+常见于银行等账户的死亡后支付安排。
 
-例如：
-- nanny；
-- caregiver；
-- housekeeper。
+### 婚前协议（Prenuptial Agreement，Prenup）
 
----
+婚前就双方特定财产、支持或权利事项所作协议，效力依法律与事实。
 
-# Banking / Cyber
+### 婚后协议（Postnuptial Agreement，Postnup）
 
-### MFA / Multi-Factor Authentication（多因素认证）
-密码之外使用第二种或更多认证因素。
+婚后订立的有关夫妻财产或权利的协议，同样需要核对适用要求。
 
-### passkey（通行密钥）
-基于 public-key cryptography（公钥密码学）的登录方式，通常比传统密码更抗 phishing。
+## 税务
 
-### security key（硬件安全密钥）
-FIDO/U2F 等硬件认证器。
+### 预扣税（Withholding）
 
-### credit freeze（信用冻结）
-限制 credit bureau 向 potential new creditor 提供 credit file 的 security measure。
+付款人按适用规则从收入中预扣并缴纳的税款。
 
-### account takeover（账户接管）
-攻击者取得现有账号的 control。
+### 预缴税（Estimated Tax）
 
-### SIM swap（SIM 卡劫持）
-攻击者将手机号转移到自己控制的 SIM/eSIM。
+纳税人就当年税款按适用安排缴纳的款项，期限不等于自然季度末。
 
-### chargeback（信用卡争议退款）
-通过 card issuer/network 处理特定 transaction dispute 的机制。
+### 安全港规则（Safe Harbor）
 
-不是“对任何不满意消费都强制退款”。
+在本文预缴税语境中，满足适用付款与时间条件可能避免预缴不足罚金；不等于不用补足最终税款。
 
-### wire fraud（电汇诈骗）
-诱导受害人把大额资金 wire 到攻击者账户的诈骗。
+### 调整后总收入（Adjusted Gross Income，AGI）
 
-### BEC / Business Email Compromise（商业邮件入侵诈骗）
-攻击者控制或伪造可信 email conversation，常用于修改 wire instructions。
+美国联邦所得税的计算指标，不等于工资或银行实际到账总额。
 
----
+### 法律或税务住所（Domicile）
 
-# Home / Real Estate
+具体含义依适用制度，不能只凭当前所在地点或一个地址推断。
 
-### contractor（承包商）
-承接装修、维修、construction work 的专业服务商。
+### 法定税务居民（Statutory Resident）
 
-### HOA / Homeowners Association（业主协会）
-管理特定社区/condo common interest property 的组织。
+某些州依据居所、停留天数等法定条件认定的税务居民。
 
-### Loan Estimate（贷款估算表）
-美国 mortgage application 过程中 lender 提供的标准化贷款成本估算文件。
+### 海外劳动所得排除（Foreign Earned Income Exclusion，FEIE）
 
-### Closing Disclosure（贷款交割披露文件）
-mortgage closing 前的 final loan terms / costs 标准文件。
+符合条件时可适用的联邦所得排除；不是所有海外收入或全部税务义务的豁免。
 
-### closing（房地产交割）
-property purchase / mortgage 正式完成的 transaction stage。
+### 外国税收抵免（Foreign Tax Credit，FTC）
 
-### escrow（第三方托管）
-资金/文件由中立第三方按条件持有/释放的安排。
+符合条件时以外国所得税抵减相应美国税款的机制；同一缩写也可能指联邦贸易委员会，须看语境。
 
-### title insurance（产权保险）
-保护与 real-estate title（产权）缺陷相关的特定风险。
+### 海外金融账户申报（FBAR）
 
-### special assessment（特别分摊）
-HOA/condo 因重大工程或资金缺口向 owners 额外收取的费用。
+通过金融犯罪执法局第114表（FinCEN Form 114）履行的适用申报，与8938表不同。
 
----
+### 被动外国投资公司（Passive Foreign Investment Company，PFIC）
 
-# Cross-Border
+美国税法中的分类及相关制度，不能只看产品中文名称判断是否适用。
 
-### Apostille（附加证明书）
-Hague Apostille Convention 下的 public-document authentication mechanism（公文书认证机制）。
+### 实质居留测试（Substantial Presence Test）
 
-不等于：
-- translation；
-- substantive legal validity；
-- receiving institution acceptance。
+美国联邦税务居民判定测试之一，考虑跨年度计权天数及例外，不等同于移民身份。
 
-### certified copy（认证副本 / 核证副本）
-由 authorized authority 出具或认证的正式 copy。
+## 雇佣与福利
 
-中文名称依 jurisdiction（法域）不同。
+### 家庭与医疗休假法（Family and Medical Leave Act，FMLA）
 
-### cross-border tax（跨境税务）
-同时涉及两个或多个国家/地区 tax system 的税务问题。
+符合条件时提供职位保护休假的联邦法律；不自动等于带薪休假。
 
-### work-from-abroad（境外远程工作）
-人在其他国家实际提供 employment services。
+### 团体医保延续保障（COBRA）
 
-不只是“旅游时回几封邮件”。
+特定合格事件后临时延续团体医保的联邦机制，不只适用于失业。
 
-### continuity of care（连续性照护）
-跨医生、机构、城市或国家保持 medical information 和 treatment 连续。
+### 短期失能保障（Short-Term Disability，STD）
 
----
+依计划条件提供一定期间的收入替代，不自动构成岗位保护。
 
-# Social
+### 长期失能保障（Long-Term Disability，LTD）
 
-### RSVP（请回复是否出席）
-来自法语 Répondez s'il vous plaît。
+按失能定义、等待期及其他条款提供较长期收入保障。
 
-在 invitation 中意味着：
-> 需要明确接受或拒绝。
+### 健康储蓄账户（Health Savings Account，HSA）
 
-### +1（可携带一名同伴）
-Invitation 明确允许 invited guest 带一人。
+具有适用税务待遇的健康账户；缴款资格涉及合格高自付额计划及其他条件。
 
-没有 +1 不代表自动可以带 spouse/partner。
+### 灵活支出安排（Flexible Spending Arrangement，FSA）
 
-### registry（礼物清单）
-婚礼、baby shower 等场景下列出希望收到的礼物/基金。
+雇主提供的合格支出安排；类型、期限与健康储蓄账户兼容性需分别核对。
 
-### potluck（每人带一道食物的聚餐）
-Participants 各自带 food/drink 分享。
+### 权益归属（Vesting）
 
-### black tie（正式晚宴礼服规范）
-通常对应 tuxedo / formal evening attire。
+取得股权或退休计划等权益的过程；归属不自动等于已出售或免税。
 
----
+### 家庭雇员（Household Employee）
 
-# 使用原则
+依据实际工作与控制关系认定的家庭服务雇员，不由付款方式或1099表决定。
 
-如果一个词：
+## 银行与数字安全
 
-- 在美国 official system 中有固定 English term；
-- 未来需要直接搜索；
-- 中文翻译容易失真；
+### 多因素认证（Multi-Factor Authentication，MFA）
 
-就保留英文，并在第一次出现时解释。
+使用不同类型的认证因素验证身份；不是把两个相同类型的密码叠加。
 
-如果中文已经自然准确：
+### 通行密钥（Passkey）
 
-> 直接中文。
+基于公钥密码学的登录凭证，通常具抗钓鱼特性，可由平台同步或绑定设备。
 
-目标不是：
+### 硬件安全密钥（Security Key）
 
-> “中英混合显得高级。”
+可用于受支持登录流程的硬件认证器，也可保存通行密钥。
 
-而是：
+### 信用冻结（Credit Freeze）
 
-> **中文读得顺，英文搜得到，法律/制度含义不被翻译丢失。**
+限制信用报告被用于部分新信贷查询的措施；不会直接锁住已有银行账户。
 
-最后更新：2026-09-21
+### 账户接管（Account Takeover）
+
+攻击者取得现有账户的控制权。
+
+### 号码劫持（SIM Swap）
+
+攻击者使号码转移到其控制的电话卡或设备，可能影响短信验证与恢复。
+
+### 信用卡争议退款（Chargeback）
+
+通过发卡行及卡组织处理特定交易争议的机制，不保证所有不满意消费都能退款。
+
+### 电汇诈骗（Wire Fraud）
+
+本文指诱导受害人向欺诈账户汇款的场景；不是对该英文法律用语全部范围的定义。
+
+### 商业邮件入侵诈骗（Business Email Compromise，BEC）
+
+利用被接管或仿冒的可信通信诱导付款等行为。
+
+## 住房与交割
+
+### 承包商（Contractor）
+
+承接装修、维修或施工的服务商；具体工作可能有执照要求。
+
+### 业主协会（Homeowners Association，HOA）
+
+按适用文件管理社区共同事务的组织，权限与费用依项目及法律。
+
+### 贷款估算表（Loan Estimate）
+
+适用房贷申请中的标准化贷款条件与费用估算文件，不是最终批准。
+
+### 交割披露表（Closing Disclosure）
+
+适用房贷成交前列示贷款条件与费用的文件，须按规则及时收到。
+
+### 交割（Closing）
+
+完成房地产交易相关签署、付款与交付的阶段；不必然与所有法律生效时点完全相同。
+
+### 第三方托管（Escrow）
+
+按条件持有或支付资金、文件的安排；房贷托管账户还可涉及代缴税费与保险。
+
+### 产权保险（Title Insurance）
+
+承保约定范围内的产权风险；贷款方与业主保障需区分。
+
+### 特别摊派（Special Assessment）
+
+业主协会等按适用文件另行分摊的费用，不能一律按户数平均计算。
+
+## 跨境文件与工作
+
+### 附加证明书（Apostille）
+
+适用公约下认证公文书签名、身份或印章等的机制，不证明内容实质正确，也不替代翻译或接收机构要求。
+
+### 认证副本／核证副本（Certified Copy）
+
+由适当有权机构出具或核证的副本；普通复印件不能自动替代。
+
+### 跨境税务（Cross-border Tax）
+
+同时涉及多个税务制度的事项，需要分别判断居民身份、所得来源、抵免及申报。
+
+### 境外远程工作（Work from Abroad）
+
+人在另一国家提供工作服务，可能涉及移民、劳动、雇主与税务要求。
+
+## 社交
+
+### 请回复是否出席（RSVP）
+
+邀请中要求明确接受或婉拒；按邀请的时间和方式回复。
+
+### 可携一名同伴（+1）
+
+邀请明确允许带一名同伴；不明确时先问主人。
+
+### 礼物清单（Registry）
+
+婚礼等场合提供的礼物选择参考，参与与预算由赠礼者自行决定。
+
+### 各带食物聚餐（Potluck）
+
+参加者各带食物或饮品分享，最好先协调份量和饮食限制。
+
+### 正式晚宴着装（Black Tie）
+
+一种正式着装要求；以邀请说明和主人确认的安排为准。
+
+## 使用原则与本轮范围
+
+重要术语采用中文在前、英文在后的格式；后文优先中文。普通叙述不必逐词附英文。医疗、法律、税务和保险词条仅作索引性解释，依本轮对应章节的核验范围使用，不扩大为新的资格或保障保证。
+
+最后编辑：2026-09-21

@@ -1,202 +1,100 @@
-# Cyber Incident Checklist
+# 网络与身份安全事件清单
 
-适用于：
+适用于设备丢失、邮箱入侵、号码被转移、账户接管、身份盗用及转账诈骗。先通过独立取得的官方入口控制正在发生的损失，再恢复与留证。详见[第15章](../book/15-网络安全与身份盗窃.md)和[第16章](../book/16-银行信用卡消费者纠纷与诈骗.md)。
 
-- phone lost/stolen；
-- primary email compromised；
-- SIM swap；
-- bank/brokerage takeover；
-- identity theft；
-- major phishing；
-- wire fraud。
+> 公开版本仅为空白模板。实际资料请保存在受保护的私人位置。下列顺序是整理建议；具体期限以法律、合同、计划文件及机构通知为准。
 
----
+## 手机丢失或被盗
 
-# 1. Phone Lost / Stolen
+- [ ] 从可信设备使用厂商查找功能标记丢失或锁定；不要自行追赶盗窃者。
+- [ ] 联系运营商保护号码与电话卡，核对暂停服务是否影响后续恢复。
+- [ ] 检查主要邮箱、密码管理器、金融账户和手机钱包的登录状态。
+- [ ] 必要时按厂商说明远程抹除，先评估备份与证据；不要因陌生“找回手机”消息交出密码。
+- [ ] 恢复新设备和认证方式，撤销旧设备会话，按情况报警或联系保险。
 
-## Immediate
-- [ ] Find My / device locator
-- [ ] mark device lost / lock
-- [ ] carrier contact
-- [ ] suspend/secure SIM/eSIM
-- [ ] primary email
-- [ ] password manager
-- [ ] financial accounts
-- [ ] mobile wallet/cards
+## 主要邮箱被入侵
 
-## Then
-- [ ] police report if useful
-- [ ] remote wipe if necessary
-- [ ] new SIM/device
-- [ ] authenticator recovery
-- [ ] review active sessions
-- [ ] change high-value credentials
-- [ ] watch for recovery-message phishing
+- [ ] 在可信设备改密码并启用合适的多因素认证，撤销陌生会话。
+- [ ] 检查恢复邮箱／电话、转发规则、过滤规则、应用专用密码及已连接应用。
+- [ ] 检查已发送、已删除邮件及被触发的账户重置。
+- [ ] 通知受影响的金融等机构，核对异常操作；保存邮件与安全通知。
 
----
+## 号码疑似被转移
 
-# 2. Primary Email Compromised
+突然无信号、收到不认识的号码迁移通知或验证码异常时：
 
-- [ ] change password from clean device
-- [ ] strongest MFA
-- [ ] revoke sessions
-- [ ] recovery email/phone
-- [ ] forwarding rules
-- [ ] filters
-- [ ] app passwords
-- [ ] connected apps
-- [ ] sent/deleted mail
-- [ ] bank/broker alerts
-- [ ] password resets triggered by attacker
+- [ ] 从其他通信渠道联系运营商反欺诈部门，核对号码状态。
+- [ ] 保护主要邮箱和金融账户，告知可能存在号码接管。
+- [ ] 恢复号码后更新运营商安全码与可用的转出锁。
+- [ ] 检查依赖短信的恢复路径，保留案件号。
 
-Primary email compromise = household identity event.
+## 信用与身份盗用
 
----
+- [ ] 通过[美国身份盗用处理入口](https://www.identitytheft.gov/)制定恢复步骤。
+- [ ] 分别处理三家信用机构的信用冻结，核对信用报告并争议冒名账户。
+- [ ] 联系开户或发卡机构，按需要取得报警及其他证明。
+- [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排。
+- [ ] 保存每家机构的案件号、材料清单与截止日。
 
-# 3. SIM Swap
+## 银行或证券账户被接管
 
-Warning:
-- sudden no service
-- carrier email
-- password resets
-- unexpected OTP issues
+- [ ] 用账单、官方应用或已知网址取得反欺诈电话，不使用可疑消息中的号码。
+- [ ] 要求保护访问、停止待处理交易或尝试追回款项；不能保证成功。
+- [ ] 安全保存交易编号、收款信息及通知，索取书面争议受理凭证。
+- [ ] 更新凭证并撤销陌生设备，同时保护邮箱和手机号。
+- [ ] 重大损失按情况联系律师、执法及适用保险；不等待其他机构办结才联系银行。
 
-Action:
-- [ ] carrier fraud team
-- [ ] regain number
-- [ ] carrier PIN/port lock
-- [ ] primary email
-- [ ] banks/brokerages
-- [ ] password manager
-- [ ] review SMS-based recovery
+## 电汇诈骗
 
----
+- [ ] 立即联系汇出银行反欺诈部门，请求拦截或追索并协调收款银行。
+- [ ] 保存汇款确认、邮件原文与聊天记录。
+- [ ] 向[联邦调查局网络犯罪投诉中心](https://www.ic3.gov/)报告，保留提交凭证。
+- [ ] 通知适用保险与专业人士，查明邮箱或流程是否被入侵。
 
-# 4. Credit / Identity Theft
+银行有可用反欺诈入口时，不必等到次日营业；报告不能保证追回。
 
-- [ ] IdentityTheft.gov
-- [ ] Equifax freeze
-- [ ] Experian freeze
-- [ ] TransUnion freeze
-- [ ] review credit reports
-- [ ] dispute fraudulent accounts
-- [ ] issuer/bank
-- [ ] police report if useful
-- [ ] IRS IP PIN if tax identity risk
-- [ ] document every case number
+## 收款指示突然变更
 
-Official:
-https://www.identitytheft.gov/
+- [ ] 暂停付款，用此前独立核实的电话联系交割方、律师或供应商。
+- [ ] 核对收款主体与账户，不使用变更邮件新提供的电话。
+- [ ] 通知对方安全负责人，保存可疑指示并检查自己的邮箱。
 
----
+## 密码管理器疑似泄露
 
-# 5. Bank / Brokerage Takeover
+- [ ] 查看服务商正式安全通知，确认影响范围与恢复步骤。
+- [ ] 保护主凭证和多因素认证，撤销异常会话。
+- [ ] 按风险优先更换主要邮箱、金融、云端和政府账户凭证及恢复码。
+- [ ] 不仅修改主密码，还核对已经暴露的账户密码是否需逐个更换。
 
-- [ ] call fraud department from official number
-- [ ] lock online access
-- [ ] stop pending transfer
-- [ ] wire recall if applicable
-- [ ] new credentials
-- [ ] revoke devices/sessions
-- [ ] secure primary email
-- [ ] secure carrier
-- [ ] preserve transaction details
-- [ ] written claim/fraud case number
-- [ ] consider attorney/law enforcement for major loss
+## 电脑失窃
 
----
+- [ ] 按实际情况远程锁定或抹除，并确认备份。
+- [ ] 涉及雇主设备或资料时立即按雇主安全流程报告。
+- [ ] 检查磁盘加密状态、邮箱和密码管理器会话，保护关键账户。
+- [ ] 按需要报警或联系保险，保存设备与案件信息。
 
-# 6. Wire Fraud
+## 通信完全中断的备用路径
 
-## First minutes
-- [ ] bank immediately
-- [ ] request recall/hold
-- [ ] receiving bank if possible
-- [ ] save wire confirmation
-- [ ] preserve emails/messages
+- [ ] 从不依赖丢失手机的安全位置取得运营商和金融机构官方号码。
+- [ ] 确认备用邮箱、安全密钥或恢复码能独立取得。
+- [ ] 准备不依赖手机钱包的付款方式，境外使用前核对可用性。
+- [ ] 让授权家人知道支援方式；不要通过陌生远程控制服务恢复账户。
 
-## Then
-- [ ] FBI IC3
-- [ ] insurer if applicable
-- [ ] lawyer if material
-- [ ] secure email/account
-- [ ] determine compromise source
+## 事件与争议跟踪
 
-Do not wait for “business hours tomorrow” if fraud is discovered now and the bank has a fraud line.
+| 时间及事件 | 已采取行动 | 机构／案件号 | 负责人 | 适用截止日 | 凭证及下次跟进 |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 
----
+保存截图、邮件原文、交易编号、设备通知、提交确认和书面回复。商家、银行、监管或警方程序可能并行；不要默认一个投诉会暂停其他争议期限。
 
-# 7. Business Email Compromise
+## 恢复后复盘
 
-If closing/attorney/vendor instructions changed:
+- [ ] 确认损失控制与账户访问恢复，继续检查异常交易及冒名账户。
+- [ ] 修复受影响的恢复路径，评估通行密钥或安全密钥。
+- [ ] 调整提醒、停用不用的账户，并更新家人的合法应急访问安排。
+- [ ] 把实际有效的官方入口、所需材料与耗时写回私人操作说明。
 
-- [ ] STOP payment
-- [ ] call known prior phone number
-- [ ] verify recipient
-- [ ] do not use phone number in suspicious email
-- [ ] notify organization security team
-- [ ] secure your own email
 
----
 
-# 8. Password Manager Compromise
-
-- [ ] master credential
-- [ ] MFA
-- [ ] revoke sessions
-- [ ] vendor security notice
-- [ ] rotate highest-value accounts first
-- [ ] primary email
-- [ ] finance
-- [ ] cloud
-- [ ] government
-- [ ] recovery codes
-
-Prioritize by blast radius, not alphabetical order.
-
----
-
-# 9. Laptop Stolen
-
-- [ ] remote lock/wipe
-- [ ] employer security if work device/data
-- [ ] primary email
-- [ ] password manager
-- [ ] disk encryption status
-- [ ] active sessions
-- [ ] police/insurance
-- [ ] backups
-
----
-
-# 10. Evidence Log
-
-Keep:
-
-| Time | Event | Action | Case # | Owner |
-|---|---|---|---|---|
-|  |  |  |  |  |
-
-Save:
-- screenshots
-- emails
-- transaction IDs
-- IP/device notices
-- bank correspondence
-- police/report numbers
-
----
-
-# 11. After Incident
-
-- [ ] root cause
-- [ ] recovery methods changed
-- [ ] SMS reduced where possible
-- [ ] passkey/security key added
-- [ ] alerts improved
-- [ ] unused accounts closed
-- [ ] credit freeze decision
-- [ ] spouse emergency access updated
-- [ ] runbook updated
-
-模板最后更新：2026-09-21
+模板校订：2026-09-21
