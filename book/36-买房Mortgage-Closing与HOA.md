@@ -6,21 +6,31 @@
 
 分别检查房屋状态、合同与产权、贷款条件、保险，以及入住后费用与维护。列出每一类负责人与未解决问题。经纪、律师、检查员、估价师、贷款方和交割机构的职责不同，委托前确认书面范围与利益关系。
 
+**总入口：** [CFPB：Buying a House / Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home)。
+
 ## 2. 预批准不等于最终贷款承诺
 
 贷款预批准（Preapproval）通常仍有条件，后续可能审查收入、资金、信用与房产资料。签约前理解融资失败时的合同后果；购车借款、换工作或资金安排变化及时告知贷款方，不能隐瞒重要事实。
+
+**继续看：** [CFPB：Mortgage preapproval 与 prequalification](https://www.consumerfinance.gov/ask-cfpb/what-is-a-mortgage-preapproval-en-127/) · [CFPB：准备贷款申请材料](https://www.consumerfinance.gov/owning-a-home/process/prepare-your-application/)。
 
 ## 3. 收到规定申请信息后取得贷款估算表
 
 [CFPB说明](https://www.consumerfinance.gov/ask-cfpb/what-information-do-i-have-to-provide-a-lender-in-order-to-receive-a-loan-estimate-en-1987/)列出姓名、收入、用于查信用的社保号、房屋地址、估值和拟借金额六项信息。对适用贷款，提供这些信息后通常应在三个营业日内提供贷款估算表（Loan Estimate）；不应写成等全部审核材料齐全才起算。
 
+**工具：** [CFPB：Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) · [CFPB：Request and review multiple Loan Estimates](https://www.consumerfinance.gov/owning-a-home/compare/request-and-review-multiple-loan-estimates/) · [CFPB：Compare and negotiate loan offers](https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/)。
+
 比较相同贷款类型、期限和锁定条件下的利率、年化综合成本（APR）、点数、贷款方补贴与费用。估算表不是最终批准，参见[表格用途说明](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/)。
+
+**比较工具：** [CFPB：Explore Interest Rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/) · [CFPB：Loan Estimate / Closing Disclosure 官方样表](https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/tila-respa-integrated-disclosures/forms-samples/)。
 
 ## 4. 交割披露要留足收到后的审阅时间
 
 对多数适用房贷，消费者应至少在贷款合同成立前的规定三个营业日**收到**交割披露表（Closing Disclosure），不能只看贷款方何时发送。营业日、送达与变更后的等待期有具体规则，向贷款方确认。[CFPB表格说明](https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/)及[第1026.19条](https://www.consumerfinance.gov/rules-policy/regulations/1026/19/)提供依据。
 
 逐项对比借款额、利率、月供、费用、税费预缴和交割需付现金；差异先问清再签，不把所有变更都视为必须重新等三天。
+
+**直接核对：** [CFPB：Closing Disclosure Explainer](https://www.consumerfinance.gov/owning-a-home/closing-disclosure/) · [CFPB：TRID 官方样表](https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/tila-respa-integrated-disclosures/forms-samples/)。
 
 ## 5. 提前阅读借款和产权文件
 
@@ -30,15 +40,21 @@
 
 **优先级：P0；大额交割付款前触发。**
 
-提前通过可信渠道保存交割方联系方式；收到付款指令后用该渠道核实账户与金额，不拨新邮件提供的陌生号码。临时更改指令先暂停，付款后确认实际到账。依据[CFPB交割诈骗提醒](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。
+提前通过可信渠道保存交割方联系方式；收到付款指令后用该渠道核实账户与金额，不拨新邮件提供的陌生号码。临时更改指令先暂停，付款后确认实际到账。
+
+**继续看：** [CFPB：Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/) · [FBI IC3：Business Email Compromise](https://www.ic3.gov/CrimeInfo/BEC)。
 
 ## 7. 发现汇错立即联系银行
 
-立即联系汇出银行或转账机构，请求评估拦截或追回，并按情况向FBI网络犯罪投诉中心等入口报告。保存交易与指令，不等待内部讨论结束才行动；追回并无保证。来源同上方CFPB诈骗提醒。
+立即联系汇出银行或转账机构，请求评估拦截或追回，并按情况向 FBI 网络犯罪投诉中心等入口报告。保存交易与指令，不等待内部讨论结束才行动；追回并无保证。
+
+**报告入口：** [FBI IC3：提交网络犯罪投诉](https://www.ic3.gov/) · [FTC：ReportFraud](https://reportfraud.ftc.gov/)。
 
 ## 8. 房屋检查与估价分开
 
 房屋检查（Inspection）关注约定范围内的状况；估价（Appraisal）用于价值判断，不能替代结构、屋顶或机电检查。向服务方询问范围、排除项目、报告形式与后续问题，不把完成估价当成房屋没有缺陷。
+
+**继续看：** [HUD：Buying a Home — Home Inspection 入口](https://www.hud.gov/topics/buying_a_home) · [CFPB：What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/)。
 
 ## 9. 检查报告要读未覆盖部分
 
@@ -51,6 +67,8 @@
 ## 11. 买公寓也要看整栋楼
 
 核对业主协会或公寓组织的预算、储备、重大维修、特别征费、诉讼、保险、会议记录与规则。能取得哪些材料、如何审查及退出权依合同与当地规定，不假定所有地区流程一致。
+
+**贷款方视角可参考：** [Fannie Mae：Condo, Co-op and PUD Eligibility](https://selling-guide.fanniemae.com/sel/b4-2/project-standards)；买方的文件取得权、审查期和 rescission 权仍以当地法律与合同为准。
 
 ## 12. 协会费用同时看支出与储备
 
@@ -66,11 +84,15 @@
 
 ## 15. 洪水与其他进水风险分别问
 
-查看官方或地方风险资料、历史进水和排水情况，向贷款及保险方确认要求与可用保障。地图上的风险分类不代表零风险；也不要把洪水、管道破裂和排水倒灌当成保单中的同一事故。本次不提供具体洪水保单覆盖结论。
+查看官方或地方风险资料、历史进水和排水情况，向贷款及保险方确认要求与可用保障。地图上的风险分类不代表零风险；也不要把洪水、管道破裂和排水倒灌当成保单中的同一事故。
+
+**查风险：** [FEMA Flood Map Service Center — 按地址查看官方洪水图](https://msc.fema.gov/portal/home) · [FEMA：Flood Maps Products and Tools](https://www.fema.gov/flood-maps/products-tools) · [FloodSmart.gov：NFIP 消费者入口](https://www.floodsmart.gov/)。
 
 ## 16. 产权保险与住房保险用途不同
 
 询问产权保险（Title insurance）保护谁、覆盖什么既往产权风险、有哪些例外；贷款方的保护不应被默认成买方同等保障。住房保险另看财物与责任，细节由产权和保险服务方书面解释。
+
+**继续看：** [CFPB：Shop for title insurance and other closing services](https://www.consumerfinance.gov/owning-a-home/close/shop-for-title-insurance-and-other-closing-services/) · [CFPB：为什么 Loan Estimate / Closing Disclosure 上的 title premium 可能与 title company 文件不同](https://www.consumerfinance.gov/ask-cfpb/why-is-the-title-insurance-premium-on-the-loan-estimate-and-closing-disclosure-different-from-the-premium-listed-on-the-paperwork-i-received-from-the-title-insurance-company-am-i-being-charged-more-en-1993/)。
 
 ## 17. 产权持有方式要主动决定
 
@@ -88,17 +110,25 @@
 
 利率锁定（Rate lock）需确认有效期、延长费用、贷款或房产变化后的处理，以及是否存在降息调整选项。要求书面确认，不能只看一句“已经锁了”。
 
+**继续看：** [CFPB：What’s a rate lock?](https://www.consumerfinance.gov/ask-cfpb/whats-a-lock-in-or-a-rate-lock-en-143/) · [CFPB：Review Loan Estimates — 检查 lock expiration 与 extension](https://www.consumerfinance.gov/owning-a-home/compare/review-loan-estimates/)。
+
 ## 21. 点数比较未来净成本
 
 贷款点数（Points）可能用前期费用换较低利率。先比较预计持有期间的费用与月供差额，再考虑提前出售、再融资与现金其他用途。简单回本月数只是起点，不能保证未来一定能再融资或一定节税。
+
+**继续看：** [CFPB：What are discount points and lender credits?](https://www.consumerfinance.gov/ask-cfpb/what-are-discount-points-and-lender-credits-and-how-do-they-work-en-136/)。
 
 ## 22. 浮动与固定利率都要做压力测试
 
 浮动利率房贷（ARM）需看初始期间、调整指标、加点、频率和上限；固定利率也不固定房产税、保险和维护费用。测试收入下降或费用上升时能否承担，避免把未来再融资当成唯一退路。
 
+**继续看：** [CFPB：Adjustable-rate mortgages](https://www.consumerfinance.gov/ask-cfpb/what-is-an-adjustable-rate-mortgage-en-99/) · [CFPB：Explore Interest Rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/)。
+
 ## 23. 预算包括入住后的全部现金支出
 
 列入本息、房产税、保险、协会费、水电、停车、维护、装修、交易成本和储备。还要在普通工作日实测通勤、采购、夜归与照护路线；房子本身合适不等于日常生活可持续。
+
+**预算工具：** [CFPB：Figure out how much you want to spend](https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/) · [CFPB：What costs come with taking out a mortgage?](https://www.consumerfinance.gov/ask-cfpb/what-costs-come-with-taking-out-a-mortgage-en-153/)。
 
 ## 24. 交割后收齐最终文件
 
@@ -111,6 +141,8 @@
 ## 26. 税费代管仍要对账
 
 贷款方代管账户（Escrow）处理税费和保险时，核对对账单、实际支付、余额不足与费用变化。自行付款则单独记录真实到期日。不能因月供已扣就默认地方税款必然无误。
+
+**继续看：** [CFPB：What is an escrow account?](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/) · [CFPB：Mortgage servicing and escrow complaints](https://www.consumerfinance.gov/complaint/)。
 
 ## 27. 维修储备按实际房屋估算
 
@@ -130,4 +162,4 @@
 
 具体记录见[买房清单](../checklists/home-purchase.md)。提交申请不等于批准，签字不等于所有后续登记都已完成。
 
-最后编辑与来源核验：2026-09-21。核对CFPB贷款估算申请信息、交割披露与第1026.19条的时间规则、电汇诈骗及交割前后指南。地方合同、产权、协会与施工要求未逐州核验；洪水官方覆盖页本次访问失败，相关段落仅列核对问题，未声明具体承保结论。
+最后编辑与来源核验：2026-09-21。已核对 CFPB Loan Estimate / Closing Disclosure、rate lock、title services、escrow、交割诈骗与预算工具，以及 FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、施工与保险条款仍须按州、合同和具体物业核验；洪水地图用于风险信息，不等同于个别保单承保结论。
