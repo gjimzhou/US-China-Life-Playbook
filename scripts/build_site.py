@@ -25,6 +25,14 @@ for p in paths:
 (OUT/'.nojekyll').touch()
 print(f'Built {len(docs)} documents; {sum(len(d["sections"]) for d in docs)} searchable sections')
 
+# Bind the app to this exact content build, including for returning readers.
+# A fixed data.json URL can otherwise serve an older cached chapter index.
+data_digest=hashlib.sha256((OUT/'data.json').read_bytes()).hexdigest()[:16]
+data_asset=f'data.{data_digest}.json'
+(OUT/'data.json').rename(OUT/data_asset)
+app=(OUT/'app.js').read_text().replace("'data.json'",repr(data_asset))
+(OUT/'app.js').write_text(app)
+
 # Content hashes keep cached assets aligned with each deployed build.
 index=(OUT/'index.html').read_text()
 for asset in ['app.js','theme.js','style.css','vendor/marked.js']:
