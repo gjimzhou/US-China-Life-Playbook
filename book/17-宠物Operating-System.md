@@ -1,319 +1,129 @@
 # 17 — 宠物照护运行系统
 
-宠物不是一个“有空再处理”的生活附件。
+宠物照护要同时安排日常健康、主人不在时的照看、突发就医和旅行文件。最实用的准备，是让另一个照护人能够找到宠物、药物、兽医和必要授权，而不必等主人从飞机上落地。
 
-对于频繁旅行、双职工、跨国生活的家庭，它本质上是一个需要：
+## 1. 同时保存日常与急诊兽医入口
 
-> **medical + logistics + backup caregiver + travel documentation**
+**优先级：** P1
 
-的独立 subsystem。
+问日常兽医非营业时间如何处理，保存可接收该类动物的急诊医院、地址及电话。核对夜间是否开放、是否需要先来电和如何运送。
 
----
+呼吸困难、严重创伤、持续或反复抽搐、疑似中毒等情况应立即联系兽医急诊判断。受惊或疼痛动物可能咬伤人，搬动和急救按专业指示操作。
 
-## 1. Regular vet 与 emergency vet 要同时有
+## 2. 预防照护按动物与风险制定
 
-**优先级:** P1
+与兽医讨论疫苗、寄生虫预防、牙齿、体重、行为和年龄相关检查。是否验血或增加筛查，应根据品种、症状、病史和生活环境决定，不把“项目越多”当作越负责。
 
-至少知道：
-- regular veterinarian；
-- 24h emergency hospital；
-- poison/emergency contact；
-- after-hours policy。
+把下次复查和续药时间写入日历，并在搬家或旅行前重新评估暴露风险。
 
-不要半夜出现：
-- breathing problem；
-- seizure；
-- trauma；
-- suspected poisoning
+## 3. 药物清单写清浓度与用法
 
-时才第一次搜索 emergency vet。
+记录药名、浓度、每次剂量、频率、用途、处方兽医及不良反应。液体药只写“几毫升”可能不足，必须与实际药瓶信息一致。
 
----
+照护人按兽医指示给药；漏服、呕吐或误服时联系兽医，不自行加倍。人用药不能按体重随意换算给宠物。
 
-## 2. 年度 preventive care 不只等于“打疫苗”
+## 4. 照护人需要备用安排
 
-与 vet 按 species/age/risk review：
-- vaccines；
-- parasite prevention；
-- dental；
-- weight/body condition；
-- bloodwork when indicated；
-- senior screening；
-- behavior；
-- travel risk。
+主要照护人之外，确认另一位能接手的人或合适寄养机构。让对方提前了解动物的行为与医疗需求，并确认愿意承担，而不是出事后才把姓名交给医院。
 
----
+钥匙、门禁和进入住宅权限也要落实。备用联系人不一定有能力独自照顾所有宠物。
 
-## 3. Medication list 也给宠物做一份
+## 5. 用一张私人说明表交接
 
-字段：
-- drug；
-- dose；
-- frequency；
-- indication；
-- prescribing vet；
-- allergies/adverse reactions。
+包含喂食、饮水、遛狗或猫砂、给药、禁忌、运输箱、兽医、主人及备用联系人的信息。写明哪些变化需要立即联系兽医，以及怎样记录已喂药，防止重复给药。
 
-如果 sitter 需要临时带宠物去 ER，这张表非常有价值。
+公共版本只保留空白字段；真实住址、门锁码和付款信息另行安全交付。
 
----
+## 6. 提前确认治疗与付款授权
 
-## 4. Pet sitter 要 primary + backup
+向日常及急诊医院询问，主人无法联系时照护人能同意哪些治疗、需要何种书面授权，以及费用预付、账单和保险材料如何处理。
 
-**优先级:** P0/P1 for frequent travelers
+预算和紧急决策权限应结合家庭能力与动物福利讨论，不能把一个口头金额上限当成所有情形都足够的安排。
 
-单一 sitter 是典型 single point of failure。
+## 7. 宠物保险看条款
 
-至少有：
-- primary sitter；
-- backup sitter；
-- boarding option；
-- neighbor/building emergency route。
+核对意外与疾病保障、既往症、等待期、免赔额、报销比例、年度限额，以及诊察、牙科、药物或康复是否包含。询问保费变化、续保和不同兽医的使用条件。
 
----
+健康维护套餐与保险的功能可能不同；不要因为购买了“宠物计划”就默认大额急诊被覆盖。本章不推荐具体产品，实际合同须自行比较。
 
-## 5. Sitter instructions 不要只口头说
+## 8. 自行承担费用也需要资金安排
 
-Private household sheet 包括：
-- feeding；
-- medication；
-- walking/litter；
-- vet；
-- emergency vet；
-- behavior；
-- carrier/leash location；
-- insurance；
-- payment authorization；
-- owner contact；
-- backup contact。
+如果不买保险，明确可用资金、临时付款渠道和决策人。不用一个未经核实的“典型急诊价格”推定所有家庭都能承受。
 
-Public repo 不填真实信息。
+即使有保险，也应确认是否必须先向医院付款再申请报销，避免等保险处理时无法安排治疗。
 
----
+## 9. 芯片登记与联系方式一起维护
 
-## 6. Vet emergency authorization 要提前想
+请兽医检查芯片是否可读，并向对应登记服务核对主人及备用联系方式。芯片编号、登记账户和医疗档案应一致保存。
 
-如果 owner 在飞机上：
-- sitter 能否同意 treatment？
-- clinic 是否接受 authorization？
-- cost threshold？
-- card/payment？
-- insurer claim？
+芯片不能替代日常防走失措施；是否登记、如何更新和跨境规格，均应向实际服务机构确认。
 
-不同 clinic policy 不同。
+## 10. 运输工具放在能取到的地方
 
-**执行原则**
-提前向 regular/emergency vet 问清。
+让照护人知道运输箱、牵引绳、药物和短期用品在哪里。提前练习安全装入运输箱，撤离时不要临时在储物间翻找。
 
----
+讨论火灾或疏散时谁负责哪只动物、备用接收地点是否接受宠物。不得为寻找物品或宠物返回不安全区域，向救援人员说明情况。
 
-## 7. Pet insurance 先确定你想保什么 risk
+## 11. 疑似中毒直接求助
 
-常见：
-- accident；
-- illness；
-- hereditary/congenital；
-- prescriptions；
-- rehab；
-- exam fee；
-- dental illness。
+把药物、清洁剂、杀虫剂及可能有毒的植物或食物放到动物无法接触处。不同物种的毒性不同，不能把猫狗或人类经验互相套用。
 
-关键条款：
-- pre-existing exclusion；
-- deductible；
-- reimbursement；
-- annual/unlimited cap；
-- waiting period。
+美国可联系 [ASPCA 动物毒物咨询](https://www.aspca.org/pet-care/aspca-poison-control)，电话 **888-426-4435**，提供全天服务，可能收费。准备动物体重、接触物、时间、可能剂量和包装；同时按需要联系急诊兽医，不自行催吐或用偏方。
 
-不要把 wellness plan 和 catastrophic insurance 混为一件事。
+## 12. 长期离家前试运行照护安排
 
----
+先安排一次短时照看或适当寄养试住，观察吃喝、排泄、应激及照护人能否按要求给药。出现困难时调整安排，不把首次尝试放在长途出发当天。
 
-## 8. Self-insure 也必须是 deliberate decision
+是否适合寄养、团体活动或长途移动，可先与兽医讨论动物的健康和行为需要。
 
-如果家庭可以承担 $10k–$30k veterinary emergency，可能选择 self-insure。
+## 13. 寄养机构问具体应急流程
 
-但要明确：
-- emergency liquidity；
-- willingness to spend；
-- treatment ceiling；
-- decision authority。
+确认夜间是否有人、人员培训、疾病隔离、给药、逃脱防范、消防撤离、急诊运输、联系主人及费用授权规则。看书面条款，不只看照片和摄像头。
 
-“没买保险”不等于已经有 plan。
+核对疫苗材料、接送时间、取消条款和发生紧急事件后的记录提供方式。
 
----
+## 14. 国际移动先查目的地要求
 
-## 9. Microchip 信息要保持 current
+美国农业部动植物卫生检验局（USDA APHIS）提醒，准备可能需要数周到数月。按物种、出发地、目的地和过境地确认芯片、疫苗、检测、处理、许可及健康证明要求。
 
-如果 phone/address 变了：
-- registry；
-- backup contact
+来源：[APHIS 宠物旅行流程](https://www.aphis.usda.gov/pet-travel/pet-travel-process-overview)。先核对程序先后顺序和有效时间窗，再订无法更改的行程。
 
-也要更新。
+## 15. 不存在美国签发的全球通用宠物护照
 
-Microchip 最大价值之一就是：
-> collar/tag 丢失后仍可联系 owner。
+不同国家要求不同健康证明。目的地要求 APHIS 签注时，出具证明的兽医须有相应 USDA 认可资格；普通疫苗记录不能自动替代旅行证明。
 
----
+来源：[APHIS 宠物旅行问答](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/frequently-asked-questions-about-traveling-your-pet)。美国兽医或 APHIS 不能自行豁免另一国家的入境要求。
 
-## 10. Carrier / leash / evacuation gear 要能立刻找到
+## 16. 航空公司规则是另一层
 
-Fire/alarm/emergency 时不应该先翻储物间。
+同时确认运营航司、具体航段和舱位是否接受宠物，运输箱、品种、天气限制及证明时间要求。联程或共享代码航班不能只问售票方。
 
-Cats 特别要确保：
-- carrier accessible；
-- pet 能装进去；
-- emergency responder/sitter 知道位置。
+取得预订确认也不等于完成政府入境要求；反过来，证明齐全也不代表航空公司必须承运。是否适合飞行由兽医评估，不自行给镇静药。
 
----
+## 17. 出发前就检查回程
 
-## 11. 毒物环境要按 pet 设计
+入境美国的犬只应查 [CDC 犬只入境入口](https://www.cdc.gov/importation/dogs/index.html)：规则取决于入境前六个月去过的国家及狂犬病疫苗等情况，还可能涉及 USDA 和目的州要求。不要把犬只规则直接套用猫或其他动物。
 
-常见 risk:
-- human medications；
-- toxic plants；
-- chocolate/xylitol；
-- cleaning products；
-- rodent poison；
-- antifreeze；
-- strings/foreign bodies。
+中国入境、过境及隔离要求须按当次行程向目的地主管机构核对。本章未给出可替代官方核验的中美往返材料清单。
 
-具体 species toxicity 问 vet / poison-control source，不靠短视频。
+## 18. 病历和旅行文件可随照护转移
 
----
+保存芯片、疫苗、检验、诊断、手术、药物、保险及旅行证明。运输时按要求携带原件或指定格式，另保留备份。
 
-## 12. Travel boarding 先做 trial
+兽医或寄养机构变更后，确认对方已收到必要病史。不能只给一串旧医院名称让新机构自行猜测。
 
-第一次长旅行前：
-- daycare trial；
-- one-night boarding；
-- sitter trial；
-- pet reaction。
+## 19. 重大疾病时讨论照护目标
 
-不要 3 周国际旅行当天第一次把 pet 送陌生 facility。
+和兽医讨论疼痛、呼吸、进食、活动、互动及生活质量变化，理解治疗、舒缓照护和临终选择的预期收益与负担。
 
----
+把主人无法联系时的决策权限说清楚。费用只是因素之一；不以固定年龄或单一网络评分代替个体评估。
 
-## 13. Boarding facility 要看 emergency protocol
+## 20. 最小执行集与核验范围
 
-问：
-- overnight staff？
-- vet relationship？
-- emergency transport？
-- medication administration？
-- vaccine requirement？
-- isolation policy？
-- cameras/update？
-- cancellation？
+- [ ] 日常兽医、急诊及中毒咨询入口可取得。
+- [ ] 病历、药物、芯片与疫苗记录可交接。
+- [ ] 主照护人、备用人和进入住宅方式已确认。
+- [ ] 治疗授权、付款及保险或自费安排已讨论。
+- [ ] 出行、过境和回程要求在订票前开始核对。
 
----
-
-## 14. 国际带宠物旅行要提前很多
-
-**证据等级:** A · **优先级:** P1/P2
-
-USDA APHIS 明确提醒：destination country 决定 pet entry requirements，准备过程可能需要 **几周到数月**，可能涉及：
-- microchip；
-- vaccination；
-- testing；
-- treatment；
-- import permit；
-- health certificate；
-- USDA endorsement。
-
-**来源**
-- USDA APHIS — Pet Travel Process Overview  
-  https://www.aphis.usda.gov/pet-travel/pet-travel-process-overview
-
----
-
-## 15. 美国没有一个全球通用 “pet passport”
-
-USDA APHIS 说明：
-- destination requirements 不同；
-- U.S. 不签发一个适用于所有国家的统一 pet passport；
-- 大多数目的地使用特定 health certificate；
-- 有时需要 USDA-accredited veterinarian + APHIS endorsement。
-
-**来源**
-- USDA APHIS — Pet Travel FAQ  
-  https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/frequently-asked-questions-about-traveling-your-pet
-
----
-
-## 16. Airline pet rule 与 destination rule 是两层
-
-即使 destination certificate 完全正确，airline 可能另有：
-- carrier size；
-- breed；
-- cabin/cargo；
-- temperature embargo；
-- health certificate timing。
-
-**执行原则**
-同时 check：
-1. destination government；
-2. USDA/APHis；
-3. airline。
-
----
-
-## 17. Pet international travel 不是 last-minute add-on
-
-如果未来计划中美带宠物移动，应该尽早研究：
-- rabies；
-- microchip；
-- antibody titer；
-- quarantine；
-- health certificate；
-- airline route；
-- re-entry requirements。
-
-具体规则每次旅行前重新查。
-
----
-
-## 18. Pet records 要 portable
-
-保存：
-- vaccine；
-- rabies certificate；
-- microchip；
-- labs；
-- diagnoses；
-- medication；
-- surgery；
-- insurance；
-- travel certificate。
-
----
-
-## 19. Death/end-of-life 也值得提前讨论
-
-高龄/重病宠物：
-- quality-of-life criteria；
-- emergency hospitalization；
-- resuscitation；
-- euthanasia；
-- cremation/burial；
-- at-home option。
-
-Crisis 时第一次讨论会非常困难。
-
----
-
-## 20. Pet minimum system
-
-- [ ] regular vet
-- [ ] 24h emergency vet
-- [ ] medication/vaccine record
-- [ ] insurance or deliberate self-insurance
-- [ ] microchip current
-- [ ] primary sitter
-- [ ] backup sitter
-- [ ] written sitter instructions
-- [ ] carrier/leash accessible
-- [ ] travel rules start early
-- [ ] emergency treatment/payment authority
-
-最后更新：2026-09-21
+最后编辑与来源核验：2026-09-21。核对 APHIS 旅行流程及问答、CDC 犬只入境分流和 ASPCA 毒物咨询信息。日常照护部分为与兽医和服务方确认的框架，未指定疫苗或用药方案；保险、航司及中国入境具体条件须逐案查询。
