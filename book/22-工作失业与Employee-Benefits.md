@@ -430,7 +430,110 @@ Eligibility、benefit、deadline 由州管理。
 
 ---
 
-## 25. 最小执行集
+## 25. Personal identity 不要完全绑在 employer 系统上
+
+长期职业 resilience 包括：
+- personal email；
+- personal phone；
+- personal cloud；
+- personal professional profile；
+- personal contacts。
+
+**Rule**
+不要让离职当天 company account disabled = 你同时失去：
+- tax/benefit notices；
+- recruiter contacts；
+- professional network；
+-个人文件。
+
+同时严格遵守 employer confidentiality / data policies，不带走公司数据。
+
+---
+
+## 26. Resume / CV / portfolio 要持续更新
+
+不要只在失业后才回忆：
+- project；
+- scope；
+- measurable impact；
+- title/date；
+- publication/patent；
+- public work sample。
+
+可以每季度做一次 private career log。
+
+只记录你合法可以保留的 personal accomplishments，不复制 proprietary information。
+
+---
+
+## 27. 失业 emergency fund 要按 transition risk 设计
+
+高收入职位未必更容易快速替代。
+
+Runway 应考虑：
+- monthly fixed burn；
+- health insurance；
+- bonus season；
+- visa/work authorization if applicable；
+- geographic constraints；
+- hiring cycle；
+- spouse income；
+- severance uncertainty。
+
+不要只用“3–6个月”一句通用规则结束分析。
+
+---
+
+## 28. Immigration / work authorization 是职业 risk layer（如适用）
+
+对于依赖特定 status/work authorization 的 household：
+- job termination 可能触发 immigration timeline；
+- job change 可能需要 filing；
+- travel 可能影响 status/documentation。
+
+**Rule**
+这类 deadline 与 severance/benefits 同时处理，必要时第一时间找 immigration counsel。
+
+不要把 employer HR 当 independent immigration adviser。
+
+---
+
+## 29. Career risk 不等于追求最大稳定
+
+职业 resilience 也来自：
+- portable skill；
+- public/professional reputation；
+- network；
+- savings；
+- geographic optionality；
+- immigration optionality；
+- multiple credible career paths。
+
+目标不是永远不失业，而是：
+> 即使 job ends，household 不进入 uncontrolled emergency。
+
+---
+
+## 30. Layoff day runbook
+
+当天优先：
+
+- [ ] termination date
+- [ ] severance/release deadline
+- [ ] health coverage end date
+- [ ] COBRA / spouse / Marketplace options
+- [ ] equity/bonus/vesting
+- [ ] final paycheck/PTO
+- [ ] unemployment route
+- [ ] immigration deadline if applicable
+- [ ] benefits documents downloaded legally
+- [ ] personal contacts preserved
+- [ ] company equipment/data returned correctly
+- [ ] do not sign complex release before understanding it
+
+---
+
+## 31. 最小执行集
 
 - [ ] 知道 FMLA eligibility framework
 - [ ] 知道 employer leave policy
