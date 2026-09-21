@@ -1,6 +1,6 @@
 """Build an allowlisted, dependency-free GitHub Pages artifact."""
 from pathlib import Path
-import json,re,shutil
+import json,re,shutil,hashlib
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'_site'
 if OUT.exists():shutil.rmtree(OUT)
@@ -24,3 +24,10 @@ for p in paths:
 (OUT/'data.json').write_text(json.dumps(docs,ensure_ascii=False))
 (OUT/'.nojekyll').touch()
 print(f'Built {len(docs)} documents; {sum(len(d["sections"]) for d in docs)} searchable sections')
+
+# Content hashes keep cached assets aligned with each deployed build.
+index=(OUT/'index.html').read_text()
+for asset in ['app.js','style.css','vendor/marked.js']:
+    digest=hashlib.sha256((OUT/asset).read_bytes()).hexdigest()[:12]
+    index=index.replace('"'+asset+'"','"'+asset+'?v='+digest+'"')
+(OUT/'index.html').write_text(index)
