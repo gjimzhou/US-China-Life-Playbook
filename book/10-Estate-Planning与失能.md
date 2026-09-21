@@ -17,13 +17,17 @@
 
 表格仅解释分工，不能替代各州定义，也不表示每个人都必须建立信托。
 
+**入门：** [National Institute on Aging：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [ABA：Find Legal Help](https://www.americanbar.org/groups/legal_services/flh-home/)。州法决定遗嘱、POA、见证、公证和 probate 的具体要求。
+
 ## 2. 医疗代理先选人，再讨论文件
 
 **优先级：** P1
 
 选择愿意承担职责、能够联系、理解你的价值观并能与医疗团队沟通的人。询问本人是否同意，再考虑备用人选；不是写下名字就完成安排。
 
-医疗代理的作用是当你不能作决定时，在适用范围内代表你。来源：[美国国家医学图书馆：预先医疗指示](https://medlineplus.gov/advancedirectives.html)。
+医疗代理的作用是当你不能作决定时，在适用范围内代表你。
+
+**继续看：** [NIH / NIA：Choosing a Health Care Proxy](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy) · [NIA：Advance Care Planning and Advance Directives](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care) · [MedlinePlus：Advance Directives](https://medlineplus.gov/advancedirectives.html)。
 
 ## 3. 医疗意愿与代理安排相互补充
 
@@ -31,11 +35,15 @@
 
 普通预先指示是否需要另外的临床医嘱才能在急救现场执行，应向医生确认，不能自行把它等同于任何形式的不施行心肺复苏医嘱。
 
+**继续看：** [NIA：Preparing a Living Will](https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will) · [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)。具体州表格、见证及医疗指令体系从本州卫生部门、州法律援助或州律师协会核对。
+
 ## 4. 不假设配偶或伴侣必然拥有全部权限
 
 无文件时谁可代理、签署需何种见证、谁有资格担任以及跨州认可，均要按适用规则确认。婚姻关系也不等于可以随时取得全部账户和病历。
 
 未婚伴侣、重组家庭或存在冲突时，尤其需要明确授权和沟通路径。
+
+**找本州法律入口：** [ABA：State and Local Bar Associations / Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。不要用其他州下载的表格直接替代本州要求。
 
 ## 5. 财务授权须同时考虑便利与滥用风险
 
@@ -43,7 +51,7 @@
 
 特别讨论赠与、资产转移和受益人变更是否允许，是否要求向另一位可信赖的人定期报告。不要为方便而授予超出本意的权限，也不把共享密码当成合法授权。
 
-来源：[美国消费者金融保护局（CFPB）：授权委托书与滥用防范](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
+**继续看：** [CFPB：What is a Power of Attorney?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [CFPB：Managing Someone Else’s Money — POA / trustee / guardian guides](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [CFPB：What is a fiduciary?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-fiduciary-en-1769/)。
 
 ## 6. 遗嘱不能单独代表全部资产安排
 
@@ -51,11 +59,15 @@
 
 不要假设更新遗嘱自动更新每个金融机构记录。死亡后代理、执行人和受托人的权限也需要分别确认，见[第 35 章](35-死亡后的实际操作与Estate-Administration.md)。
 
+**实务入口：** 退休计划受益人先查雇主 / plan administrator；保险受益人查 insurer；银行 / 券商的 POD、TOD、joint ownership 规则查对应机构正式文件。无法确认州法效果时，从 [ABA 法律帮助入口](https://www.americanbar.org/groups/legal_services/flh-home/)找本州 estate-planning counsel。
+
 ## 7. 受益人记录直接向机构核实
 
 婚姻、离婚、子女出生、受益人去世、换工作或账户转移后，取得当前指定记录，检查姓名、比例、备用受益人及机构是否实际受理。
 
 涉及配偶权利、未成年人、信托或跨境受益人时，让律师与计划管理方协同确认，不机械填入同一套姓名。
+
+**退休计划继续看：** [U.S. Department of Labor：Retirement Plans, Benefits and Savings](https://www.dol.gov/general/topic/retirement) · [DOL EBSA：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。具体 beneficiary form 与配偶同意要求以计划文件为准。
 
 ## 8. 婚姻变化触发一次共同复查
 
@@ -67,11 +79,15 @@
 
 跨境或复杂税务不应默认包含在基础遗嘱套餐中。
 
+**找律师：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。委托前明确 estate planning、tax、cross-border coordination 是否分别计费。
+
 ## 10. 签署以后还有实施步骤
 
 通知被指定的人，交付适当副本，让机构登记，核对受益人变更是否生效。如采用信托，询问哪些资产应如何转入，哪些不应直接改名转入，及相关税务或贷款影响。
 
 做一张实施清单，逐项记录完成凭证；未执行的安排不能仅因文件已签就视为可用。
+
+**代理人实际接手时：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)提供 POA、trustee、court-appointed guardian 等不同角色的操作指南。
 
 ## 11. 与代理人讨论真实价值取舍
 
@@ -79,15 +95,21 @@
 
 意愿变化时及时更新讨论和适当文件，不让代理人根据多年以前的闲聊猜测。
 
+**对话工具：** [NIA：Advance Care Planning — Conversation Guide](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care)。其重点是先谈价值取舍，再把需要的决定写入适用文件。
+
 ## 12. 定期及重大变化后复查
 
 年度复查可作为提醒；搬州、婚姻变化、重大诊断、代理人关系或能力变化、资产变化时提前复查。更新后询问旧文件如何处理并通知相关机构，防止同时流通互相冲突版本。
+
+**继续看：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)建议持续复查并把最新版本提供给代理人、医疗人员和相关家人；法律文件的撤销与替换方式仍按本州规则执行。
 
 ## 13. 紧急时能找到文件
 
 私下记录原件位置、律师联系方式、有效版本及谁持有副本。避免唯一副本只能由本人打开；也不要把所有文件和密码放入公开共享链接。
 
 医疗团队需要什么格式、是否已入档，应实际确认。
+
+**医疗文件入口：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)。完成后直接问 PCP / health system 是否能把 advance directive 或 proxy document 上传到病历。
 
 ## 14. 跨境安排单独设计
 
@@ -107,11 +129,15 @@
 
 实际密码和恢复资料私下保护。技术上能登录不等于法律上有权操作，安排中应同时讨论权限与证据。
 
+**平台入口示例：** [Apple：Legacy Contact](https://support.apple.com/en-us/102631) · [Google：Inactive Account Manager](https://support.google.com/accounts/answer/3036546)。这些只是平台级工具，不替代遗嘱、POA、trust 或适用法律。
+
 ## 17. 税务是其中一部分
 
 向专业人士说明公民身份、税务身份、财产所在地及受益人情况，再判断联邦、州及跨境遗产或赠与规则。不以单一联邦免税额推断所有义务，也不为了税务优化延误基本授权与照护准备。
 
 本章不固定免税额或推荐特定信托税务策略。
+
+**税务入口：** [IRS：Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [IRS：Frequently Asked Questions on Estate Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes)。具体年度门槛、州遗产 / 继承税和跨境规则应在实施时重新核对。
 
 ## 18. 实施清单与核验范围
 
@@ -122,4 +148,4 @@
 - [ ] 原件、副本和数字资料可由适当人员取得。
 - [ ] 跨境受理和重大变化后的复查有负责人。
 
-最后编辑与来源核验：2026-09-21。核对 MedlinePlus 对医疗指示的解释、CFPB 对财务授权及滥用防范的说明，以及[财务代理角色指引](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。其他条目为向律师和机构确认的规划事项，未核验全美各州或中美跨境文件效力。
+最后编辑与来源核验：2026-09-21。已重新核对 NIH / NIA advance-care-planning 与 health-care-proxy 指南、CFPB POA / fiduciary / Managing Someone Else’s Money、DOL retirement-benefit 入口及 IRS estate-and-gift-tax 入口，并补入州律师转介和平台数字遗产入口。遗嘱、POA、见证、公证、受益人、probate、trust 和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
