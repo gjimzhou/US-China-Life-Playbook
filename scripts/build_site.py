@@ -27,7 +27,7 @@ print(f'Built {len(docs)} documents; {sum(len(d["sections"]) for d in docs)} sea
 
 # Content hashes keep cached assets aligned with each deployed build.
 index=(OUT/'index.html').read_text()
-for asset in ['app.js','style.css','vendor/marked.js']:
+for asset in ['app.js','theme.js','style.css','vendor/marked.js']:
     digest=hashlib.sha256((OUT/asset).read_bytes()).hexdigest()[:12]
     index=index.replace('"'+asset+'"','"'+asset+'?v='+digest+'"')
 (OUT/'index.html').write_text(index)
