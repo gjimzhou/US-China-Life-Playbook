@@ -9,8 +9,9 @@ function safeMarkdown(text,path){
  const allowed=new Set('P H1 H2 H3 H4 H5 H6 UL OL LI BLOCKQUOTE TABLE THEAD TBODY TR TH TD EM STRONG DEL CODE PRE HR BR A INPUT'.split(' '));
  for(const node of [...template.content.querySelectorAll('*')]){
   if(!allowed.has(node.tagName)){node.replaceWith(document.createTextNode(node.textContent));continue}
-  const href=node.getAttribute('href');const checked=node.hasAttribute('checked');
+  const start=node.getAttribute('start');const href=node.getAttribute('href');const checked=node.hasAttribute('checked');
   for(const attr of [...node.attributes])node.removeAttribute(attr.name);
+  if(node.tagName==='OL'&&/^[0-9]+$/.test(start||''))node.setAttribute('start',start);
   if(node.tagName==='INPUT'){node.type='checkbox';node.disabled=true;node.checked=checked;node.setAttribute('aria-label',checked?'已完成':'待完成')}
   if(node.tagName==='A'&&href){
    try{const url=new URL(href,new URL(path,location.href.split('#')[0]));

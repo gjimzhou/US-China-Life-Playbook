@@ -19,6 +19,14 @@
 3. **依靠系统，减少对记忆的依赖**：用清单、共享日历、文件索引、备份、法律授权和年度复查维持运行。
 4. **中美两地能够衔接**：美国主系统、中国持续维护的支持系统，以及两者之间的文件、医疗、税务、通信与支付接口。
 
+## 网页阅读
+
+[打开阅读网站](https://gjimzhou.github.io/US-China-Life-Playbook/) · [查看发布状态](https://github.com/gjimzhou/US-China-Life-Playbook/actions/workflows/pages.yml)
+
+网页版提供全文搜索、章节目录、优先级与证据筛选，以及打印阅读。正文更新后自动构建；首次上线需在仓库设置中启用 GitHub Pages，发布状态以工作流结果为准。
+
+内容校订范围见[编辑审查进度](references/editorial-status.md)。上线不代表全书事实均已审定。
+
 ## 从哪里开始
 
 第一次阅读不必先看完 40 章。先用[前 30 天家庭基础设施加固清单](checklists/first-30-days.md)，建立紧急联络、账户安全、保险、医疗、法律文件和父母照护的基础安排。
