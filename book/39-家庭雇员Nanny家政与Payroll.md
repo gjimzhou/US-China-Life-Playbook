@@ -8,13 +8,15 @@
 
 美国国税局以家庭能否控制工作内容及完成方式等事实判断家庭雇员（Household Employee）。兼职、按周支付或经中介介绍，不自动成为独立承包人（Independent Contractor）。税务认定与劳动法认定还应分别核对。
 
-来源：[美国国税局2026年家庭雇主税务指南（Publication 926）](https://www.irs.gov/publications/p926)。
+**继续看：** [IRS：Publication 926 (2026) — Household Employer’s Tax Guide](https://www.irs.gov/publications/p926) · [IRS：Household Employees](https://www.irs.gov/taxtopics/tc756)。
 
 ---
 
 ## 2. 保姆与其他家庭服务
 
-保姆、家政和居家照护是应当检查雇佣关系的常见场景。先写下实际工作地点、谁安排班次、谁提供工具、谁监督工作及谁能安排替班，交给薪资服务商或专业人士判断。不要仅接受“给我一张1099表就行”的说法。
+保姆、家政和居家照护是应当检查雇佣关系的常见场景。先写下实际工作地点、谁安排班次、谁提供工具、谁监督工作及谁能安排替班，交给薪资服务商或专业人士判断。不要仅接受“给我一张 1099 表就行”的说法。
+
+**判断入口：** [IRS Publication 926：Do You Have a Household Employee?](https://www.irs.gov/publications/p926) · [IRS：Independent Contractor or Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)。税务分类与劳动法覆盖仍需分别判断。
 
 ---
 
@@ -24,7 +26,7 @@
 
 2026年向同一家庭雇员支付现金工资达到3,000美元，通常触发社会保障税及医疗保险税规则；有亲属、年龄等例外。联邦失业税（FUTA）另看2025或2026任一季度向全部家庭雇员支付的现金工资合计是否达到1,000美元。两项测试不是同一口径，低于一项也不代表没有其他雇主义务。
 
-来源：[2026年家庭雇主税务指南](https://www.irs.gov/publications/p926)。
+**年度门槛原文：** [IRS Publication 926 (2026)](https://www.irs.gov/publications/p926)。门槛会随年度变化，下一税年必须重新查当年版本。
 
 ---
 
@@ -32,19 +34,25 @@
 
 请服务商列出适用的雇主识别号码（EIN）、州雇主登记、工作资格核验、工资记录、工资税申报和年度表格。确认工资与扣缴凭证（W-2）以及家庭雇佣税附表（Schedule H）由谁准备、谁提交、谁保存回执。不要等到报个人所得税时才第一次整理全年付款。
 
+**直接办理：** [IRS：Get an Employer Identification Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA：Business Services Online / W-2 filing](https://www.ssa.gov/bso/bsowelcome.htm) · [USCIS：I-9 Central](https://www.uscis.gov/i-9-central)。
+
 ---
 
 ## 5. 谈清税前工资与雇主总成本
 
 适用时，社会保障税一般由雇员和雇主各负担6.2%，医疗保险税一般各1.45%；另有工资基数上限和附加医疗保险税等规则。雇主预算还应包含加班、保险、报销和服务费。
 
-合同明确报出的时薪是税前工资（Gross Pay）还是约定到手金额，后者须先请服务商计算。联邦所得税预扣与上述工资税不同，家庭雇佣并非一律必须预扣。来源：[2026年家庭雇主税务指南](https://www.irs.gov/publications/p926)。
+合同明确报出的时薪是税前工资（Gross Pay）还是约定到手金额，后者须先请服务商计算。联邦所得税预扣与上述工资税不同，家庭雇佣并非一律必须预扣。
+
+**计算依据：** [IRS Publication 926 (2026)](https://www.irs.gov/publications/p926) · [IRS：Publication 15-T — Federal Income Tax Withholding Methods](https://www.irs.gov/publications/p15t)。
 
 ---
 
 ## 6. 继续核对州与城市要求
 
 把工作地址交给熟悉家庭雇佣的服务商，逐项核对最低工资、加班、带薪病假、工资单、失业保险、伤残或家庭假项目、工伤保险及家政劳动者保护规定。要求留下适用机构、规则日期和结论；联邦指南不能覆盖所有地方要求。
+
+**查州 / 地方规则：** [DOL：State Labor Offices](https://www.dol.gov/agencies/whd/state/contacts) · [USA.gov：State Governments](https://www.usa.gov/state-governments) · [USA.gov：State Workers’ Compensation Officials](https://www.dol.gov/agencies/owcp/wc)。
 
 ---
 
@@ -54,7 +62,7 @@
 
 联邦家庭服务劳动规则通常涉及最低工资和每周超过40小时的加班工资，但有法定例外；州法可能提供更多保护。不要因为无需缴某项工资税，就把实际工作当作无偿帮忙。
 
-来源：[联邦家庭服务劳动法规（29 CFR Part 552）](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552)。
+**继续看：** [DOL：Domestic Service Workers Fact Sheets](https://www.dol.gov/agencies/whd/direct-care/fact-sheets) · [eCFR：29 CFR Part 552](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552)。
 
 ---
 
@@ -62,7 +70,7 @@
 
 住家家庭雇员可能适用特定联邦加班豁免，但这不等于免付工作时间的工资。符合条件的睡眠、用餐和完全自由时间可涉及协议排除；被工作打断的时间需要重新计入。由第三方机构雇佣时，豁免适用也不同。先让专业人士确认安排。
 
-来源：[家庭服务法规第552.102、552.109条](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552)。
+**继续看：** [DOL Fact Sheet #79B：Live-in Domestic Service Workers](https://www.dol.gov/agencies/whd/fact-sheets/79b-flsa-live-in-domestic-workers) · [DOL Fact Sheet #79D：Hours Worked](https://www.dol.gov/agencies/whd/fact-sheets/79d-flsa-domestic-service-hours-worked) · [eCFR Part 552](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552)。
 
 ---
 
@@ -70,13 +78,15 @@
 
 要求留在家中随时照看孩子或病人，与能够自由离开、完全自行支配时间不同。用共同可核对的记录记下开始、结束、休息及夜间响应；不要只按“实际喂饭或换尿布”的分钟数计算。排班和实际工时不同，应按事实修正。
 
-来源：[家庭服务法规第552.100—552.110条](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552)。
+**记录工时：** [DOL Fact Sheet #79C：Domestic Service Recordkeeping](https://www.dol.gov/agencies/whd/fact-sheets/79c-flsa-domestic-service-recordkeeping) · [DOL Fact Sheet #79D：Hours Worked](https://www.dol.gov/agencies/whd/fact-sheets/79d-flsa-domestic-service-hours-worked) · [eCFR Part 552](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552)。
 
 ---
 
 ## 10. 书面约定基本工作条件
 
 写清职责、地点、班次、工资、加班、休假、病假、报销、外出及过夜安排、终止程序和紧急联系人。双方各留一份可读副本；需要时提供员工理解的语言。约定不能取消法律赋予的权利。
+
+**联邦工时记录参考：** [DOL Fact Sheet #79C](https://www.dol.gov/agencies/whd/fact-sheets/79c-flsa-domestic-service-recordkeeping)。住家员工若要约定排除 meal / sleep / free time，DOL 还要求保留相应合理协议并记录实际工时。
 
 ---
 
@@ -102,6 +112,8 @@
 
 在工作所在州确认家政雇员工伤保险（Workers’ Compensation）的适用条件、投保时间与主管机构。跌倒、烫伤或工作中交通事故发生后如何报告，也应预先写入工作安排。
 
+**查本州：** [U.S. Department of Labor：State Workers’ Compensation Officials](https://www.dol.gov/agencies/owcp/wc) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。
+
 ---
 
 ## 15. 主动告知家庭保险经纪
@@ -114,7 +126,7 @@
 
 对于适用的常规家庭雇佣，按就业资格核验表（Form I-9）的要求完成核验并保留记录，不寄给国税局。允许员工按规则选择可接受文件，不能自行要求额外国籍证明。偶发、零星家务服务等边界须另核对。
 
-来源：[家庭雇主税务指南的工作资格核验说明](https://www.irs.gov/publications/p926)。办理时另查[移民局就业资格核验入口](https://www.uscis.gov/i-9-central)的当前表格与期限。
+**办理入口：** [USCIS：I-9 Central](https://www.uscis.gov/i-9-central) · [USCIS：Form I-9](https://www.uscis.gov/i-9) · [IRS Publication 926](https://www.irs.gov/publications/p926)。Form I-9 保留在雇主记录中，不寄给 IRS；具体 retention period 与 acceptable documents 以 USCIS 当前说明为准。
 
 ---
 
@@ -122,11 +134,15 @@
 
 比较服务范围：工资单、扣缴、州申报、年度表格、工时记录和更正由谁负责。每次检查付款是否到账、申报是否被接受、税款是否入账；服务商的提醒邮件不能代替正式回执。合同也应说明漏报后的协助范围。
 
+**自己核对：** [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA Business Services Online](https://www.ssa.gov/bso/bsowelcome.htm) · [IRS Payments](https://www.irs.gov/payments)。州 payroll / unemployment portal 另从州政府官网进入。
+
 ---
 
 ## 18. 现金支付仍需记录
 
 纸币、支票或电子转账只是支付方式。每笔记录工资期间、实际工时、税前金额、扣款和实付金额，给员工工资明细并保存付款证明。
+
+**记录要求：** [DOL Fact Sheet #79C](https://www.dol.gov/agencies/whd/fact-sheets/79c-flsa-domestic-service-recordkeeping) · [IRS Publication 926：Records You Must Keep](https://www.irs.gov/publications/p926)。
 
 ---
 
@@ -134,11 +150,15 @@
 
 先判断雇员还是独立承包人，再决定适用表格。若发现以往处理可能有误，整理合同、工时和付款记录，请专业人士制定更正方案，不补签与事实不符的文件。
 
+**税务分类入口：** [IRS：Independent Contractor or Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee) · [IRS：Form SS-8](https://www.irs.gov/forms-pubs/about-form-ss-8)。SS-8 是否适合个案先与税务专业人士确认。
+
 ---
 
 ## 20. 通过机构聘用也要问责任
 
 问清机构是介绍人还是雇主，谁发薪、报税、投保、核验资格和安排替班，以及家庭是否可能构成共同雇主。把责任分工写进服务合同，不能只看中介费。
+
+**联邦劳动法继续看：** [DOL：Domestic Service Workers Fact Sheets](https://www.dol.gov/agencies/whd/direct-care/fact-sheets)；第三方 agency 与家庭是否各自 / 共同承担义务取决于实际关系与适用法律。
 
 ---
 
@@ -146,11 +166,15 @@
 
 围绕岗位核对推荐人、驾驶经历、照护技能和所需资格。涉及第三方背景报告、同意、通知或不利决定程序时，先核对适用法律。朋友介绍可以帮助接触候选人，但不能替代必要核验，也不能合理化歧视。
 
+**背景调查入口：** [FTC：Employer Background Checks and Your Rights](https://consumer.ftc.gov/articles/employer-background-checks-your-rights) · [EEOC：Background Checks — What Employers Need to Know](https://www.eeoc.gov/publications/background-checks-what-employers-need-know)。州 / 城市可能还有更严格的 fair-chance 或 notice 规则。
+
 ---
 
 ## 22. 试工也是实际工作
 
 约定有偿试工的时段、任务、工资和反馈时间。记录已经完成的工作；不要以“看看合不合适”为由安排免费照护。
+
+**工时原则：** [DOL Fact Sheet #79D](https://www.dol.gov/agencies/whd/fact-sheets/79d-flsa-domestic-service-hours-worked)解释 domestic-service employees 的 compensable hours；试工是否构成受保护工作仍按实际事实和州法判断。
 
 ---
 
@@ -207,6 +231,6 @@
 
 ## 本轮核验范围与限制
 
-本轮核对了国税局2026年家庭雇主指南，以及联邦家庭服务劳动法规；法规页面显示更新至2026-09-17。劳工部说明页访问受限，劳动工时结论改用法规原文。移民局当前表格页面、各州与城市劳动保护、保险合同未逐一核实，保留为办理前的具体核对事项。上述联邦门槛不是全国统一的免登记或免付工资标准。
+本轮已重新核对 IRS 2026 Publication 926、EIN / Schedule H / household-employee 分类入口，USCIS I-9 Central，以及 DOL Domestic Service Fact Sheets #79B / #79C / #79D 与 29 CFR Part 552，并补入 SSA W-2 filing、FTC / EEOC background-check 和州工伤入口。各州与城市的最低工资、加班、带薪假、工资单、工伤、失业保险、住家住房权利、录音 / 摄像和 final-pay 规则仍须按实际工作地址核验；联邦税务门槛不是全国统一的劳动法豁免线。
 
 最后编辑与来源查阅：2026-09-21
