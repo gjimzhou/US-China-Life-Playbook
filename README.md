@@ -1,455 +1,163 @@
-# 中美双栖人生指南 / US–China Life Playbook
+# 中美双栖人生指南（US–China Life Playbook）
 
-> 面向高收入、长期在美国生活、同时维持中国家庭与社会连接的第一代移民家庭的一套可执行生活 operating system（操作系统）。
+> 面向长期在美国生活、同时维持中国家庭与社会连接的第一代移民家庭的一套可执行生活指南。
 
-这不是“省钱技巧合集”，也不是“中国人如何适应美国”的入门手册。
+本指南面向有能力购买专业服务、希望提高家庭运行可靠性的读者。它整理那些常由父母、朋友、社区与多年生活经验传递的隐性知识：事情发生时找谁、需要什么权限、提前保存哪些资料，以及如何维持中美两地生活的衔接。
 
-它假设读者已经能够独立生活、受教育程度较高、家庭收入较高，也愿意用钱购买 professional services（专业服务）；真正缺少的是美国本地家庭通过父母、朋友、社区和几十年生活经验自然获得的：
+目标是把“等出事以后再研究”变成：
 
-- tacit knowledge（隐性知识）；
-- social infrastructure（社会基础设施）；
-- institutional routing（机构入口与分流）；
-- household runbooks（家庭操作手册）；
-- 中美两地能持续运行的 life infrastructure（生活基础设施）。
+> **事件 → 机构 → 专业人士 → 执行步骤**
 
----
+## 核心原则
 
-# 这个项目解决什么问题？
+1. **尾部风险优先（tail risk first）**：先处理后果严重、不可逆、出事后无法补做的事情。
+2. **用钱购买可靠性**：知道何时找律师、注册会计师、医生、保险经纪或持证承包商。
+3. **依靠系统，减少对记忆的依赖**：用清单、共享日历、文件索引、备份、法律授权和年度复查维持运行。
+4. **中美两地能够衔接**：美国主系统、中国持续维护的支持系统，以及两者之间的文件、医疗、税务、通信与支付接口。
 
-第一代移民家庭很容易处于一种奇怪状态：
+## 从哪里开始
 
-> 钱、教育和职业能力已经足够强，但很多生活系统仍然靠临时 Google。
+第一次阅读不必先看完 40 章。先用[前 30 天家庭基础设施加固清单](checklists/first-30-days.md)，建立紧急联络、账户安全、保险、医疗、法律文件和父母照护的基础安排。
 
-例如：
+遇到具体事件时，直接进入下面的章节或清单。
 
-- 半夜出 medical emergency（医疗急症）到底去哪？
-- water leak（漏水）先找谁？
-- car accident（车祸）现场怎么处理？
-- demand letter（律师函）收到后先通知谁？
-- umbrella insurance（个人超额责任险）是什么？
-- whole-body CT（全身 CT）为什么未必是好 preventive medicine（预防医学）？
-- spouse incapacitated（配偶失能）以后谁有法律权限？
-- parent hospitalized in China（父母在中国住院）时，谁先到现场？
-- 搬家为什么不只是改 USPS？
-- 结婚为什么要重新看 beneficiaries（受益人指定）？
-- 长期回中国 work-from-abroad（境外远程工作）会不会同时触发美国和中国税务？
-- 贵重手表、珠宝、wine collection（葡萄酒收藏）该怎么保险、运输、报关、继承？
-- nanny（保姆）为什么可能是 household employee（家庭雇员），而不是“给个 1099 就行”？
+## 全部章节
 
-这个项目的目标是把这些问题从：
-
-> “等出事以后再研究”
-
-变成：
-
-> **event → institution → professional → procedure**
-
----
-
-# 核心哲学
-
-## 1. Tail risk first（尾部风险优先）
-
-优先处理：
-
-- catastrophic downside（灾难性损失）；
-- irreversible downside（不可逆损失）；
-- 低成本 prevention（预防）；
-- 出事后无法补做的事情。
-
-比起节省 $20–$100：
-
-> 少一次六位数 liability（责任风险）、身份盗窃、税务错误、重大医疗延误，更重要。
-
----
-
-## 2. 用钱购买 reliability（可靠性），不是 complexity（复杂度）
-
-高收入家庭不需要自己成为：
-
-- 半个 lawyer；
-- 半个 CPA；
-- 半个 plumber；
-- 半个 insurance adjuster。
-
-真正需要的是：
-
-> **知道什么时候应该找谁。**
-
----
-
-## 3. System > memory
-
-好的 household 不依赖：
-
-> “我应该记得。”
-
-而依赖：
-
-- checklist；
-- shared calendar；
-- document map；
-- emergency contacts；
-- backup；
-- legal authority；
-- annual review。
-
----
-
-## 4. 中美双栖不是两个半套系统
-
-目标是：
-
-> **US primary system + China maintained secondary system + cross-border interface**
-
-不是：
-
-- 美国有完整人生；
-- 中国只剩回国吃饭、看父母和办证。
-
----
-
-# 30 天 Quick Start
-
-如果第一次来，不需要先读 40 章。
-
-直接从：
-
-## [First 30 Days — 家庭基础设施加固清单](checklists/first-30-days.md)
-
-开始。
-
-它会优先完成：
-
-- emergency；
-- cyber；
-- insurance；
-- estate；
-- healthcare；
-- U.S./China identity；
-- home/car/pet；
-- parents；
-- social infrastructure。
-
----
-
-# 全部章节
-
-## Part I — 生存、健康与医疗
+### 第一部分：生存、健康与医疗
 
 1. [不要意外死亡](book/01-不要意外死亡.md)
 2. [预防医学：不是检查越多越好](book/02-预防医学.md)
 3. [紧急情况与急救](book/03-紧急情况与急救.md)
 4. [美国医疗系统怎么用](book/04-美国医疗系统怎么用.md)
 5. [中国医疗系统怎么用](book/05-中国医疗系统怎么用.md)
-6. [医疗记录、药物与跨境 Continuity of Care（连续性照护）](book/06-医疗记录药物与跨境Continuity.md)
+6. [医疗记录、药物与跨境连续性照护（Continuity of Care）](book/06-医疗记录药物与跨境Continuity.md)
 
----
+### 第二部分：保险、责任、住房与车辆
 
-## Part II — Insurance、Liability、Home 与 Car
-
-7. [保险与灾难风险](book/07-保险与灾难风险.md)
+7. [保险与灾难风险：不要只比较保费](book/07-保险与灾难风险.md)
 8. [车祸、停车、维修与责任](book/08-车祸停车维修与责任.md)
-9. [住房、物业与 Contractor（承包商）](book/09-住房物业与Contractor.md)
-10. [Estate Planning（遗产与失能规划）](book/10-Estate-Planning与失能.md)
+9. [住房、物业与承包商（Contractor）](book/09-住房物业与Contractor.md)
+10. [遗产与失能规划（Estate Planning）：重点不只是死后分钱](book/10-Estate-Planning与失能.md)
 
----
-
-## Part III — 美国 / 中国 Government、Money 与 Digital
+### 第三部分：政府办事、财务与数字安全
 
 11. [美国政府到底找谁](book/11-美国政府到底找谁.md)
 12. [中国政府与办事入口](book/12-中国政府与办事入口.md)
-13. [高收入家庭财务 Operating System](book/13-高收入家庭财务Operating-System.md)
-14. [美国税务与 State Residency（州税务居民身份）](book/14-美国税务与State-Residency.md)
+13. [高收入家庭财务运行系统](book/13-高收入家庭财务Operating-System.md)
+14. [美国税务与州税务居民身份（State Residency）：不要把报税当成年末一次性动作](book/14-美国税务与State-Residency.md)
 15. [网络安全与身份盗窃](book/15-网络安全与身份盗窃.md)
 16. [银行、信用卡、消费者纠纷与诈骗](book/16-银行信用卡消费者纠纷与诈骗.md)
 
----
+### 第四部分：宠物、父母与家庭
 
-## Part IV — Pets、Parents 与 Family
-
-17. [宠物 Operating System](book/17-宠物Operating-System.md)
+17. [宠物照护运行系统](book/17-宠物Operating-System.md)
 18. [中美双栖生活基础设施](book/18-中美双栖生活基础设施.md)
-19. [文件、公证、Apostille（附加证明书）与跨境授权](book/19-文件公证Apostille与跨境授权.md)
+19. [文件、公证、附加证明书（Apostille）与跨境授权](book/19-文件公证Apostille与跨境授权.md)
 20. [父母养老与远程照护](book/20-父母养老与远程照护.md)
-21. [孩子、Childcare（托育）与家庭规划](book/21-孩子教育Childcare与家庭规划.md)
+21. [孩子、托育（Childcare）与家庭规划](book/21-孩子教育Childcare与家庭规划.md)
 
----
+### 第五部分：工作、家庭运营与社会关系
 
-## Part V — Work、Household 与 Social Infrastructure
-
-22. [工作、失业与 Employee Benefits（员工福利）](book/22-工作失业与Employee-Benefits.md)
-23. [时间、精力与 Household Management（家庭运营）](book/23-时间精力与Household-Management.md)
+22. [工作、失业与员工福利（Employee Benefits）](book/22-工作失业与Employee-Benefits.md)
+23. [时间、精力与家庭运营（Household Management）](book/23-时间精力与Household-Management.md)
 24. [美国社交礼仪与潜规则](book/24-美国社交礼仪与潜规则.md)
-25. [如何建立美国本地 Social Infrastructure（社会基础设施）](book/25-如何建立美国本地社会基础设施.md)
+25. [如何建立美国本地社会基础设施](book/25-如何建立美国本地社会基础设施.md)
 26. [如何维持中国社会关系](book/26-如何维持中国社会关系.md)
-27. [律师、CPA、医生、保险经纪怎么找](book/27-律师CPA医生保险经纪怎么找.md)
+27. [律师、注册会计师（CPA）、医生、保险经纪怎么找](book/27-律师CPA医生保险经纪怎么找.md)
 
----
+### 第六部分：婚姻、流动与紧急应对
 
-## Part VI — Marriage、Mobility 与 Emergency
-
-28. [婚姻、Prenup（婚前协议）与夫妻财务](book/28-婚姻Prenup与夫妻财务.md)
-29. [旅行、长期停留与 Global Mobility（全球流动）](book/29-旅行长期停留与全球Mobility.md)
-30. [Household Emergency Runbook（家庭紧急操作手册）](book/30-Household-Emergency-Runbook.md)
+28. [婚姻、婚前协议（Prenup）与夫妻财务](book/28-婚姻Prenup与夫妻财务.md)
+29. [旅行、长期停留与全球流动（Global Mobility）](book/29-旅行长期停留与全球Mobility.md)
+30. [家庭紧急操作手册（Household Emergency Runbook）](book/30-Household-Emergency-Runbook.md)
 31. [美国人默认知道、但第一代移民可能没人教的 100 件小事](book/31-美国人默认知道的100件小事.md)
-32. [年度 Household Review（家庭年度复查）](book/32-年度Household-Review.md)
+32. [家庭年度复查（Annual Household Review）](book/32-年度Household-Review.md)
 33. [反面清单：有钱也不要乱做的事](book/33-反面清单-有钱也不要乱做的事.md)
-34. [重大打击后的 Temporary Operating Mode（临时运行模式）](book/34-重大打击后的Temporary-Operating-Mode.md)
+34. [重大打击后的临时运行模式（Temporary Operating Mode）](book/34-重大打击后的Temporary-Operating-Mode.md)
 
----
+### 第七部分：遗产、购房、移民与跨境事务
 
-## Part VII — Death、Home Ownership、Immigration 与 Cross-Border Tax
-
-35. [死亡后的实际操作与 Estate Administration（遗产管理）](book/35-死亡后的实际操作与Estate-Administration.md)
-36. [买房、Mortgage（房贷）、Closing（交割）与 HOA](book/36-买房Mortgage-Closing与HOA.md)
+35. [死亡后的实际操作与遗产管理（Estate Administration）](book/35-死亡后的实际操作与Estate-Administration.md)
+36. [买房、房贷（Mortgage）、交割（Closing）与业主协会（HOA）](book/36-买房Mortgage-Closing与HOA.md)
 37. [移民身份与文件维护](book/37-移民身份与文件维护.md)
-38. [中美跨境税与 Work-from-Abroad（境外远程工作）](book/38-中美跨境税与Work-from-Abroad.md)
-39. [家庭雇员、Nanny（保姆）、家政与 Payroll（工资税）](book/39-家庭雇员Nanny家政与Payroll.md)
-40. [高价值物品、收藏与 Luxury Assets（奢侈品资产）](book/40-高价值物品收藏与Luxury-Assets.md)
+38. [中美跨境税与境外远程工作（Work from Abroad）](book/38-中美跨境税与Work-from-Abroad.md)
+39. [家庭雇员、保姆与薪资管理（Payroll）](book/39-家庭雇员Nanny家政与Payroll.md)
+40. [高价值物品、收藏与奢侈品资产（Luxury Assets）](book/40-高价值物品收藏与Luxury-Assets.md)
 
----
+## 可执行清单
 
-# 可执行 Checklists
-
-## Household
-- [First 30 Days](checklists/first-30-days.md)
-- [Annual Household Review](checklists/annual-review.md)
-- [Household Emergency Sheet](checklists/emergency-sheet.md)
-
-## Life Events
-- [Marriage Checklist](checklists/marriage-checklist.md)
-- [Move Checklist](checklists/move-checklist.md)
-- [Home Purchase & Closing](checklists/home-purchase.md)
-- [Job Loss](checklists/job-loss.md)
-- [Death Administration](checklists/death-administration.md)
-
-## Cross-Border / Family
-- [International Travel](checklists/international-travel.md)
-- [Parents Emergency Plan](checklists/parents-emergency.md)
-
-## Cyber
-- [Cyber Incident Response](checklists/cyber-incident.md)
-
----
-
-# Methodology（方法）
-
-详见：
-
-- [METHODOLOGY.md](METHODOLOGY.md)
-- [Source Policy](references/source-policy.md)
-
-每条建议逐步使用：
-
-| Field | Meaning |
+| 场景 | 清单 |
 |---|---|
-| Evidence | A / B / C：证据/权威来源强度 |
-| Priority | P0 / P1 / P2 / P3 |
-| Impact | Low / Medium / High / Catastrophic |
-| Cost | Free / Low / Medium / High |
-| Friction | One-time / Annual / Ongoing |
-| Geography | US / China / Cross-border |
-| Owner | Self / Spouse / Household / Professional |
+| 建立家庭基础设施 | [前 30 天](checklists/first-30-days.md) |
+| 定期复查 | [家庭年度复查](checklists/annual-review.md) |
+| 紧急联络与资料 | [家庭紧急信息表](checklists/emergency-sheet.md) |
+| 结婚 | [婚姻准备清单](checklists/marriage-checklist.md) |
+| 搬家 | [搬家清单](checklists/move-checklist.md) |
+| 买房 | [购房与交割清单](checklists/home-purchase.md) |
+| 失业 | [失业应对清单](checklists/job-loss.md) |
+| 家人去世 | [死亡后事务清单](checklists/death-administration.md) |
+| 跨境旅行 | [国际旅行清单](checklists/international-travel.md) |
+| 父母突发状况 | [父母紧急应对计划](checklists/parents-emergency.md) |
+| 账户或身份安全事件 | [网络安全事件应对清单](checklists/cyber-incident.md) |
 
-### Priority
+## 如何判断优先级与可信度
 
-- **P0** — 低成本、高后果，尽快完成
-- **P1** — 明显提升 household resilience（家庭韧性），本年度完成
-- **P2** — Trigger-based（事件触发）
-- **P3** — Nice to have（有价值但不急）
+详见[方法论](METHODOLOGY.md)和[来源原则](references/source-policy.md)。
 
-本项目不把不同量纲强行加成一个伪精确的“人生分数”。
+| 字段 | 含义 |
+|---|---|
+| 证据等级 | A：高可信；B：中等可信；C：实务判断，具体定义见方法论 |
+| 优先级 | P0：尽快完成；P1：本年度完成；P2：特定事件触发；P3：有价值但不急 |
+| 后果 | 低、中、高或灾难性 |
+| 成本 | 免费、低、中或高 |
+| 维护频率 | 一次性、每年或持续维护 |
+| 适用地区 | 美国、中国或跨境 |
+| 负责人 | 本人、配偶、家庭共同或专业人士 |
 
----
+这些维度不加总为一个看似精确的“人生分数”。证据等级也不意味着规则永远不变；动态内容必须结合适用地区、日期和官方来源阅读。
 
-# Language / Style
+## 语言与写作规范
 
-项目**不追求纯中文**。
+统一采用 **中文为主，必要术语首次出现时写作「中文（English）」**。
 
-默认是：
+例如：个人超额责任险（umbrella insurance）、信用冻结（credit freeze）。后文优先使用中文，必要时使用已解释的缩写。标题、步骤、表格和导航都应有中文，不以英文普通词替代自然中文叙述。
 
-> **中文叙述 + 必要 English technical terms（英文技术术语）**
+保留英文是为了方便检索官方文件与咨询专业人士。中文解释不自动成为法定译名。网址、代码和表格编号保持原样。
 
-第一次出现时尽量写：
+详见[写作规范](STYLE.md)与[中英术语表](GLOSSARY.md)。现有章节按此规范逐步校订。
 
-> umbrella insurance（个人超额责任险）
+## 来源与更新
 
-或：
+优先采用政府文件、专业指南、系统综述、同行评审研究和可靠实务资料。论坛、社交媒体与博客可提供问题线索，但高后果建议应回到第一手来源。
 
-> 信用冻结（credit freeze）
+税务门槛、移民规则、申报期限、政府表格、保险要求和入境规则等动态内容，应注明“最后核验：年-月-日”。语言编辑日期与事实核验日期分开记录。
 
-后文在语境清楚后，不再反复加括号。
+## 公开内容与隐私
 
-完整规则：
+本仓库只保存通用规则、官方来源、虚构示例和空白模板。**不得提交仓库所有者、使用者或家人的真实个人资料。**
 
-- [STYLE.md](STYLE.md) — 双语写作规范
-- [GLOSSARY.md](GLOSSARY.md) — 常用中英术语表
+不得提交的信息包括身份及证件号码、账户、地址、雇主、薪酬、净资产、病历、移民个案、私人联系方式、家庭身份、精确行程、签署后的法律文件、密码和恢复码。实际家庭资料应放在密码管理器或加密的私人文件系统中。
 
-这样做的原因是：
+贡献前请阅读[贡献指南](CONTRIBUTING.md)。核心要求是：**可验证、可执行、无个人信息、不过度泛化。**
 
-1. 中文读起来更自然；
-2. 美国 official document（官方文件）本身是英文；
-3. 保留术语以后可以直接 Google / 查政府网站；
-4. 避免把普通中文解释误当法定译名。
+## 家庭最小基础配置
 
----
+| 领域 | 应准备的能力与资料 |
+|---|---|
+| 紧急应对 | 知道当地急救入口；紧急信息表；心肺复苏与自动体外除颤器培训；附近急诊；父母所在地接应人 |
+| 专业服务 | 初级保健医生、牙医、注册会计师、遗产规划律师、保险经纪、房屋维修入口、普通及急诊兽医 |
+| 法律与财务 | 遗嘱、授权委托、医疗决策代理、受益人指定、责任险复查、税务预估、账户清单 |
+| 数字安全 | 密码管理器、多因素认证、信用冻结评估、恢复码、手机丢失预案 |
+| 中美衔接 | 政府账户、中国手机号与支付渠道、跨境文件办理知识、医疗记录、父母应急安排、停留或工作方式变化后的税务复查 |
 
-# Source Policy（来源原则）
+## 项目状态
 
-优先：
+**v0.3：持续编写与校订中。**
 
-1. U.S. / China government；
-2. professional guidelines / professional bodies；
-3. systematic review / meta-analysis；
-4. peer-reviewed research；
-5. reputable practical sources。
+目前有 40 章正文、11 份执行清单，以及方法论、来源原则、术语表和贡献规范。第 31 章整理了 100 条美国生活常识。覆盖面不等于已经完成逐条事实核验。
 
-Reddit / 小红书 / 论坛 / blog 可以帮助发现问题，但高后果规则应尽量回到 primary source（第一手来源）。
+当前维护重点是事实核验、语言与术语统一、证据标注、链接检查和导航改进。后续根据实际需要补充州别及跨境附录。
 
-动态内容如：
+更新记录见[变更日志](CHANGELOG.md)。
 
-- tax threshold；
-- immigration rule；
-- filing deadline；
-- government form；
-- insurance requirement；
-- travel entry rule
-
-应注明：
-
-> Last checked: YYYY-MM-DD
-
----
-
-# Public-first Privacy（公开优先的隐私原则）
-
-这个 repo 是 **public-first**。
-
-只保存：
-
-- 通用规则；
-- 官方来源；
-- generic examples；
-- blank templates。
-
-**绝不提交 repo owner 或使用者的真实个人信息。**
-
-包括：
-
-- SSN / 身份证；
-- passport number；
-- bank/brokerage account；
-- address；
-- employer；
-- compensation；
-- net worth；
-- medical record；
-- immigration case；
-- lawyer/doctor private contact；
-- family identity；
-- exact itinerary；
-- signed legal documents；
-- password / recovery code。
-
-真实 household information 应保存在：
-
-- password manager；
-- encrypted storage；
-- private document system。
-
-不应存在 public GitHub。
-
----
-
-# Contributing
-
-贡献规则：
-
-[CONTRIBUTING.md](CONTRIBUTING.md)
-
-核心要求：
-
-> **可验证、可执行、无个人信息、不过度泛化。**
-
----
-
-# 最小 Household Stack
-
-如果不想看整本书，只需确保 household 至少有：
-
-### Emergency
-- 911 / 120
-- emergency sheet
-- CPR/AED awareness
-- preferred ER
-- parent local responder
-
-### Professional
-- PCP
-- dentist
-- CPA
-- estate attorney
-- insurance agent/broker
-- home service route
-- vet/emergency vet
-
-### Legal / Financial
-- will
-- POA
-- health-care proxy
-- beneficiaries
-- umbrella review
-- tax projection
-- bank/account inventory
-
-### Digital
-- password manager
-- strong MFA
-- credit-freeze decision
-- recovery codes
-- phone-loss plan
-
-### US–China
-- U.S. government accounts
-- China SIM
-- China bank/payment
-- Apostille knowledge
-- cross-border medical records
-- parent emergency system
-- cross-border tax review when stay/work pattern changes
-
----
-
-# Status
-
-## v0.3 — Active Public Build
-
-Current:
-
-- **40 substantive chapters**
-- **11 actionable checklists**
-- **100 U.S. tacit-knowledge rules**
-- methodology + source policy
-- bilingual style guide + glossary
-- contribution policy
-- public-first privacy policy
-- repository privacy audit
-
-目标不再是机械追求“更多条目”。
-
-下一阶段主要做：
-
-1. fact checking（事实核验）；
-2. terminology cleanup（术语统一）；
-3. evidence labels；
-4. broken-link checks；
-5. state-specific appendices；
-6. cross-border appendices；
-7. better navigation / website rendering。
-
-See:
-
-[CHANGELOG.md](CHANGELOG.md)
-
-最后更新：2026-09-21
+最后编辑：2026-09-21

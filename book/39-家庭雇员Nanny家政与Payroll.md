@@ -1,4 +1,4 @@
-# 39 — 家庭雇员、Nanny、家政与 Payroll
+# 39 — 家庭雇员、保姆与薪资管理（Payroll）
 
 高收入家庭开始使用：
 
@@ -28,7 +28,7 @@
 
 ## 1. Worker classification 先看事实，不看双方怎么称呼
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 IRS Publication 926 (2026) 说明：
 
@@ -41,7 +41,7 @@ IRS Publication 926 (2026) 说明：
 
 全职/兼职、hourly/weekly、通过 agency/list 找到，都不自动改变结论。
 
-**Source**
+**来源**
 - IRS Publication 926 (2026) — Household Employer’s Tax Guide  
   https://www.irs.gov/publications/p926
 
@@ -61,7 +61,7 @@ IRS 直接举例：
 
 都可能属于 household employment。
 
-**Rule**
+**执行原则**
 不要因为对方自己说：
 > “给我 1099 就行。”
 
@@ -71,7 +71,7 @@ IRS 直接举例：
 
 ## 3. 2026 的 Federal household-employment threshold 要知道
 
-**Evidence:** A
+**证据等级:** A
 
 IRS 2026 Publication 926 当前规定：
 
@@ -80,7 +80,7 @@ IRS 2026 Publication 926 当前规定：
 IRS 还规定：
 如果向 household employees 的 total cash wages 在 2025 或 2026 任一 calendar quarter 达到 **$1,000 或以上**，也可能触发 FUTA obligation。
 
-**Source**
+**来源**
 - IRS Publication 926 (2026)  
   https://www.irs.gov/publications/p926
 
@@ -100,7 +100,7 @@ IRS 还规定：
 - federal employment taxes；
 - state unemployment/disability/workers’ comp obligations。
 
-**Rule**
+**执行原则**
 regular nanny / caregiver 一旦形成 employee relationship，最好一开始就找：
 
 - household payroll service；
@@ -121,7 +121,7 @@ IRS Pub. 926 当前列出：
 
 具体 Additional Medicare / wage base 等按年度更新。
 
-**Rule**
+**执行原则**
 不要把工资谈判只理解成：
 > “我们说好 $X/hour。”
 
@@ -148,7 +148,7 @@ IRS Pub. 926 当前列出：
 - notice/paystub requirements；
 - disability/paid family leave。
 
-**Rule**
+**执行原则**
 Federal Pub. 926 只是第一层。
 
 还要看：
@@ -158,7 +158,7 @@ Federal Pub. 926 只是第一层。
 
 ## 7. Domestic workers 通常受 wage/hour law 保护
 
-**Evidence:** A
+**证据等级:** A
 
 U.S. Department of Labor 说明：
 domestic service workers generally are covered by FLSA minimum-wage/overtime rules，subject to specific exemptions。
@@ -170,7 +170,7 @@ domestic service workers generally are covered by FLSA minimum-wage/overtime rul
 - home health aide；
 - driver。
 
-**Sources**
+**来源**
 - DOL — Domestic Service Final Rule / Fact Sheet  
   https://www.dol.gov/agencies/whd/fact-sheets/flsa-domestic-service
 - DOL Fact Sheet #79B — Live-in Domestic Service Workers  
@@ -187,7 +187,7 @@ DOL 对 live-in domestic work 有特殊 overtime rules，但仍要求：
 - working time compensated；
 - interrupted sleep/off-duty time may count。
 
-**Rule**
+**执行原则**
 不要用：
 > “住我家，所以晚上不算。”
 
@@ -208,7 +208,7 @@ DOL 说明：
 
 即使没有持续做 active task，也可能是 compensable working time。
 
-**Source**
+**来源**
 - DOL Fact Sheet #79D  
   https://www.dol.gov/agencies/whd/fact-sheets/79d-flsa-domestic-service-hours-worked
 
@@ -252,7 +252,7 @@ DOL 说明：
 - pet care；
 - travel。
 
-**Rule**
+**执行原则**
 scope 改变时：
 - 重新谈；
 - 调整 pay；
@@ -289,7 +289,7 @@ scope 改变时：
 - umbrella；
 - workers’ comp。
 
-**Rule**
+**执行原则**
 让 insurance professional 明确分析。
 
 ---
@@ -307,7 +307,7 @@ scope 改变时：
 
 household 可能有真实 exposure。
 
-**Rule**
+**执行原则**
 regular employee hiring 前问：
 > 我州 workers’ comp requirement 是什么？
 
@@ -333,7 +333,7 @@ regular employee hiring 前问：
 IRS Publication 926 说明：
 household employer 需要完成 employer section of Form I-9，并保留记录；不要把 I-9 寄给 IRS。
 
-**Source**
+**来源**
 - IRS Pub. 926  
   https://www.irs.gov/publications/p926
 - USCIS I-9 Central  
@@ -443,7 +443,7 @@ Classification 看 factual relationship。
 
 都可能 relevant。
 
-**Rule**
+**执行原则**
 隐藏录音不是默认安全做法。
 
 必要时问 local attorney。

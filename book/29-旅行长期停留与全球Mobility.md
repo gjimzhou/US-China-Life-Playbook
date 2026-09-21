@@ -1,4 +1,4 @@
-# 29 — 旅行、长期停留与 Global Mobility
+# 29 — 旅行、长期停留与全球流动（Global Mobility）
 
 频繁旅行家庭的风险不是“忘带牙刷”。
 
@@ -45,7 +45,7 @@ https://travel.state.gov/
 - airline Timatic as operational check；
 - current visa/document rules。
 
-**Rule**
+**执行原则**
 不要只靠 travel blog。
 
 ---
@@ -60,7 +60,7 @@ https://travel.state.gov/
 
 都可能存在。
 
-**Rule**
+**执行原则**
 查 destination-specific rule。
 
 ---
@@ -102,7 +102,7 @@ Remote island、ski、safari、cruise 等：
 
 可能成本非常高。
 
-**Rule**
+**执行原则**
 越 remote，越要问 evacuation coverage，不只 trip cancellation。
 
 ---

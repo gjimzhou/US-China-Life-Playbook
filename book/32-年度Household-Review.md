@@ -1,4 +1,4 @@
-# 32 — 年度 Household Review
+# 32 — 家庭年度复查（Annual Household Review）
 
 一个家庭最常见的 operational failure 不是：
 

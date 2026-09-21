@@ -1,4 +1,4 @@
-# 14 — 美国税务与 State Residency：不要把报税当成年末一次性动作
+# 14 — 美国税务与州税务居民身份（State Residency）：不要把报税当成年末一次性动作
 
 高收入家庭的税务风险往往不是“不会填 1040”。
 
@@ -20,7 +20,7 @@
 
 ## 1. Federal tax 是 pay-as-you-go
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 IRS 的基本逻辑：
 - wage withholding；
@@ -33,7 +33,7 @@ IRS 的基本逻辑：
 
 若 prior-year AGI > $150,000（MFS $75,000），通常把 prior-year 100% 改为 **110%**。
 
-**Source**
+**来源**
 - IRS Publication 505 (2026)  
   https://www.irs.gov/publications/p505
 
@@ -47,7 +47,7 @@ IRS 的基本逻辑：
 不代表：
 > April 不会欠一大笔 tax。
 
-**Rule**
+**执行原则**
 tax reserve 与 penalty planning 分开。
 
 ---
@@ -61,7 +61,7 @@ Large bonus/equity compensation 下：
 
 可能与最终 liability 不一致。
 
-**Action**
+**行动**
 重大 comp 变化后做 projection。
 
 ---
@@ -81,7 +81,7 @@ Federal penalty calculation 对 withholding 有自己的 deemed-paid timing 规�
 
 ## 5. Extension to file 不等于 extension to pay
 
-**Priority:** P1
+**优先级:** P1
 
 任何 extension 都问：
 - filing extended?
@@ -105,7 +105,7 @@ Federal penalty calculation 对 withholding 有自己的 deemed-paid timing 规�
 
 定义和 threshold 不同。
 
-**Rule**
+**执行原则**
 搬州前后直接查 relevant state department of revenue/taxation，而不是 Reddit 总结。
 
 ---
@@ -139,7 +139,7 @@ Hybrid / remote work 在不同州可涉及：
 - employer withholding；
 - reciprocity。
 
-**Rule**
+**执行原则**
 “公司在 NY，所以工资全算 NY”或“人在 FL，所以肯定只交 FL”都不能当 universal rule。
 
 ---
@@ -217,7 +217,7 @@ Federal capital-gain category 不代表：
 
 W-2 state box / withholding 是重要 record，但错误可能发生。
 
-**Rule**
+**执行原则**
 发现：
 - wrong state；
 - wrong locality；
@@ -252,7 +252,7 @@ Resident credit、reciprocity、source allocation 等机制可能减少 duplicat
 
 但机制按州 pair 不同。
 
-**Rule**
+**执行原则**
 不要只看“两个州都报税”就认为一定付两次完整税。
 
 ---
@@ -283,7 +283,7 @@ U.S. person 可能面对：
 
 Threshold 和 applicability 很复杂。
 
-**Rule**
+**执行原则**
 有 China-side material assets/account 时，找真正做 international tax 的 professional。
 
 ---

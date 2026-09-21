@@ -1,4 +1,4 @@
-# 40 — 高价值物品、收藏与 Luxury Assets
+# 40 — 高价值物品、收藏与奢侈品资产（Luxury Assets）
 
 高收入家庭的一个典型 blind spot：
 
@@ -54,7 +54,7 @@
 ### Investment-like collectible
 长期保存、交易、provenance、market depth 都更重要。
 
-**Rule**
+**执行原则**
 不要因为 resale value 存在就强行给所有 luxury purchase 算 IRR。
 
 ---
@@ -109,7 +109,7 @@ Public repo 不保存真实 inventory。
 
 常见有 category limit / peril limitation。
 
-**Rule**
+**执行原则**
 问 agent：
 
 - scheduled?
@@ -139,7 +139,7 @@ Public repo 不保存真实 inventory。
 - liquidity；
 - emotional irreplaceability。
 
-**Rule**
+**执行原则**
 uninsured 应该是 decision，不是 oversight。
 
 ---
@@ -178,7 +178,7 @@ uninsured 应该是 decision，不是 oversight。
 
 可能差很大。
 
-**Rule**
+**执行原则**
 保险 limit 不要机械等于 purchase price。
 
 ---
@@ -246,7 +246,7 @@ uninsured 应该是 decision，不是 oversight。
 - dealer responsibility；
 - lost package process。
 
-**Rule**
+**执行原则**
 $50,000 item 用 $500 default carrier liability 是结构性错误。
 
 ---
@@ -293,11 +293,11 @@ Travel 时分层：
 
 ## 14. 出境前可考虑 CBP Form 4457 证明原本就拥有
 
-**Evidence:** A · **Priority:** P2 when relevant
+**证据等级:** A · **优先级:** P2 when relevant
 
 CBP 提供 Form 4457 / Registration for Dutiable Personal Articles Prior to U.S. Departure，用于在离境前登记某些贵重 personal articles，以便返美时帮助证明这些物品并非国外新购。
 
-**Source**
+**来源**
 - CBP — Registration for Dutiable Personal Articles Prior to U.S. Departure  
   https://www.help.cbp.gov/s/article/Article1833
 
@@ -317,11 +317,11 @@ CBP 提供 Form 4457 / Registration for Dutiable Personal Articles Prior to U.S.
 CBP 当前说明：
 即使 item 原本是你的，美国境外进行的 repair / alteration 也可能产生 customs duty，并应在返美时申报。
 
-**Source**
+**来源**
 - CBP Article 1833  
   https://www.help.cbp.gov/s/article/Article1833
 
-**Rule**
+**执行原则**
 不要认为：
 > “这东西本来就是我的，所以海外 service 完全不关海关。”
 
@@ -329,16 +329,16 @@ CBP 当前说明：
 
 ## 16. 海外新购物品：不确定就 declare
 
-**Evidence:** A
+**证据等级:** A
 
 CBP 当前明确：
 > anything you bring back that you did not have when you left the United States must be declared.
 
-**Source**
+**来源**
 - CBP — Customs Duty Information  
   https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information
 
-**Rule**
+**执行原则**
 declare ≠ 一定要交很多 duty。
 
 不申报却应该申报的 downside 通常更差。
@@ -368,11 +368,11 @@ CBP 当前说明：
 - state law 可能更严格；
 - unusually large quantity 可能被视为 commercial import。
 
-**Source**
+**来源**
 - CBP — Customs Duty Information  
   https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information
 
-**Rule**
+**执行原则**
 带 rare wine 回美前同时看：
 - CBP；
 - arrival state law；
@@ -444,7 +444,7 @@ Secondary market purchase：
 - stolen-goods risk；
 - provenance。
 
-**Rule**
+**执行原则**
 “价格低得离谱”不是 deal thesis。
 
 ---
@@ -453,7 +453,7 @@ Secondary market purchase：
 
 CBP 对 counterfeit / trademark-restricted goods 有特定 import restrictions，即使存在 narrow personal-use exemptions，也不是“假货随便带”。
 
-**Source**
+**来源**
 - CBP — Personal Use Exemption from Trademark Restrictions  
   https://www.help.cbp.gov/s/article/Article1858
 
@@ -471,7 +471,7 @@ CBP 对 counterfeit / trademark-restricted goods 有特定 import restrictions�
 - hotel；
 - live location。
 
-**Rule**
+**执行原则**
 公开分享可以 delay，不必实时。
 
 ---

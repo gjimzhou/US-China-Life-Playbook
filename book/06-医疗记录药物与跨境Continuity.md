@@ -1,4 +1,4 @@
-# 06 — 医疗记录、药物与跨境 Continuity of Care
+# 06 — 医疗记录、药物与跨境连续性照护（Continuity of Care）
 
 Dual-home household 最容易把 medical history 变成：
 
@@ -210,7 +210,7 @@ Cancer/biopsy-related：
 
 在 destination 可能受更严格限制。
 
-**Rule**
+**执行原则**
 查 destination government/embassy/health authority。
 
 ---
@@ -239,7 +239,7 @@ Cancer/biopsy-related：
 
 具体 state/provider paperwork 不同。
 
-**Rule**
+**执行原则**
 不要以为“我是配偶”一定能随时拿全部 records。
 
 ---

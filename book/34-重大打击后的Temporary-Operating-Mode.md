@@ -1,4 +1,4 @@
-# 34 — 重大打击后的 Temporary Operating Mode
+# 34 — 重大打击后的临时运行模式（Temporary Operating Mode）
 
 重大事件发生后，人的 decision quality、attention、sleep、memory 和 risk tolerance 都可能短期改变。
 
@@ -76,7 +76,7 @@
 
 这会直接恶化 decision quality。
 
-**Rule**
+**执行原则**
 把基础生理功能当任务，不当“情绪管理建议”。
 
 ---

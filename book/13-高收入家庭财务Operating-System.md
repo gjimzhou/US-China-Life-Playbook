@@ -1,4 +1,4 @@
-# 13 — 高收入家庭财务 Operating System
+# 13 — 高收入家庭财务运行系统
 
 高收入以后，个人财务的主要问题往往不再是：
 
@@ -47,7 +47,7 @@
 
 ## 2. 大额现金要理解 FDIC coverage
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 FDIC 当前 standard deposit insurance amount 是：
 
@@ -55,13 +55,13 @@ FDIC 当前 standard deposit insurance amount 是：
 
 不同 ownership category 在满足规则时可以分别计算。
 
-**Source**
+**来源**
 - FDIC — Deposit Insurance at a Glance  
   https://www.fdic.gov/resources/deposit-insurance/brochures/deposits-at-a-glance/
 - FDIC EDIE  
   https://edie.fdic.gov/
 
-**Rule**
+**执行原则**
 当 house down payment、bonus、sale proceeds、tax reserve 等让 bank cash 暂时显著上升时，不要默认：
 > “都在同一家大银行，所以肯定全 insured。”
 
@@ -89,14 +89,14 @@ FDIC 当前 standard deposit insurance amount 是：
 
 都不同。
 
-**Rule**
+**执行原则**
 知道你账户里的“cash”法律上到底是什么 asset。
 
 ---
 
 ## 4. Tax 是 pay-as-you-go system
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 IRS 说明，通常如果预计欠税至少 $1,000，且 withholding/credits 不足，就可能需要 estimated tax。
 
@@ -106,13 +106,13 @@ IRS 说明，通常如果预计欠税至少 $1,000，且 withholding/credits 不
 
 对 prior-year AGI > $150,000（MFS 为 $75,000）的多数非 farmer/fisher taxpayer，上年 threshold 通常改为 **110%**。
 
-**Source**
+**来源**
 - IRS Publication 505 (2026)  
   https://www.irs.gov/publications/p505
 - IRS Estimated Tax FAQ  
   https://www.irs.gov/faqs/estimated-tax
 
-**Rule**
+**执行原则**
 bonus、equity vest、capital gain、interest 等明显变化时，主动做 tax projection，不等第二年 4 月才算。
 
 ---
@@ -130,13 +130,13 @@ Federal income tax withholding 通常被视为在全年均匀支付，用于 und
 
 ## 6. Extension to file 不等于 extension to pay
 
-**Priority:** P1
+**优先级:** P1
 
 美国税务里经常有两个不同 deadline：
 - return filing；
 - tax payment。
 
-**Rule**
+**执行原则**
 任何 extension 都问：
 > “What exactly is extended — filing, payment, or both?”
 
@@ -156,14 +156,14 @@ Federal income tax withholding 通常被视为在全年均匀支付，用于 und
 6. 在 official portal 核验；
 7. 记录 response / certified-mail / upload confirmation。
 
-**Rule**
+**执行原则**
 不要因为 notice 看起来像“政府吓人信”就放一个月。
 
 ---
 
 ## 8. 建 IRS Online Account
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 可查看：
 - balances；
@@ -207,7 +207,7 @@ Joint titling 可能解决部分 access/survivorship 问题，但也可能改变
 - gift/tax characterization；
 - inheritance outcome。
 
-**Rule**
+**执行原则**
 账户 title、beneficiary、POA 要作为 estate plan 一起 review。
 
 ---
@@ -346,7 +346,7 @@ Cash 的价值包含：
 - FX / capital-control rules；
 - gifting documentation。
 
-**Rule**
+**执行原则**
 先问 receiving/sending institutions 和 cross-border tax advisor，不要在 deadline 当天才发现 wire 卡住。
 
 ---

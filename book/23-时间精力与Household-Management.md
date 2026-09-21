@@ -1,4 +1,4 @@
-# 23 — 时间、精力与 Household Management
+# 23 — 时间、精力与家庭运营（Household Management）
 
 高收入 household 很容易出现一个奇怪状态：
 

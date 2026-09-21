@@ -1,4 +1,4 @@
-# 30 — Household Emergency Runbook
+# 30 — 家庭紧急操作手册（Household Emergency Runbook）
 
 真正的 emergency plan 不是一张“联系人名单”。
 
@@ -77,7 +77,7 @@
 - [ ] written incident timeline
 - [ ] temporary housing if needed
 
-## Do not
+## 不要做
 
 - wait for fault determination before stopping damage
 - throw everything away before insurer/documentation where avoidable
@@ -127,7 +127,7 @@
 - [ ] rental
 - [ ] save all records
 
-## Do not
+## 不要做
 
 - argue fault
 - promise private cash settlement
@@ -209,7 +209,7 @@ Phone lost should **not** mean:
 - [ ] insurance
 - [ ] toxin/package if relevant
 
-## Do not
+## 不要做
 
 - induce vomiting unless veterinary professional instructs
 - give human medication without vet direction
@@ -282,7 +282,7 @@ Phone lost should **not** mean:
 - [ ] appropriate lawyer
 - [ ] preserve documents
 
-## Do not
+## 不要做
 
 - contact opposing party emotionally
 - delete messages/files
@@ -308,7 +308,7 @@ Examples:
 - court → lawyer
 - DMV → state process
 
-Do not use phone number from suspicious message until independently verified.
+不要做 use phone number from suspicious message until independently verified.
 
 ---
 

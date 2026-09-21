@@ -1,4 +1,4 @@
-# 19 — 文件、公证、Apostille 与跨境授权
+# 19 — 文件、公证、附加证明书（Apostille）与跨境授权
 
 跨境文件最常见的误区是把所有问题都叫：
 
@@ -17,17 +17,17 @@
 
 ## 1. Apostille 解决的是 authentication
 
-**Evidence:** A · **Priority:** P2 / trigger-based
+**证据等级:** A · **优先级:** P2 / trigger-based
 
 中国自 **2023-11-07** 起实施 Hague Apostille Convention。
 
 在公约适用范围内，中国与其他缔约国之间公文书使用 Apostille 取代很多旧的领事双认证流程。
 
-**Source**
+**来源**
 - 中国外交部相关说明  
   https://www.mfa.gov.cn/wjbxw_new/202310/t20231023_11165858.shtml
 
-**Rule**
+**执行原则**
 不要机械照搬十年前：
 > notary → state → embassy → consulate
 
@@ -94,7 +94,7 @@
 
 普通手机照片/photocopy 往往不能直接用于 Apostille。
 
-**Rule**
+**执行原则**
 先从 proper vital-records authority 获取 acceptable certified copy，再走 authentication。
 
 ---
@@ -150,7 +150,7 @@ Apostille 不能替代 translation。
 
 反之亦然。
 
-**Action**
+**行动**
 先向 specific institution 问：
 - wording；
 - scope；
@@ -243,7 +243,7 @@ Education/employment 可能要求：
 - spacing；
 - transliteration。
 
-**Rule**
+**执行原则**
 重大 application 前建立 name-consistency table。
 
 ---

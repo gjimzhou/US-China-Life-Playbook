@@ -1,4 +1,4 @@
-# 35 — 死亡后的实际操作与 Estate Administration
+# 35 — 死亡后的实际操作与遗产管理（Estate Administration）
 
 Estate planning 解决的是：
 
@@ -99,7 +99,7 @@ Estate administration 解决的是：
 
 具体需要多少取决于 estate structure。
 
-**Rule**
+**执行原则**
 先问 institution 是否需要：
 - original certified copy；
 - upload；
@@ -113,13 +113,13 @@ Estate administration 解决的是：
 
 ## 5. Funeral home 通常会报告 death 给 SSA
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 SSA 当前说明：funeral home 通常会把死亡报告给 Social Security，因此 family 往往不需要另行报告。
 
 如果 funeral home 未参与或未报告，应联系 SSA。
 
-**Source**
+**来源**
 - SSA — What to do when someone dies  
   https://www.ssa.gov/personal-record/when-someone-dies
 
@@ -136,11 +136,11 @@ SSA survivor benefits 可能适用于：
 
 Eligibility 与 age、work record、family situation 等有关。
 
-**Source**
+**来源**
 - SSA — Survivor benefits  
   https://www.ssa.gov/survivor
 
-**Rule**
+**执行原则**
 不要因为 death 已经被 SSA 知道，就假设 survivor benefit application 自动完成。
 
 ---
@@ -158,7 +158,7 @@ SSA 当前 guidance 提醒，一些 survivor claims 的 benefit timing 与申请
 - recent W-2/self-employment records；
 - bank information。
 
-Source:
+来源:
 https://www.ssa.gov/pubs/EN-05-10084.pdf
 
 ---
@@ -181,7 +181,7 @@ https://www.ssa.gov/pubs/EN-05-10084.pdf
 - survivor health coverage；
 - company property。
 
-**Rule**
+**执行原则**
 不要只联系 deceased 的 manager。
 
 真正流程通常在 HR/benefits/payroll。
@@ -246,7 +246,7 @@ Private life policy：
 
 Will 通常主要控制 probate estate。
 
-**Rule**
+**执行原则**
 先 classify，再操作。
 
 ---
@@ -310,14 +310,14 @@ Attorney/executor 应决定何时关闭、是否建立 estate account。
 
 ## 16. Deceased 仍需要 final individual income tax return
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 IRS 当前说明：
 - surviving spouse / executor / administrator / legal representative 通常负责 final individual return；
 - generally 和生前一样报告到 death date 为止的 income；
 - prior-year unfiled returns 也可能需要处理。
 
-**Sources**
+**来源**
 - IRS — Deceased person  
   https://www.irs.gov/individuals/deceased-person
 - IRS — File the final income tax returns of a deceased person  
@@ -339,7 +339,7 @@ estate 可能需要独立 tax ID 和 Form 1041。
 IRS 当前 guidance：
 > estate annual gross income 超过 $600 时，通常需要 Form 1041。
 
-**Source**
+**来源**
 - IRS — File an estate income tax return  
   https://www.irs.gov/individuals/file-an-estate-tax-income-tax-return
 

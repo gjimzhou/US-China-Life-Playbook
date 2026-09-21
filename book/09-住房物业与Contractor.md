@@ -1,4 +1,4 @@
-# 09 — 住房、物业与 Contractor
+# 09 — 住房、物业与承包商（Contractor）
 
 美国住房生活中一个非常典型的第一代移民 gap：
 
@@ -35,7 +35,7 @@
 
 仍各有角色。
 
-**Rule**
+**执行原则**
 入住后第一周就回答：
 > 哪些东西坏了是我负责，哪些是 building/association 负责？
 
@@ -43,7 +43,7 @@
 
 ## 2. Water leak 的第一目标是 stop loss
 
-**Priority:** P0
+**优先级:** P0
 
 优先顺序：
 1. electrical / personal safety；
@@ -62,7 +62,7 @@
 
 ## 3. 知道 water shutoff / electrical panel 在哪
 
-**Priority:** P1
+**优先级:** P1
 
 至少知道：
 - unit/main water shutoff；
@@ -100,7 +100,7 @@
 
 ## 5. Contractor 不要只看 Yelp stars
 
-**Evidence:** A/C · **Priority:** P1
+**证据等级:** A/C · **优先级:** P1
 
 FTC 建议：
 - 考虑 licensed and insured contractor；
@@ -110,7 +110,7 @@ FTC 建议：
 - 不因低价自动选 lowest bidder；
 - 避免 full payment upfront。
 
-**Source**
+**来源**
 - FTC — How To Avoid a Home Improvement Scam  
   https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam
 
@@ -126,7 +126,7 @@ FTC 建议 estimate/contract 应明确：
 - contractor identity/license；
 - oral promises。
 
-**Rule**
+**执行原则**
 “Fix bathroom — $25k” 不是 adequate scope。
 
 应该能回答：
@@ -143,11 +143,11 @@ FTC 建议 estimate/contract 应明确：
 
 ## 7. 不要 full payment upfront
 
-**Evidence:** A/C
+**证据等级:** A/C
 
 FTC 明确把要求全额 upfront 作为 scam/red-flag 之一；某些州还限制 down payment。
 
-**Rule**
+**执行原则**
 合理 payment schedule 与：
 - mobilization；
 - material；
@@ -170,7 +170,7 @@ FTC 明确把要求全额 upfront 作为 scam/red-flag 之一；某些州还限�
 - gas；
 - major renovation。
 
-**Rule**
+**执行原则**
 是否需 permit 是 legal/local question，不是 contractor convenience question。
 
 不确定就问 municipality/building department。
@@ -185,7 +185,7 @@ Contractor 发一张 certificate 不等于：
 - coverage adequate；
 - entity 匹配。
 
-**Action**
+**行动**
 适用时：
 - state license lookup；
 - COI；
@@ -236,7 +236,7 @@ FTC 对 weather-emergency scam 也反复提醒：
 
 不是同一个 urgency。
 
-**Rule**
+**执行原则**
 annual maintenance 的价值之一是降低最坏时间点 failure。
 
 ---
@@ -296,7 +296,7 @@ Owner-controlled association 可能管理：
 
 但不一定负责 unit interior。
 
-**Rule**
+**执行原则**
 有争议先看 governing docs + master policy，而不是用 rental intuition。
 
 ---

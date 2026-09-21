@@ -1,4 +1,4 @@
-# 17 — 宠物 Operating System
+# 17 — 宠物照护运行系统
 
 宠物不是一个“有空再处理”的生活附件。
 
@@ -12,7 +12,7 @@
 
 ## 1. Regular vet 与 emergency vet 要同时有
 
-**Priority:** P1
+**优先级:** P1
 
 至少知道：
 - regular veterinarian；
@@ -60,7 +60,7 @@
 
 ## 4. Pet sitter 要 primary + backup
 
-**Priority:** P0/P1 for frequent travelers
+**优先级:** P0/P1 for frequent travelers
 
 单一 sitter 是典型 single point of failure。
 
@@ -102,7 +102,7 @@ Public repo 不填真实信息。
 
 不同 clinic policy 不同。
 
-**Rule**
+**执行原则**
 提前向 regular/emergency vet 问清。
 
 ---
@@ -210,7 +210,7 @@ Cats 特别要确保：
 
 ## 14. 国际带宠物旅行要提前很多
 
-**Evidence:** A · **Priority:** P1/P2
+**证据等级:** A · **优先级:** P1/P2
 
 USDA APHIS 明确提醒：destination country 决定 pet entry requirements，准备过程可能需要 **几周到数月**，可能涉及：
 - microchip；
@@ -221,7 +221,7 @@ USDA APHIS 明确提醒：destination country 决定 pet entry requirements，�
 - health certificate；
 - USDA endorsement。
 
-**Source**
+**来源**
 - USDA APHIS — Pet Travel Process Overview  
   https://www.aphis.usda.gov/pet-travel/pet-travel-process-overview
 
@@ -235,7 +235,7 @@ USDA APHIS 说明：
 - 大多数目的地使用特定 health certificate；
 - 有时需要 USDA-accredited veterinarian + APHIS endorsement。
 
-**Source**
+**来源**
 - USDA APHIS — Pet Travel FAQ  
   https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/frequently-asked-questions-about-traveling-your-pet
 
@@ -250,7 +250,7 @@ USDA APHIS 说明：
 - temperature embargo；
 - health certificate timing。
 
-**Rule**
+**执行原则**
 同时 check：
 1. destination government；
 2. USDA/APHis；

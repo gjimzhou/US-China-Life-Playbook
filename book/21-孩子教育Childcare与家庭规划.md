@@ -1,4 +1,4 @@
-# 21 — 孩子、Childcare 与家庭规划
+# 21 — 孩子、托育（Childcare）与家庭规划
 
 有孩子后，家庭 operating system 的复杂度会出现 regime change。
 
@@ -21,7 +21,7 @@
 
 高需求地区常见 waitlist。
 
-**Action**
+**行动**
 提前了解：
 - center-based care；
 - family child care；
@@ -37,26 +37,26 @@
 
 ## 2. Licensing 是最低 safety floor，不是 quality guarantee
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 ChildCare.gov 说明：child-care licensing 由州/territory 设定最低 health/safety requirements；licensed program 会被 monitoring，但 **licensed 并不自动保证高质量**。
 
-**Source**
+**来源**
 - ChildCare.gov — Child Care Licensing  
   https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing
 
-**Rule**
+**执行原则**
 先看 licensing，再看 quality。
 
 ---
 
 ## 3. Licensed child care 的 staff background checks 是重要 baseline
 
-**Evidence:** A
+**证据等级:** A
 
 ChildCare.gov 说明 federal law 要求 states/territories 确保 licensed child-care program 的相关 staff 完成 state/federal criminal background checks，包括 FBI fingerprint/National Sex Offender Registry 和相关 state registries。
 
-**Source**
+**来源**
 - https://childcare.gov/consumer-education/regulated-child-care/staff-background-checks
 
 ---
@@ -69,7 +69,7 @@ ChildCare.gov 建议通过 state/territory childcare search 查：
 - violations；
 - corrective action。
 
-**Rule**
+**执行原则**
 tour 漂亮不能替代 regulatory history。
 
 ---
@@ -134,7 +134,7 @@ tour 漂亮不能替代 regulatory history。
 
 Federal FMLA 对 eligible employee / covered employer 提供 qualifying family/medical reasons 的 unpaid, job-protected leave，通常可达 12 workweeks，并要求 group health benefits 在 leave 中按相同条件继续。
 
-**Source**
+**来源**
 - U.S. Department of Labor — FMLA  
   https://www.dol.gov/agencies/whd/fmla
 
@@ -161,7 +161,7 @@ Federal FMLA 对 eligible employee / covered employer 提供 qualifying family/m
 
 Health-plan enrollment 有 deadline。
 
-**Rule**
+**执行原则**
 出生后不要把 insurance enrollment 当“医院会自动弄”。
 
 具体 deadline 看 employer/plan/Marketplace rules。
@@ -184,7 +184,7 @@ Health-plan enrollment 有 deadline。
 
 ## 12. Car seat 是 birth-before-arrival infrastructure
 
-**Evidence:** A · **Priority:** P0
+**证据等级:** A · **优先级:** P0
 
 CDC 2026 guidance:
 - rear-facing until child reaches seat height/weight limit（often age 2–4）；
@@ -192,7 +192,7 @@ CDC 2026 guidance:
 - booster until seat belt fits properly（often 9–12）；
 - back seat until age 13。
 
-**Source**
+**来源**
 - CDC — Preventing Child Passenger Injury  
   https://www.cdc.gov/child-passenger-safety/prevention/index.html
 
@@ -204,7 +204,7 @@ CDC 2026 guidance:
 
 CDC 提醒 certified child passenger safety technicians 可以提供 hands-on car-seat assistance，很多 inspection service 是免费的。
 
-**Rule**
+**执行原则**
 第一台 car seat 不确定 installation，找 CPST 比看十个 TikTok 更可靠。
 
 ---

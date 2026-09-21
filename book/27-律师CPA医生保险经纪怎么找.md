@@ -1,4 +1,4 @@
-# 27 — 律师、CPA、医生、保险经纪怎么找
+# 27 — 律师、注册会计师（CPA）、医生、保险经纪怎么找
 
 高收入家庭最常见的 professional-selection 错误之一：
 
@@ -57,7 +57,7 @@ Referral 很有价值，但 referral 的作用是生成候选，不是替你验�
 
 FTC 的 consumer guidance 也建议明确询问 experience、who does work、fees、timeline，并取得 written agreement。
 
-**Source**
+**来源**
 - FTC — Hiring a Lawyer  
   https://consumer.ftc.gov/articles/hiring-lawyer
 
@@ -309,7 +309,7 @@ FTC 建议：
 - written contract；
 - 避免全额 upfront。
 
-Source:
+来源:
 https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam
 
 ---

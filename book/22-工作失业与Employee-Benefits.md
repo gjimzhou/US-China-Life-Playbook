@@ -1,4 +1,4 @@
-# 22 — 工作、失业与 Employee Benefits
+# 22 — 工作、失业与员工福利（Employee Benefits）
 
 高收入 professional household 的一个典型风险：
 
@@ -19,7 +19,7 @@
 
 ## 1. FMLA 是 job-protected leave，不是“公司福利”
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 美国联邦 Family and Medical Leave Act 对符合条件的员工提供 qualifying family/medical reasons 的 job-protected leave，并要求 group health benefits 在 leave 期间按相同条件继续。
 
@@ -31,13 +31,13 @@ DOL 当前说明，通常 eligible employee 需要：
 
 多数 qualifying reasons 下最多 12 workweeks；military caregiver 情形可更长。
 
-**Sources**
+**来源**
 - U.S. Department of Labor — FMLA  
   https://www.dol.gov/agencies/whd/fmla
 - Fact Sheet #28  
   https://www.dol.gov/agencies/whd/fact-sheets/28-fmla
 
-**Rule**
+**执行原则**
 不要等住院第二周才第一次问 HR：
 > “我有没有 FMLA？”
 
@@ -55,7 +55,7 @@ Federal FMLA 本身通常不是“12 周带薪假”。
 - short-term disability；
 - other employer benefits。
 
-**Rule**
+**执行原则**
 把：
 - job protection；
 - health coverage；
@@ -73,7 +73,7 @@ California、New York、New Jersey 等州可能有：
 - broader definitions；
 - different employer size / eligibility。
 
-**Rule**
+**执行原则**
 重大 medical/family event 要同时查：
 1. federal；
 2. state；
@@ -114,19 +114,19 @@ FMLA 主要处理 job-protected leave。
 
 ## 6. Job loss 后 health insurance 要立刻处理
 
-**Evidence:** A · **Priority:** P0 when job ends
+**证据等级:** A · **优先级:** P0 when job ends
 
 Federal COBRA 在适用 plan/qualifying event 下允许 qualified beneficiary 暂时继续 group health coverage。
 
 DOL 当前说明：termination（非 gross misconduct）或 reduction in hours 导致失去 coverage 时，employee/spouse/dependent child 的 maximum continuation period 通常为 **18 months**；其他 qualifying events 可能到 36 months。
 
-**Sources**
+**来源**
 - DOL COBRA FAQ  
   https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers
 - Employer guide  
   https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employers-guide-to-group-health-continuation-coverage-under-cobra
 
-**Rule**
+**执行原则**
 COBRA 是 bridge option，不代表一定最便宜。
 
 同时比较：
@@ -171,7 +171,7 @@ COBRA 后，qualified beneficiary 通常需要承担接近 full group premium，
 
 ## 9. HSA 与 FSA 规则不要混
 
-**Evidence:** A
+**证据等级:** A
 
 IRS 2026 guidance：
 - HSA eligibility 一般要求 qualified HDHP 且没有 disqualifying other coverage；
@@ -184,11 +184,11 @@ IRS 2026 guidance：
 
 2026 health FSA salary-reduction limit 为 $3,400。
 
-**Source**
+**来源**
 - IRS Publication 15-B (2026)  
   https://www.irs.gov/publications/p15b
 
-**Rule**
+**执行原则**
 夫妻双方 employer plans 组合时，不要只比较 premium；要看 HSA eligibility interaction。
 
 ---
@@ -203,7 +203,7 @@ IRS 2026 guidance：
 
 由 plan design 决定。
 
-**Action**
+**行动**
 离职/年底前看 Summary Plan Description，不要留下无法报销的 balance。
 
 ---
@@ -224,7 +224,7 @@ IRS 2026 guidance：
 - loan；
 - plan features。
 
-**Rule**
+**执行原则**
 不要让 call-center sales pitch 替你决定 rollover。
 
 ---
@@ -310,7 +310,7 @@ Job loss/change：
 
 离职、创业、加入 competitor 时可能需要。
 
-**Rule**
+**执行原则**
 不要等收到 legal letter 才去找自己当年签了什么。
 
 ---
@@ -359,7 +359,7 @@ HR 可以解释：
 
 Eligibility、benefit、deadline 由州管理。
 
-**Rule**
+**执行原则**
 被裁后尽快查 relevant state workforce agency，不要因为 severance 存在就自动认为不能申请。
 
 ---
@@ -439,7 +439,7 @@ Eligibility、benefit、deadline 由州管理。
 - personal professional profile；
 - personal contacts。
 
-**Rule**
+**执行原则**
 不要让离职当天 company account disabled = 你同时失去：
 - tax/benefit notices；
 - recruiter contacts；
@@ -491,7 +491,7 @@ Runway 应考虑：
 - job change 可能需要 filing；
 - travel 可能影响 status/documentation。
 
-**Rule**
+**执行原则**
 这类 deadline 与 severance/benefits 同时处理，必要时第一时间找 immigration counsel。
 
 不要把 employer HR 当 independent immigration adviser。

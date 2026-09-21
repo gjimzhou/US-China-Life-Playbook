@@ -1,4 +1,4 @@
-# 28 — 婚姻、Prenup 与夫妻财务
+# 28 — 婚姻、婚前协议（Prenup）与夫妻财务
 
 婚姻不是只增加一个 legal status。
 
@@ -25,7 +25,7 @@
 
 ## 1. 婚姻是一次 household systems merge
 
-**Priority:** P1 / trigger-based
+**优先级:** P1 / trigger-based
 
 结婚后需要 review 的至少包括：
 
@@ -62,7 +62,7 @@
 ### Contract-defined
 通过 prenup/postnup 进一步规定 property/income/debt treatment。
 
-**Rule**
+**执行原则**
 真正重要的不是形式，而是：
 - transparency；
 - predictability；
@@ -85,7 +85,7 @@
 - expected inheritance/gifts if relevant；
 - cross-border assets。
 
-**Rule**
+**执行原则**
 hidden debt / hidden tax issue 比“账户是不是 joint”危险得多。
 
 ---
@@ -122,7 +122,7 @@ Prenup 的功能可以包括：
 - confusing draft history；
 - signing formalities error。
 
-**Rule**
+**执行原则**
 如果要做 prenup，尽早开始。
 
 不要把婚礼前最后一周当 closing deadline。
@@ -196,7 +196,7 @@ Prenup 的功能可以包括：
 - prenup treatment；
 - estate transfer。
 
-**Rule**
+**执行原则**
 不要让 realtor / mortgage convenience 无意决定夫妻 property structure。
 
 ---
@@ -317,7 +317,7 @@ Prenup 的功能可以包括：
 
 在不同州/事实下可能有不同 property treatment。
 
-**Rule**
+**执行原则**
 重大金额进入 household 前找 family/estate/tax counsel，不要依赖“大家都知道这是给我的”。
 
 ---
@@ -336,7 +336,7 @@ Marriage 可能改变：
 
 具体结果可能更高也可能更低。
 
-**Rule**
+**执行原则**
 不要只接受 “marriage penalty” 或 “marriage bonus” 的口号。
 
 ---
@@ -390,7 +390,7 @@ Prenup / marital plan 也可能影响：
 
 都可能需要 review。
 
-**Rule**
+**执行原则**
 不要认为签过一次就 40 年不看。
 
 ---

@@ -1,4 +1,4 @@
-# 10 — Estate Planning 与失能：重点不只是死后分钱
+# 10 — 遗产与失能规划（Estate Planning）：重点不只是死后分钱
 
 很多年轻高收入家庭听到 estate planning，会自动理解成：
 
@@ -14,7 +14,7 @@
 
 ## 1. Estate planning 先解决 incapacity，再解决 inheritance
 
-**Priority:** P1
+**优先级:** P1
 
 核心文件通常包括不同功能：
 
@@ -31,15 +31,15 @@
 
 ## 2. Health-care proxy 要在健康时指定
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 NIH National Institute on Aging 说明：health-care proxy 是当你无法自己表达医疗决定时，代你做 health-care decisions 的人；具体 legal form 和资格要求因州而异。
 
-**Source**
+**来源**
 - NIA — Choosing a Health Care Proxy  
   https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy
 
-**Action**
+**行动**
 选择一个：
 - 你信任；
 - 能理解你的 values；
@@ -53,16 +53,16 @@ NIH National Institute on Aging 说明：health-care proxy 是当你无法自己
 
 ## 3. Living will 与 health-care proxy 是互补关系
 
-**Evidence:** A
+**证据等级:** A
 
 NIA 对 advance directive 的解释：
 - **living will**：表达你对特定 medical treatment / end-of-life care 的 preferences；
 - **durable power of attorney for health care**：指定代理人在你不能决策时替你做决定。
 
-Source:
+来源:
 https://www.nia.nih.gov/health/advance-care-planning-advance-directives-health-care
 
-**Rule**
+**执行原则**
 现实 medical situation 无法全部预先写死，所以：
 > written preferences + trusted human proxy
 
@@ -81,7 +81,7 @@ State law 会决定：
 
 NIA 也明确提醒：没有 advance directive 时，州法决定谁可以代表你；unmarried partner 如果未被指定，可能被排除在 decision-making 外。
 
-**Rule**
+**执行原则**
 完成本州合法文件，不靠常识推断。
 
 ---
@@ -98,7 +98,7 @@ Financial power of attorney 可能用于：
 
 它不自动等于 medical decision authority。
 
-**Action**
+**行动**
 与 estate attorney 明确：
 - immediate vs springing；
 - durable；
@@ -124,14 +124,14 @@ Will 通常处理 probate estate 中的分配、executor 等，但并不是所�
 - POD/TOD accounts；
 - trust assets。
 
-**Rule**
+**执行原则**
 estate plan = documents + account titling + beneficiary designations。
 
 ---
 
 ## 7. Beneficiary designation 要单独年度 review
 
-**Priority:** P1
+**优先级:** P1
 
 重大 life event 后检查：
 - marriage；
@@ -191,7 +191,7 @@ estate plan = documents + account titling + beneficiary designations。
 - trust 建了但没有 funding；
 - 搬州后不 review。
 
-**Action**
+**行动**
 签完后完成 implementation checklist。
 
 ---
@@ -256,7 +256,7 @@ NIA 建议 advance directives 应被当作 living documents，并在重大 life/
 - real-estate authority；
 - parent-care authorization。
 
-**Rule**
+**执行原则**
 跨境 estate/POA 不是“翻译一份美国文件”这么简单。
 
 ---
@@ -290,7 +290,7 @@ NIA 建议 advance directives 应被当作 living documents，并在重大 life/
 - crypto（如有）；
 - paid subscriptions。
 
-**Rule**
+**执行原则**
 不要把所有 digital access 建成：
 > 本人死亡 = 永久 cryptographic lockout。
 

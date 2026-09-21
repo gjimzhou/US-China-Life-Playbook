@@ -1,4 +1,4 @@
-# 36 — 买房、Mortgage、Closing 与 HOA
+# 36 — 买房、房贷（Mortgage）、交割（Closing）与业主协会（HOA）
 
 高收入家庭买房最容易掉进一个错觉：
 
@@ -53,7 +53,7 @@ Preapproval 只是 lender 基于当前资料的初步判断。
 - source of funds；
 - credit changes。
 
-**Rule**
+**执行原则**
 contract 后不要随便：
 - 开新 credit；
 - 换工作；
@@ -67,17 +67,17 @@ contract 后不要随便：
 
 ## 3. Loan Estimate 是 mortgage shopping 的核心文件
 
-**Evidence:** A · **Priority:** P1
+**证据等级:** A · **优先级:** P1
 
 CFPB 当前说明：
 - 对适用 mortgage application，lender 在收到完整 application 后通常必须在 **3 business days** 内给 Loan Estimate；
 - 它列出 estimated rate、monthly payment、closing costs、tax/insurance estimates 等。
 
-**Source**
+**来源**
 - CFPB — What is a Loan Estimate?  
   https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/
 
-**Rule**
+**执行原则**
 比较 lenders 时，不只比较 headline rate。
 
 同时比较：
@@ -94,19 +94,19 @@ CFPB 当前说明：
 
 ## 4. Closing Disclosure 要和 Loan Estimate 对比
 
-**Evidence:** A · **Priority:** P0/P1
+**证据等级:** A · **优先级:** P0/P1
 
 CFPB 当前说明：
 - Closing Disclosure 是 final loan terms/costs 的五页表；
 - 对多数适用 mortgage，必须至少在 closing 前 **3 business days** 提供。
 
-**Sources**
+**来源**
 - CFPB — Closing Disclosure  
   https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/
 - CFPB — Review documents before closing  
   https://www.consumerfinance.gov/owning-a-home/close/review-documents-before-closing/
 
-**Action**
+**行动**
 逐项对比：
 - loan amount；
 - interest rate；
@@ -132,7 +132,7 @@ CFPB 建议提前 review：
 - Mortgage/Security Instrument；
 - Deed。
 
-**Rule**
+**执行原则**
 closing day 的目标应该是：
 > 确认并签署已理解的内容。
 
@@ -143,12 +143,12 @@ closing day 的目标应该是：
 
 ## 6. Mortgage closing wire fraud 是 P0 风险
 
-**Evidence:** A · **Priority:** P0
+**证据等级:** A · **优先级:** P0
 
 CFPB 明确警告：
 scammer 会冒充 realtor / title company / settlement agent，发送 last-minute wiring instruction change，试图把 down payment / closing funds 导向 fraudulent account。
 
-**Source**
+**来源**
 - CFPB — Beware of mortgage closing scams  
   https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/
 
@@ -170,7 +170,7 @@ CFPB 建议：
 - 立即联系 bank/wire-transfer company 尝试 recall；
 - 尽快向 FBI IC3 等渠道报告。
 
-**Rule**
+**执行原则**
 发现错误时不要先在群里讨论半小时。
 
 ---
@@ -264,7 +264,7 @@ General inspector 不一定覆盖所有 specialty risk。
 - future special assessment；
 - owner self-manages more items。
 
-**Rule**
+**执行原则**
 不要把 HOA fee 当纯“浪费”。
 
 它是一种 service + reserve funding structure。
@@ -286,7 +286,7 @@ General inspector 不一定覆盖所有 specialty risk。
 
 未来有没有大项目。
 
-**Rule**
+**执行原则**
 $1M assessment 对 100-unit building 与 10-unit building 完全不同。
 
 ---
@@ -309,7 +309,7 @@ Condo owner 需要知道：
 
 ## 15. Flood risk 与普通 homeowners coverage 分开
 
-**Priority:** P1
+**优先级:** P1
 
 查：
 - FEMA/local map；
@@ -319,7 +319,7 @@ Condo owner 需要知道：
 - drainage；
 - separate flood insurance。
 
-**Rule**
+**执行原则**
 “不是 flood zone”不等于 flood probability 为 0。
 
 ---
@@ -359,7 +359,7 @@ Mortgage underwriting 常会关注：
 - transfer；
 - sale proceeds。
 
-**Rule**
+**执行原则**
 大额资金不要在 closing 前无记录地在多个账户跳来跳去。
 
 ---
@@ -460,7 +460,7 @@ CFPB 当前建议保存：
 - Mortgage/Security Instrument；
 - Deed。
 
-**Source**
+**来源**
 - CFPB — After closing  
   https://www.consumerfinance.gov/owning-a-home/close/after-closing/
 
@@ -481,7 +481,7 @@ CFPB 当前建议保存：
 CFPB 提醒：
 mortgage/deed 的部分信息成为 public record 后，可能出现大量看起来像 lender 官方信件的 marketing/scam mail。
 
-**Rule**
+**执行原则**
 有 lender logo 不等于来自 lender。
 
 从 known website/phone 验证。
@@ -551,7 +551,7 @@ House purchase 是 household legal/insurance event，不只是 real-estate event
 - leverage；
 - asset exposure。
 
-**Rule**
+**执行原则**
 不要只用 IRR 判断 home，也不要完全忽略 opportunity cost。
 
 ---
