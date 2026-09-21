@@ -10,7 +10,7 @@
 
 若 2025 年调整后总收入（AGI）超过 15 万美元，或 2026 年夫妻分别申报者超过 7.5 万美元，上年比例通常改为 110%。农业、渔业等有特别规则。这些不是最终税额计算公式，也不能忽略各期付款期限。
 
-来源：[IRS 第 505 号刊物（2026）](https://www.irs.gov/publications/p505)。适用于其他年度时重新查看该年资料。
+**继续看：** [IRS 官方解释：Estimated taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [IRS 原文：2026 Publication 505 — Tax Withholding and Estimated Tax](https://www.irs.gov/publications/p505) · [IRS 表格：Form 1040-ES — 计算并缴纳个人预估税](https://www.irs.gov/forms-pubs/about-form-1040-es)。适用于其他年度时重新查看该年资料。
 
 ## 2. 罚金安全港不等于不用补税
 
@@ -18,7 +18,7 @@
 
 如果收入集中在后半年，收入年化分期法可能有帮助，但需要相应计算和表格。不能只把全年已缴金额相加，就认定所有期间都没有罚金。
 
-来源：[IRS 预缴不足罚金说明](https://www.irs.gov/taxtopics/tc306)。
+**继续看：** [IRS 官方：Tax Topic 306 — 预缴不足罚金](https://www.irs.gov/taxtopics/tc306) · [IRS 原文：Form 2210 Instructions — 如何计算预缴不足](https://www.irs.gov/instructions/i2210)。
 
 ## 3. 奖金预扣率不等于最终税率
 
@@ -26,11 +26,13 @@
 
 请报税专业人士给出预估差额、调整方法和付款日期；不应只凭某张工资单“扣得很多”判断已经足够。
 
+**计算工具：** [IRS Tax Withholding Estimator — 用工资单估算当前联邦预扣是否合适](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：Form W-4 官方入口](https://www.irs.gov/forms-pubs/about-form-w-4)。
+
 ## 4. 工资预扣与预估税的付款时间不同
 
 在联邦预缴不足计算中，预扣税通常可按规则分配到各期；直接预估税缴款则须考虑付款时间。使用实际预扣日期等选择也有相应条件。
 
-来源：[IRS 第 2210 表说明](https://www.irs.gov/instructions/i2210)。本次可访问的是 2025 年说明；计算 2026 年申报时还需核对该年最终表格及说明，不把上一年表格视为新年度定稿。
+**官方原文：** [IRS：Form 2210 Instructions — Underpayment of Estimated Tax](https://www.irs.gov/instructions/i2210)。计算具体年度时，应以该年度最终表格及说明为准。
 
 年末调整前先核对工资处理截止和实际可预扣金额，不能假设次年一次补款消除此前所有罚金。
 
@@ -38,7 +40,7 @@
 
 通常联邦申报延期只延长提交税表的时间，仍要在原付款期限前估算并缴付税款。州规则、境外纳税人和灾害救济等特殊情况另行核对。
 
-来源：[IRS 申报延期说明](https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return)。询问专业人士时明确问申报、付款、利息和罚金分别怎样处理。
+**继续看：** [IRS 官方：申请报税延期](https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return) · [IRS 办事入口：付款与付款计划](https://www.irs.gov/payments)。询问专业人士时明确问申报、付款、利息和罚金分别怎样处理。
 
 ## 6. 州居民身份按具体州判断
 
@@ -46,19 +48,23 @@
 
 搬家前列出原居住州、新居住州和工作涉及的州，分别查该州税务部门规则。常见错误是只看新州是否征税，却忘了旧州是否仍将本人认定为居民。
 
+**查州规则：** [IRS 汇总：各州政府与税务部门入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。
+
 ## 7. 住所不是改一个地址就完成
 
 住所通常涉及长期作为家的地点及相关事实，而不仅是驾照、邮寄地址或某次租约。实际居住、家庭、工作及财产安排必须一致地向专业人士说明。
 
 例如纽约州规则分别列出住所居民与满足永久居所及停留条件的法定居民，并有特定例外。其常见法定居民测试涉及全年大部分时间维持永久居所并在州内达到 184 天，部分一天的计算也需核对；这不是全国规则，也不是唯一纽约居民测试。
 
-来源：[纽约州所得税定义](https://www.tax.ny.gov/pit/file/pit_definitions.htm)。不要把停留控制在某个数字以内当成必然免除州税。
+**纽约州继续看：** [官方：居民、住所与 184 天规则定义](https://www.tax.ny.gov/pit/file/pit_definitions.htm) · [官方专题：什么是 Permanent Place of Abode](https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/pit/permanent_place_of_abode.htm)。不要把停留控制在某个数字以内当成必然免除州税。
 
 ## 8. 工作地点与工资来源另行分析
 
 即使不是某州居民，也可能有该州来源收入。远程办公还可能涉及雇主便利规则（convenience of the employer）、州际协议和居民抵免。
 
-纽约州有针对非居民远程工作的具体规则，不能仅凭人在州外就认定工资不是纽约来源。其官方解释见[远程工作税务备忘录](https://www.tax.ny.gov/pdf/memos/income/m06_5i.pdf)；该文件发表于 2006 年，使用时应连同当前年度规则及本人工作安排确认，不能作为所有州的通则。
+纽约州有针对非居民远程工作的具体规则，不能仅凭人在州外就认定工资不是纽约来源。
+
+**纽约州继续看：** [官方 FAQ：非居民、residency 与 telecommuting](https://www.tax.ny.gov/pit/file/nonresident-faqs.htm) · [官方原文：TSB-M-06(5)I 远程工作备忘录](https://www.tax.ny.gov/pdf/memos/income/m06_5i.pdf)。后者发表于 2006 年，应连同当前 FAQ、当前年度表格及本人工作安排确认，不能作为所有州的通则。
 
 ## 9. 搬家年度保留真实记录
 
@@ -76,13 +82,15 @@
 
 城市税不一定与州税采取同样的居民或工作地点规则。例如纽约市个人所得税针对其居民；非纽约市居民通常不负担该项税，而纽约州税可能仍适用。扬克斯另有非居民收入税安排。
 
-来源：[纽约州税务部门居民与非居民常见问题](https://www.tax.ny.gov/pit/file/nonresident-faqs.htm)。这里只说明地方规则不同，不能推导其他城市都只对居民征税。
+**继续看：** [纽约州官方 FAQ：居民、非居民、纽约市与 Yonkers 税务](https://www.tax.ny.gov/pit/file/nonresident-faqs.htm)。这里只说明地方规则不同，不能推导其他城市都只对居民征税。
 
 ## 12. 工资系统设置每年复核
 
 新工作、搬家、远程安排、婚姻和薪酬变化后，检查工资单中的联邦、州和地方预扣。通知雇主人事及薪资部门实际变化，并保留确认。
 
 修改联邦预扣表（Form W-4）不等于州表和工作地点代码会自动正确更新。
+
+**联邦入口：** [IRS：Form W-4](https://www.irs.gov/forms-pubs/about-form-w-4) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator)。州与地方预扣表应另查对应税务部门和雇主 payroll 系统。
 
 ## 13. 大额资产交易之前评估州税
 
@@ -102,11 +110,15 @@
 
 纸质通知未显示在网上，不足以判定其无效。争议金额大、涉及处罚或诉讼期限时，请合适的税务专业人士及时介入。
 
+**办事入口：** [IRS：Understanding your IRS notice or letter — 按通知编号查说明与下一步](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals)。
+
 ## 16. 两州申报不等于一定重复付完整税款
 
 来源收入分配、居民税收抵免和特定州际安排可能减轻重复征税，但适用税种、收入类别和抵免限额各异。
 
 请报税人说明每个州为何需要申报、收入如何分配及抵免在哪张表体现。不能假定“已经在一个州交过”就可以不向另一个州申报。
+
+**纽约示例：** [纽约州官方 FAQ：居民 / 非居民、跨州工作与 resident credit](https://www.tax.ny.gov/pit/file/nonresident-faqs.htm) · [Form IT-203 Instructions：非居民及部分年度居民](https://www.tax.ny.gov/forms/current-forms/it/it203i.htm)。其他州必须查各自规则。
 
 ## 17. 境外远程工作需要事先评估
 
@@ -118,7 +130,7 @@
 
 美国财政部金融犯罪执法网络（FinCEN）规定，符合定义的美国人对境外金融账户有财务利益或签字权，且合计价值在日历年任一时点超过 1 万美元时，一般须考虑境外银行及金融账户报告（FBAR），具体豁免按说明判断。不是每个账户各看 1 万，也不是只看年底余额。
 
-来源：[FinCEN 申报说明](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。另有特定境外金融资产申报（Form 8938）及其他实体、赠与或基金相关表格，定义和门槛不能互相替代；应把完整资产与权限清单交给跨境税务专业人士逐项判断。
+**继续看 / 办理：** [FinCEN 官方：谁需要申报 FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN：BSA E-Filing 在线提交入口](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html) · [IRS：Form 8938 官方入口](https://www.irs.gov/forms-pubs/about-form-8938) · [IRS FAQ：Form 8938 常见资产与例子](https://www.irs.gov/businesses/corporations/basic-questions-and-answers-on-form-8938)。FBAR、Form 8938 及其他实体、赠与或基金相关表格的定义和门槛不能互相替代；应把完整资产与权限清单交给跨境税务专业人士逐项判断。
 
 ## 19. 把税务安排进全年日历
 
