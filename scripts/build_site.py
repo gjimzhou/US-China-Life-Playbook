@@ -1,6 +1,6 @@
 """Build an allowlisted, dependency-free GitHub Pages artifact."""
 from pathlib import Path
-import json,re,shutil,hashlib
+import json,re,shutil,hashlib,unicodedata
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'_site'
 if OUT.exists():shutil.rmtree(OUT)
@@ -12,13 +12,31 @@ for p in paths:
  text=p.read_text();path=p.relative_to(ROOT).as_posix()
  title=labels.get(p.stem,re.sub(r'^#\s*','',text.splitlines()[0]))
  kind='正文' if path.startswith('book/') else '清单' if path.startswith('checklists/') else '参考'
- parts=re.split(r'(?=^## )',text,flags=re.M)
- sections=[]
+ # Use heading anchors rather than ordinal positions for new links. Keep
+ # aliases for legacy H2 routes, and index each explicit heading separately
+ # so tags from distinct subheadings cannot form a false combined match.
+ parts=re.split(r'(?=^#{2,6} )',text,flags=re.M)
+ sections=[]; seen={}; legacy=0
  for i,part in enumerate(parts):
-  heading=re.match(r'^## (.+)',part)
-  priorities=sorted(set(re.findall(r'(?:Priority|优先级)[*：:\s]*\b(P[0-3])\b',part)))
-  evidence=sorted(set(re.findall(r'(?:Evidence|证据等级)[*：:\s]*\b([ABC])\b',part)))
-  sections.append({'id':f's{i}','title':heading[1] if heading else '概览','markdown':part,'priorities':priorities,'evidence':evidence})
+  heading=re.search(r'^(#{1,6}) (.+)',part,re.M)
+  level=len(heading[1]) if heading else 1
+  heading_text=heading[2] if heading else '概览'
+  plain=re.sub(r'\[([^\]]+)\]\([^)]+\)',r'\1',heading_text).replace('`','')
+  slug=''.join(c for c in plain.lower() if c in '-_ ' or unicodedata.category(c)[0] in 'LN').replace(' ','-') or 'section'
+  duplicate=seen.get(slug,0);seen[slug]=duplicate+1
+  anchor=slug+(f'-{duplicate}' if duplicate else '')
+  aliases=[]
+  if i==0: aliases=['s0']
+  elif level==2:
+   legacy+=1;aliases=[f's{legacy}']
+  tags=[]
+  for block in re.split(r'\n\s*\n',part):
+   if block.lstrip().startswith('>'):continue  # quoted field templates are not ratings
+   priorities=sorted(set(re.findall(r'(?:Priority|优先级)[*：:\s]*\b(P[0-3])\b',block)))
+   evidence=sorted(set(re.findall(r'(?:Evidence|证据等级)[*：:\s]*\b([ABC])\b',block)))
+   if priorities or evidence:tags.append({'priorities':priorities,'evidence':evidence})
+  sections.append({'id':anchor,'aliases':aliases,'level':level,'title':heading_text if i else '概览','markdown':part,'tags':tags,'priorities':sorted({v for t in tags for v in t['priorities']}),'evidence':sorted({v for t in tags for v in t['evidence']})})
+
  docs.append({'path':path,'title':title,'kind':kind,'sections':sections})
  dest=OUT/path;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(text)
 (OUT/'data.json').write_text(json.dumps(docs,ensure_ascii=False))

@@ -12,3 +12,5 @@ article .task-item{list-style:none;position:relative;padding-left:1.65em;margin:
 @media print{:root,:root[data-theme="dark"]{--ink:#193545;--muted:#586975;--line:#dce3e7;--blue:#175a7c;--paper:#fff;--wash:#f3f6f8;color-scheme:light}}
 
 .home-link{display:block;margin-top:20px;font-weight:650;font-size:14px}
+
+[hidden]{display:none!important}.topic{margin-top:10px;padding-top:8px}.topic summary{font-size:13px;color:var(--muted)}.back-search{display:inline-block;margin:8px 0;font-size:14px}@media print{.back-search{display:none}}
