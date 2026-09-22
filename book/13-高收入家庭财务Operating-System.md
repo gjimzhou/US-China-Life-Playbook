@@ -102,11 +102,15 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 把账户登记与遗嘱、信托、财务授权一起核对，见[第 10 章](10-Estate-Planning与失能.md)。
 
+**权限参考：** [CFPB：Power of Attorney](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [IRS：Retirement Beneficiaries](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。账户 title、POD/TOD 与州法效果仍向机构 / 律师确认。
+
 ## 11. 共同知情不要求所有资金联名
 
 家庭可以约定共同、独立或混合管理，但应清楚共同支出、债务、税务资料和应急权限。以尊重个人边界的方式，让适当人员知道必要付款如何继续。
 
 共享密码不等于合法代理。失能或死亡后的操作，应按有效文件和机构流程办理。
+
+**继续看：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
 
 ## 12. 大额电汇独立核实
 
@@ -130,6 +134,8 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 关闭账户之前先迁移自动扣款、下载记录、检查退款或待处理事项。整理的目的是减少遗漏，不要求为了简化而关闭所有备用渠道。
 
+**消费者参考：** [FTC：Free Trials, Auto-Renewals and Negative Option Subscriptions](https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions)。金融账户关闭则以实际机构条款与待结算事项为准。
+
 ## 15. 收入中断也是财务问题
 
 评估失业、失能或家庭照护是否会影响收入和福利。应急资金、适用的保险、职业资格与工作授权维护，需要和固定支出一起考虑。
@@ -143,6 +149,8 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 记录可用现金、债务、近期税款、重大支出、保险变化、退休及医疗账户供款、受益人和授权变更。每季度或半年检查，并在搬家、婚姻、失业、重大交易时加查。
 
 选一个家庭能够长期执行的频率，不需要每天核算全部净资产。
+
+**本项目方法论：** 季度 / 半年只是可选复查节奏，不是监管要求；税务、保险、beneficiary 和账户事件按真实 deadline / trigger 更新。
 
 ## 17. 流动性不能只比收益率
 
@@ -175,5 +183,7 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 - [ ] 预缴税与最终补款有独立预算和日期。
 - [ ] 大额转账有独立确认规则。
 - [ ] 自动还款、订阅和跨境资产定期复查。
+
+**入口汇总：** [FDIC EDIE](https://edie.fdic.gov/) · [SIPC Member Search](https://www.sipc.org/list-of-members) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 最后编辑与来源核验：2026-09-21。已补入并核对 FDIC EDIE / BankFind、SIPC protection / member search、IRS withholding estimator / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB 信用卡争议、DOL EBSA、FINRA / SEC 核验及 FinCEN / Form 8938 入口。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。
