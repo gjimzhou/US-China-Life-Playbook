@@ -147,6 +147,11 @@
 - **第36章买房：** 继续拆清三个容易混淆的“3 days”：Closing Disclosure 是 closing 前至少 3 business days 收到；purchase-money mortgage closing 后没有一般联邦 3-day rescission；certain refinance / home-equity transactions 才可能有 3-business-day rescission。Regulation B 对 first-lien dwelling appraisal / written valuation copy 还要求 promptly upon completion 或最迟 closing 前 3 business days 提供（取较早者，waiver / HPML 另有规则）。
 - **第39章 Household Payroll：** 除 2026 FICA / FUTA 数字外，补核 I-9 和年度申报日历。I-9 Section 1 最迟 first day、Section 2 通常 3 business days；离职后 retention = hire+3y / termination+1y 取更晚；2026-08-01 起当前表格为 edition 08/01/23、expiration 05/31/2027。2026 W-2/W-3 due 2027-02-01，Schedule H 一般 2027-04-15 随 federal return 申报。
 
+
+- **第13章 + annual / death checklists：** 新增 RMD 与 inherited retirement account 规则。SECURE 2.0 applicable age 按 cohort 区分（1951–1959 一般 73；1960+ 一般 75）；first RMD 可延至次年 4/1 但会与次年 12/31 RMD 同年发生；original-owner Roth IRA / designated Roth account 无 lifetime RMD；post-2019 inherited account 的 10-year rule 是否还伴随 annual RMD 取决于 owner 是否已到 required beginning date 与 beneficiary 类型。RMD shortfall excise tax 一般 25%，符合 correction window 可降至 10%，Form 5329 reasonable-error waiver 另行判断。
+- **第22章 + job-loss checklist：** 新增 retirement rollover 操作边界。Direct rollover / trustee-to-trustee transfer 可避免钱先到本人手里的 60-day clock；employer-plan eligible rollover distribution paid to participant 一般 mandatory 20% withholding；IRA one-rollover-per-year rule 主要针对 IRA-to-IRA 60-day rollover，不限制 trustee-to-trustee transfer、plan-to-IRA 等列明路径。
+- **第37章 + international-travel checklist：** 重新拆分 LPR long absence 的三套规则。少于 1 年主要是 Green Card 作为常见返美 travel document 的时间线，不是 abandonment safe harbor；“每年回来一次 / 每 6 个月打卡”不能单独维持永久居民身份；naturalization continuous residence 中 >6 months but <1 year 触发可反驳 presumption，≥1 year 通常打断 continuity；reentry permit 与 Form N-470 功能不同。
+
 ## 本轮收尾与后续核验
 
 1. 已完成全部11份清单的逐段对照与中文校订，补入对账、福利兑现和事件跟踪表。
