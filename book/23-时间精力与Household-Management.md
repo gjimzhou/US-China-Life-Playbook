@@ -14,7 +14,7 @@
 
 注明负责跟进的人、期限、当前状态和备用人。“我们都记得”不能代替明确分工。共同决定的事项仍可由双方讨论，由一人负责把下一步落实。
 
-**实务参考：** [Ready.gov：Family Emergency Communication Plan](https://www.ready.gov/sites/default/files/2021-04/family-emergency-communication-plan.pdf)用联系人、地点和备用方案把“大家都知道”变成具体信息。本节把同一原则延伸到普通家庭事务，属于编辑性工作流建议。
+**实务参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan)用联系人、集合地点和备用通信方案把“大家都知道”变成具体信息。本节把同一原则延伸到普通家庭事务，属于编辑性工作流建议。
 
 ## 3. 协调不等于全部亲自做
 
