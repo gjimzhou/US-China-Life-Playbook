@@ -23,11 +23,15 @@
 
 ## 医保衔接
 
-- [ ] 比较联邦或州适用延续保障、配偶计划特别登记、市场计划及新雇主保障。
-- [ ] 逐项比较期限、生效日、医生网络、自付成本及已累计额度。
-- [ ] 确认选择已受理、首期款已付且实际生效，不只保留申请截图。
+失去 job-based coverage 后，**不要只盯 COBRA 的 60 天窗口**。几条路的 deadline 是并行的，最短的往往是配偶 / 其他 employer plan 的 HIPAA special enrollment：
 
-**医保入口：** [DOL：COBRA](https://www.dol.gov/general/topic/health-plans/cobra) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL EBSA：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
+- [ ] **Spouse / other job-based group plan：** 如果因失去原 coverage 而符合 HIPAA special enrollment，group health plan 通常至少给 **30 天** request window。立即向 spouse employer / plan administrator 询问 coverage end date、所需证明、生效日和是否保留已累计 deductible / OOP。
+- [ ] **Marketplace：** qualifying job-based coverage 将结束时，通常可在结束前 **60 天**开始 SEP；若已失去 coverage，通常须在结束后 **60 天**内选 plan。若 Marketplace 要求 SEP verification documents，一般在选 plan 后 **30 天**内提交。loss-of-coverage plan 通常可从旧 coverage 结束后的下月 1 日衔接，具体按 eligibility result / plan selection date 核对。
+- [ ] **COBRA：** 一般从 coverage ends 或 COBRA election notice 提供 / 寄出二者较晚者起有 **60 天** election period；elect 后通常有 **45 天**付 initial premium。之后 plan 必须允许 monthly payments，并至少给 **30 天** ongoing-payment grace period。不要等 monthly bill——plan 不一定必须每月寄账单。
+- [ ] **不要因为先选 COBRA 就忘记 Marketplace 规则：** 自愿提前终止 COBRA 通常不会单独产生新的 Marketplace SEP；COBRA 正常耗尽或发生其他 qualifying event 则另行判断。
+- [ ] 逐项比较网络、premium、deductible / OOP accumulation、retroactive coverage、首期付款和 family coverage；确认选择已受理且实际生效，不只保留申请截图。
+
+**医保入口：** [DOL：HIPAA Special Enrollment FAQ](https://www.dol.gov/node/25147) · [HealthCare.gov：If you lose job-based coverage](https://www.healthcare.gov/have-job-based-coverage/if-you-lose-job-based-coverage/) · [HealthCare.gov：SEP verification documents / 60-day windows](https://www.healthcare.gov/coverage-outside-open-enrollment/confirm-special-enrollment-period/) · [DOL：COBRA FAQ for Workers](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL EBSA：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
 
 ## 现金与税务
 
@@ -77,4 +81,4 @@
 
 
 
-模板校订：2026-09-21
+模板校订与医保期限复核：2026-09-21
