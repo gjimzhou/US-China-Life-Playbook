@@ -141,9 +141,17 @@
 
 向专业人士说明公民身份、税务身份、财产所在地及受益人情况，再判断联邦、州及跨境遗产或赠与规则。不以单一联邦免税额推断所有义务，也不为了税务优化延误基本授权与照护准备。
 
-本章不固定免税额或推荐特定信托税务策略。
+**2026 联邦 snapshot：**
 
-**税务入口：** [IRS：Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [IRS：Frequently Asked Questions on Estate Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes)。具体年度门槛、州遗产 / 继承税和跨境规则应在实施时重新核对。
+- 对 2026 年死亡的 U.S. citizen / resident decedent，联邦 estate-and-gift **basic exclusion amount 为 $15,000,000**。这不是“账户余额低于 $15m 就什么都不用做”的家庭规划线；Form 706 filing、portability、州 estate / inheritance tax、非居民非公民、外国资产与 GST 等都有独立规则。
+- 2026 gift-tax **annual exclusion 为 $19,000 per donee per donor**，适用于符合条件的 present-interest gifts。夫妻双方分别作为 donor 时，每人各有自己的 annual exclusion；是否 gift-splitting、是否需要 Form 709 仍另外判断。
+- **超过 $19,000 annual exclusion 不等于立刻产生 gift tax bill。** 超出部分通常先进入 taxable-gift / lifetime-exclusion 计算，并可能触发 Form 709 reporting；future-interest gifts 等即使金额不大，也可能没有 annual exclusion。
+- 2026 向 **non-U.S.-citizen spouse** 的 qualifying gifts 有单独的 annual exclusion，IRS 当前公布为 **$194,000**。不要把对 U.S.-citizen spouse 的 marital-deduction 经验直接套到 noncitizen spouse。
+- 这些都是 2026 federal numbers；2027 以后应重新打开 IRS current-year instructions / inflation-adjustment page，不把本章数字永久沿用。
+
+本章仍不推荐特定信托税务策略。是否需要 lifetime gifting、QTIP / QDOT、GST planning 或跨境结构，取决于身份、资产、家庭目标和州法。
+
+**税务入口：** [IRS：What’s New — Estate and Gift Tax](https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax) · [IRS：Frequently Asked Questions on Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Frequently Asked Questions on Estate Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes) · [IRS：Form 706](https://www.irs.gov/forms-pubs/about-form-706) · [IRS：Form 709](https://www.irs.gov/forms-pubs/about-form-709)。州遗产 / 继承税和跨境规则仍应按实施年度单独核对。
 
 ## 18. 实施清单与核验范围
 
@@ -156,4 +164,4 @@
 
 **入口汇总：** [NIA Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
-最后编辑与来源核验：2026-09-21。已重新核对 NIH / NIA advance-care-planning 与 health-care-proxy 指南、CFPB POA / fiduciary / Managing Someone Else’s Money、DOL retirement-benefit 入口及 IRS estate-and-gift-tax 入口，并补入州律师转介和平台数字遗产入口。遗嘱、POA、见证、公证、受益人、probate、trust 和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 estate / gift tax：basic exclusion amount 为 $15,000,000；annual gift exclusion 为 $19,000 per donee；qualifying gifts to a non-U.S.-citizen spouse 的 2026 annual exclusion 为 $194,000，并明确“超过 annual exclusion ≠ 立即产生 gift-tax bill”。另核对 NIH / NIA advance-care-planning、CFPB POA / fiduciary / Managing Someone Else’s Money、DOL retirement-benefit 及州律师 / 数字遗产入口。遗嘱、POA、见证、公证、受益人、probate、trust、州 estate / inheritance tax 和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
