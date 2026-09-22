@@ -36,11 +36,11 @@
 - [ ] 分别处理三家信用机构的信用冻结；online / phone 申请时，记录提交时间并确认 bureau 是否在通常的 **1 个营业日内 place freeze**。
 - [ ] 需要临时解冻时，只对实际会查报告的 bureau 操作；online / phone lift 通常应在 **1 小时内**生效，办完后重新冻结。
 - [ ] 如怀疑身份盗用，可另加 initial fraud alert（通常 **1 年**）；已有 identity-theft report 的受害者可评估 extended fraud alert（通常 **7 年**）。
-- [ ] 核对信用报告并争议冒名账户；联系开户或发卡机构，按需要取得报警及其他证明。
-- [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排。
+- [ ] 通过 AnnualCreditReport.com 核对三家 nationwide bureaus 的信用报告并争议冒名账户；当前每家 report 最多可**每周免费取得一次**。Credit report 不等于 credit score，不需要购买付费 monitoring 才能取得法定免费报告。
+- [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排；如已加入，使用**提交当年**的 current IP PIN，包括当年提交的 prior-year / amended federal return。Continuous enrollment 每年取得新 PIN；one-time enrollment 年末自动退出。
 - [ ] 保存每家机构的案件号、材料清单与截止日。
 
-**直接入口：** [FTC：Credit Freezes and Fraud Alerts](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [FTC：Understanding Your Credit — freeze timing](https://consumer.ftc.gov/articles/understanding-your-credit) · [Equifax Freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian Freeze](https://www.experian.com/freeze/center.html) · [TransUnion Freeze](https://www.transunion.com/credit-freeze) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IRS：Get an IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)。
+**直接入口：** [FTC：Credit Freezes and Fraud Alerts](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [FTC：Understanding Your Credit — freeze timing](https://consumer.ftc.gov/articles/understanding-your-credit) · [Equifax Freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian Freeze](https://www.experian.com/freeze/center.html) · [TransUnion Freeze](https://www.transunion.com/credit-freeze) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IRS：Get an IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：IP PIN FAQ](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin)。
 
 ## 银行或证券账户被接管
 
