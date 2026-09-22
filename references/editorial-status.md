@@ -152,6 +152,10 @@
 - **第22章 + job-loss checklist：** 新增 retirement rollover 操作边界。Direct rollover / trustee-to-trustee transfer 可避免钱先到本人手里的 60-day clock；employer-plan eligible rollover distribution paid to participant 一般 mandatory 20% withholding；IRA one-rollover-per-year rule 主要针对 IRA-to-IRA 60-day rollover，不限制 trustee-to-trustee transfer、plan-to-IRA 等列明路径。
 - **第37章 + international-travel checklist：** 重新拆分 LPR long absence 的三套规则。少于 1 年主要是 Green Card 作为常见返美 travel document 的时间线，不是 abandonment safe harbor；“每年回来一次 / 每 6 个月打卡”不能单独维持永久居民身份；naturalization continuous residence 中 >6 months but <1 year 触发可反驳 presumption，≥1 year 通常打断 continuity；reentry permit 与 Form N-470 功能不同。
 
+
+- **第10 / 20章 + parents checklist：** 新增 Social Security representative-payee authority map。SSA 明确 ordinary POA / authorized representative / joint bank account 不等于 representative payee；beneficiary 有能力时可 advance designate 最多 3 名未来候选 payee，但 designation 不立即授权、最终仍由 SSA appoint。Representative payee 权限也不自动扩展到其他银行、投资、医疗或税务事项。
+- **第14章税务：** 新增 IRS third-party authorization workflow。Form 2848 用于合资格 representative 代表 taxpayer 处理指定税务事项；Form 8821 只允许 inspect / receive specified tax information，不授权 advocacy / representation；joint-return spouses 即使授权同一 representative 也分别提交 Form 2848；oral authorization 一般只限当次 interaction。IRS 当前提供 Tax Pro Account 和 secure online submission 入口。
+
 ## 本轮收尾与后续核验
 
 1. 已完成全部11份清单的逐段对照与中文校订，补入对账、福利兑现和事件跟踪表。
