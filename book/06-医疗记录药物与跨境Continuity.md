@@ -165,7 +165,15 @@
 
 **复查入口：** [CDC：Adult Immunization Schedule](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [FDA：My Medicine Record Keeper](https://www.fda.gov/drugs/resources-you-drugs/my-medicine-record-keeper) · [HHS：Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。
 
-## 20. 最小执行集
+## 20. 药突然拿不到时，先分清是缺货、保险、处方还是法规问题
+
+pharmacy “没药”可能只是本店 temporary out-of-stock，也可能是 broader shortage；“不能 refill”也可能是 refill exhausted、prior authorization、quantity limit、refill-too-soon、transfer restriction 或 controlled-substance rule。先取得 exact rejection reason，而不是自己猜原因。
+
+对不能安全突然停用的药，应立即联系 prescriber / pharmacist 讨论 interim plan；不要自行减量、加量或用不同 strength / formulation 替代。FDA 当前 Drug Shortages Database 可帮助确认是否属于已知 shortage。
+
+**完整清单：** [药突然拿不到](../checklists/medication-access-problem.md) · [FDA：Drug Shortages](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)。
+
+## 21. 最小执行集
 
 - [ ] 一页医疗摘要，注明更新时间。
 - [ ] 通用名用药清单与过敏清单。
