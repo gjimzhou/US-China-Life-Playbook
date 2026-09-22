@@ -26,6 +26,16 @@
 
 ## 4. 死亡证明按机构要求取得
 
+### 人在境外去世时，先接入当地与领事流程
+
+境外身故通常同时涉及所在地死亡登记／医疗或警务程序、当地 funeral / mortuary 服务、家属身份与授权、保险，以及是否在当地安葬／火化或安排遗体／骨灰跨境。不要先自行订运输或假定美国国内 funeral home 的普通流程可以直接套用。
+
+美国公民在境外去世时，可从美国国务院的 Death Abroad 入口联系相应使领馆并了解 Consular Report of Death Abroad 等事项；其他国籍则联系本国驻当地使领机构。遗体／骨灰运输规则必须同时核对死亡所在地、承运方、目的地及有关主管机关。
+
+**办理入口：** [U.S. State Department：Death Abroad](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
+
+
+
 向登记机构或协助办理的殡葬方询问认证副本（Certified copy）的申请。先列出各机构需要原件、认证副本、普通副本还是上传件，再决定份数；同时核对姓名等信息是否正确。
 
 **申请入口：** [USA.gov：How to get a certified copy of a death certificate](https://www.usa.gov/death-certificate)。实际签发机关通常是州、县或当地 vital records office。
