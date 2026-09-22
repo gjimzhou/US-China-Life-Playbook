@@ -59,6 +59,15 @@
 | 照看住所与宠物 |  |  |  |
 | 办理账单和保险 |  |  |  |
 
+## Social Security / SSI 代理安排（如适用）
+
+- [ ] 父母仍具备管理能力时，确认是否希望在 my Social Security / SSA 预先指定最多 3 名 future representative-payee candidates。
+- [ ] 已有 financial POA 时，也不要假设 agent 可以直接接收或管理 Social Security / SSI benefits。
+- [ ] 如果父母已无法管理 benefits，由家属联系 SSA 申请 representative payee；记录 SSA appointment / application 状态，不通过共享密码绕过程序。
+- [ ] 真正被 appoint 为 payee 后，单独保存 benefit 收支记录，并区分这项权限与其他银行、投资、医疗和税务权限。
+
+**直接入口：** [SSA：Representative Payee Program](https://www.ssa.gov/payee/) · [SSA：Representative Payee FAQs](https://www.ssa.gov/payee/faqrep.htm) · [SSA：Advance Designation](https://www.ssa.gov/payee/advance_designation.htm)。
+
 ## 美国 Medicare / 长期照护分流（如适用）
 
 - [ ] 接近 65 岁时已记录 Medicare Initial Enrollment Period，以及是否因本人 / 配偶 current-employment coverage 可延后 Part B。
