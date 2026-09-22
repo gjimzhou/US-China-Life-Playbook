@@ -24,17 +24,25 @@
 
 确认警报器维护记录、疏散路线、家庭紧急信息、车辆召回与急救学习安排。烟雾和一氧化碳警报器按制造商与适用要求定期测试，不能只在年度复查时按一下。细节见[第01章](01-不要意外死亡.md)。
 
+**一键核验：** [USFA：Smoke Alarms](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [NHTSA：Recalls](https://www.nhtsa.gov/recalls) · [AHA：Course Search](https://atlas.heart.org/home)。
+
 ## 6. 身份与账户安全
 
 检查主要邮箱、密码管理器、金融账户和运营商保护，清理异常会话，确认恢复资料仍可用。用备用设备试一个恢复场景，不必为“年度任务”无理由更换所有强密码。见[第15章](15-网络安全与身份盗窃.md)。
+
+**一键核验：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IdentityTheft.gov](https://www.identitytheft.gov/)。
 
 ## 7. 保险与责任
 
 对照实际住房、车辆、收入和家庭变化，核对适用保障、限额、除外责任与报案入口。不需要购买每一种保险；取消或变更前先确认是否造成必要保障空缺。见[第07章](07-保险与灾难风险.md)。
 
+**一键核验：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments) · [NIPR：Licensing Center](https://nipr.com/licensing-center)。
+
 ## 8. 遗产与失能文件
 
 确认文件位置、代理人是否仍愿意和适合、机构登记及受益人状态。结婚、分居、身故或迁居等变化需另行复查，不能等到年底。见[第10章](10-Estate-Planning与失能.md)。
+
+**一键核验：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
 
 ## 9. 税务与付款对账
 
@@ -46,9 +54,13 @@
 
 银行扣款、税务账户入账和报税表采用的金额要相互对应；不一致时留原始凭证并找专业人士查明。见[第14章](14-美国税务与State-Residency.md)。
 
+**一键核验：** [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [IRS Get Transcript](https://www.irs.gov/individuals/get-transcript) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator)。
+
 ## 10. 医疗与连续照护
 
 与医生讨论适用预防安排、药物、过敏和随访，确认病历能取得、保险变化已处理。复查目标不是多做检查；跨境就医要考虑记录和治疗衔接。见[第02章](02-预防医学.md)与[第06章](06-医疗记录药物与跨境Continuity.md)。
+
+**一键核验：** [USPSTF：A/B Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：Adult Immunization Schedule](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。
 
 ## 11. 父母希望的支持
 
@@ -58,9 +70,13 @@
 
 按实际需要测试号码、支付、银行和办事入口，核对证件与资料变化；账户和机构要求可能不同，不以应用还能打开当成可用。出行或重要办理前再测相关功能。见[第18章](18-中美双栖生活基础设施.md)。
 
+**一键核验：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家社会保险公共服务平台](https://si.12333.gov.cn/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [自然人电子税务局](https://etax.chinatax.gov.cn/)。
+
 ## 13. 美国政务与证件
 
 检查适用的税务、社会保障、车辆和移民事项，以及护照和其他文件到期日。身份或地址更新逐个向机构确认，不依赖邮件转寄自动同步。见[第11章](11-美国政府到底找谁.md)。
+
+**一键核验：** [USA.gov](https://www.usa.gov/) · [my Social Security](https://www.ssa.gov/myaccount/) · [myUSCIS](https://my.uscis.gov/) · [U.S. Passports](https://travel.state.gov/content/travel/en/passports.html)。
 
 ## 14. 住房与维修
 
@@ -70,6 +86,8 @@
 
 核对登记、适用年检、保险、轮胎、保养和召回；确认道路救援与事故资料可取用。保养按车辆要求和实际使用进行，不把年行驶少视为无需维护。
 
+**一键核验：** [NHTSA：Recalls](https://www.nhtsa.gov/recalls) · [USA.gov：State motor vehicle services](https://www.usa.gov/state-motor-vehicle-services)。
+
 ## 16. 宠物
 
 确认兽医、急诊、用药、芯片联系方式和备用照护。旅行文件按目的地与时间另查，不能以去年办过为由直接沿用。见[第17章](17-宠物Operating-System.md)。
@@ -78,9 +96,13 @@
 
 逐个核对参保人、保障日期、工资扣款、雇主供款、退休账户入账及受益人。休假、失能保障和股权归属按实际计划处理。发现扣款或入账不符，记录向谁查询及更正凭证。见[第22章](22-工作失业与Employee-Benefits.md)。
 
+**一键核验：** [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [DOL：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
+
 ## 18. 家庭资金与近期支出
 
 看必要现金、税款储备、债务和近期大额支出，再检查存款保障、退休安排与账户复杂度。不要为提高收益动用有明确短期用途的资金而忽略损失风险。见[第13章](13-高收入家庭财务Operating-System.md)。
+
+**一键核验：** [FDIC EDIE](https://edie.fdic.gov/) · [FDIC BankFind](https://banks.data.fdic.gov/bankfind-suite/bankfind) · [SIPC Member Search](https://www.sipc.org/list-of-members)。
 
 ## 19. 关系与支持安排
 
@@ -114,4 +136,4 @@
 
 一次讨论不等于改好了。检查确认信、实际入账、受益人登记或恢复测试结果，未完成项继续追踪。工具可以很简单：一份私人表格和必要日历提醒就足够开始。
 
-最后编辑：2026-09-21。本章为维护框架与跨章索引；不新增年度税额、医疗频率或法律期限，相关事实与核验范围见所链接章节。
+最后编辑与来源核验：2026-09-21。本章现同时作为年度 maintenance dashboard：安全、账户安全、保险、失能文件、IRS、预防医疗、中国政务、美国证件、车辆、员工福利和金融机构均补入一键官方入口。它仍不新增统一年度税额、医疗频率或法律期限；具体适用规则继续以所链接专题、计划文件和主管机构为准。
