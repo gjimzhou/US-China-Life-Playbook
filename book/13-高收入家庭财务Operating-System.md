@@ -104,7 +104,16 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 不一定每类都开独立账户。私人清单可以记录机构、账户末几位、所有权、用途和恢复入口，不必在共享表格里放密码。
 
-**退休 / HSA 继续看：** [U.S. Department of Labor：Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Publication 969：HSAs and other tax-favored health plans](https://www.irs.gov/publications/p969)。具体计划资格、供款上限和雇主规则按当年文件核对。
+**2026 退休供款 snapshot：**
+
+- 401(k)、403(b)、governmental 457(b) 与 TSP 的 employee elective deferral limit 为 **$24,500**。这是 employee salary-deferral limit，不是“账户全年最多只能进 $24,500”。
+- 多数 401(k) / 403(b) defined-contribution plan 的 2026 annual-additions limit（employee deferral + employer contributions + eligible after-tax contributions 等，通常不含 age-based catch-up）为 **$72,000** 或 100% compensation 较低者；具体 plan design 仍可能限制更低。
+- 年末 age **50+** 的一般 catch-up limit 为 **$8,000**；当年 age **60、61、62 或 63** 的多数适用 401(k) / 403(b) / governmental 457 / TSP participant 可用更高的 **$11,250** catch-up。
+- **2026 Roth catch-up rule：** 如果 prior-year wages from the employer sponsoring the plan 超过 **$150,000**，且 plan 提供 Roth feature / catch-up，适用 participant 的 2026 catch-up contributions 一般必须作为 Roth contributions。这个 $150k threshold 与 HCE threshold、Roth IRA MAGI phase-out 不是同一个概念。
+- Traditional + Roth IRA 的 2026 combined contribution limit 为 **$7,500**；age 50+ IRA catch-up 为 **$1,100**，所以一般合计 $8,600，仍不能超过适用 taxable compensation。Traditional IRA deduction 与 Roth IRA direct-contribution eligibility 另受 MAGI / workplace-plan 等规则影响。
+- SIMPLE、SEP、solo 401(k)、457(b) special catch-up、403(b) 15-year rule 以及同时参加多个 unrelated-employer plans 时有另外 aggregation / coordination rules，不要只拿上面一张表硬套。
+
+**退休 / HSA 继续看：** [IRS：2026 retirement plan limits — IR-2025-111](https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500) · [IRS：COLA limits by plan type](https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions) · [IRS：Catch-up contributions — 含 2026 Roth catch-up rule](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions) · [IRS：IRA contribution limits](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits) · [U.S. Department of Labor：Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Publication 969：HSA](https://www.irs.gov/publications/p969)。具体 plan 资格、供款来源与 employer rules 仍按当年 plan documents 核对。
 
 ## 10. 联名账户不能替代遗产与失能规划
 
@@ -196,4 +205,4 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 **入口汇总：** [FDIC EDIE](https://edie.fdic.gov/) · [SIPC Member Search](https://www.sipc.org/list-of-members) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 FDIC / SIPC 与 2025 SEC cash-sweep guidance：FDIC standard amount 仍为 $250,000 per depositor / insured bank / ownership category；2024-04-01 起 trust accounts 采用统一规则，通常每 owner × eligible beneficiary × $250,000，5 位或更多 beneficiary 时 capped at $1.25m / owner / bank；SIPC 当前仍为 $500,000 per customer（其中 cash claim $250,000）。同时明确 bank sweep、money-market fund sweep 与 brokerage free-credit balance 的保护体系不同。另核对 IRS withholding / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB 信用卡争议、DOL EBSA、FINRA / SEC 及 FinCEN / Form 8938 入口。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 FDIC / SIPC、SEC cash-sweep 与 IRS 2026 retirement limits：FDIC standard amount $250,000 per depositor / insured bank / ownership category；2024-04-01 trust category 新规则通常每 owner × eligible beneficiary × $250,000，5+ beneficiary 时 capped at $1.25m / owner / bank；SIPC $500,000 per customer（其中 cash claim $250,000）。2026 401(k)/403(b)/governmental 457/TSP elective-deferral limit $24,500，一般 catch-up $8,000、age 60–63 $11,250；多数 applicable defined-contribution annual additions $72,000；IRA $7,500 + age-50 catch-up $1,100；prior-year sponsor wages >$150,000 的适用 2026 catch-up participant 需注意 Roth catch-up requirement。另核对 IRS withholding / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB、DOL EBSA、FINRA / SEC 及 FinCEN / Form 8938。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。
