@@ -53,9 +53,13 @@
 
 - [ ] 查询适用失业保险和州福利，记录受理状态及补件要求。
 - [ ] 核对健康储蓄／灵活支出账户、退休账户、寿险及失能保障后续选择。
+- [ ] 退休账户不要因离职当天焦虑而直接 cash out；先确认 old plan 是否可保留、new plan 是否接收 rollover、IRA 是否合适，以及 fees / investments / creditor protection / loan / RMD consequences。
+- [ ] 如决定移动退休账户，优先询问 **direct rollover / trustee-to-trustee transfer**；若 distribution 已先付给本人，立即记录**收到日期**，因为适用 rollover 通常进入 **60-day** deadline。
+- [ ] Employer retirement plan eligible rollover distribution 若直接付给本人，一般会 mandatory withhold **20%** federal tax；若想 full rollover，须准备其他资金补齐 withholding，不要只把 net check 存入新账户就认为已全额 rollover。
+- [ ] 若是 IRA-to-IRA rollover，先确认过去 12 个月是否已做过另一笔 **60-day IRA rollover**；trustee-to-trustee transfer 通常不受 one-rollover-per-year rule 限制。
 - [ ] 确认股权、报销和其他福利的实际到账或失效情况。
 
-**政府 / 福利入口：** [USA.gov：Unemployment Benefits](https://www.usa.gov/unemployment-benefits) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。
+**政府 / 福利入口：** [USA.gov：Unemployment Benefits](https://www.usa.gov/unemployment-benefits) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [IRS：Rollovers of Retirement Plan and IRA Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [IRS Topic 413](https://www.irs.gov/taxtopics/tc413) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。
 
 ## 职业与家庭安排
 
@@ -81,4 +85,4 @@
 
 
 
-模板校订与医保期限复核：2026-09-21
+模板校订与医保 / rollover 期限复核：2026-09-21
