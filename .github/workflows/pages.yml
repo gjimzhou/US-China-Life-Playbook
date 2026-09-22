@@ -21,7 +21,13 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+      - name: Install ebook export tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc fonts-noto-cjk
+          python -m pip install weasyprint
       - run: python scripts/build_site.py
+      - run: python scripts/build_exports.py
       - run: python scripts/check_site.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
