@@ -6,7 +6,7 @@
 
 一个共同日历、一份待办、一张资料索引和必要的应急说明，通常比不断更换应用更容易维护。选择家里真正愿意使用的方式，也可以是纸质和数字工具结合。
 
-**实务参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan)强调把家庭联络、集合地点和紧急信息事先写清；[CFPB：Your Money, Your Goals Toolkit](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/)提供 bill calendar、goal-setting、cash-flow 等可直接复用的简单工具。
+**实务参考：** Ready.gov 强调把家庭联络、集合地点和紧急信息事先写清；[CFPB：Your Money, Your Goals Toolkit](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/)提供 bill calendar、goal-setting、cash-flow 等可直接复用的简单工具。
 
 **应急资料模板：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [FEMA：Emergency Financial First Aid Kit](https://www.ready.gov/financial-preparedness)。本章的日常管理框架不要求采用某个特定 app。
 
