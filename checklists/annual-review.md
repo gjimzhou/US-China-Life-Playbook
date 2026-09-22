@@ -46,9 +46,11 @@
 - [ ] 归档报税表和支持材料，更新当年预扣与预缴估算。
 - [ ] 按账户所有权类别核对存款保障，检查遗忘账户、旧雇主资产和重复费用。
 - [ ] 复查退休、健康储蓄账户及雇主福利选择，确认专业联系人。
+- [ ] 家庭成员接近 RMD applicable age、当年退休，或持有 inherited IRA / inherited retirement plan 时，逐账户核对当年 RMD / beneficiary-distribution deadline；不要只等 custodian 自动提醒。
+- [ ] 如果这是 first-RMD year，明确是当年 12/31 先取，还是延到次年 4/1；后者会与次年 12/31 的第二笔 RMD 落在同一个 calendar year。
 - [ ] 对照付款确认、机构入账和报税表，不只看银行已扣款。
 
-**一键核验：** [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [IRS Get Transcript](https://www.irs.gov/individuals/get-transcript) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [FDIC EDIE](https://edie.fdic.gov/)。
+**一键核验：** [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [IRS Get Transcript](https://www.irs.gov/individuals/get-transcript) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：Required Minimum Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：Beneficiary Rules](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [FDIC EDIE](https://edie.fdic.gov/)。
 
 ## 缴款与申报对账表
 
