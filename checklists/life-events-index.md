@@ -58,9 +58,13 @@
 | 现在发生了什么 | 第一入口 |
 |---|---|
 | 失业或收到裁员通知 | [失业应对清单](job-loss.md) |
+| 工作中受伤、职业暴露或突然因伤病无法工作 | [工伤与请假清单](workplace-injury-leave.md) |
+| 长期药突然拿不到、药房缺货、PA 卡住或旅行丢药 | [药物获取失败清单](medication-access-problem.md) |
 | 银行卡盗刷、被骗转账、账户接管或身份盗用 | [网络安全事件清单](cyber-incident.md) · [第16章](../book/16-银行信用卡消费者纠纷与诈骗.md) |
 | 手机丢失，很多账户都靠它做 MFA | [第30章](../book/30-Household-Emergency-Runbook.md#6-手机丢失或被盗) |
 | 收到 IRS、州税务、保险、律师或法院正式文件 | [第30章](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件) |
+| 收到 jury summons、subpoena 或其他法院通知 | [Jury / Subpoena / 法院通知清单](jury-court-summons.md) |
+| 收到 USCIS RFE、biometrics、interview、NOID 或其他 notice | [USCIS Notice 处理清单](immigration-notice-rfe.md) |
 | 不知道某个长期财务决定应该先问什么 | [第13章：家庭财务运行](../book/13-高收入家庭财务Operating-System.md) |
 
 ## 跨境与证件突然卡住
