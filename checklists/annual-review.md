@@ -70,8 +70,9 @@
 - [ ] 按年龄与风险和医生讨论预防照护，不把检查数量当作质量。
 - [ ] 更新用药、过敏、疫苗及关键病历，确认跨机构取得资料的办法。
 - [ ] 确认附近急诊与紧急门诊入口；危急时不等待网络核验。
+- [ ] 家庭成员接近 65 岁时，提前检查 Medicare Initial Enrollment Period、现有 employer coverage 与是否可用 Special Enrollment Period；不要等生日后才第一次研究。
 
-**一键核验：** [USPSTF：A/B Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：Adult Immunization Schedule](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。
+**一键核验：** [USPSTF：A/B Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：Adult Immunization Schedule](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [Medicare：When does coverage start?](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start)。
 
 ## 房屋与车辆
 
@@ -84,9 +85,10 @@
 
 - [ ] 确认国税局、社会安全局和州车辆管理机构账户可用。
 - [ ] 检查护照、驾照、移民身份及工作文件期限和待办。
+- [ ] 如果会乘美国境内商业航班，确认常用州驾照 / ID 是否 REAL ID-compliant；否则确认仍持有有效 passport、passport card、Global Entry 等 TSA 可接受替代证件。
 - [ ] 地址变化分别核对各机构要求，不能只做邮政转寄。
 
-**一键核验：** [USA.gov](https://www.usa.gov/) · [my Social Security](https://www.ssa.gov/myaccount/) · [myUSCIS](https://my.uscis.gov/) · [U.S. Passports](https://travel.state.gov/content/travel/en/passports.html)。
+**一键核验：** [USA.gov](https://www.usa.gov/) · [my Social Security](https://www.ssa.gov/myaccount/) · [myUSCIS](https://my.uscis.gov/) · [U.S. Passports](https://travel.state.gov/content/travel/en/passports.html) · [TSA：REAL ID](https://www.tsa.gov/real-id) · [TSA：Acceptable IDs](https://www.tsa.gov/travel/security-screening/identification)。
 
 ## 中国与跨境生活
 
@@ -111,4 +113,4 @@
 
 
 
-模板校订：2026-09-21
+模板校订与动态规则核验：2026-09-21
