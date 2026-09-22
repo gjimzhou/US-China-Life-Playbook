@@ -28,9 +28,14 @@
 
 ## 婚后按实际期限办理
 
-- [ ] 向雇主核对特别登记窗口、生效日、所需证明及牙科视力等选择。
+- [ ] **Job-based health plan：** marriage 后立即查 benefits portal / SPD；HIPAA 要求适用 group health plan 至少给 **30 天** special-enrollment request window。不要等到第 30 天才第一次找材料。
+- [ ] **Marketplace：** marriage SEP 通常为事件后 **60 天**；核对 CMS prior-coverage requirement——通常至少一方在婚前 60 天内有过 1 天 qualifying coverage，除非符合境外居住、tribal / ANCSA 或其他当前例外。
+- [ ] 若涉及失去 Medicaid / CHIP 或获得 premium assistance eligibility 后加入 employer plan，单独核对通常 **60 天**的 group-plan special-enrollment window。
+- [ ] 向雇主核对 coverage effective date、所需 marriage certificate / proof、牙科视力等选择；job-based marriage coverage 最迟通常在 plan 收到完整 enrollment request 后的下一个 calendar month 第 1 天生效。
 - [ ] 更新紧急联系人、婚姻信息及适用预扣税安排。
-- [ ] 核对每个计划的受益人指定和配偶同意要求，不使用统一“30天内”替代真实期限。
+- [ ] 核对每个退休 / insurance plan 的受益人指定和配偶同意要求；**30 天只是在特定 employer health-plan SEP 中常见的联邦最低窗口，不是所有婚后事项的统一 deadline。**
+
+**医保期限核验：** [DOL：HIPAA Special Enrollment FAQ](https://www.dol.gov/node/25147) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：Special Enrollment Periods Job Aid — March 2026](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
 
 **退休计划核验：** [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [DOL：Retirement Plans and ERISA](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。
 
@@ -67,4 +72,4 @@
 
 
 
-模板校订：2026-09-21
+模板校订与动态期限复核：2026-09-21
