@@ -12,6 +12,8 @@
 
 记录类别、制作者、型号、序列号、购买日期、卖方、价格、凭证、照片、附件、估价与保险情况。清单只放在受保护的私人位置，公开仓库只留空白模板。
 
+**清单工具：** [NAIC：Home Inventory](https://content.naic.org/consumer/home-inventory)；其用途是帮助理赔和更新财产记录，不要求把敏感序列号公开上传。
+
 ---
 
 ## 3. 证明材料另存一份
@@ -23,6 +25,8 @@
 ## 4. 逐项问保险保障
 
 不要从住房保险总保额推断每件珠宝都获足额保障。请经纪按保单回答下表，并指出具体条款。
+
+**继续看：** [NAIC：Homeowners and Renters Insurance — valuables / jewelry](https://content.naic.org/article/consumer-insight-homeowners-and-renters-insurance) · [NAIC：Learn How to Insure Expensive Jewelry & Gifts](https://content.naic.org/article/consumer-insight-learn-how-insure-expensive-jewelry-gifts) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
 
 | 要问的问题 | 需要确认的内容 |
 |---|---|
@@ -43,6 +47,8 @@
 ## 6. 估价先说明用途
 
 保险、出售、捐赠、离婚或遗产使用的估价可能有不同标准。请估价人说明用途、日期、方法和资格，不把商家的零售重置估价直接当成可成交市价。涉及报税或诉讼时，先让相应专业人士明确报告要求。
+
+**税务估价入口：** [IRS Publication 561 — Determining the Value of Donated Property](https://www.irs.gov/publications/p561) · [IRS：Form 8283](https://www.irs.gov/forms-pubs/about-form-8283) · [IRS：Instructions for Form 8283](https://www.irs.gov/instructions/i8283)。这些规则针对 charitable contribution，不是保险估价或离婚估价的通用标准。
 
 ---
 
@@ -74,6 +80,8 @@
 
 向承运人和保险人分别核对责任上限、物品除外、包装、签收、途中保障和索赔期限。发货前明确由谁承担风险、保存什么证据；追踪显示“已送达”不能解决全部争议。
 
+**操作原则：** 使用实际承运人的官方 declared-value / prohibited-items / claims 页面核对，而不是第三方攻略；同时向自己的 insurer 书面确认 transit coverage。不同承运人的“declared value”不应自动理解为独立保险。
+
 ---
 
 ## 12. 旅行存放按实际条件选择
@@ -86,6 +94,8 @@
 
 贵重小件若能合法、安全随身携带，通常更容易自行看管；但仍需遵守安检与航空公司要求。必须托运时，核对承运及保险保障，拍照并保存交接凭证。
 
+**美国安检入口：** [TSA：What Can I Bring?](https://www.tsa.gov/travel/security-screening/whatcanibring/all)；航空公司对 checked baggage 中贵重物品的责任限制另查 operating carrier 的 current contract of carriage。
+
 ---
 
 ## 14. 出境前登记可帮助识别原有物品
@@ -94,7 +104,7 @@
 
 美国海关的个人物品登记表（Form 4457）可用于符合条件、有序列号或其他永久独特标记的外国来源物品。法规要求向海关人员出示物品与未签名表格办理核验；不是自行填表就完成登记。出发前向办理口岸确认安排。
 
-来源：[美国海关法规第148.1条](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
+**直接办理 / 原文：** [CBP Form 4457 — Certificate of Registration for Personal Effects Taken Abroad](https://www.cbp.gov/sites/default/files/2024-06/cbp_form_4457.pdf) · [19 CFR 148.1](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1)。办理前向实际 CBP port 确认地点、时间和是否需预约。
 
 ---
 
@@ -102,7 +112,7 @@
 
 原有物品在境外维修或改装，不能仅凭旧购买证明排除税务问题。第148.31条对维修改装与旅途中使用磨损附带维修作了区分。保存工单和费用，向海关说明，不自行推定全部免税。
 
-来源：[美国海关法规第148.31条](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
+**官方原文：** [19 CFR 148.31 — Repairs and alterations](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。
 
 ---
 
@@ -112,7 +122,7 @@
 
 第148.11条规定入境物品的申报义务。对境外购买、获赠或维修的物品，准备清单与凭证，按海关要求说明；不确定适用分类时主动询问。
 
-来源：[美国海关申报法规](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
+**继续看：** [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [19 CFR 148.11 — Declaration required](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.11)。
 
 ---
 
@@ -120,13 +130,15 @@
 
 申报与是否缴税是两件事。适用免税待遇还取决于身份、行程、物品和其他条件，不应以“金额不大”或“已经拆包装”为由省略说明。
 
-来源：[美国海关法规第148.11、148.33条](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
+**继续看：** [CBP：Duty-Free Exemption](https://www.help.cbp.gov/s/article/Article-1402?language=en_US) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [19 CFR Part 148](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。免税额度与申报义务是不同问题。
 
 ---
 
 ## 18. 酒类携带逐项确认
 
 出发前向美国海关、入境州酒类主管机构及航空公司核对年龄、数量、税费、个人或商业用途、携带与运输要求。本章不提供通用于所有口岸的酒类数量表；中国出入境也需另外核对。
+
+**美国入口：** [CBP：Bringing alcohol into the U.S. for personal use](https://www.help.cbp.gov/s/article/Article-1395?language=en_US) · [CBP：Requirements for importing alcohol for personal use](https://www.help.cbp.gov/s/article/Article-1403?language=en_US) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。州 ABC 规则仍需另查。
 
 ---
 
@@ -139,6 +151,8 @@
 ## 20. 酒类保险问清变质与设备故障
 
 向保险人分别询问破损、渗漏、温度变化、停电和设备失灵是否承保，需要哪些记录。储存设施提供的保障与个人保单是否重叠或有缺口，也应写清。
+
+**保险入口：** [NAIC：Homeowners Insurance](https://content.naic.org/insurance-topics/homeowners-insurance) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。酒类、艺术品等特殊 collection policy 的承保项目必须看实际 policy wording。
 
 ---
 
@@ -156,7 +170,9 @@
 
 ## 23. 不要把假货当作无风险纪念品
 
-疑似侵权、来源不明或可能涉及受保护材料的物品，先核对交易及进出口限制，再决定是否购买或携带。本轮未完成假冒商品例外规则核验，不据旧稿断言任何“自用豁免”。
+疑似侵权、来源不明或可能涉及受保护材料的物品，先核对交易及进出口限制，再决定是否购买或携带。
+
+**查限制：** [CBP：Prohibited and Restricted Items](https://www.help.cbp.gov/s/article/Article-1931?language=en_US) · [CBP：Personal Use Exemption from Trademark Restrictions](https://www.help.cbp.gov/s/article/Article1858?language=en_US) · [U.S. Fish & Wildlife Service：Elephant Ivory FAQ](https://www.fws.gov/frequently-asked-questions-about-elephant-ivory)。受保护动物材料、象牙、皮革、珊瑚等不能按普通奢侈品规则推断。
 
 ---
 
@@ -169,6 +185,8 @@
 ## 25. 存放设施按风险选择
 
 比较防盗、防火、防水、安装条件、报警、访问权限和保险要求。保险柜、银行保管箱或专业仓储各有不同条件，重量和外观不能代替性能与合同核对。
+
+**清单 / 理赔准备：** [NAIC：Home Inventory](https://content.naic.org/consumer/home-inventory) · [NAIC：What You Need to Know When Filing a Homeowners Claim](https://content.naic.org/article/what-you-need-know-when-filing-homeowners-claim)。
 
 ---
 
@@ -206,6 +224,8 @@
 
 记录日期、物品、双方及是否真正转移所有权，移交必要凭证并调整保险。重大或跨境赠与的申报、计税基础及继承影响，请税务与法律专业人士分别核对。
 
+**税务入口：** [IRS：Frequently Asked Questions on Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [IRS Publication 559](https://www.irs.gov/publications/p559)（继承与 estate administration）。
+
 ---
 
 ## 32. 借出、寄售与展览先问保障
@@ -242,6 +262,6 @@
 
 ## 本轮核验范围与限制
 
-本轮核对美国海关法规第148.1、148.11、148.31及148.33条；法规页面显示更新至2026-09-17。海关帮助文章未成功读取，已移除以其为依据的未核实细节。各州酒类规则、中国海关要求、假冒商品例外、个别保单与估价税务标准未逐一核实，相关段落保留为核对问题，不作资格或赔付保证。其余为一般档案与交接建议。
+本轮已重新核对 CBP Form 4457、Customs Duty / duty-free / alcohol / prohibited-items 页面、19 CFR Part 148、NAIC valuables / home inventory / homeowners resources、IRS noncash-donation appraisal / Form 8283 入口，以及 Fish & Wildlife 的象牙 / wildlife-material 限制入口。各州酒类规则、中国海关要求、其他受保护材料、运输合同、个别 collection policy、拍卖 / 寄售合同与非慈善用途估价标准仍须逐项核验；本章不作真伪、市场价值或赔付保证。
 
 最后编辑与来源查阅：2026-09-21
