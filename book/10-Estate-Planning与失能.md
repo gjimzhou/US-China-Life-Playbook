@@ -51,7 +51,16 @@
 
 特别讨论赠与、资产转移和受益人变更是否允许，是否要求向另一位可信赖的人定期报告。不要为方便而授予超出本意的权限，也不把共享密码当成合法授权。
 
-**继续看：** [CFPB：What is a Power of Attorney?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [CFPB：Managing Someone Else’s Money — POA / trustee / guardian guides](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [CFPB：What is a fiduciary?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-fiduciary-en-1769/)。
+**还要列出“机构自己的代理制度”。** 一份州法下有效的 financial POA 并不自动让 agent 有权处理所有联邦福利或机构账户。例如 Social Security Administration 明确规定：
+
+- ordinary power of attorney、authorized representative 或与 beneficiary 的 joint bank account，**都不等于 SSA representative payee**；
+- 当 SSA 认定 beneficiary 无法管理或指导他人管理 Social Security / SSI payments 时，想代为接收和管理 benefits 的个人或机构必须向 SSA 申请，并由 SSA 正式 appoint 为 representative payee；
+- representative payee 的权限反过来也只针对 Social Security / SSI benefits，不自动授权处理 beneficiary 的其他银行、投资、税务或医疗事项；
+- 有行为能力的 Social Security / SSI / Special Veterans Benefits applicant 或 beneficiary，可以提前 **advance designate 最多 3 名**未来可能担任 representative payee 的人。SSA 将来需要 appoint payee 时会优先考虑这些人，但 designation 本身不是 appointment，也不是 POA。
+
+这说明 estate / incapacity planning 应做一张“authority map”：银行 / 券商看 POA 与账户规则，医疗看 health-care proxy / advance directive，SSA 看 representative payee，税务代理看 IRS 自己的授权制度。不要只把一份 durable POA 放进保险柜就认为全部机构都已解决。
+
+**继续看：** [CFPB：What is a Power of Attorney?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [CFPB：Managing Someone Else’s Money — POA / trustee / guardian guides](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [SSA：Representative Payee FAQs — POA is not payee authority](https://www.ssa.gov/payee/faqrep.htm) · [SSA：Advance Designation of Representative Payee](https://www.ssa.gov/payee/advance_designation.htm) · [CFPB：What is a fiduciary?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-fiduciary-en-1769/)。
 
 ## 6. 遗嘱不能单独代表全部资产安排
 
@@ -164,4 +173,4 @@
 
 **入口汇总：** [NIA Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 estate / gift tax：basic exclusion amount 为 $15,000,000；annual gift exclusion 为 $19,000 per donee；qualifying gifts to a non-U.S.-citizen spouse 的 2026 annual exclusion 为 $194,000，并明确“超过 annual exclusion ≠ 立即产生 gift-tax bill”。另核对 NIH / NIA advance-care-planning、CFPB POA / fiduciary / Managing Someone Else’s Money、DOL retirement-benefit 及州律师 / 数字遗产入口。遗嘱、POA、见证、公证、受益人、probate、trust、州 estate / inheritance tax 和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 estate / gift tax：basic exclusion amount 为 $15,000,000；annual gift exclusion 为 $19,000 per donee；qualifying gifts to a non-U.S.-citizen spouse 的 2026 annual exclusion 为 $194,000，并明确“超过 annual exclusion ≠ 立即产生 gift-tax bill”。同时补核 SSA representative-payee制度：ordinary POA / authorized representative / joint account 不等于 SSA payee authority；beneficiary 可 advance designate 最多 3 名未来候选 payee，但仍由 SSA 决定是否 appoint。另核对 NIH / NIA advance-care-planning、CFPB POA / fiduciary / Managing Someone Else’s Money、DOL retirement-benefit 及州律师 / 数字遗产入口。遗嘱、POA、见证、公证、受益人、probate、trust、州 estate / inheritance tax 和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
