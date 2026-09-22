@@ -144,15 +144,21 @@
 
 ## 17. 免税额度不是免申报
 
-申报与是否缴税是两件事。适用免税待遇还取决于身份、行程、物品和其他条件，不应以“金额不大”或“已经拆包装”为由省略说明。
+申报与是否缴税是两件事。CBP 于 2026-02-27 更新的 consumer guidance 说明，returning U.S. resident 的 personal duty-free exemption **多数情况为 800 美元**，但根据访问地区等因素也可能是 200 或 1,600 美元。常见 800 美元 exemption 还要求物品用于本人 / 家庭或赠礼、随本人携带、已向 CBP 申报，通常境外停留至少 48 小时，并且过去 30 天未使用全部或部分 exemption；Mexico、U.S. Virgin Islands 等存在特定例外。
 
-**继续看：** [CBP：Duty-Free Exemption](https://www.help.cbp.gov/s/article/Article-1402?language=en_US) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [19 CFR Part 148](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。免税额度与申报义务是不同问题。
+所以不要把“$800”背成无条件规则，更不要把“低于 $800”理解为不用申报。境外购买、获赠、修理 / 改装和需要申报的受限制物品，都先如实说明，由 CBP 判断具体 exemption 与 duty。
+
+**继续看：** [CBP：Duty-Free Exemption — 2026-02-27 updated guidance](https://www.help.cbp.gov/s/article/Article-1402?language=en_US) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [19 CFR Part 148](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
 
 ---
 
 ## 18. 酒类携带逐项确认
 
-出发前向美国海关、入境州酒类主管机构及航空公司核对年龄、数量、税费、个人或商业用途、携带与运输要求。本章不提供通用于所有口岸的酒类数量表；中国出入境也需另外核对。
+出发前向美国海关、入境州酒类主管机构及航空公司核对年龄、数量、税费、个人或商业用途、携带与运输要求。
+
+CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅供个人使用且不违反入境州法律时，**1 liter alcoholic beverage 通常可包含在 duty-free personal exemption 内**。超过这一 duty-free 数量并不自动等于禁止携带：额外酒类可能需要缴 Customs duty 与 Internal Revenue Tax；联邦层面并没有为所有 personal-use alcohol 设一个统一绝对数量上限，但 unusually large quantities 可能使 CBP 判断为 commercial purpose，并触发 permit / formal entry 等要求。州法还可能比联邦规则更严格。
+
+因此本章不把“1 liter”写成携带总量上限，也不提供通用于所有口岸的酒类数量表。中国出入境、航空运输与目的地规则也需另外核对。
 
 **美国入口：** [CBP：Bringing alcohol into the U.S. for personal use](https://www.help.cbp.gov/s/article/Article-1395?language=en_US) · [CBP：Requirements for importing alcohol for personal use](https://www.help.cbp.gov/s/article/Article-1403?language=en_US) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。州 ABC 规则仍需另查。
 
@@ -304,6 +310,6 @@
 
 ## 本轮核验范围与限制
 
-本轮已重新核对 CBP Form 4457 当前 landing page、2025-11-04 更新的个人物品出境前登记说明、Customs Duty / duty-free / alcohol / prohibited-items 页面、19 CFR Part 148、NAIC valuables / home inventory / homeowners resources、IRS noncash-donation appraisal / Form 8283 入口，以及 Fish & Wildlife 的象牙 / wildlife-material 限制入口。各州酒类规则、中国海关要求、其他受保护材料、运输合同、个别 collection policy、拍卖 / 寄售合同与非慈善用途估价标准仍须逐项核验；本章不作真伪、市场价值或赔付保证。
+本轮已重新核对 CBP Form 4457 当前 landing page、2025-11-04 更新的个人物品出境前登记说明，以及 CBP **2026-02-27** 更新的 Duty-Free Exemption guidance：returning U.S. resident 多数情况 personal exemption 为 $800，但存在 $200 / $1,600 等情形和 48-hour / 30-day 等条件；免税不等于免申报。酒类部分重新核对 CBP 当前规则：符合条件时一般 1 liter 可纳入 duty-free allowance，但超出不等于自动禁止，仍可能缴 duty / IRT，并受州法与 commercial-purpose 判断影响。另核对 Customs Duty / prohibited-items、19 CFR Part 148、NAIC valuables / home inventory / homeowners resources、IRS noncash-donation appraisal / Form 8283，以及 Fish & Wildlife 的象牙 / wildlife-material 限制入口。各州酒类规则、中国海关要求、其他受保护材料、运输合同、个别 collection policy、拍卖 / 寄售合同与非慈善用途估价标准仍须逐项核验；本章不作真伪、市场价值或赔付保证。
 
 最后编辑与来源查阅：2026-09-21
