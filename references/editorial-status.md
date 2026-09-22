@@ -141,6 +141,12 @@
 - **第02章预防医学：** 重新核对 USPSTF 当前 final screening baselines：breast 40–74 biennial（2024）、colorectal 45–75 routine / 76–85 selective（2021）、lung 50–80 + ≥20 pack-year + current / quit <15y annual LDCT（2021）、osteoporosis women 65+ / younger postmenopausal increased-risk pathway（2025）；cervical 当前 final 页面仍为 2018 recommendation。该表明确只是 USPSTF baseline，不替代高风险或有症状诊断。
 - **第06章病历连续性：** 重新核对 HIPAA Right of Access。Covered entity 通常须在 30 calendar days 内处理；只允许一次、最多额外 30 天 extension 并须书面说明；copy fee 只能为规定范围内 reasonable cost-based costs，不能加入 search / retrieval / verification / infrastructure；OCR privacy complaint 当前一般 180 天内提交，good cause 可例外。
 
+
+- **第01章家庭安全：** 重新核对 USFA / CDC 2026 guidance。Smoke alarm 至少每月测试、每 10 年更换整机；CO alarm 在 sleeping area 外及每层设置并至少每月测试；portable generator 必须室外并距 doors / windows / vents 至少 20 ft，garage 内开门使用也不安全。
+- **第08章车辆：** 补核 NHTSA post-crash car-seat 与 recall rules。Moderate / severe crash 后 car seat 应更换；minor crash 必须同时满足 5 项 NHTSA 条件且仍服从 manufacturer instructions。Federal safety-recall free remedy 一般有 first-sale 后 15 年年龄限制，NHTSA lookup 也不是完整历史 recall / service-campaign 数据库。
+- **第36章买房：** 继续拆清三个容易混淆的“3 days”：Closing Disclosure 是 closing 前至少 3 business days 收到；purchase-money mortgage closing 后没有一般联邦 3-day rescission；certain refinance / home-equity transactions 才可能有 3-business-day rescission。Regulation B 对 first-lien dwelling appraisal / written valuation copy 还要求 promptly upon completion 或最迟 closing 前 3 business days 提供（取较早者，waiver / HPML 另有规则）。
+- **第39章 Household Payroll：** 除 2026 FICA / FUTA 数字外，补核 I-9 和年度申报日历。I-9 Section 1 最迟 first day、Section 2 通常 3 business days；离职后 retention = hire+3y / termination+1y 取更晚；2026-08-01 起当前表格为 edition 08/01/23、expiration 05/31/2027。2026 W-2/W-3 due 2027-02-01，Schedule H 一般 2027-04-15 随 federal return 申报。
+
 ## 本轮收尾与后续核验
 
 1. 已完成全部11份清单的逐段对照与中文校订，补入对账、福利兑现和事件跟踪表。
