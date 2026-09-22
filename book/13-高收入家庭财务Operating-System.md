@@ -115,6 +115,34 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 **退休 / HSA 继续看：** [IRS：2026 retirement plan limits — IR-2025-111](https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500) · [IRS：COLA limits by plan type](https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions) · [IRS：Catch-up contributions — 含 2026 Roth catch-up rule](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions) · [IRS：IRA contribution limits](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits) · [U.S. Department of Labor：Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Publication 969：HSA](https://www.irs.gov/publications/p969)。具体 plan 资格、供款来源与 employer rules 仍按当年 plan documents 核对。
 
+### 退休账户还要维护 RMD 日历
+
+供款上限和 required minimum distribution（RMD）是两套完全不同的规则。家庭成员接近适用年龄、退休或继承退休账户时，应把 RMD 单独放进年度税务日历。
+
+**原账户持有人（original owner）的当前基线：**
+
+- SECURE 2.0 的 applicable age 分 cohort：**1951–1959 年出生者一般为 73 岁；1960 年及以后出生者一般为 75 岁**。早期 cohort 受旧的 70½ / 72 岁规则影响，不要只拿出生年份口诀替代本人历史。
+- Traditional IRA、SEP IRA、SIMPLE IRA 一般没有“我还在工作所以可以一直不拿”的例外；到 applicable age 后仍须处理 RMD。
+- 401(k)、403(b) 等部分 employer plan 通常可把 required beginning date 延到退休后的次年 4 月 1 日，但 **5% owner** 没有这项 still-working exception，且实际 plan terms 可能要求更早开始。
+- 第一笔 RMD 一般可以延到达到 applicable age 那一年的**次年 4 月 1 日**；但如果这样做，同一个次年还要在 **12 月 31 日**前拿第二笔 RMD，形成同一年两笔 taxable distributions。并不是“延期一年就少拿一年”。
+- Original owner 的 **Roth IRA** 不需要 lifetime RMD；自 2024 年起，401(k) / 403(b) 等 plan 中的 **designated Roth account** 在 original owner 生前也不再要求 RMD。Beneficiary rules 仍然适用，不能把“Roth 无 RMD”延伸为继承后永远不用分配。
+- RMD 通常按上一年 12 月 31 日账户余额除以 IRS life-expectancy / distribution-period factor 计算；多个 IRA 的 RMD 要逐个算，某些 IRA 可以合并实际提款满足总额，但 employer plans 通常要分别满足，不能随意跨账户抵。
+
+**Inherited IRA / inherited plan 先做四个判断，不要只背“十年清空”：**
+
+1. 原 owner 何时死亡，是否在 2019 年后；
+2. 原 owner 死亡时是否已到 required beginning date；
+3. beneficiary 是 surviving spouse、minor child、disabled / chronically ill person、与 owner 年龄相差不超过 10 年的 eligible designated beneficiary，还是普通 designated beneficiary / trust / estate；
+4. 适用的是 life-expectancy path、10-year rule、5-year rule，还是其他 plan-specific route。
+
+对 2019 年后死亡的 owner，很多**非 eligible designated beneficiary**适用 10-year rule：账户最迟须在 owner 死亡后的第 10 个日历年年底清空。但这**不等于十年内可以永远一分钱不取**：如果 owner 在 required beginning date **之前**死亡且 10-year rule 适用，IRS 当前规则通常不要求第 1–9 年逐年提款；如果 owner 在 required beginning date **当日或之后**死亡，适用 beneficiary 可能既要在十年内清空，又要在中间年份继续按规则拿 annual RMD。Surviving spouse 等 eligible designated beneficiary 还有额外选择，必须按具体 beneficiary 类型核对。
+
+Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribution rules 仍适用，只是 original Roth owner 被视为在 required beginning date 前死亡来套相应规则。
+
+**漏拿 RMD 的代价：** 当前一般 excise tax 为 shortfall 的 **25%**；若在 correction window 内完成 corrective distribution 并按要求申报，可降为 **10%**。合理错误且正在纠正时还可能通过 Form 5329 请求 waiver，但不是自动免罚。发现漏拿时应尽快联系 custodian / tax professional，而不是等下一年“多拿一点”自行抵掉。
+
+**RMD 直接核对：** [IRS：Required Minimum Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：RMD FAQs](https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs) · [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [IRS Publication 590-B](https://www.irs.gov/publications/p590b) · [IRS Form 5329](https://www.irs.gov/forms-pubs/about-form-5329)。
+
 ## 10. 联名账户不能替代遗产与失能规划
 
 联名、受益人指定和授权解决的是不同问题。修改账户所有权前，请专业人士核对访问权限、继承、债务责任和税务影响，不要为了“方便家人”随意加名。
@@ -202,7 +230,8 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 - [ ] 预缴税与最终补款有独立预算和日期。
 - [ ] 大额转账有独立确认规则。
 - [ ] 自动还款、订阅和跨境资产定期复查。
+- [ ] 接近 RMD applicable age、退休或继承退休账户时，已建立逐账户 RMD / beneficiary-distribution 日历。
 
 **入口汇总：** [FDIC EDIE](https://edie.fdic.gov/) · [SIPC Member Search](https://www.sipc.org/list-of-members) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 FDIC / SIPC、SEC cash-sweep 与 IRS 2026 retirement limits：FDIC standard amount $250,000 per depositor / insured bank / ownership category；2024-04-01 trust category 新规则通常每 owner × eligible beneficiary × $250,000，5+ beneficiary 时 capped at $1.25m / owner / bank；SIPC $500,000 per customer（其中 cash claim $250,000）。2026 401(k)/403(b)/governmental 457/TSP elective-deferral limit $24,500，一般 catch-up $8,000、age 60–63 $11,250；多数 applicable defined-contribution annual additions $72,000；IRA $7,500 + age-50 catch-up $1,100；prior-year sponsor wages >$150,000 的适用 2026 catch-up participant 需注意 Roth catch-up requirement。另核对 IRS withholding / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB、DOL EBSA、FINRA / SEC 及 FinCEN / Form 8938。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 FDIC / SIPC、SEC cash-sweep 与 IRS 2026 retirement rules：FDIC standard amount $250,000 per depositor / insured bank / ownership category；2024-04-01 trust category 新规则通常每 owner × eligible beneficiary × $250,000，5+ beneficiary 时 capped at $1.25m / owner / bank；SIPC $500,000 per customer（其中 cash claim $250,000）。2026 401(k)/403(b)/governmental 457/TSP elective-deferral limit $24,500，一般 catch-up $8,000、age 60–63 $11,250；多数 applicable defined-contribution annual additions $72,000；IRA $7,500 + age-50 catch-up $1,100；prior-year sponsor wages >$150,000 的适用 2026 catch-up participant 需注意 Roth catch-up requirement。新增 RMD / beneficiary distribution audit：1951–1959 cohort applicable age 73、1960+ cohort 75；first RMD 可延到次年 4/1 但会与该年 12/31 RMD 重叠；original-owner Roth IRA / designated Roth account 无 lifetime RMD；多数 post-2019 non-eligible designated beneficiaries 受 10-year rule，但 owner 是否已到 required beginning date 会影响中间年度是否仍需 annual RMD；shortfall excise tax 一般 25%，timely correction 可降为 10%，reasonable-error waiver 另按 Form 5329。另核对 IRS withholding / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB、DOL EBSA、FINRA / SEC 及 FinCEN / Form 8938。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。
