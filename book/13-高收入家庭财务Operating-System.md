@@ -19,11 +19,13 @@
 
 **优先级：** P1
 
-联邦存款保险公司（FDIC）的标准保障以每位存款人、每家受保银行、每种所有权类别 25 万美元为基础，并有类别条件。同一家银行不同分行或多个同类别账户，并不会因此各获得一份限额。
+联邦存款保险公司（FDIC）的标准保障以每位存款人、每家受保银行、每种所有权类别 **250,000 美元**为基础，并有类别条件。同一家银行不同分行或多个同类别账户，并不会因此各获得一份限额。
 
-奖金、售房款或购房首付款到账后，重新核对合计余额、利息和账户所有权。
+**Trust-account 规则不要沿用 2024 年以前的旧分类经验。** 自 2024-04-01 起，FDIC 把多数 revocable trust、irrevocable trust 以及 POD / ITF 等 informal trust deposits 统一放进一个 trust accounts category。一般计算为每位 owner × 每位 eligible beneficiary × 250,000 美元；每位 owner 最多按 5 位 beneficiary 计算，因此同一受保银行的 trust deposits 通常最高 **1,250,000 美元 / owner**。同一 owner 在该银行持有的适用 revocable / irrevocable / POD-ITF trust deposits 要合并考虑，不是每份 trust 各拿一套额度。
 
-**直接计算 / 查询：** [FDIC EDIE：Electronic Deposit Insurance Estimator](https://edie.fdic.gov/) · [FDIC：Deposit Insurance at a Glance](https://www.fdic.gov/resources/deposit-insurance/brochures/deposits-at-a-glance/) · [FDIC BankFind Suite](https://banks.data.fdic.gov/bankfind-suite/bankfind)。复杂联名、信托或代客存款安排需进一步确认条件。
+奖金、售房款或购房首付款到账后，重新核对合计余额、利息和账户所有权；婚姻、信托、POD/TOD 或大额 sweep 改动后也重新跑一次计算。
+
+**直接计算 / 查询：** [FDIC EDIE：Electronic Deposit Insurance Estimator](https://edie.fdic.gov/) · [FDIC：Deposit Insurance at a Glance](https://www.fdic.gov/consumer-resource-center/deposit-insurance-glance) · [FDIC：Your Insured Deposits — 含 2024 trust-rule change](https://www.fdic.gov/resources/deposit-insurance/brochures/insured-deposits) · [FDIC：Trust Accounts](https://www.fdic.gov/financial-institution-employees-guide-deposit-insurance/trust-accounts) · [FDIC BankFind Suite](https://banks.data.fdic.gov/bankfind-suite/bankfind)。联名、retirement、trust、pass-through 与 sweep 结构复杂时不要只靠口算。
 
 存款保险应对受保银行倒闭，并不是交易诈骗的通用赔偿机制。
 
@@ -37,9 +39,17 @@
 | 短期国债或持有国债的基金 | 证券类型、到期或卖出时间、价格波动与结算安排 |
 | 券商未投资现金 | 券商会员资格、持有目的和适用保护规则 |
 
-FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针对会员券商清算中缺失的客户证券及现金提供有限保护，标准上限为 50 万美元，其中现金上限 25 万美元；它不补偿市场下跌或不当投资建议造成的损失。
+FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针对会员券商清算中缺失的客户证券及现金提供有限保护，当前标准上限为 **500,000 美元 / customer**，其中 cash claim 上限 **250,000 美元**；它不补偿市场下跌或不当投资建议造成的损失。
 
-**继续看 / 核验：** [FDIC：What Is Not Insured by the FDIC](https://www.fdic.gov/resources/deposit-insurance/financial-products-not-insured) · [SIPC：What SIPC Protects](https://www.sipc.org/for-investors/what-sipc-protects) · [SIPC：Member Search](https://www.sipc.org/list-of-members)。不要只凭应用里写着“现金”就推定保障。
+2025 年 SEC / Investor.gov 的 cash-sweep bulletin 把常见三种情形区分得很清楚：
+
+- **Bank sweep：** 券商把未投资现金实际扫到一家或多家银行。资金一旦在银行 deposit account 中，主要看该接收银行的 FDIC coverage、ownership category 及你在该银行已有的其他存款；这笔 bank-sweep cash 不因“从券商界面看到”就仍受 SIPC 保护。
+- **Money market fund sweep：** 买入的是 money market mutual fund，属于证券，不是 FDIC-insured bank deposit；在 SIPC member failure 场景中可按证券客户财产规则获得 SIPC protection，但仍有基金自身市场 / liquidity 风险。
+- **Free credit balance / cash 留在券商：** 若留在 SIPC member brokerage、用于购买证券的 cash，通常属于 SIPC 保护讨论范围，仍受 $500k overall / $250k cash limits 与客户类别等规则约束。
+
+同一个 brokerage app 里写着“cash”，实际法律结构可能完全不同；还要比较 sweep rate、参与银行、是否可选择其他 core position 以及账户是否收 asset-based fee。
+
+**继续看 / 核验：** [Investor.gov：Cash Sweep Programs for Uninvested Cash — 2025-05-14](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/cash-sweep-programs-uninvested-cash-your-investment-accounts-investor-bulletin) · [Investor.gov / SIPC：SIPC Basics](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/investor-bulletin-sipc-protection-part-1-sipc-basics) · [FDIC：What Is Not Insured by the FDIC](https://www.fdic.gov/resources/deposit-insurance/financial-products-not-insured) · [SIPC：What SIPC Protects](https://www.sipc.org/for-investors/what-sipc-protects) · [SIPC：Member Search](https://www.sipc.org/list-of-members)。
 
 ## 4. 税款要在收入发生的年度安排
 
@@ -186,4 +196,4 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 **入口汇总：** [FDIC EDIE](https://edie.fdic.gov/) · [SIPC Member Search](https://www.sipc.org/list-of-members) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
-最后编辑与来源核验：2026-09-21。已补入并核对 FDIC EDIE / BankFind、SIPC protection / member search、IRS withholding estimator / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB 信用卡争议、DOL EBSA、FINRA / SEC 核验及 FinCEN / Form 8938 入口。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 FDIC / SIPC 与 2025 SEC cash-sweep guidance：FDIC standard amount 仍为 $250,000 per depositor / insured bank / ownership category；2024-04-01 起 trust accounts 采用统一规则，通常每 owner × eligible beneficiary × $250,000，5 位或更多 beneficiary 时 capped at $1.25m / owner / bank；SIPC 当前仍为 $500,000 per customer（其中 cash claim $250,000）。同时明确 bank sweep、money-market fund sweep 与 brokerage free-credit balance 的保护体系不同。另核对 IRS withholding / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB 信用卡争议、DOL EBSA、FINRA / SEC 及 FinCEN / Form 8938 入口。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。
