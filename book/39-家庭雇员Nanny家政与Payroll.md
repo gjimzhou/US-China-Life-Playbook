@@ -40,11 +40,13 @@
 
 ## 5. 谈清税前工资与雇主总成本
 
-适用时，社会保障税一般由雇员和雇主各负担6.2%，医疗保险税一般各1.45%；另有工资基数上限和附加医疗保险税等规则。雇主预算还应包含加班、保险、报销和服务费。
+适用时，2026 年社会保障税（Social Security）一般由雇员和雇主各负担 6.2%，医疗保险税（Medicare）一般各 1.45%，即双方常规 FICA 各为 7.65%。2026 Social Security wage base 为 **184,500 美元**；Medicare 没有同样的 wage-base ceiling。对同一员工在一个日历年支付超过 **200,000 美元**的适用工资时，household employer 还需从超过部分开始代扣 **0.9% Additional Medicare Tax**，这一额外税只有 employee share，没有 employer match。
 
-合同明确报出的时薪是税前工资（Gross Pay）还是约定到手金额，后者须先请服务商计算。联邦所得税预扣与上述工资税不同，家庭雇佣并非一律必须预扣。
+FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名 household employee 的前 **7,000 美元** FUTA wages 计算，statutory rate 为 6%；若满足 state unemployment contribution credit 等条件，联邦净 FUTA rate 可能显著降低，credit-reduction state 又可能改变结果。不要直接拿 6% × 全年工资当家庭最终 FUTA 成本。
 
-**计算依据：** [IRS Publication 926 (2026)](https://www.irs.gov/publications/p926) · [IRS：Publication 15-T — Federal Income Tax Withholding Methods](https://www.irs.gov/publications/p15t)。
+雇主预算还应包含州 unemployment、workers’ compensation、最低工资 / overtime、保险、报销和 payroll service fee。合同明确报出的时薪是税前工资（Gross Pay）还是约定到手金额，后者须先请服务商计算。联邦所得税预扣与上述工资税不同，家庭雇佣并非一律必须预扣。
+
+**计算依据：** [IRS Publication 926 (2026)](https://www.irs.gov/publications/p926) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [IRS：Publication 15-T — Federal Income Tax Withholding Methods](https://www.irs.gov/publications/p15t)。
 
 ---
 
@@ -255,6 +257,6 @@
 
 ## 本轮核验范围与限制
 
-本轮已重新核对 IRS 2026 Publication 926、EIN / Schedule H / household-employee 分类入口，USCIS I-9 Central，以及 DOL Domestic Service Fact Sheets #79B / #79C / #79D 与 29 CFR Part 552，并补入 SSA W-2 filing、FTC / EEOC background-check 和州工伤入口。各州与城市的最低工资、加班、带薪假、工资单、工伤、失业保险、住家住房权利、录音 / 摄像和 final-pay 规则仍须按实际工作地址核验；联邦税务门槛不是全国统一的劳动法豁免线。
+本轮已重新核对 IRS 2026 Publication 926、EIN / Schedule H / household-employee 分类入口，USCIS I-9 Central，以及 DOL Domestic Service Fact Sheets #79B / #79C / #79D 与 29 CFR Part 552。第三轮又核对 2026 payroll 数字：同一 household employee 的 FICA trigger 为 $3,000 cash wages；Social Security wage base $184,500；常规 FICA 双方各 7.65%；employee wages 超过 $200,000 时 household employer 需代扣 0.9% Additional Medicare Tax；FUTA trigger 为 2025 或 2026 任一季度全部 household employees 合计 $1,000，触发后通常对每名员工前 $7,000 FUTA wages 计算，state credit / credit-reduction rules 另行影响净税。另补入 SSA W-2 filing、FTC / EEOC background-check 和州工伤入口。各州与城市的最低工资、加班、带薪假、工资单、工伤、失业保险、住家住房权利、录音 / 摄像和 final-pay 规则仍须按实际工作地址核验；联邦税务门槛不是全国统一的劳动法豁免线。
 
 最后编辑与来源查阅：2026-09-21
