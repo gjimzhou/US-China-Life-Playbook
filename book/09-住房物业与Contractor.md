@@ -162,7 +162,21 @@
 
 **搬家入口：** [USPS：Official Change of Address](https://moversguide.usps.com/) · [USA.gov：Change your address](https://www.usa.gov/change-address)。保险、车辆、税务和其他机构仍需分别更新。
 
-## 20. 最小执行集与核验范围
+## 20. 租房要从看房一直覆盖到押金结清
+
+租客最容易缺的不是“房子坏了找谁”，而是完整 lifecycle：申请前核实费用与承诺、签约读 lease、入住建立 condition evidence、租期中书面报修、转租／提前解约、退租、押金与最终账单。
+
+**直接使用：** [租房全流程清单](../checklists/rental-lifecycle.md) · [USA.gov：Tenant rights / landlord complaints](https://www.usa.gov/tenant-rights)。
+
+租客权利高度州和地方化。尤其是 notice period、security deposit、rent increase、repair remedies、sublease、early termination 和 eviction，不从其他州案例抄固定天数或金额。
+
+## 21. 收到 landlord notice 或法院文件要切换到“正式文件模式”
+
+当天保存完整文件、信封／电子送达记录和收到日期，区分 ordinary management communication、termination / demand notice 与真正 court papers。正在与物业协商，不等于答辩或出庭 deadline 自动停止。
+
+先从所在地法院 self-help、tenant-rights agency、legal aid 或合格律师确认下一步。正式文件的一般处理方式同时见[第30章第11节](30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件)。
+
+## 22. 最小执行集与核验范围
 
 - [ ] 取得住房责任文件与夜间紧急入口。
 - [ ] 知道阀门位置及操作边界。
@@ -172,4 +186,4 @@
 
 **入口汇总：** [USA.gov State & Local Governments](https://www.usa.gov/state-local-governments) · [FTC Home Improvement](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC State Insurance Departments](https://content.naic.org/state-insurance-departments) · [USFA Home Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/)。
 
-最后编辑与来源核验：2026-09-21。第三轮新增核对 EPA RRP：paid work 在多数 pre-1978 housing / child-occupied facilities 扰动 covered painted surfaces 时须判断 lead-safe certification / work-practice requirements；minor-repair threshold 一般为每房间 ≤6 sq ft interior 或 ≤20 sq ft exterior，但 window replacement、painted-surface demolition 和 prohibited practices 不适用该小面积豁免；EPA lead-safe renovation materials 已于 2026-03 更新。另核对 FTC Home Improvement / disaster-repair scam、USA.gov state-local / consumer protection、NAIC insurance regulator 与 USPS move 入口。各地许可、租赁义务、lead rules、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。
+最后编辑与来源核验：2026-09-21。新增租房 lifecycle、正式 notice / eviction 分流与独立清单；第三轮新增核对 EPA RRP：paid work 在多数 pre-1978 housing / child-occupied facilities 扰动 covered painted surfaces 时须判断 lead-safe certification / work-practice requirements；minor-repair threshold 一般为每房间 ≤6 sq ft interior 或 ≤20 sq ft exterior，但 window replacement、painted-surface demolition 和 prohibited practices 不适用该小面积豁免；EPA lead-safe renovation materials 已于 2026-03 更新。另核对 FTC Home Improvement / disaster-repair scam、USA.gov state-local / consumer protection、NAIC insurance regulator 与 USPS move 入口。各地许可、租赁义务、lead rules、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。
