@@ -10,7 +10,15 @@
 
 核对税务申报、工资预扣、雇主福利、医疗和其他保险、退休受益人、遗产文件、银行权限及紧急联系人。逐项记录生效日期与接收确认。参见[结婚清单](../checklists/marriage-checklist.md)，不要把举行婚礼当成所有机构已获通知。
 
-**结婚后常用入口：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：Retirement Plans and ERISA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。雇主福利的具体期限仍以本人 plan documents 为准。
+**结婚后常用入口：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：HIPAA Special Enrollment FAQ](https://www.dol.gov/node/25144) · [DOL：Retirement Plans and ERISA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。
+
+**医保期限不要把“30 天”和“60 天”混成一个规则：**
+
+- **Job-based group health plan：** HIPAA special enrollment 对 marriage 通常要求 plan 至少提供 **30 天**申请窗口；在这 30 天内提出完整 enrollment request 后，marriage-based coverage 最迟应从 plan 收到申请后的下一个 calendar month 第 1 天生效。雇主 plan 可给更长窗口，所以仍要看 SPD / benefits portal，但不能把 Marketplace 的 60 天直接套进 employer plan。
+- **Marketplace：** HealthCare.gov / CMS 当前规则下，marriage 通常给事件后 **60 天**的 SEP。Federal Marketplace 对 marriage SEP 还通常要求夫妻至少一方在婚前 60 天中有 **至少 1 天 qualifying health coverage**；如果婚前 60 天内曾居住在外国或美国领地、属于 federally recognized tribe / ANCSA shareholder，或符合 CMS 列出的无 QHP service-area 等例外，则 prior-coverage requirement 可能不适用。选定计划后，一般可从 plan selection 后的下月 1 日开始 coverage。
+- **Medicaid / CHIP 相关 group-plan special enrollment：** 因失去 Medicaid / CHIP，或新取得 premium assistance eligibility 而要求加入 employer group health plan，联邦最低 request window 通常是 **60 天**，不是上述 30 天。
+
+**当前规则入口：** [DOL：HIPAA Special Enrollment FAQ — 30 / 60 day rules](https://www.dol.gov/node/25147) · [HealthCare.gov：Marketplace Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：Special Enrollment Periods Job Aid — March 2026](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
 
 ## 2. 共同与个人财务可以组合
 
@@ -116,7 +124,7 @@
 
 比较保费、网络、免赔额、自付上限、常用药物、预计治疗、配偶附加费与雇主供款。另核对健康储蓄账户（HSA）和灵活支出账户（FSA）的资格互动，记录特别参保期限。不要只比较月保费，详见[员工福利](22-工作失业与Employee-Benefits.md)。
 
-**参保 / 资格入口：** [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [IRS Publication 969 — HSA / FSA / HRA](https://www.irs.gov/publications/p969) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)。
+**参保 / 资格入口：** [DOL：HIPAA Special Enrollment FAQ](https://www.dol.gov/node/25147) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：March 2026 SEP Job Aid](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf) · [IRS Publication 969 — HSA / FSA / HRA](https://www.irs.gov/publications/p969) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)。结婚后 employer plan 与 Marketplace 的 enrollment window 不同；第1节已列当前 30 / 60-day 框架。
 
 ## 19. 同时考虑失能和身故场景
 
@@ -169,4 +177,4 @@
 
 **入口汇总：** [ABA Lawyer Referral](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL Retirement Plans](https://www.dol.gov/general/topic/retirement) · [NIA Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)。
 
-最后编辑与来源核验：2026-09-21。已补入并核对 IRS withholding / joint-liability / gift / foreign-gift 入口、DOL 退休计划配偶权益、HealthCare.gov 婚姻特别参保、NIA / CFPB 医疗与财务代理，以及 ABA 州律师转介入口。纽约州第 236 条继续仅作州法示例；婚前协议的签署、披露、婚姻财产分类、跨州 / 跨国效力和具体条款必须按适用地区与事实由各自律师审查。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 marriage health-plan special enrollment：job-based HIPAA plan 对 marriage / birth / adoption / placement 通常至少给 30-day request window；Medicaid / CHIP loss 或 premium-assistance group-plan SEP 通常为 60 days；Marketplace marriage SEP 通常为 60 days，并存在 CMS 当前的 prior-coverage requirement 与例外。另核对 IRS withholding / joint-liability / gift / foreign-gift、DOL 退休计划配偶权益、NIA / CFPB 医疗与财务代理，以及 ABA 州律师转介入口。纽约州第 236 条继续仅作州法示例；婚前协议的签署、披露、婚姻财产分类、跨州 / 跨国效力和具体条款必须按适用地区与事实由各自律师审查。
