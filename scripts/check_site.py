@@ -26,10 +26,16 @@ for doc in docs:
                 continue
             source = root / doc['path']
             target = (source.parent / unquote(url.path)).resolve() if url.path else source
-            if not target.is_relative_to(root) or not target.is_file():
+            if not target.is_relative_to(root):
                 errors.append(f'Missing relative link: {doc["path"]} -> {href}')
                 continue
             relative = target.relative_to(root).as_posix()
+            if not target.is_file():
+                public_target = root / '_site' / relative
+                if relative.startswith('downloads/') and public_target.is_file():
+                    continue
+                errors.append(f'Missing relative link: {doc["path"]} -> {href}')
+                continue
             if url.fragment and relative in by_path:
                 anchors = {s['id'] for s in by_path[relative]['sections']}
                 aliases = {a for s in by_path[relative]['sections'] for a in s['aliases']}
@@ -38,6 +44,21 @@ for doc in docs:
     for line in (root / doc['path']).read_text().splitlines():
         if re.match(r'^#{1,6}\s', line) and re.search(r'[A-Za-z]{3}', line) and not re.search(r'[\u4e00-\u9fff]', line):
             errors.append(f'Untranslated heading: {doc["path"]}: {line}')
+expected_exports = [
+    'US-China-Life-Playbook.epub',
+    'US-China-Life-Playbook.pdf',
+    'US-China-Life-Playbook.docx',
+    'US-China-Life-Playbook.html',
+    'US-China-Life-Playbook.md',
+    'US-China-Life-Playbook-source-markdown.zip',
+    'manifest.json',
+    'SHA256SUMS.txt',
+]
+assert 'DOWNLOADS.md' in by_path, 'Downloads page missing from content bundle'
+for name in expected_exports:
+    p = root / '_site' / 'downloads' / name
+    if not p.is_file() or p.stat().st_size == 0:
+        errors.append(f'Missing export: downloads/{name}')
 app = (root / '_site/app.js').read_text()
 assert repr(assets[0].name) in app, 'App and content bundle must use the same version'
 assert "fetch('data.json')" not in app, 'Unversioned content request'
