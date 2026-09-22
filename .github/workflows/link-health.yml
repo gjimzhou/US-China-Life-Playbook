@@ -6,8 +6,22 @@ on:
     - cron: '17 13 * * 1'
   push:
     paths:
+      - 'book/**/*.md'
+      - 'checklists/**/*.md'
+      - 'references/**/*.md'
+      - 'README.md'
+      - 'HOME.md'
+      - 'DISCLAIMER.md'
+      - 'METHODOLOGY.md'
+      - 'STYLE.md'
+      - 'CONTRIBUTING.md'
+      - 'GLOSSARY.md'
       - 'scripts/check_external_links.py'
       - '.github/workflows/link-health.yml'
+
+concurrency:
+  group: external-link-health-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read
