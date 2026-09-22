@@ -129,6 +129,10 @@
 | 车辆抛锚／被拖／boot／罚单 | [车辆抛锚、拖车与罚单清单](checklists/vehicle-roadside-ticket-tow.md) |
 | 宠物走失 | [宠物走失清单](checklists/lost-pet.md) |
 | 盗窃／入室／袭击／家人失踪 | [犯罪受害与失踪处理清单](checklists/crime-victim.md) |
+| 工伤／职业病／突然无法工作 | [工伤与请假清单](checklists/workplace-injury-leave.md) |
+| 药品缺货／refill／PA／旅行丢药 | [药物获取失败清单](checklists/medication-access-problem.md) |
+| Jury summons／subpoena／法院通知 | [Jury 与法院通知清单](checklists/jury-court-summons.md) |
+| USCIS RFE／biometrics／interview／NOID | [USCIS Notice 处理清单](checklists/immigration-notice-rfe.md) |
 | 建立家庭基础设施 | [前 30 天](checklists/first-30-days.md) |
 | 定期复查 | [家庭年度复查](checklists/annual-review.md) |
 | 紧急联络与资料 | [家庭紧急信息表](checklists/emergency-sheet.md) |
@@ -165,7 +169,7 @@
 
 保留英文是为了方便检索官方文件与咨询专业人士。中文解释不自动成为法定译名。网址、代码和表格编号保持原样。
 
-详见[写作规范](STYLE.md)与[中英术语表](GLOSSARY.md)。40章正文与现有25份清单均采用本项目语言规范；原有11份已完成此前深度校订，后续新增的14份事件型清单按独立审计状态继续复核。
+详见[写作规范](STYLE.md)与[中英术语表](GLOSSARY.md)。40章正文与现有29份清单均采用本项目语言规范；原有11份已完成此前深度校订，后续新增的18份事件型清单按独立审计状态继续复核。
 
 ## 来源与更新
 
@@ -199,7 +203,7 @@
 
 **v0.4：reader-facing reference pass 与 section-level boundary pass 已完成，进入第三轮动态事实 / link-health 质量审计。**
 
-目前有40章正文、25份执行清单，以及方法论、来源原则、术语表和贡献规范。**原有40 / 40章 + 11 / 11清单已完成既定首轮 reference pass；后续新增的14份事件型清单已接入关键官方／专业入口并进入逐项审计**：高后果事项优先直达政府 / 监管 / 专业机构的解释、表格、计算器、查询、投诉或办理入口；社交和家庭运营类内容则明确保留为情境化实践建议，不强行包装成统一规则。
+目前有40章正文、29份执行清单，以及方法论、来源原则、术语表和贡献规范。**原有40 / 40章 + 11 / 11清单已完成既定首轮 reference pass；后续新增的18份事件型清单已接入关键官方／专业入口并进入逐项审计**：高后果事项优先直达政府 / 监管 / 专业机构的解释、表格、计算器、查询、投诉或办理入口；社交和家庭运营类内容则明确保留为情境化实践建议，不强行包装成统一规则。
 
 当前维护重点从“补链接”转为**验证链接是否仍有效、动态规则是否仍当前、同类入口是否重复或漂移，以及地方 / 州别 / 个案边界是否表达清楚**。第三轮已开始逐项替换旧 deep-link、历史宣传页和年份写死的附件路径，并重新核对会随年度变化的税务、移民、疫苗、托育和跨境规则。各章末尾继续保留事实核验范围；“首轮完成”不等于全书医学、法律、税务或保险个案已获专业审定。
 
