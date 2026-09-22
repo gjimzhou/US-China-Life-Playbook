@@ -64,7 +64,7 @@
 
 ## 10. 退休受益人不是只看婚前协议
 
-结婚后向计划管理人更新婚姻状态，逐个核对受益人和配偶同意要求。[IRS 退休受益人说明](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)列出不同计划的配偶保护。不要假定婚前协议中的一般放弃条款已满足退休计划的手续，也不要把 401(k) 规则直接套到个人退休账户（IRA）。
+结婚后向计划管理人更新婚姻状态，逐个核对受益人和配偶同意要求。IRS 退休受益人说明列出不同计划的配偶保护。不要假定婚前协议中的一般放弃条款已满足退休计划的手续，也不要把 401(k) 规则直接套到个人退休账户（IRA）。
 
 **继续看：** [DOL：Retirement Plans and ERISA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa) · [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。最终以 plan administrator 提供的 beneficiary / spousal-consent 表格为准。
 
