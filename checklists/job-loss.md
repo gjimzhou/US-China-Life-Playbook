@@ -27,11 +27,15 @@
 - [ ] 逐项比较期限、生效日、医生网络、自付成本及已累计额度。
 - [ ] 确认选择已受理、首期款已付且实际生效，不只保留申请截图。
 
+**医保入口：** [DOL：COBRA](https://www.dol.gov/general/topic/health-plans/cobra) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL EBSA：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
+
 ## 现金与税务
 
 - [ ] 计算合法可用现金、固定支出、税款预留及预计到账款项。
 - [ ] 区分确定的离职补偿与尚未确认奖金或股权，按需要暂停可选大额支出。
 - [ ] 更新预扣、预缴和跨州工作或居住估算，不因短期冲击立即出售全部投资。
+
+**税务入口：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes)。
 
 ## 需要专业审阅的事项
 
@@ -39,11 +43,15 @@
 - [ ] 身份相关问题及时咨询移民专业人士，不能等待人事部门替自己作法律判断。
 - [ ] 不因对方催促而签署未理解的复杂文件。
 
+**专业入口：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [USCIS：Find Legal Services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services)。
+
 ## 福利与政府事项
 
 - [ ] 查询适用失业保险和州福利，记录受理状态及补件要求。
 - [ ] 核对健康储蓄／灵活支出账户、退休账户、寿险及失能保障后续选择。
 - [ ] 确认股权、报销和其他福利的实际到账或失效情况。
+
+**政府 / 福利入口：** [USA.gov：Unemployment Benefits](https://www.usa.gov/unemployment-benefits) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。
 
 ## 职业与家庭安排
 
