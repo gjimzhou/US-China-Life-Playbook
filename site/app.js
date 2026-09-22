@@ -20,11 +20,16 @@ function safeMarkdown(text,path){
      const base=new URL('.',location.href);const relative=decodeURIComponent(url.pathname.slice(base.pathname.length));
      node.href=docs.some(d=>d.path===relative)?route(relative,decodeURIComponent(url.hash.slice(1))):repo+relative+url.hash;
     }else if(href.startsWith('#')){node.href=route(path,decodeURIComponent(href.slice(1)));}
-    else{node.href=url.href;node.rel='noopener noreferrer'}
+    else{node.href=url.href;node.rel='noopener noreferrer';if(['http:','https:'].includes(url.protocol)){node.target='_blank';node.classList.add('external')}}
    }catch{node.removeAttribute('href')}
   }
  }
  for(const input of template.content.querySelectorAll('input[type="checkbox"]'))input.closest('li')?.classList.add('task-item');
+ const referenceLabel=/(入口|办理|核验|查询|工具|求助|报案|投诉|参考|继续看|官方|去办|查资格|查风险|查州|找专业|找本地|外部|第一站|一键|直接|培训|学习|规则说明)/;
+ for(const p of template.content.querySelectorAll('p')){
+  const first=p.firstElementChild;
+  if(first?.tagName==='STRONG'&&referenceLabel.test(first.textContent.trim()))p.classList.add('reference-links');
+ }
  return template.content;
 }
 const topics=[['生存、健康与医疗',1,6],['保险、责任、住房与车辆',7,10],['政府办事、财务与数字安全',11,16],['宠物、父母与家庭',17,21],['工作、家庭与社会关系',22,27],['婚姻、旅行与紧急应对',28,34],['遗产、购房与跨境事务',35,40]];
