@@ -60,9 +60,13 @@
 
 问哪些区域无法进入、哪些系统未运行、哪些迹象需进一步查，以及问题影响安全、近期使用还是长期维护。把重大不确定性、合同检查期限和处理选择交给相应专业人士，不只加总表面维修价格。
 
+**继续看：** [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home) · [EPA：A Citizen’s Guide to Radon](https://www.epa.gov/radon/citizens-guide-radon-guide-protecting-yourself-and-your-family-radon)。一般 inspection 不代表所有专项风险已覆盖。
+
 ## 10. 出现具体信号再安排专项检查
 
 可能需要结构、排水、地下管线、油罐、烟囱、虫害或环境等专项评估，取决于房屋和当地情况。要求一般检查员说明何时需要何种专业人士，核对是否能在合同相关期限内完成。
+
+**本项目实务建议：** 专项检查由房龄、地点、inspection findings 和合同期限触发，不存在全国统一必做清单。环境风险可从 [EPA Home Buyer’s and Seller’s Guide to Radon](https://www.epa.gov/radon/home-buyers-and-sellers-guide-radon) 等官方专题开始。
 
 ## 11. 买公寓也要看整栋楼
 
@@ -74,13 +78,19 @@
 
 低月费可能对应较少服务，也可能有递延维修或储备不足；高月费也不保证管理良好。对照楼况、服务与财务资料，询问已知缺口和资金计划。
 
+**贷款方视角参考：** [Fannie Mae：Condo, Co-op and PUD Eligibility](https://selling-guide.fanniemae.com/sel/b4-2/project-standards)。买方应另外阅读本项目预算、储备、保险、会议记录和特别征费资料。
+
 ## 13. 特别征费要核对分摊规则
 
 确认已批准或讨论中的项目、预算、付款日期、各户分摊方法及买卖双方承担方式。不能简单把总额除以户数当成自己的义务，比例与规则以文件为准。
 
+**本项目实务建议：** special assessment 的金额与承担方由 governing documents、board action、合同和州法共同决定；重大不确定项在签约期限内交给当地律师核对。
+
 ## 14. 公寓总保单与自有单元保单衔接
 
 请保险人士解释公共部分、室内装修、改善工程、总保单免赔额及损失分摊（Loss assessment）分别如何处理。业主单元保单（常见HO-6）不是自动填补所有缺口，需读实际条款。
+
+**保险入口：** [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance) · [State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。master policy 与 HO-6 的边界以两份实际 policy wording 为准。
 
 ## 15. 洪水与其他进水风险分别问
 
@@ -98,13 +108,19 @@
 
 共同购房者与当地律师讨论份额、生存者权利、遗产安排和既有婚姻协议。房契、借款人身份和出资比例分别确认，不让表格默认选项替代决定。
 
+**找当地律师：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。title form、survivorship 与 marital-property consequences 依州法。
+
 ## 18. 首付款来源如实保留记录
 
 按贷款方要求保存对账单、大额入账、资产出售与转账链条，避免临近交割出现无法解释的资金。只提供真实资料，资料传递用已核实的安全渠道。
 
+**申请准备：** [CFPB：Prepare your mortgage application](https://www.consumerfinance.gov/owning-a-home/process/prepare-your-application/) · [Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。source-of-funds 文档范围以实际 lender underwriting request 为准。
+
 ## 19. 父母资金先明确赠与或借款
 
 资金性质、收款对象、偿还义务与产权安排应一致，并由贷款方、律师及税务人士按需要核对。不能为了获批把实际借款写成无偿赠与。
+
+**税务入口：** [IRS：Gift Tax FAQ](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person)。贷款文件则按 lender 对 gift / loan source 的实际要求办理。
 
 ## 20. 锁定利率也有期限和条件
 
@@ -150,18 +166,26 @@
 
 列出屋顶、机电、管道、电器及协会大项目等已知支出，结合检查与专业报价规划。不要机械采用房价某个百分比，也不把预期寿命视为保证；留出不确定事项的余量。
 
+**本项目实务建议：** maintenance reserve 应从 inspection、设备年龄、association capital plan 与已知报价建立，不使用统一“房价 X%”规则。
+
 ## 28. 入住触发保险、法律和门禁更新
 
 确认必要保障已生效，房契与遗产安排一致，门锁、钥匙、设备和紧急维修资料已交接。搬家后的账户与地址变更另按机构办理。
 
+**入住入口：** [USA.gov：Change Your Address](https://www.usa.gov/change-address) · [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance) · [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。
+
 ## 29. 比较自住价值与财务后果
 
 自住房提供居住与地点价值，也带来集中资产、借款与流动性风险。比较未来租买或还贷投资方案时，采用一致期间和假设，不把已花掉的交易成本当成继续持有的唯一理由。
+
+**预算工具：** [CFPB：Figure out how much you want to spend](https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/)。本节是决策框架，不给出买/租投资结论。
 
 ## 30. 分阶段完成与确认
 
 出价前：预算、代理关系、合同与初步融资。签约后：按期限检查房屋、产权、贷款和保险。交割前：解释差异、核实付款、最后查验和必要保障。交割后：收齐文件、确认到账与登记、安排门禁和维护。
 
 具体记录见[买房清单](../checklists/home-purchase.md)。提交申请不等于批准，签字不等于所有后续登记都已完成。
+
+**总流程：** [CFPB：Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home)。
 
 最后编辑与来源核验：2026-09-21。已核对 CFPB Loan Estimate / Closing Disclosure、rate lock、title services、escrow、交割诈骗与预算工具，以及 FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、施工与保险条款仍须按州、合同和具体物业核验；洪水地图用于风险信息，不等同于个别保单承保结论。
