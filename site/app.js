@@ -18,7 +18,8 @@ function safeMarkdown(text,path){
     if(!['https:','http:','mailto:'].includes(url.protocol)){node.replaceWith(document.createTextNode(node.textContent));continue}
     if(!/^[a-z]+:|^\/\//i.test(href)&&!href.startsWith('#')){
      const base=new URL('.',location.href);const relative=decodeURIComponent(url.pathname.slice(base.pathname.length));
-     node.href=docs.some(d=>d.path===relative)?route(relative,decodeURIComponent(url.hash.slice(1))):repo+relative+url.hash;
+     if(relative.startsWith('downloads/')){node.href=relative+url.hash;node.setAttribute('download','')}
+     else node.href=docs.some(d=>d.path===relative)?route(relative,decodeURIComponent(url.hash.slice(1))):repo+relative+url.hash;
     }else if(href.startsWith('#')){node.href=route(path,decodeURIComponent(href.slice(1)));}
     else{node.href=url.href;node.rel='noopener noreferrer';if(['http:','https:'].includes(url.protocol)){node.target='_blank';node.classList.add('external')}}
    }catch{node.removeAttribute('href')}
