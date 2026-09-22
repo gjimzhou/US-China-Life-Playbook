@@ -10,6 +10,8 @@
 - [ ] 取得适当贷款预批准，了解所在地律师及交割安排。
 - [ ] 估算房产税、保险、洪水风险、业主协会费用及交通等生活成本。
 
+**计算 / 查风险：** [CFPB：Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [CFPB：Mortgage Preapproval](https://www.consumerfinance.gov/ask-cfpb/what-is-a-mortgage-preapproval-en-127/) · [FEMA Flood Map Service Center](https://msc.fema.gov/portal/home)。
+
 ## 出价前检查房屋
 
 - [ ] 阅读卖方披露，核对房龄、屋顶、暖通、渗水、管线及已有维修。
@@ -39,6 +41,8 @@
 - [ ] 确认交割需付现金、所需储备和后续月供构成。
 - [ ] 记录贷款方要求的文件及未满足条件，重大就业或收入变化及时说明。
 
+**比较工具：** [CFPB：Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) · [CFPB：Explore Interest Rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/) · [CFPB：Compare Loan Estimates](https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/)。
+
 ## 资金来源
 
 - [ ] 保留大额转账、赠与或借款文件，家庭出资的法律与税务性质如实说明。
@@ -50,6 +54,8 @@
 - [ ] 核对房屋或公寓单位保险、重置保障、责任险和贵重物品保障。
 - [ ] 分别询问洪水、下水回流、摊派保障及建筑主保单缺口。
 - [ ] 确认生效日期、缴费及贷款方所需证明。
+
+**保险 / 产权入口：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments) · [CFPB：Shop for Title Insurance and Closing Services](https://www.consumerfinance.gov/owning-a-home/close/shop-for-title-insurance-and-other-closing-services/)。
 
 ## 交割前准备
 
@@ -64,12 +70,16 @@
 - [ ] 核对税费、保险、贷款及产权费用和交割需付现金。
 - [ ] 对差异取得解释；适用贷款的收到披露表与交割间隔要求见第36章，不以发出日期代替收到日期。
 
+**直接核对：** [CFPB：Closing Disclosure Explainer](https://www.consumerfinance.gov/owning-a-home/closing-disclosure/) · [CFPB：TRID Forms and Samples](https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/tila-respa-integrated-disclosures/forms-samples/)。
+
 ## 电汇防诈骗——最高优先级
 
 - [ ] 通过预定渠道取得指示，再使用此前独立核实的电话确认。
 - [ ] 逐项核对收款主体、账户及银行路由信息；临时变更先暂停。
 - [ ] 不单凭邮件、付款截图或对方催促操作。
 - [ ] 汇出后通过可信渠道确认收到；发现异常立即联系汇出银行尝试拦截。
+
+**防诈骗 / 报案：** [CFPB：Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/) · [FBI IC3](https://www.ic3.gov/)。
 
 ## 最终走查
 
@@ -90,6 +100,8 @@
 - [ ] 独立核实房贷服务机构和首次付款，按选择设置自动扣款。
 - [ ] 建立维护、财产清单与维修联系人，核对托管代缴税费和保险责任。
 - [ ] 必要时更新遗产规划、超额责任险和贵重物品保障。
+
+**交割后：** [CFPB：After Closing](https://www.consumerfinance.gov/owning-a-home/close/after-closing/) · [CFPB：Escrow Accounts](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/)。
 
 ## 归档与未结事项
 
