@@ -68,7 +68,11 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 适用美国人士对海外金融账户有财务利益或签字权，且全年任一时点合计超过10,000美元时，通常需评估海外银行与金融账户报告（FBAR）。它是合计门槛且有例外，不是每个账户各自10,000美元。
 
-**规则 / 办理：** [FinCEN：FBAR rules](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN BSA E-Filing：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)。
+**申报时间也单独管理：** FBAR 是 calendar-year annual report，常规 due date 为次年 **4 月 15 日**；如果错过 4 月 15 日，FinCEN 当前提供自动延长至 **10 月 15 日**，**不需要单独提交 extension request**。自然灾害等 relief 可能另行延长，特定 signature-authority filers 也可能有特殊 notice。
+
+FBAR 的 automatic October 15 extension **不等于 Form 1040 / income-tax return 也自动延长**；所得税 return 的 extension 仍按自己的规则办理。反过来，提交 Form 4868 也不是“在申请 FBAR extension”——FBAR 本身已经自动延到 10 月 15 日。
+
+**规则 / 办理：** [IRS：FBAR — When to file / automatic extension](https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar) · [FinCEN：FBAR rules](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN BSA E-Filing：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)。
 
 ## 13. FBAR与Form8938独立判断
 
@@ -85,7 +89,9 @@ IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得�
 
 “Living abroad”本身有 tax home、bona fide residence / physical presence 等条件，不等于当年人在国外住过一段时间；没有所得税申报义务时，Form 8938 也有另外规则。门槛只是第一层筛查，仍需判断资产是否属于 specified foreign financial assets。
 
-**直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+**Form 8938 的 filing timing 与 FBAR 不同。** 它通常附在相应 federal income-tax return 上，并按该 return 的 due date（**including extensions**）提交；不是另有一个固定 4/15 → 10/15 的独立电子申报系统。如果本来不需要提交该 income-tax return，Form 8938 是否仍需提交还要按 Form 8938 rules 判断。
+
+**直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：Form 8938 Instructions — When and How to File](https://www.irs.gov/instructions/i8938) · [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 ## 14. 购买国内投资产品前先识别法律结构
 
@@ -201,4 +207,4 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 
 **本项目方法论：** 把结论写成“事实 + 年度 + 管辖区 + 依据 + 行动”，是为了防止下一年或情形变化后误用旧结论；详见[方法论](../METHODOLOGY.md)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS / FinCEN 当前页面：2026 FEIE 上限为 **$132,900 / qualifying person**；FBAR 仍使用外国金融账户全年任一时点 aggregate value **超过 $10,000** 的一般门槛；Form 8938 当前四组个人门槛及 living-abroad 条件已在第13节列出；IRS 当前 treaty A–Z 仍列 China，Publication 901 当前为 **09/2024 quick reference**，并明确 U.S.–China treaty 不适用于香港。中国个税法与 2019 年无住所人员公告继续作为中国侧原始入口。中国实施条例、六年规则、具体 treaty position、PFIC / trust / entity 分类与个案来源分配仍需专项专业复核。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS / FinCEN 当前页面：2026 FEIE 上限为 **$132,900 / qualifying person**；FBAR 仍使用外国金融账户全年任一时点 aggregate value **超过 $10,000** 的一般门槛，常规 due 4/15 且自动延至 10/15、无需单独 extension request；Form 8938 当前四组个人门槛及 living-abroad 条件已在第13节列出，并明确其随相应 income-tax return 的 due date（including extensions）提交；IRS 当前 treaty A–Z 仍列 China，Publication 901 当前为 **09/2024 quick reference**，并明确 U.S.–China treaty 不适用于香港。中国个税法与 2019 年无住所人员公告继续作为中国侧原始入口。中国实施条例、六年规则、具体 treaty position、PFIC / trust / entity 分类与个案来源分配仍需专项专业复核。
