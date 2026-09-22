@@ -10,11 +10,14 @@
 |---|---|
 | 人呼吸困难、意识异常、严重创伤或其他急症 | [第03章：紧急情况与急救](../book/03-紧急情况与急救.md) · [第30章：家庭紧急手册](../book/30-Household-Emergency-Runbook.md) |
 | 非紧急，但不知道应该找 PCP、专科、心理治疗还是精神科 | [心理健康服务清单](mental-health-care.md) · [第04章：美国医疗系统](../book/04-美国医疗系统怎么用.md) |
+| 验孕阳性、怀疑流产、临产或产后出现异常症状 | [怀孕、妊娠丢失与生产清单](pregnancy-birth-loss.md) |
+| 刚收到重大诊断、准备出院或回家后不知道怎么接续 | [重大诊断、住院与出院清单](hospital-discharge-major-diagnosis.md) |
 | 家人住院、主要办事人暂时不能处理家庭事务 | [第30章](../book/30-Household-Emergency-Runbook.md) · [家庭紧急信息表](emergency-sheet.md) |
 | 家人去世 | [死亡后事务清单](death-administration.md) · [第35章](../book/35-死亡后的实际操作与Estate-Administration.md) |
 | 家人在境外去世，需要处理当地手续或遗体／骨灰跨境 | [第35章](../book/35-死亡后的实际操作与Estate-Administration.md#32-人在境外去世先接入当地与领事流程) |
 | 宠物重病、临终或需要讨论安乐死 | [第17章：宠物照护](../book/17-宠物Operating-System.md#19-重大疾病时讨论照护目标) |
 | 宠物刚刚去世，不知道遗体、火化、保险、芯片怎么办 | [宠物去世处理清单](pet-loss.md) |
+| 宠物走失，不知道先找哪里、怎么用芯片信息 | [宠物走失清单](lost-pet.md) |
 
 ## 住房、灾害与搬迁
 
@@ -22,6 +25,7 @@
 |---|---|
 | 漏水、火灾、烟雾、一氧化碳、停暖或其他住宅危险 | [第30章](../book/30-Household-Emergency-Runbook.md) · [第09章](../book/09-住房物业与Contractor.md) |
 | 大面积停电、停水、极端天气、撤离或几天不能回家 | [灾害与公共服务中断清单](disaster-utility-outage.md) |
+| 家里被闯入、遭遇盗窃、抢劫或袭击 | [犯罪受害者处理清单](crime-victim.md) |
 | 正在看出租房、准备签约或第一次入住 | [租房全流程清单](rental-lifecycle.md) |
 | 想转租、提前解约、退租或追押金 | [租房全流程清单](rental-lifecycle.md) |
 | 收到 landlord notice、eviction papers 或法院文件 | [租房全流程清单](rental-lifecycle.md) · [第30章正式文件分流](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件) |
@@ -38,6 +42,16 @@
 | 孩子入学、转学或学校沟通反复无结果 | [学龄期教育与支持清单](school-support.md) |
 | 怀疑孩子需要 IDEA / Section 504 支持或学校评估 | [学龄期教育与支持清单](school-support.md#怀疑需要特殊教育或504支持时从书面请求开始) |
 | 父母在中国突然住院、失能或需要现场接应 | [父母紧急应对计划](parents-emergency.md) · [第20章](../book/20-父母养老与远程照护.md) |
+
+## 车辆、钱包、犯罪与实体安全
+
+| 现在发生了什么 | 第一入口 |
+|---|---|
+| 车在路边抛锚 | [车辆抛锚／拖车／罚单清单](vehicle-roadside-ticket-tow.md) |
+| 车突然不见了，怀疑被拖或被盗 | [车辆抛锚／拖车／罚单清单](vehicle-roadside-ticket-tow.md) · [犯罪受害者处理清单](crime-victim.md) |
+| 车被 boot、收到 parking ticket 或 moving violation | [车辆抛锚／拖车／罚单清单](vehicle-roadside-ticket-tow.md) |
+| 钱包、驾照、护照、绿卡或一整套证件丢了／被盗 | [钱包与重要证件丢失清单](lost-wallet-documents.md) |
+| 家人突然失踪，担心人身安全 | [犯罪受害者／失踪处理清单](crime-victim.md) |
 
 ## 工作、钱、账户与正式通知
 
@@ -64,4 +78,4 @@
 
 如果你遇到一个真实生活事件，仍然无法在上面找到接近的入口，就把它当成**内容缺口**，而不是读者不会用。新增事件时优先补入口和执行路径；只有当现有章节无法容纳独立知识体系时，才增加章节编号。
 
-最后编辑：2026-09-21。
+最后编辑：2026-09-22。
