@@ -94,17 +94,23 @@
 
 照顾孩子不自然包含全家清洁、宠物照护、接送和临时采购。职责明显增加时，讨论时间与报酬，更新书面范围；让员工能提出无法同时安全完成的任务。
 
+**本项目实务建议：** scope change 可能改变工时、报酬和保险风险；把新增职责写入双方可读的工作约定，并继续按 [DOL Domestic Service Fact Sheets](https://www.dol.gov/agencies/whd/direct-care/fact-sheets)记录实际工时。
+
 ---
 
 ## 12. 接送孩子前核对驾驶安排
 
 核对有效驾照、获准查询的驾驶记录、车辆状况、儿童安全座椅及谁提供车辆。把真实使用方式告诉汽车保险经纪，问是否需要列名驾驶人或其他保障，并写清里程报销和事故处理。
 
+**驾驶 / 儿童座椅入口：** [USA.gov：State Motor Vehicle Services](https://www.usa.gov/state-motor-vehicle-services) · [NHTSA：Car Seats and Booster Seats](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats)。儿童乘车法律和 driving-record access 仍按州规则。
+
 ---
 
 ## 13. 使用员工车辆也要检查保险
 
 员工开自己的车，不代表家庭与工作相关的责任问题全部消失。请经纪分别确认员工车险、家庭责任险、伞式责任险及工伤保险的适用与除外条款；不要把一张有效保险卡当作全部答案。
+
+**保险入口：** [NAIC：Auto Insurance](https://content.naic.org/consumer/auto-insurance) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。是否需要 business-use endorsement、listed driver 或其他保障以实际 carrier / policy 为准。
 
 ---
 
@@ -119,6 +125,8 @@
 ## 15. 主动告知家庭保险经纪
 
 说明家庭聘有雇员、人数、职责、工作时数及是否住家。要求经纪指出员工受伤、雇佣争议和驾驶行为分别由什么保障处理，哪些不保；保存书面回复与保单批单。
+
+**保险监管入口：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments) · [DOL：State Workers’ Compensation Officials](https://www.dol.gov/agencies/owcp/wc)。经纪口头答复不能替代 policy wording / endorsement。
 
 ---
 
@@ -182,11 +190,15 @@
 
 明确设备位置、用途、谁能看录像、保存多久；卧室、浴室等隐私空间尤其不能凭家庭所有权自行处理。录音同意规则依州而异，安装前核对，必要时请当地律师审阅。
 
+**查所在地规则：** [USA.gov：State Governments](https://www.usa.gov/state-governments) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。不要把某州的 one-party / all-party consent 规则套用到另一州。
+
 ---
 
 ## 24. 把应急说明交给员工
 
 提供住址、家长及备用联系人、过敏与必要照护说明、医生联系方式和紧急服务入口。让员工知道何时立即求助、谁具有医疗同意权限，以及停电、火警和无法联系家长时怎么办。可从[家庭紧急信息表](../checklists/emergency-sheet.md)制作仅含岗位必要信息的副本。
+
+**应急参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [911.gov：Calling 911](https://www.911.gov/calling-911/) · [Poison Control](https://www.poison.org/)。
 
 ---
 
@@ -194,11 +206,15 @@
 
 提前约定旅行与工作时间、休息、住宿、餐费、报销、加班和取消行程处理。跨境还需核对目的地工作许可与保险，不能因为持旅游签证或与家庭同行就默认可工作。不要到目的地后才把工作称为员工的度假。
 
+**工时参考：** [DOL Fact Sheet #79D：Hours Worked](https://www.dol.gov/agencies/whd/fact-sheets/79d-flsa-domestic-service-hours-worked)。跨境工作许可没有统一美国答案，必须查目的地政府 / 使领馆和雇主合规要求。
+
 ---
 
 ## 26. 住家安排同时考虑住房权利
 
 写明独立生活空间、隐私、访客、费用、钥匙和工作终止后的搬离程序。劳动与住房法律可能同时适用，不能用解雇决定直接替代合法搬离程序。
+
+**查本州规则：** [DOL Fact Sheet #79B：Live-in Domestic Service Workers](https://www.dol.gov/agencies/whd/fact-sheets/79b-flsa-live-in-domestic-workers) · [USA.gov：State and Local Governments](https://www.usa.gov/state-local-governments)。住房占有、搬离和 notice 规则仍按州 / 地方住房法。
 
 ---
 
@@ -206,17 +222,23 @@
 
 家庭隐私约定可覆盖照片、孩子信息、行程和财务资料，但应保留员工依法报告问题、寻求帮助及行使劳动权利的空间。不要要求交出私人账户密码或扣留个人证件。
 
+**劳动权利入口：** [DOL：Worker.gov](https://www.worker.gov/) · [Wage and Hour Division](https://www.dol.gov/agencies/whd)。保密条款不能被当作规避适用工资、工时、反报复或政府调查规则的工具；具体条款让当地律师审阅。
+
 ---
 
 ## 28. 结束雇佣要提前准备
 
 按适用法律与合同核对通知、最后工资、应付假期及其他款项，再办理钥匙与访问权限交接。发生安全风险时寻求适当帮助；不要自行扣工资、扣物品或把住家员工锁在门外。
 
+**查本州工资 / final-pay 规则：** [DOL：State Labor Offices](https://www.dol.gov/agencies/whd/state/contacts) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。联邦 domestic-service 工时基线另见 [DOL Fact Sheets](https://www.dol.gov/agencies/whd/direct-care/fact-sheets)。
+
 ---
 
 ## 29. 员工档案单独保管
 
 身份文件、工资税资料、合同和紧急联系人只向有需要的人员开放，设定访问与保留规则。公开模板不得填入真实员工身份或薪资信息。
+
+**记录保存入口：** [USCIS I-9 Central](https://www.uscis.gov/i-9-central) · [IRS Publication 926](https://www.irs.gov/publications/p926) · [DOL Fact Sheet #79C](https://www.dol.gov/agencies/whd/fact-sheets/79c-flsa-domestic-service-recordkeeping)。不同记录的 retention period 不同。
 
 ---
 
@@ -228,6 +250,8 @@
 - [ ] 核对工伤、汽车、住房及责任保障。
 - [ ] 写清住家、旅行、休息与应急规则。
 - [ ] 验证首期工资、扣缴和申报回执，安全保存档案。
+
+**入口汇总：** [IRS Publication 926](https://www.irs.gov/publications/p926) · [USCIS I-9 Central](https://www.uscis.gov/i-9-central) · [DOL Domestic Service Workers](https://www.dol.gov/agencies/whd/direct-care) · [State Labor Offices](https://www.dol.gov/agencies/whd/state/contacts) · [State Workers’ Compensation Officials](https://www.dol.gov/agencies/owcp/wc)。
 
 ## 本轮核验范围与限制
 
