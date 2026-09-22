@@ -1,5 +1,12 @@
 # 变更日志（Changelog）
 
+## 2026-09-22 — 第三波生活事件盲区
+
+- 再新增4份事件型清单，当前总数29份：工伤／职业病与请假、药物获取失败、Jury summons／subpoena／法院通知、USCIS RFE／biometrics／interview／NOID 等 notice。
+- 第22、06、11、37章增加对应事件入口；总生活事件索引同步扩充。
+- Workers’ compensation 使用 USA.gov / DOL 州级入口；药物 shortage 使用 FDA；federal jury 使用 U.S. Courts；USCIS notice / non-delivery / appointment 使用 USCIS 当前自助与 Contact Center 路径。
+- 继续维持“新增事件清单先完成关键入口与高后果事实核验，再进入逐条深审”的状态标记，不把数量增长当成完成度。
+
 ## 2026-09-22 — 第二波生活事件盲区
 
 - 在第一轮19份清单基础上再新增6份事件型清单，当前共25份：怀孕／妊娠丢失与生产、重大诊断／住院／出院、钱包／重要证件丢失、车辆抛锚／拖车／boot／罚单、宠物走失、犯罪受害／家人失踪。
