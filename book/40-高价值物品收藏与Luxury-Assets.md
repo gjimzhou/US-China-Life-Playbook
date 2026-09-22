@@ -6,6 +6,8 @@
 
 先写下购买的主要目的：日常使用、兴趣收藏，还是预期出售获利。存在二手市场不代表随时能按标价卖出；不要为了合理化消费而假设固定升值率。
 
+**本项目实务建议：** 这是资产用途分类框架，不是对任何收藏品回报率的预测。把“消费 / 收藏 / 投资”分开，是为了后续决定保险、流动性和退出安排。投资类判断另从 [Investor.gov](https://www.investor.gov/)核对风险与专业人士。
+
 ---
 
 ## 2. 建立私人清单
@@ -19,6 +21,8 @@
 ## 3. 证明材料另存一份
 
 物品与唯一纸质发票不要成为同一次火灾或盗窃的共同损失。保留清晰的数字副本和必要异地备份，确认有权限的家人在需要时能找到。
+
+**准备参考：** [NAIC：Home Inventory](https://content.naic.org/consumer/home-inventory) · [Ready.gov：Financial Preparedness](https://www.ready.gov/financial-preparedness)。
 
 ---
 
@@ -42,6 +46,8 @@
 
 评估单件损失及同一地点全部损失对现金流的影响。能够承受经济损失，不等于能补回纪念意义；可以选择少带、分散存放或投保，而不必为所有东西购买相同保障。
 
+**本项目实务建议：** 这是 self-insurance / concentration-risk 的家庭判断，不存在统一保额公式。实际保险结构与州监管入口见 [NAIC Consumer Insurance](https://content.naic.org/consumer)。
+
 ---
 
 ## 6. 估价先说明用途
@@ -56,11 +62,15 @@
 
 原价、经销商挂牌价、拍卖落槌价、出售净收入和保险估值是不同数字。清单注明价格来源与日期；调整保额前与经纪确认，不机械沿用购买价格。
 
+**本项目实务建议：** 这里是在区分 valuation purpose，不声明某一价格一定代表“真实价值”。慈善捐赠用途另按 [IRS Publication 561](https://www.irs.gov/publications/p561)，保险用途回到实际 insurer / appraisal requirements。
+
 ---
 
 ## 8. 保存来源与附件
 
 发票、鉴定证书、来源记录（Provenance）、原配附件和进出口文件有助于解释物品历史。记录缺失情况，不为提高售价编造完整来源。
+
+**本项目实务建议：** 记录 provenance 是为了理赔、真伪、转售与继承时能说明来源；涉及艺术品或疑似赃物可参考 [FBI：Art Crime Team](https://www.fbi.gov/investigate/violent-crime/art-theft) 与 [National Stolen Art File](https://artcrimes.fbi.gov/)。
 
 ---
 
@@ -68,11 +78,15 @@
 
 保存维修机构、日期、项目、替换零件、保修和前后照片。未来转售或理赔时，能够区分原始状态与后续改动。
 
+**本项目实务建议：** 维修档案是 provenance / condition record 的一部分；具体品牌是否要求 authorized service、维修是否影响 warranty 或 resale，回到制造商和交易平台规则。
+
 ---
 
 ## 10. 送修前约定责任
 
 拍摄外观与识别标记，取得详细收件凭证，问清运输保障、维修授权、旧件归还和无法修复的处理。稀有物品的更换、抛光或修复先确认对价值的可能影响。
+
+**本项目实务建议：** 送修前的 condition record 与书面 intake receipt 用于减少交接争议；维修授权、运输责任和 warranty 以实际 service center / carrier 条款为准。
 
 ---
 
@@ -80,13 +94,15 @@
 
 向承运人和保险人分别核对责任上限、物品除外、包装、签收、途中保障和索赔期限。发货前明确由谁承担风险、保存什么证据；追踪显示“已送达”不能解决全部争议。
 
-**操作原则：** 使用实际承运人的官方 declared-value / prohibited-items / claims 页面核对，而不是第三方攻略；同时向自己的 insurer 书面确认 transit coverage。不同承运人的“declared value”不应自动理解为独立保险。
+**操作原则：** 使用实际承运人的官方 declared-value / prohibited-items / claims 页面核对，而不是第三方攻略；同时向自己的 insurer 书面确认 transit coverage。不同承运人的“declared value”不应自动理解为独立保险。可先从 [USPS：Insurance & Extra Services](https://www.usps.com/ship/insurance-extra-services.htm)理解“邮政责任 / 额外保障”和独立保险不是同一概念；FedEx / UPS 等则必须看各自当前 terms。
 
 ---
 
 ## 12. 旅行存放按实际条件选择
 
 酒店保险箱、前台寄存或随身携带都不是绝对安全。结合物品大小、行程、保单要求和可接受损失决定是否携带，保存寄存凭证，避免实时公开存放位置。
+
+**本项目实务建议：** 不存在统一的“最佳存放方式”；先核对 insurer 的 travel / off-premises 条款、酒店书面保管条件和当地风险，再决定是否携带。
 
 ---
 
@@ -146,6 +162,8 @@
 
 按具体酒类的保存要求管理温度、光照、振动和环境，记录购入与转移历史。设置适合储存设施的故障提醒和断电处置，不把标签完整当作储存状态可靠的证明。
 
+**本项目实务建议：** 葡萄酒等收藏没有一套适用于所有产品和设施的政府储存参数；以 producer / professional storage facility 的书面要求、设备说明和实际保险条件为准。
+
 ---
 
 ## 20. 酒类保险问清变质与设备故障
@@ -160,11 +178,15 @@
 
 记录作品、尺寸、来源、状态、装裱、安装和运输历史。脆弱、体积大或价值重大的作品，可请熟悉该类作品的搬运或保护人员评估；先确定包装、环境和交接责任。
 
+**保存参考：** [Smithsonian Museum Conservation Institute：Taking Care](https://mci.si.edu/taking-care)提供藏品保存的一般入口；高价值作品的包装、安装和运输仍应由熟悉该媒介的专业人员按具体 condition 处理。
+
 ---
 
 ## 22. 二手交易核对真伪与退货
 
 独立查看卖方历史、鉴定范围、退货条件、付款保护和所有权说明。所谓鉴定保障覆盖什么、谁受理争议，应有明确文件；异常低价不能代替核验。
+
+**消费者入口：** [FTC：Online Shopping](https://consumer.ftc.gov/online-shopping) · [FTC ReportFraud](https://reportfraud.ftc.gov/)；涉及奢侈品真伪还应查品牌、平台或独立鉴定服务的书面 guarantee / dispute terms。
 
 ---
 
@@ -180,6 +202,8 @@
 
 分享收藏时遮去序列号、地址、保单与钥匙信息。旅行结束后再发布行程照片，是可选择的简单做法；不要同时公开空房时间与完整收藏位置。
 
+**安全参考：** [FTC：Protect Your Personal Information and Data](https://consumer.ftc.gov/identity-theft-and-online-security/protect-your-personal-information-hackers-and-scammers)；“延迟发布旅行照片”属于本项目降低实时暴露的可选做法。
+
 ---
 
 ## 25. 存放设施按风险选择
@@ -194,11 +218,15 @@
 
 指定人员需要知道记录在哪里、何时有权访问、如何取得帮助。密码与钥匙的获取能力不等于法律权限；与[失能及遗产规划](10-Estate-Planning与失能.md)一同安排。
 
+**权限参考：** [CFPB：Power of Attorney](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
+
 ---
 
 ## 27. 紧急原件不要只有难取的一份
 
 护照、遗嘱原件或紧急资金若仅存于本人控制的银行保管箱，失能或死亡后可能不便及时取得。向银行与律师核对访问手续，安排合法可用的替代路径，不默认家属持钥匙就能开箱。
+
+**本项目实务建议：** safe-deposit-box 的访问权取决于州法、账户合同和授权文件；不要把“有钥匙”当成法律权限。失能授权参考 [CFPB：Power of Attorney](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
 
 ---
 
@@ -206,17 +234,23 @@
 
 独立核验买方、中介或托管服务，拒绝只凭付款截图交货。合同写清鉴定争议、退款、运输责任与交接证据；线下面交也要选择合适场所和安全安排。
 
+**防诈骗入口：** [FTC：Online Shopping](https://consumer.ftc.gov/online-shopping) · [FBI IC3](https://www.ic3.gov/)；具体平台 escrow / payout / chargeback 条件以实际服务条款为准。
+
 ---
 
 ## 29. 比较出售净收入
 
 向经销商或拍卖行索取费用明细，区分卖方佣金、买方佣金、运输、保险、摄影、撤拍及税费。明确哪些从自己的款项扣除，比较净收入与到账时间，而不是只比较落槌价。
 
+**本项目实务建议：** 比较 sale proceeds 应使用实际 seller agreement / consignment terms 计算净到账，不用公开 hammer price 推断自己的 proceeds。税务处理按资产和持有情况另行核对。
+
 ---
 
 ## 30. 遗产安排包含实物
 
 让合法执行人能够找到清单、来源文件和专业联系人，说明重要纪念物品的分配意愿。涉及多人继承时，提前考虑估价与公平分配方法，并让律师确认表达意愿的文件是否有效。
+
+**继续看：** [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [IRS Publication 559](https://www.irs.gov/publications/p559)；物品分配效力仍按州法和 estate-planning 文件确认。
 
 ---
 
@@ -232,6 +266,8 @@
 
 借给朋友、交给商家寄售或送展，可能改变保管人与风险条件。书面约定期限、状态、运输和损坏处理，并让保险人确认对应情形。
 
+**本项目实务建议：** loan / consignment / exhibition 会改变 possession 和 risk allocation；先取得书面 agreement，再向 insurer 确认 off-premises / transit / consignment coverage。州保险监管入口见 [NAIC](https://content.naic.org/state-insurance-departments)。
+
 ---
 
 ## 33. 清单模板只保留空白
@@ -241,6 +277,8 @@
 |  |  |  |  |  |
 
 填写后移至私人档案，不上传公开版本。
+
+**本项目方法论：** 公共仓库只保存空白模板；真实序列号、保单、地址、估值和购买记录属于私人资产资料。
 
 ---
 
@@ -254,11 +292,15 @@
 
 购买、搬家或借出重大物品时及时更新，不必等到年底。
 
+**复查参考：** [NAIC：Home Inventory](https://content.naic.org/consumer/home-inventory)；保险变更或新增物品后同时向实际 carrier 核对 scheduled limits / appraisal requirements。
+
 ---
 
 ## 35. 管理做到能证明、能交接
 
 先做好私人清单、来源备份、实际保险核对与合法访问，再按收藏规模增加服务。目的在于减少无法说明和无法交接的问题，不是把兴趣收藏变成不断增加的管理负担。
+
+**本项目方法论：** 这里强调“能证明、能交接、能恢复”，不是要求购买更多管理服务；详见[方法论](../METHODOLOGY.md)与[年度复查](32-年度Household-Review.md)。
 
 ## 本轮核验范围与限制
 
