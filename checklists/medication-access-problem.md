@@ -28,7 +28,7 @@ FDA 当前 Drug Shortages 页面建议先查数据库；如果已列为 shortage
 - [ ] 若原 prescriber 离职／诊所关闭，尽快建立新的 prescriber，而不是依赖一次次 emergency refill。
 - [ ] 保存药瓶、旧 prescription information 和必要病历，方便新 clinician 核对。
 
-## Prior authorization / insurance denial
+## 事先授权／保险拒付（Prior Authorization / Insurance Denial）
 
 先区分：
 - PA 根本没提交；
