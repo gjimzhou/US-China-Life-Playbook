@@ -197,7 +197,15 @@ Microchip registry 可按登记机构流程将宠物标记为 deceased；有 mun
 
 **心理支持入口：** [SAMHSA：Find Help & Support](https://www.samhsa.gov/find-help) · [非紧急心理健康服务清单](../checklists/mental-health-care.md)。
 
-## 25. 最小执行集与核验范围
+## 25. 宠物走失后的前几小时要有固定流程
+
+先确认最后出现时间、可能逃逸路径和住宅／楼宇内的藏身点；同时核对 microchip registry 联系方式，通知 local animal control / shelters、兽医和必要的 building / neighborhood contacts。不要只发社交媒体而不报 shelter / animal control。
+
+如果只知道 microchip number、不知道登记在哪家 registry，可用 AAHA Microchip Registry Lookup 查 registry；该工具本身不会公开 owner information，也不能替代真正更新 registry。
+
+**完整清单：** [宠物走失：前几小时怎么做](../checklists/lost-pet.md) · [AAHA Microchip Registry Lookup](https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/)。
+
+## 26. 最小执行集与核验范围
 
 - [ ] 日常兽医、急诊及中毒咨询入口可取得。
 - [ ] 病历、药物、芯片与疫苗记录可交接。
