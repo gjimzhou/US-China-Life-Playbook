@@ -34,11 +34,15 @@
 
 钥匙、门禁和进入住宅权限也要落实。备用联系人不一定有能力独自照顾所有宠物。
 
+**准备参考：** [Ready.gov：Pets](https://www.ready.gov/pets) · [AAHA：Find an Accredited Animal Hospital](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)。备用人和寄养机构都应在真正需要前确认。
+
 ## 5. 用一张私人说明表交接
 
 包含喂食、饮水、遛狗或猫砂、给药、禁忌、运输箱、兽医、主人及备用联系人的信息。写明哪些变化需要立即联系兽医，以及怎样记录已喂药，防止重复给药。
 
 公共版本只保留空白字段；真实住址、门锁码和付款信息另行安全交付。
+
+**本项目实务建议：** 交接表只记录照护所需信息；账号密码、门锁码和完整支付资料不放在公共模板。宠物应急物资可参考 [Ready.gov Pets](https://www.ready.gov/pets)。
 
 ## 6. 提前确认治疗与付款授权
 
@@ -46,7 +50,7 @@
 
 预算和紧急决策权限应结合家庭能力与动物福利讨论，不能把一个口头金额上限当成所有情形都足够的安排。
 
-**实务动作：** 向自己的兽医和急诊医院索取其 third-party treatment authorization / caregiver authorization 要求；不同医院流程不同，不用网上通用模板假定必然有效。
+**实务动作：** 向自己的兽医和急诊医院索取其 third-party treatment authorization / caregiver authorization 要求；不同医院流程不同，不用网上通用模板假定必然有效。医院候选可从 [AAHA Find a Hospital](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)开始。
 
 ## 7. 宠物保险看条款
 
@@ -62,6 +66,8 @@
 
 即使有保险，也应确认是否必须先向医院付款再申请报销，避免等保险处理时无法安排治疗。
 
+**保险入口：** [NAIC：Pet Insurance](https://content.naic.org/consumer/pet-insurance)。自费家庭则把“可立即付款的金额 + 备用付款方式”作为家庭资金安排，而不是引用网络平均急诊价格。
+
 ## 9. 芯片登记与联系方式一起维护
 
 请兽医检查芯片是否可读，并向对应登记服务核对主人及备用联系方式。芯片编号、登记账户和医疗档案应一致保存。
@@ -75,6 +81,8 @@
 让照护人知道运输箱、牵引绳、药物和短期用品在哪里。提前练习安全装入运输箱，撤离时不要临时在储物间翻找。
 
 讨论火灾或疏散时谁负责哪只动物、备用接收地点是否接受宠物。不得为寻找物品或宠物返回不安全区域，向救援人员说明情况。
+
+**应急参考：** [Ready.gov：Pets](https://www.ready.gov/pets) · [Ready.gov：Make a Plan](https://www.ready.gov/plan)。
 
 ## 11. 疑似中毒直接求助
 
@@ -90,11 +98,15 @@
 
 是否适合寄养、团体活动或长途移动，可先与兽医讨论动物的健康和行为需要。
 
+**本项目实务建议：** trial run 不是官方要求，而是降低首次长时间分离失败风险的做法；健康 / 行为适配仍由本人兽医判断。
+
 ## 13. 寄养机构问具体应急流程
 
 确认夜间是否有人、人员培训、疾病隔离、给药、逃脱防范、消防撤离、急诊运输、联系主人及费用授权规则。看书面条款，不只看照片和摄像头。
 
 核对疫苗材料、接送时间、取消条款和发生紧急事件后的记录提供方式。
+
+**本项目实务建议：** 寄养监管和许可高度地方化；先查所在地政府 / animal-services 规则，再用机构书面 policy 核对 overnight staffing、medication、emergency transport 与 cancellation。
 
 ## 14. 国际移动先查目的地要求
 
@@ -130,11 +142,15 @@
 
 兽医或寄养机构变更后，确认对方已收到必要病史。不能只给一串旧医院名称让新机构自行猜测。
 
+**旅行文件入口：** [USDA APHIS：Pet Travel](https://www.aphis.usda.gov/pet-travel)；医疗病历转移则向原兽医和新兽医确认 record-transfer 流程。
+
 ## 19. 重大疾病时讨论照护目标
 
 和兽医讨论疼痛、呼吸、进食、活动、互动及生活质量变化，理解治疗、舒缓照护和临终选择的预期收益与负担。
 
 把主人无法联系时的决策权限说清楚。费用只是因素之一；不以固定年龄或单一网络评分代替个体评估。
+
+**本项目实务建议：** end-of-life decision 应由 veterinarian-client-patient relationship 下结合具体病情讨论，不使用单一年龄或网络评分替代临床判断。
 
 ## 20. 最小执行集与核验范围
 
@@ -143,5 +159,7 @@
 - [ ] 主照护人、备用人和进入住宅方式已确认。
 - [ ] 治疗授权、付款及保险或自费安排已讨论。
 - [ ] 出行、过境和回程要求在订票前开始核对。
+
+**入口汇总：** [AAHA Hospital Finder](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC Pet Insurance](https://content.naic.org/consumer/pet-insurance) · [USDA APHIS Pet Travel](https://www.aphis.usda.gov/pet-travel) · [Ready.gov Pets](https://www.ready.gov/pets)。
 
 最后编辑与来源核验：2026-09-21。已重新核对 2026 年 USDA APHIS Pet Travel / export / import / interstate 页面、CDC 犬只入境入口、AAHA 2026 宠物常规照护与急症资源、ASPCA 毒物咨询和 NAIC 宠物保险入口。日常照护和给药仍以实际 veterinarian-client-patient relationship 为准；航司、中国入境、保险与寄养规则须按当次服务和行程重新确认。
