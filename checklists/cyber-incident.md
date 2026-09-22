@@ -33,12 +33,14 @@
 ## 信用与身份盗用
 
 - [ ] 通过[美国身份盗用处理入口](https://www.identitytheft.gov/)制定恢复步骤。
-- [ ] 分别处理三家信用机构的信用冻结，核对信用报告并争议冒名账户。
-- [ ] 联系开户或发卡机构，按需要取得报警及其他证明。
+- [ ] 分别处理三家信用机构的信用冻结；online / phone 申请时，记录提交时间并确认 bureau 是否在通常的 **1 个营业日内 place freeze**。
+- [ ] 需要临时解冻时，只对实际会查报告的 bureau 操作；online / phone lift 通常应在 **1 小时内**生效，办完后重新冻结。
+- [ ] 如怀疑身份盗用，可另加 initial fraud alert（通常 **1 年**）；已有 identity-theft report 的受害者可评估 extended fraud alert（通常 **7 年**）。
+- [ ] 核对信用报告并争议冒名账户；联系开户或发卡机构，按需要取得报警及其他证明。
 - [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排。
 - [ ] 保存每家机构的案件号、材料清单与截止日。
 
-**直接入口：** [FTC：Credit Freezes and Fraud Alerts](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [Equifax Freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian Freeze](https://www.experian.com/freeze/center.html) · [TransUnion Freeze](https://www.transunion.com/credit-freeze) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IRS：Get an IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)。
+**直接入口：** [FTC：Credit Freezes and Fraud Alerts](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [FTC：Understanding Your Credit — freeze timing](https://consumer.ftc.gov/articles/understanding-your-credit) · [Equifax Freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian Freeze](https://www.experian.com/freeze/center.html) · [TransUnion Freeze](https://www.transunion.com/credit-freeze) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IRS：Get an IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)。
 
 ## 银行或证券账户被接管
 
@@ -105,4 +107,4 @@
 
 
 
-模板校订：2026-09-21
+模板校订与动态规则核验：2026-09-21
