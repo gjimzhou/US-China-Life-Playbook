@@ -38,7 +38,7 @@ USA.gov 当前 crime portal 将 emergency reporting、police report 和 victim s
 - [钱包与证件丢失清单](lost-wallet-documents.md)；
 - [网络安全事件清单](cyber-incident.md)。
 
-## Victim services
+## 受害者支持（Victim Services）
 
 DOJ Office for Victims of Crime 提供 nonemergency victim-service directory，可按地区、victimization type 和服务类型查本地资源；也列出 VictimConnect 等 referral / support 入口。
 
