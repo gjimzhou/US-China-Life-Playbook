@@ -16,9 +16,11 @@
 
 ## 3. 收到规定申请信息后取得贷款估算表
 
-[CFPB说明](https://www.consumerfinance.gov/ask-cfpb/what-information-do-i-have-to-provide-a-lender-in-order-to-receive-a-loan-estimate-en-1987/)列出姓名、收入、用于查信用的社保号、房屋地址、估值和拟借金额六项信息。对适用贷款，提供这些信息后通常应在三个营业日内提供贷款估算表（Loan Estimate）；不应写成等全部审核材料齐全才起算。
+[CFPB说明](https://www.consumerfinance.gov/ask-cfpb/what-information-do-i-have-to-provide-a-lender-in-order-to-receive-a-loan-estimate-en-1987/)列出姓名、收入、用于查信用的社保号、房屋地址、估值和拟借金额六项信息。对适用贷款，提供这六项后 Loan Estimate 义务即被触发，lender 通常须在三个营业日内发送；**不能把先交 purchase agreement、收入证明或其他 verification documents 作为给 Loan Estimate 的前提。**
 
-**工具：** [CFPB：Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) · [CFPB：Request and review multiple Loan Estimates](https://www.consumerfinance.gov/owning-a-home/compare/request-and-review-multiple-loan-estimates/) · [CFPB：Compare and negotiate loan offers](https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/)。
+收到并比较 Loan Estimate 后，如果决定继续某家 lender 的方案，应注意其 intent-to-proceed 时限。CFPB 当前说明：若在 lender delivery / mailing Loan Estimate 后 10 个营业日内没有通知愿意继续，lender 可能重新修订估算或把申请作为 incomplete 关闭；实际 offer / rate-lock 有效期还需看文件本身。
+
+**工具：** [CFPB：What information triggers a Loan Estimate?](https://www.consumerfinance.gov/ask-cfpb/what-information-do-i-have-to-provide-a-lender-in-order-to-receive-a-loan-estimate-en-1987/) · [CFPB：What do I have to do to apply for a mortgage loan?](https://www.consumerfinance.gov/ask-cfpb/what-do-i-have-to-do-to-apply-for-a-mortgage-loan-en-144/) · [CFPB：Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) · [CFPB：Request and review multiple Loan Estimates](https://www.consumerfinance.gov/owning-a-home/compare/request-and-review-multiple-loan-estimates/) · [CFPB：Compare and negotiate loan offers](https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/)。
 
 比较相同贷款类型、期限和锁定条件下的利率、年化综合成本（APR）、点数、贷款方补贴与费用。估算表不是最终批准，参见[表格用途说明](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/)。
 
@@ -188,4 +190,4 @@
 
 **总流程：** [CFPB：Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home)。
 
-最后编辑与来源核验：2026-09-21。已核对 CFPB Loan Estimate / Closing Disclosure、rate lock、title services、escrow、交割诈骗与预算工具，以及 FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、施工与保险条款仍须按州、合同和具体物业核验；洪水地图用于风险信息，不等同于个别保单承保结论。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 CFPB TRID 页面：适用贷款提交六项 application 信息后，Loan Estimate 通常应在 3 个营业日内发送，lender 不能要求先交额外 verification documents；消费者收到 Loan Estimate 后还应注意通常的 10-business-day intent-to-proceed window。Closing Disclosure 对适用贷款仍要求至少在 closing 前 3 个营业日收到。另核对 rate lock、title services、escrow、交割诈骗与预算工具，以及 FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、施工与保险条款仍须按州、合同和具体物业核验；洪水地图用于风险信息，不等同于个别保单承保结论。
