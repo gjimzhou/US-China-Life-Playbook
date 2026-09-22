@@ -194,7 +194,21 @@ Child and Dependent Care Credit 是另一套机制。2026 年可用于计算 cre
 
 **隐私参考：** [FTC：Protecting Kids Online](https://consumer.ftc.gov/identity-theft-and-online-security/protecting-kids-online) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
 
-## 24. 最小执行集与核验范围
+## 24. 学龄期问题从“具体事实 + 书面下一步”开始
+
+孩子出现持续学习、行为、出勤或适应问题时，先收集课程、时间、作业／考试、teacher observations、家庭观察和已尝试支持，再向 teacher / counselor / student-services 书面说明担忧。会议后留下简短纪要：讨论了什么、谁负责下一步、何时复盘。
+
+入学或转学时不要只转成绩单；已有 IEP、504 plan、evaluation、therapy / medical records 和重要沟通也应按需要交接，并确认新学校实际收到。完整路径见[学龄期教育与支持清单](../checklists/school-support.md)。
+
+## 25. IDEA 与 Section 504 是两条不同路径
+
+在 IDEA 下，家长或 public agency 都可以发起 initial evaluation 请求。联邦规则通常要求在取得 parental consent 后 **60 天内**完成 initial evaluation；如果州另有自己的时间表，则按州时间表，并存在规则列出的例外。initial referral 或 parent request for evaluation 等情形还会触发 procedural safeguards notice。
+
+Section 504 不是“轻量版 IEP”。美国教育部说明，学校应基于个体 evaluation 和多种信息来源判断 disability 与需要；不应只凭一个诊断名称或刻板假设决定服务。
+
+**官方原文：** [IDEA §300.301](https://sites.ed.gov/idea/regs/b/d/300.301) · [IDEA §300.504](https://sites.ed.gov/idea/regs/b/e/300.504) · [IDEA §300.502](https://sites.ed.gov/idea/regs/b/e/300.502) · [U.S. Department of Education：Section 504 FAPE FAQ](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
+
+## 26. 最小执行集与核验范围
 
 - [ ] 托育资格、检查记录和具体操作已核对。
 - [ ] 备用照护与接送授权可执行。
