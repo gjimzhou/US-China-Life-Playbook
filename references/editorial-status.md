@@ -133,6 +133,14 @@
 - **第10 / 35章 Estate & Gift Tax：** 重新核对 IRS 2026 Form 706 / gift-tax rules。2026 basic exclusion amount $15,000,000；annual gift exclusion $19,000 per donee；qualifying gifts to non-U.S.-citizen spouse annual exclusion $194,000。Form 706 常规 due date death 后 9 months，Form 4768 可申请适用的 6-month filing extension；低于 $15m 的 estate 仍可能为 portability 提交 Form 706，符合 Rev. Proc. 2022-32 且原本无 filing requirement 的 late portability estate 可在 death fifth anniversary 前使用 simplified relief。
 
 
+
+- **第15章 + cyber checklist：** 重新核对 FTC security-freeze / fraud-alert 当前规则。Freeze 免费并持续到本人解除；online / phone 通常 1 个营业日内 place、1 小时内 lift，mail 通常 3 个营业日；initial fraud alert 1 年、extended alert 7 年、active-duty alert 通常 1 年。
+- **第11章 Passport / REAL ID：** 国务院当前 passport processing 为 routine 4–6 weeks、expedited 2–3 weeks（+$60），不含前后 mailing；urgent travel 14 calendar days、foreign-visa need 28 calendar days。TSA REAL ID 已自 2025-05-07 进入 enforcement，18+ domestic traveler 使用 state-issued ID 时需 REAL-ID compliant credential 或其他 TSA acceptable ID。
+- **第19章 Apostille：** 重新核对中国领事服务网 2026-07 当前说明；中国与 Apostille Convention 缔约国之间，适用公文书办理附加证明书后无需再办使领馆领事认证，非缔约国路线仍按领事认证处理；最终接收机构对文件、翻译、时效的要求仍单独核对。
+- **第20章 + parents checklist：** 新增 Medicare 65 岁 enrollment 日历（7-month IEP、符合条件的 Part B 8-month SEP、Part B / Part D late-penalty 触发点）和长期照护分流。明确 Medicare 一般不覆盖 long-term custodial care；2026 qualifying Part A SNF 为 days 1–20 $0 daily coinsurance（可能仍有 $1,736 deductible）、days 21–100 $217/day、day 101+ all costs；Medicaid long-term NF coverage 仍按州和个人资格核对。
+- **第02章预防医学：** 重新核对 USPSTF 当前 final screening baselines：breast 40–74 biennial（2024）、colorectal 45–75 routine / 76–85 selective（2021）、lung 50–80 + ≥20 pack-year + current / quit <15y annual LDCT（2021）、osteoporosis women 65+ / younger postmenopausal increased-risk pathway（2025）；cervical 当前 final 页面仍为 2018 recommendation。该表明确只是 USPSTF baseline，不替代高风险或有症状诊断。
+- **第06章病历连续性：** 重新核对 HIPAA Right of Access。Covered entity 通常须在 30 calendar days 内处理；只允许一次、最多额外 30 天 extension 并须书面说明；copy fee 只能为规定范围内 reasonable cost-based costs，不能加入 search / retrieval / verification / infrastructure；OCR privacy complaint 当前一般 180 天内提交，good cause 可例外。
+
 ## 本轮收尾与后续核验
 
 1. 已完成全部11份清单的逐段对照与中文校订，补入对账、福利兑现和事件跟踪表。
