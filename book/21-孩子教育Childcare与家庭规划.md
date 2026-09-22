@@ -52,7 +52,7 @@
 
 直接控制工作内容和做法的家庭雇佣，可能涉及雇员分类、工资税和劳动法。通过支付应用付款或合同写“独立承包人”，不能单独决定法律身份。
 
-联邦税务框架见 [IRS 家庭雇主指南](https://www.irs.gov/publications/p926)，细节见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。先明确工作范围、休假、替班和付款记录。
+联邦税务框架和表格入口列在下方，细节见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。先明确工作范围、休假、替班和付款记录。
 
 **表格入口：** [IRS：Publication 926](https://www.irs.gov/publications/p926) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [USCIS：Form I-9](https://www.uscis.gov/i-9-central)。
 
