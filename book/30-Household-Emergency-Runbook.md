@@ -164,7 +164,15 @@
 
 **演练参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [FEMA：Emergency Financial First Aid Kit](https://www.ready.gov/financial-preparedness)。不要为了演练真的拨报警电话、制造转账或破坏账户。
 
-## 19. 只保留适用的最小执行集
+## 19. 区域灾害、停电停水或暂时不能回家
+
+先判断住宅是否仍安全，而不是先考虑舒适度。查看当地 emergency management、utility 与楼宇正式通知；火灾、燃气、一氧化碳、结构危险、快速洪水或官方撤离时先离开危险区域。
+
+大面积停电、停水或几天无法回家时，把问题拆成短期生活连续性：药物和医疗设备、宠物、孩子／父母、临时住所、通信与充电、支付、工作设备、房屋／车辆保险和 building access。极端温度、电梯、医疗设备、空气质量等都可能改变是否适合继续留在家中。
+
+**执行清单：** [区域灾害、停电停水与暂时不能回家](../checklists/disaster-utility-outage.md) · [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [Ready.gov：Pets](https://www.ready.gov/pets)。
+
+## 20. 只保留适用的最小执行集
 
 - [ ] 紧急信息表可取用，地址与求助入口准确。
 - [ ] 人身安全流程优先，接手人已同意且权限明确。
