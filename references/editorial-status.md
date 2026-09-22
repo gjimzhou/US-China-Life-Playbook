@@ -128,6 +128,8 @@
 - **第39章 Household Payroll：** 在原 $3,000 / $1,000 trigger 基础上补核 2026 Social Security wage base $184,500、双方常规 FICA 各 7.65%、employee wages >$200,000 时 0.9% Additional Medicare withholding，以及 FUTA first-$7,000 wage base 与 state-credit / credit-reduction 影响。
 - **第40章高价值物品 / 海关：** 重新核对 CBP 2026-02-27 duty-free guidance：returning U.S. resident 多数情况 personal exemption $800，但存在 $200 / $1,600 等情形及 48-hour / 30-day 等条件；免税不等于免申报。酒类通常 1 liter 可纳入 duty-free allowance，但超出不自动禁止，可能缴 duty / IRT 并受州法及 commercial-purpose 判断影响。
 
+- **第21 / 28章 + marriage checklist：** 重新核对 health-plan special enrollment。Job-based HIPAA group health plans 对 marriage / birth / adoption / placement 通常至少提供 30-day request window；birth / adoption / placement 可从 event date 生效，marriage 最迟通常从 plan 收到完整 request 后的下月 1 日生效。Marketplace marriage / birth / adoption 通常为 60-day SEP；birth / adoption 可从 event date 起 coverage。Marketplace marriage SEP 还存在 prior-coverage requirement 与境外居住等当前例外；Medicaid / CHIP loss 或 premium-assistance group-plan SEP 通常为 60 days。
+
 
 ## 本轮收尾与后续核验
 
