@@ -24,6 +24,8 @@
 
 实际提供服务地点、薪酬归属期间与具体税制规则都可能相关。保留工资、奖金和股权文件，让专业人士按类别分配；不把“美国公司发美元”当成只有美国税务问题的依据。
 
+**继续看：** [IRS Publication 54 — Source of Earned Income](https://www.irs.gov/publications/p54) · [IRS：Foreign Earned Income Exclusion](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion)。美国联邦规则通常首先看服务实际发生地；奖金、股权和多期间收入仍需按具体归属规则分析。
+
 ## 5. 外国税收抵免与所得扣除分别比较
 
 外国税收抵免（Foreign Tax Credit，FTC）与 FEIE 不同。已扣除收入对应的外国税一般不能再重复抵免；可用抵免还有资格与限额。请按收入类别和两地税额比较，而不是默认某种工具总更有利。
@@ -38,6 +40,8 @@
 
 整理户籍、家庭、经济利益、通常生活地和实际居住等事实，向中国税务专业人士确认法律意义上的住所。拥有或没有房产都不足以单独得出结论；不用日常语言替代法律定义。
 
+**中国侧原文：** [国家税务总局：个人所得税法](https://www.chinatax.gov.cn/n810219/n810744/n3752930/n3752974/c3970366/content.html) · [税收居民身份常见问题](https://www.chinatax.gov.cn/chinatax/n810219/n810744/n2594306/n2594326/index.html)。
+
 ## 8. 在中国工作的所得来源需具体计算
 
 [2019年无住所个人税务公告](https://www.chinatax.gov.cn/chinatax/n810219/n810744/n3752930/n3752974/c23755975/content.html)对境内工作期间的工资、奖金与股权所得来源作出规定，工作期间还涉及特定休假和培训天数处理。不能简单把日历上“休假”标签视为排除；按适用身份和现行规则计算。
@@ -45,6 +49,8 @@
 ## 9. 境外工作同时需要雇主层面确认
 
 询问雇主允许的地点、活动与时间，是否需评估工资代扣、当地劳动与工作许可、业务机构风险及数据安全。经理个人同意不能代替相关部门审核；个人税务顾问也不能替雇主批准。
+
+**本项目实务建议：** 境外远程工作同时涉及 employer policy 与目的地当地规则，不存在一个美国联邦页面能替代雇主审批。个人税务从 [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)核对；工作许可与当地劳动义务则查目的地政府 / 雇主 legal-compliance 渠道。
 
 ## 10. 税收协定要按完整条件使用
 
@@ -55,6 +61,8 @@
 ## 11. 联邦与州税分开核对
 
 人在国外、享有某项联邦扣除，均不自动终止州税联系。按住所、法定居民和来源收入规则另查，参见[第14章](14-美国税务与State-Residency.md)。某州的远程工作规则不能推广到全部州。
+
+**查州规则：** [IRS：State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。
 
 ## 12. 海外账户报告看合计与权限
 
@@ -90,13 +98,19 @@
 
 人民币账户、美元账户或境外分支机构账户都应按法律定义分类。向专业人士说明机构与账户所在位置，不只按银行品牌或币种判断。具体资产范围参见前述IRS比较表。
 
+**直接核对：** [IRS：Comparison of Form 8938 and FBAR Requirements](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+
 ## 18. 大额外币交易保留原币与汇率记录
 
 房产、借款、企业或其他大额交易可能涉及不同所得与汇率处理。保存金额、日期、币种和所用汇率来源，申报计算由适当税务人士核对，不以银行兑换后的余额替代完整交易记录。
 
+**汇率入口：** [IRS：Foreign Currency and Currency Exchange Rates](https://www.irs.gov/individuals/international-taxpayers/foreign-currency-and-currency-exchange-rates) · [IRS：Yearly Average Currency Exchange Rates](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates)。具体交易是否应使用交易日汇率、平均汇率或其他方法按适用表格说明处理。
+
 ## 19. 中国房产保留完整交易资料
 
 购入、装修、出租、缴税和出售各留合同、付款与费用凭证。请专业人士分别确认两地收入、成本、折旧和抵免处理；不假定两国认可同一成本或同一申报时点。
+
+**美国侧入口：** [IRS Publication 527 — Residential Rental Property](https://www.irs.gov/publications/p527) · [IRS：Foreign Tax Credit](https://www.irs.gov/individuals/international-taxpayers/foreign-tax-credit) · [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。中国侧按房产所在地和交易类型查国家税务总局 / 地方税务规则。
 
 ## 20. 探亲也要保留三年在美停留记录
 
@@ -110,13 +124,19 @@
 
 用日历记录所在国家、州、出入境、实际工作与休假及薪酬归属资料。不同规则如何计日交给专业分析；原始记录不要为了某项结论而修改。
 
+**相关测试：** [IRS：Substantial Presence Test](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test) · [IRS：Physical Presence Test for FEIE](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test)。州税天数另查相应州。
+
 ## 22. 重复境外工作取得明确书面安排
 
 记录批准的地点、时间、活动、数据限制、联系部门及计划变更程序。情况变化先重新确认，不把一次口头同意长期沿用，也不因公司批准就省略个人税务分析。
 
+**本项目实务建议：** 这是 employer-approval 记录方法，不是税法条文。个人税务仍从 [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)及目的地税务机关独立判断。
+
 ## 23. 两地顾问使用同一份事实摘要
 
 说明税年、身份、居住、工作、收入、账户、资产与家庭关系，获得同意后安全共享。分别请顾问标出假设、缺失信息和需要对方确认的问题，避免各用半套事实得出冲突结论。
+
+**本项目实务建议：** 两地顾问使用同一份事实摘要，是为了避免 input 不一致；专业人士资格核验入口见[第27章](27-律师CPA医生保险经纪怎么找.md)。
 
 ## 24. 每年形成简短跨境税务记录
 
@@ -128,21 +148,31 @@
 
 退休跨境安排另记录福利类别、个人缴费记录、预计领取资格、境外支付与税务问题；不从居留身份或余额推断待遇。税款到账与申报对账见[第32章](32-年度Household-Review.md)。
 
+**记录参考：** [IRS：Recordkeeping](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping) · [SSA：my Social Security](https://www.ssa.gov/myaccount/)。跨境退休待遇和税务仍按具体计划、身份与协定核对。
+
 ## 25. 停留模式改变就重看结论
 
 从短期探访变为反复远程工作、长期居住或迁居，都应更新事实与顾问意见。去年结论依赖的假设改变后，不能只替换年份继续使用。
+
+**重新核对入口：** [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [IRS State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [国家税务总局](https://www.chinatax.gov.cn/)。
 
 ## 26. 改变税务或移民身份前协同咨询
 
 税收协定居民主张、放弃长期身份或长期出境可能涉及不同体系的后果。先由税务与移民专业人士共同核对，而不是只计算当年税款。
 
+**两套入口：** [IRS：U.S. Tax Treaties](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z) · [USCIS：Green Card / International Travel](https://www.uscis.gov/green-card/after-we-grant-your-green-card/international-travel-as-a-permanent-resident)。具体 treaty position 或移民后果需分别由合适专业人士判断。
+
 ## 27. 规划建立在真实事实之上
 
 不使用假地址、虚构工作地点、篡改停留日或伪造赠与借款。发现历史错误，按适当更正程序处理并留说明，不为了与旧表一致继续错误。
 
+**更正入口：** 美国联邦税表从 [IRS：Amended Returns](https://www.irs.gov/filing/file-an-amended-return)查适用程序；移民表格与案件更正按具体 USCIS / DOS notice 和律师意见处理。
+
 ## 28. 这些变化适合提前咨询
 
 境外实际工作、长期或反复停留、海外投资与企业、房产交易、大额赠与或继承、信托、夫妻税务身份不同及同年跨州跨国迁居。无需等待达到某个笼统“几个月”才首次询问。
+
+**本项目实务建议：** 这些事项共同特点是会同时触发 source / residency / reporting / entity 或 timing 问题；可从 [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)和[第27章的专业人士核验入口](27-律师CPA医生保险经纪怎么找.md)开始。
 
 ## 29. 最小执行集
 
@@ -152,8 +182,12 @@
 - [ ] 雇主批准与个人税务分析分别完成。
 - [ ] 税款入账、申报与抵免可对账，未决事项有负责人。
 
+**核验入口汇总：** [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [国家税务总局](https://www.chinatax.gov.cn/) · [自然人电子税务局](https://etax.chinatax.gov.cn/)。
+
 ## 30. 把结论写成有条件的结论
 
 记录“在哪些事实和年度下、依据什么规则、需要做什么”，而不是留下一个没有条件的“没事”。实际提交、缴款与接收确认都应可查，真实资料只留在私人系统。
+
+**本项目方法论：** 把结论写成“事实 + 年度 + 管辖区 + 依据 + 行动”，是为了防止下一年或情形变化后误用旧结论；详见[方法论](../METHODOLOGY.md)。
 
 最后编辑与来源核验：2026-09-21。已核对 IRS 境外申报、FEIE / Form 2555、2026 FEIE 上限、Foreign Tax Credit / Form 1116、FBAR / Form 8938、foreign gifts / Form 3520、Substantial Presence Test，以及 IRS 当前中美税收协定原文与 treaty index；中国个税法与 2019 年无住所人员公告继续作为中国侧原始入口。中国实施条例、六年规则、具体 treaty position、PFIC / trust / entity 分类与个案来源分配仍需专项专业复核。
