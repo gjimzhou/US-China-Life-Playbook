@@ -41,6 +41,7 @@
 | 授权、遗产与家庭照护 | [第 10 章：遗产与失能规划](book/10-Estate-Planning与失能.md) · [第 20 章：父母照护](book/20-父母养老与远程照护.md) |
 | 想开始安排具体行动 | [前 30 天清单](checklists/first-30-days.md) · [家庭紧急信息表](checklists/emergency-sheet.md) |
 | 想浏览全书或查术语 | [全部章节与清单](README.md) · [中英术语表](GLOSSARY.md) |
+| 想放进 Kindle、平板或离线保存 | [下载与离线阅读](DOWNLOADS.md) |
 
 正在发生紧急危险时，立即使用所在地应急服务，不要为了阅读本指南延误求助。
 
