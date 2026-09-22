@@ -106,7 +106,7 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 遗产在管理期间产生的收入可能需要单独税号和申报。IRS 当前规则要求国内遗产（domestic estate）在年度 gross income 达到 600 美元或以上时提交 Form 1041；**即使低于 600 美元**，存在 nonresident-alien beneficiary 等特定情形也可能触发申报。遗产还可能有 estimated-tax、Schedule K-1 和其他义务，因此不能把 600 美元当成“低于就什么都不用管”的通用免报线。
 
-对 calendar-year estate，IRS 当前说明通常在次年 4 月 15 日前提交 Form 1041；fiscal-year estate 通常在税年结束后第 4 个月的第 15 日前提交。需要更多时间时，Form 7004 可提供适用的 automatic 5-month extension to file；延期是否影响付款义务仍应另行核对。
+采用日历年的遗产，通常在次年 4 月 15 日前提交 Form 1041；采用财政年度的遗产，通常在税年结束后第 4 个月的第 15 日前提交，周末或法定假日顺延规则另按当年说明。非破产遗产及信托按时、正确提交 Form 7004，可获得 **5½ 个月的自动申报延期**。**这不延长缴税期限**：通常仍须在原申报截止日前估算并缴清应缴税款。具体申请条件见 [IRS：Form 7004 instructions](https://www.irs.gov/instructions/i7004)。
 
 **直接办理 / 核对：** [IRS：File an estate income tax return](https://www.irs.gov/individuals/file-an-estate-tax-income-tax-return) · [IRS：About Form 1041](https://www.irs.gov/forms-pubs/about-form-1041) · [IRS：Form 1041 Instructions](https://www.irs.gov/instructions/i1041) · [IRS：Apply for an EIN](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)。600 美元不是遗产价值门槛，也不是所有遗产或信托通用的免报线。
 
@@ -209,3 +209,5 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 提前保留文件和账户索引、明确意愿与合法权限，让可信接手人知道入口。事件发生后使用[身故办理清单](../checklists/death-administration.md)，真实信息只私下填写。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS estate-income-tax / Form 1041 与 2026 Form 706：国内遗产年度 gross income ≥ $600 通常触发 Form 1041；低于 $600 仍可能因 nonresident-alien beneficiary 等条件触发。2026 U.S. citizen / resident decedent 的 Form 706 filing threshold 为 gross estate + adjusted taxable gifts + specific exemption 超过 $15,000,000；即使 estate 低于 threshold，portability election 仍可形成独立 filing reason。Form 706 常规 due date 为 death 后 9 months，Form 4768 可提供适用的 6-month filing extension；符合 Rev. Proc. 2022-32 条件、原本无 filing requirement 的 late portability estate 可在 death fifth anniversary 前使用 simplified relief。另核对 SSA death-report / survivor-benefit、IRS Deceased Person / final return、CFPB deceased-debt、NAIC life-policy locator 和 USA.gov death-certificate / unclaimed-property 入口。遗产法院、债务清偿顺序、probate 小额程序、账户继承和中美两地继承效力仍必须按州法、资产类型与个案办理。
+
+局部复核：2026-09-22。第17节的 Form 1041 说明已按 IRS Form 7004 instructions 改正为5½个月申报延期，并明确不延长缴税期限。本次未将其余段落视为重新全面核验。

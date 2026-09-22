@@ -70,7 +70,9 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 健康储蓄账户（HSA）供款资格需要核对符合要求的高免赔额医疗计划（HDHP）、其他保障及个人条件。一般用途医疗灵活支出账户（health FSA）可能使本人或受其覆盖的配偶失去 HSA 供款资格；限用途或免赔额后 FSA 可能兼容。
 
-2026 年 HSA 基本供款上限为个人保障 4,400 美元、家庭保障 8,750 美元；不是夫妻各有一份完整家庭上限，雇主供款也应计入。2026 年 HSA 所称高免赔额医疗计划（HDHP）的年度最低 deductible 为 self-only 1,700 美元、family 3,400 美元；年度 out-of-pocket 上限不得超过 self-only 8,500 美元、family 17,000 美元。满足这些数字仍不自动代表本人具备 HSA 供款资格，还要看其他 coverage 和个人条件。
+2026 年 HSA 基本供款上限为个人保障 4,400 美元、家庭保障 8,750 美元；不是夫妻各有一份完整家庭上限，雇主供款也应计入。按一般 HDHP 标准，2026 年年度最低免赔额为个人保障 1,700 美元、家庭保障 3,400 美元；年度自付上限分别不得超过 8,500 美元、17,000 美元。满足这些数字仍不自动代表本人具备 HSA 供款资格，还要看其他医疗保障和个人条件。
+
+**2026 年起有重要例外：**个人保险市场中可通过医保交易平台（Exchange）提供的铜级（bronze）和灾难性（catastrophic）计划，即使不满足一般 HDHP 的免赔额或自付上限标准，也可按 HDHP 对待；符合规定的场外购买计划也可适用。不能把此例外直接套到雇主 SHOP 铜级计划。其他 HSA 个人资格限制仍须满足，具体范围与场外计划规则见 [IRS Notice 2026-05，问答 4–8](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)。
 
 2026 年开始的计划年度，医疗 FSA 员工工资减额供款上限为 3,400 美元。
 
@@ -262,4 +264,6 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 **核验入口汇总：** [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [IRS Publication 969](https://www.irs.gov/publications/p969)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 DOL FMLA / COBRA 与 IRS 2026 benefits / rollover rules：FMLA 常见 employee eligibility 仍为 12 months、1,250 hours 和 50 employees within 75 miles；COBRA 常见 election period 60 天、initial payment 45 天、后续月费至少 30 天 grace period，常规最高 premium 通常为 plan cost 的 102%；2026 HSA limit $4,400 / $8,750，HDHP deductible floor $1,700 / $3,400、OOP ceiling $8,500 / $17,000，health FSA salary-reduction limit $3,400。退休账户新增 direct rollover / 60-day rollover 区分、employee-plan distribution paid to participant 的 mandatory 20% withholding，以及 IRA-to-IRA 60-day rollover 一般 12 个月仅一次、trustee-to-trustee transfer 不受该限制的说明。另核对 EBSA claim / retirement guides、HealthCare.gov SEP 和 USA.gov unemployment。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 DOL FMLA / COBRA 与 IRS 2026 benefits / rollover rules：FMLA 常见 employee eligibility 仍为 12 months、1,250 hours 和 50 employees within 75 miles；COBRA 常见 election period 60 天、initial payment 45 天、后续月费至少 30 天 grace period，常规最高 premium 通常为 plan cost 的 102%；2026 HSA limit $4,400 / $8,750，一般 HDHP 免赔额下限 $1,700 / $3,400、自付上限 $8,500 / $17,000（个人市场铜级 / 灾难性计划例外见第9节），health FSA salary-reduction limit $3,400。退休账户新增 direct rollover / 60-day rollover 区分、employee-plan distribution paid to participant 的 mandatory 20% withholding，以及 IRA-to-IRA 60-day rollover 一般 12 个月仅一次、trustee-to-trustee transfer 不受该限制的说明。另核对 EBSA claim / retirement guides、HealthCare.gov SEP 和 USA.gov unemployment。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
+
+局部复核：2026-09-22。第9节补核 IRS Notice 2026-05 的个人市场铜级 / 灾难性计划例外。本次未将其余段落视为重新全面核验。
