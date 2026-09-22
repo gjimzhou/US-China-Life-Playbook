@@ -4,19 +4,19 @@
 
 ## 1. 先分别判断两国和州的税务身份
 
-美国公民及税务居民在境外仍需按美国规则判断全球收入与申报义务，见[IRS境外申报说明](https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-residents-abroad-filing-requirements)。中国及美国州税另行分析；移民许可、税务身份和账户服务资格不应混为一谈。
+美国公民及税务居民在境外仍需按美国规则判断全球收入与申报义务。中国及美国州税另行分析；移民许可、税务身份和账户服务资格不应混为一谈。
 
 **总入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [IRS：U.S. Citizens and Resident Aliens Abroad — filing requirements](https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-residents-abroad-filing-requirements) · [IRS Publication 54](https://www.irs.gov/publications/p54)。
 
 ## 2. 境外劳动所得扣除有资格条件
 
-境外劳动所得扣除（Foreign Earned Income Exclusion，FEIE）涉及符合条件的境外劳动所得、境外税务住所及适用测试。[实际居留天数测试](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test)通常要求连续12个月中在外国累计至少330个完整日，并需满足其他条件；不是出境几个月就自动适用。
+境外劳动所得扣除（Foreign Earned Income Exclusion，FEIE）涉及符合条件的境外劳动所得、境外税务住所及适用测试。实际居留天数测试通常要求连续12个月中在外国累计至少330个完整日，并需满足其他条件；不是出境几个月就自动适用。
 
 **继续看 / 表格：** [IRS：Foreign Earned Income Exclusion](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion) · [IRS：Physical Presence Test](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test) · [IRS：Form 2555](https://www.irs.gov/forms-pubs/about-form-2555)。
 
 ## 3. 年度扣除上限不等于实际可扣数额
 
-[IRS公布的2026税年FEIE上限](https://www.irs.gov/individuals/international-taxpayers/figuring-the-foreign-earned-income-exclusion)为每位符合条件者132,900美元，部分年度资格等会影响实际金额。它不是免报税，也不自动涵盖所有收入或其他税种。
+IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，部分年度资格等会影响实际金额。它不是免报税，也不自动涵盖所有收入或其他税种。
 
 **计算 / 填表：** [IRS：Figuring the Foreign Earned Income Exclusion](https://www.irs.gov/individuals/international-taxpayers/figuring-the-foreign-earned-income-exclusion) · [IRS：Form 2555 & instructions](https://www.irs.gov/forms-pubs/about-form-2555)。
 
@@ -72,7 +72,7 @@
 
 ## 13. FBAR与Form8938独立判断
 
-[IRS比较表](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements)说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得税申报提交，涵盖指定海外金融资产，门槛依身份与居住情况等变化。报其中一份不替代另一份；资产范围也不完全一致。
+IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得税申报提交，涵盖指定海外金融资产，门槛依身份与居住情况等变化。报其中一份不替代另一份；资产范围也不完全一致。
 
 **直接核对：** [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
@@ -84,7 +84,7 @@
 
 ## 15. 外国赠与可能有信息申报
 
-[IRS外国赠与说明](https://www.irs.gov/businesses/gifts-from-foreign-person)区分赠与方身份和相关报告要求。收款可能不属于普通所得，并不等于没有信息申报。保存赠与人、关系、资金性质与凭证，按年度条件核对，不将借款假写成赠与。
+IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能不属于普通所得，并不等于没有信息申报。保存赠与人、关系、资金性质与凭证，按年度条件核对，不将借款假写成赠与。
 
 **继续看 / 表格：** [IRS：Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。
 
