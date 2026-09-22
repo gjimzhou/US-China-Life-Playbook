@@ -112,9 +112,17 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 ## 18. 区分三种税务问题
 
-最终个人所得税处理逝者个人税务；遗产所得税处理管理期间的相关收入；遗产税（Estate tax）涉及资产转移的制度。联邦、州及境外义务可能不同，有时即使没有应纳税额也需评估申报或选择事项。这里不提供统一免税额判断。
+最终个人所得税处理逝者个人税务；遗产所得税处理管理期间的相关收入；遗产税（Estate tax）涉及资产转移的制度。联邦、州及境外义务可能不同，有时即使没有应纳税额也需评估申报或选择事项。
 
-**继续看：** [IRS：Responsibilities of an Estate Administrator](https://www.irs.gov/individuals/responsibilities-of-an-estate-administrator) · [IRS：Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [IRS：Form 706](https://www.irs.gov/forms-pubs/about-form-706)。
+**2026 Form 706 的实用触发点：**
+
+- 对 2026 年死亡的 U.S. citizen / resident decedent，executor 在 **gross estate + adjusted taxable gifts + specific exemption 超过 $15,000,000** 时，一般需要 Form 706。
+- **Portability 是独立理由。** 即使 estate 远低于 $15m，如果 executor 要把 deceased spousal unused exclusion（DSUE）转给 surviving spouse，也需要按规则提交 Form 706；不要用“没 estate tax due”自动否定 filing value。
+- Form 706 的常规 due date 是 **death 后 9 个月**。Form 4768 可申请适用的 automatic **6-month extension to file**；payment extension 与 filing extension 不完全相同，仍需按实际情况核对。
+- 对本来**没有 §6018(a) filing requirement**、但错过 timely portability election 的适用 estate，Rev. Proc. 2022-32 提供 simplified relief：符合全部条件时，可在 decedent death 的 **第五周年或之前**提交完整 Form 706 选择 portability。这个 five-year relief 不是所有 late Form 706 的通用延期。
+- 非居民非公民、QDOT / noncitizen surviving spouse、GST、州 estate / inheritance tax 与跨境资产有另外规则，不能只看 $15m。
+
+**继续看 / 原文：** [IRS：Form 706 Instructions (07/2026)](https://www.irs.gov/instructions/i706) · [IRS：Estate Tax FAQ](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes) · [IRS：Rev. Proc. 2022-32 — late portability relief](https://www.irs.gov/irb/2022-30_IRB) · [IRS：Responsibilities of an Estate Administrator](https://www.irs.gov/individuals/responsibilities-of-an-estate-administrator)。
 
 ## 19. 房屋管理不能一直等待
 
@@ -200,4 +208,4 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 提前保留文件和账户索引、明确意愿与合法权限，让可信接手人知道入口。事件发生后使用[身故办理清单](../checklists/death-administration.md)，真实信息只私下填写。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS estate-income-tax / Form 1041 当前规则：国内遗产年度 gross income ≥ $600 通常触发 Form 1041；低于 $600 仍可能因 nonresident-alien beneficiary 等特定条件触发；calendar-year estate 通常次年 4/15 到期，fiscal-year estate 通常税年结束后第 4 个月第 15 日到期，Form 7004 可用于适用的 automatic 5-month extension to file。另核对 SSA death-report / survivor-benefit、IRS Deceased Person / final return、CFPB deceased-debt、NAIC life-policy locator 和 USA.gov death-certificate / unclaimed-property 入口。遗产法院、债务清偿顺序、probate 小额程序、账户继承和中美两地继承效力仍必须按州法、资产类型与个案办理。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS estate-income-tax / Form 1041 与 2026 Form 706：国内遗产年度 gross income ≥ $600 通常触发 Form 1041；低于 $600 仍可能因 nonresident-alien beneficiary 等条件触发。2026 U.S. citizen / resident decedent 的 Form 706 filing threshold 为 gross estate + adjusted taxable gifts + specific exemption 超过 $15,000,000；即使 estate 低于 threshold，portability election 仍可形成独立 filing reason。Form 706 常规 due date 为 death 后 9 months，Form 4768 可提供适用的 6-month filing extension；符合 Rev. Proc. 2022-32 条件、原本无 filing requirement 的 late portability estate 可在 death fifth anniversary 前使用 simplified relief。另核对 SSA death-report / survivor-benefit、IRS Deceased Person / final return、CFPB deceased-debt、NAIC life-policy locator 和 USA.gov death-certificate / unclaimed-property 入口。遗产法院、债务清偿顺序、probate 小额程序、账户继承和中美两地继承效力仍必须按州法、资产类型与个案办理。
