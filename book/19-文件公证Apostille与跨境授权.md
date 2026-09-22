@@ -177,7 +177,15 @@
 
 **中国办理 / 核验：** [附加证明书真伪核验](https://consular.mfa.gov.cn/VERIFY/)；办理说明已列在上方中国领事服务网入口。
 
-## 20. 最小执行集
+## 20. 被退件时保存原文，不要反复盲试
+
+文件因姓名、翻译、公证、附加证明书、签字或副本形式被退回时，先保存退件原文、收件机构、日期、case number 和它要求补充的 exact item。再逐项问：哪一份文件有问题、要求的是 certified copy / notarization / apostille / authentication / translation 中哪一种、谁必须签、接收纸质还是电子件。
+
+同一个中文“公证”在不同机构可能指完全不同的程序。不要在要求未澄清时反复做更多认证，也不要自己制作“通用同一人证明”期待所有银行、法院或政府机关都接受。
+
+**排查模板：** [跨境办事失败排查清单](../checklists/cross-border-problem.md) · [U.S. Department of State：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html)。
+
+## 21. 最小执行集
 
 - [ ] 取得接收机构的具体要求。
 - [ ] 分清认证副本、公证、附加证明书和翻译。
