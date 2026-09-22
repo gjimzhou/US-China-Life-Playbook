@@ -165,14 +165,47 @@
 
 **本项目实务建议：** end-of-life decision 应由 veterinarian-client-patient relationship 下结合具体病情讨论，不使用单一年龄或网络评分替代临床判断。
 
-## 20. 最小执行集与核验范围
+## 20. 宠物去世后，先确认医学与遗体处理问题
+
+如果宠物在家中死亡、死亡原因不明，或存在中毒、外伤、传染病等疑虑，先联系日常兽医或急诊医院，确认是否需要送院、是否建议病理解剖（necropsy），以及遗体在决定下一步前应怎样保存与运输。
+
+如果是计划安乐死，提前讨论地点、谁在场、是否需要镇静、费用与 aftercare；想保留爪印、鼻印、毛发或其他纪念物，也应在操作前告诉医院。
+
+**直接使用：** [宠物去世、临终与身后处理清单](../checklists/pet-loss.md) · [AAHA：End-of-Life Care for Pets](https://www.aaha.org/resources/end-of-life-care-for-pets/)。
+
+## 21. 火化、土葬和骨灰不是“医院自然会替你决定”
+
+兽医团队通常可以说明或代办 burial、cremation、necropsy 等选择，但服务名称、是否单独火化、骨灰如何识别与返还、运输和费用都应向实际 provider 确认。
+
+如果考虑在私人土地土葬、将遗体／骨灰运往另一州或国家，先查所在地、目的地、住房或土地规则；人的 funeral / remains 规则不能直接套给宠物。
+
+**实务动作：** 要求书面确认“做什么、多少钱、最终返还什么、什么时候返还”，不要只记住口头的 private / communal 等服务名称。
+
+## 22. 保险、芯片、许可证和订阅需要主动收尾
+
+在取消保单前，先把仍可能合资格的最终医疗费用按 insurer 流程提交。随后确认 coverage end date、是否需兽医记录或其他材料，并取消 wellness plan、处方自动续订、寄养、遛狗等不再需要的服务。
+
+Microchip registry 可按登记机构流程将宠物标记为 deceased；有 municipal pet license / registration 的地区，再向当地机关确认是否需要注销。
+
+## 23. 家里还有其他宠物时，继续观察真实健康变化
+
+其他动物可能出现寻找、叫唤、食欲或作息变化。保持日常节奏相对稳定；如果出现明显不吃不喝、持续行为改变或身体症状，联系兽医，不把所有变化都自动解释为“它也在悲伤”。
+
+## 24. 主人的悲伤也属于需要照顾的生活事件
+
+宠物死亡后的 grief 可能非常强烈。可以向兽医、自己的医生、治疗师或支持团体询问 resources；若演变为危机、自伤想法或无法保证安全，美国可拨打或短信 988，立即危险时联系 911 或所在地应急服务。
+
+**心理支持入口：** [SAMHSA：Find Help & Support](https://www.samhsa.gov/find-help) · [非紧急心理健康服务清单](../checklists/mental-health-care.md)。
+
+## 25. 最小执行集与核验范围
 
 - [ ] 日常兽医、急诊及中毒咨询入口可取得。
 - [ ] 病历、药物、芯片与疫苗记录可交接。
 - [ ] 主照护人、备用人和进入住宅方式已确认。
 - [ ] 治疗授权、付款及保险或自费安排已讨论。
 - [ ] 出行、过境和回程要求在订票前开始核对。
+- [ ] 知道宠物临终／去世后联系谁，以及遗体、保险、芯片和服务如何收尾。
 
 **入口汇总：** [AAHA Hospital Finder](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC Pet Insurance](https://content.naic.org/consumer/pet-insurance) · [USDA APHIS Pet Travel](https://www.aphis.usda.gov/pet-travel) · [Ready.gov Pets](https://www.ready.gov/pets)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 CDC 2026-08-27 dog-import FAQ、2026-04-28 Dog Import Form / high-risk-country 页面及 USDA APHIS：所有返美犬只的 CDC Dog Import Form、健康、≥6个月、microchip 底线已写入；low-risk-only 与 high-risk 路径分开；U.S.-vaccinated dog 去过 high-risk country 时所需 Certification of U.S.-issued Rabies Vaccination 必须在离美前由 USDA-accredited veterinarian 完成，并明确 2025-07-31 后签发的普通 USDA export health certificate 不再能作为该返美文件的替代。另核对 AAHA 2026 常规照护 / 急症、ASPCA 毒物咨询和 NAIC pet insurance。航司、中国入境、州级要求、保险与寄养规则须按当次服务和行程重新确认。
+最后编辑与来源核验：2026-09-21。新增宠物临终／去世后的可执行路径与独立清单；第三轮重新核对 CDC 2026-08-27 dog-import FAQ、2026-04-28 Dog Import Form / high-risk-country 页面及 USDA APHIS：所有返美犬只的 CDC Dog Import Form、健康、≥6个月、microchip 底线已写入；low-risk-only 与 high-risk 路径分开；U.S.-vaccinated dog 去过 high-risk country 时所需 Certification of U.S.-issued Rabies Vaccination 必须在离美前由 USDA-accredited veterinarian 完成，并明确 2025-07-31 后签发的普通 USDA export health certificate 不再能作为该返美文件的替代。另核对 AAHA 2026 常规照护 / 急症、ASPCA 毒物咨询和 NAIC pet insurance。航司、中国入境、州级要求、保险与寄养规则须按当次服务和行程重新确认。
