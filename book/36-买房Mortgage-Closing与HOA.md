@@ -79,7 +79,19 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 问哪些区域无法进入、哪些系统未运行、哪些迹象需进一步查，以及问题影响安全、近期使用还是长期维护。把重大不确定性、合同检查期限和处理选择交给相应专业人士，不只加总表面维修价格。
 
-**继续看：** [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home) · [EPA：A Citizen’s Guide to Radon](https://www.epa.gov/radon/citizens-guide-radon-guide-protecting-yourself-and-your-family-radon)。一般 inspection 不代表所有专项风险已覆盖。
+**Pre-1978 housing 还要单独检查 federal lead disclosure。** 对大多数 1978 年以前住宅，在 buyer 被合同约束前，seller / agent 通常必须：
+
+- 披露已知的 lead-based paint / lead hazards；
+- 提供 seller 已有的相关 records / reports；
+- 提供 EPA 的 *Protect Your Family from Lead in Your Home* pamphlet；
+- 在合同中加入 Lead Warning Statement / acknowledgment；
+- 给 buyer **10 天**机会自行安排 lead-based paint inspection / risk assessment，除非双方**书面同意不同期限**或 buyer 书面 waiver。
+
+这里的 10 天是**inspection opportunity**，不是 seller 必须替 buyer 做检测，也不是“10 天后房子自动安全”。Seller 也不因“不知道有 lead”而自动需要自费检测；联邦 disclosure rule 主要要求 disclosure of known information + buyer opportunity。州、市和贷款项目还可能另有更严格要求。
+
+若买下后要装修，再回到[第 09 章](09-住房物业与Contractor.md)核对 EPA Renovation, Repair and Painting（RRP）Rule；“卖房 disclosure”与“装修 lead-safe work practices”是两套不同义务。
+
+**继续看：** [EPA：Lead-Based Paint Disclosure Rule](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：What information can buyers / renters get?](https://www.epa.gov/lead/what-information-can-i-get-about-lead-based-paint-home-i-buy-or-rent-it) · [HUD / EPA：Lead-Based Paint Disclosure Rule Fact Sheet](https://www.hud.gov/sites/dfiles/HH/documents/Lead_Based_Paint_Disclosure_Rule_FactSheet.pdf) · [EPA：A Citizen’s Guide to Radon](https://www.epa.gov/radon/citizens-guide-radon-guide-protecting-yourself-and-your-family-radon)。一般 home inspection 不代表 lead / radon / asbestos 等专项风险已覆盖。
 
 ## 11. 出现具体信号再安排专项检查
 
@@ -207,4 +219,4 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 **总流程：** [CFPB：Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 CFPB TRID / Regulation Z / Regulation B：适用贷款提交六项 application 信息后，Loan Estimate 通常应在 3 个营业日内发送，lender 不能要求先交额外 verification documents；消费者收到 Loan Estimate 后还应注意通常的 10-business-day intent-to-proceed window。Closing Disclosure 对适用 purchase mortgage 仍要求至少在 closing 前 3 个营业日收到，但这不是 closing 后 3-day cancellation right；purchase-money mortgage 没有一般联邦 rescission right，certain refinance / home-equity transactions 才可能有 3-business-day rescission。对 first-lien dwelling credit，appraisal / written valuation copies 一般须 promptly upon completion 或最迟 closing 前 3 个营业日提供（取较早者），waiver 和 higher-priced-mortgage 情形另有规则。另核对 rate lock、title services、escrow、交割诈骗、FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、施工与保险条款仍须按州、合同和具体物业核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 CFPB TRID / Regulation Z / Regulation B：适用贷款提交六项 application 信息后，Loan Estimate 通常应在 3 个营业日内发送，lender 不能要求先交额外 verification documents；消费者收到 Loan Estimate 后还应注意通常的 10-business-day intent-to-proceed window。Closing Disclosure 对适用 purchase mortgage 仍要求至少在 closing 前 3 个营业日收到，但这不是 closing 后 3-day cancellation right；purchase-money mortgage 没有一般联邦 rescission right，certain refinance / home-equity transactions 才可能有 3-business-day rescission。对 first-lien dwelling credit，appraisal / written valuation copies 一般须 promptly upon completion 或最迟 closing 前 3 个营业日提供（取较早者），waiver 和 higher-priced-mortgage 情形另有规则。新增 pre-1978 lead disclosure：大多数 covered housing 在 buyer 被约束前须提供 known-information disclosure / reports / pamphlet / warning statement，并给 buyer 10-day inspection opportunity（可书面改期或 waiver）。另核对 rate lock、title services、escrow、交割诈骗、FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、lead rules、施工与保险条款仍须按州、合同和具体物业核验。
