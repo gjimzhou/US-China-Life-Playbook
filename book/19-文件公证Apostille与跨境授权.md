@@ -17,7 +17,7 @@
 
 具体文件是否适用，还要看文件性质、公约对有关国家或地区的适用情况和接收要求，不应照搬十年前的“公证、州认证、使领馆认证”路线。
 
-**官方说明：** [中国外交部：公约在中国生效实施](https://www.mfa.gov.cn/wjbxw_new/202310/t20231023_11165858.shtml) · [中国领事服务网：附加证明书专题](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [HCCH：Apostille Convention 专题](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+**当前官方说明：** [中国领事服务网：领事认证（附加证明书）简介 — 2026-07](https://cs.mfa.gov.cn/zggmcgx/lsrz/jj/202607/t20260713_11981309.html) · [中国领事服务网：附加证明书专题](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [中国外交部：2023-11-07 生效说明](https://www.mfa.gov.cn/wjbxw_new/202310/t20231023_11165858.shtml) · [HCCH：Apostille Convention 专题](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。中国当前官方说明仍明确：与《公约》缔约国之间，适用公文书办理附加证明书后**无需再办理使领馆领事认证**；与非缔约国之间则继续沿用领事认证程序。
 
 ## 2. 认证形式不等于证明内容
 
@@ -190,4 +190,4 @@
 
 **入口汇总：** [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department Authentication](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [USA.gov Vital Records](https://www.usa.gov/vital-records)。
 
-最后编辑与来源核验：2026-09-21。已重新核对中国外交部附加证明书专题与核验入口、美国国务院 2026 年 document authentication 页面、DS-4194 办理入口、HCCH Apostille Convention authorities，以及 USA.gov 生命事件记录入口。具体州级公证 / apostille 权限、翻译标准与最终接收机构要求仍须按文件、州和用途逐项确认。
+最后编辑与来源核验：2026-09-21。第三轮重新核对中国领事服务网 2026-07 当前说明：2023-11-07 起中国与 Apostille Convention 缔约国之间，适用公文书办理附加证明书后无需再办理使领馆领事认证；与非缔约国之间仍走领事认证。另核对中国附加证明书核验入口、美国国务院 2026 document-authentication / DS-4194 页面、HCCH authorities 与 USA.gov vital-records 入口。具体州级公证 / apostille 权限、翻译标准、文件实体效力与最终接收机构要求仍须按文件、州和用途逐项确认。
