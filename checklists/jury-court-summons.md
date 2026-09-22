@@ -14,7 +14,7 @@
 
 不要用信上陌生 QR code 或搜索广告直接付款；从法院官网独立核对。
 
-## Jury summons
+## 陪审团传票（Jury Summons）
 
 Federal jury summons 由具体 U.S. district court 管理。U.S. Courts 当前说明，收到 federal jury service summons 后，应进入**签发该 summons 的 district court 官网**按说明完成 eJuror / questionnaire、查看 reporting instructions、申请 deferral / excuse。
 
@@ -22,7 +22,7 @@ Federal jury summons 由具体 U.S. district court 管理。U.S. Courts 当前�
 
 州／地方 jury duty 则使用对应 state / county court 官方入口，不套 federal district 的期限。
 
-## Subpoena
+## 传票／证据传唤（Subpoena）
 
 Subpoena 可能要求出庭作证、参加 deposition 或提供文件。它与 jury duty 不同。
 
@@ -35,7 +35,7 @@ Subpoena 可能要求出庭作证、参加 deposition 或提供文件。它与 j
 
 把它当作[第30章正式文件流程](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件)：保存完整文件和 service date，确认 response deadline，联系匹配领域的律师。与对方私下沟通不一定暂停法院 deadline。
 
-## Jury scam
+## 陪审团诈骗（Jury Scam）
 
 法院相关诈骗常以“你没去 jury duty，马上交罚款／礼卡／crypto”为话术。不要按来电者提供的号码付款；挂断后从法院官网独立核实。
 
