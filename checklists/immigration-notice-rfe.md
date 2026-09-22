@@ -20,7 +20,7 @@
 
 **官方入口：** [USCIS e-Request](https://egov.uscis.gov/e-request) · [USCIS Contact Center](https://www.uscis.gov/contactcenter)。
 
-## RFE / Request for Evidence
+## 补件通知（RFE / Request for Evidence）
 
 不要只看 RFE 的“缺什么文件”标题。逐段标出：
 - USCIS 认为当前 record 缺什么；
@@ -32,7 +32,7 @@
 
 USCIS 的 notice 会给 response deadline；不要自行假设能延期。复杂、关键或涉及此前表述矛盾的 RFE，尽早给 immigration lawyer 看完整 filing + notice，而不是只发 RFE 最后一页。
 
-## Biometrics appointment
+## 生物信息采集预约（Biometrics Appointment）
 
 - [ ] 看清 appointment date / time / ASC。
 - [ ] 按 notice 携带指定身份证件和 appointment notice。
@@ -41,14 +41,14 @@ USCIS 的 notice 会给 response deadline；不要自行假设能延期。复杂
 
 USCIS 当前说明，错过 appointment 可能延误案件，并可能影响 benefit eligibility。
 
-## Interview notice
+## 面试通知（Interview Notice）
 
 - [ ] 确认是哪个 form / case 的 interview。
 - [ ] 按 notice 准备 originals、ID、updated evidence 和 interpreter（如适用）。
 - [ ] 重大事实变化、逮捕／citation、婚姻／工作变化、旅行／身份变化等应提前让律师判断是否影响 case。
 - [ ] 不要在面试前临时“修正”历史事实而不理解前后记录。
 
-## NOID / denial / revocation / termination notice
+## 拟拒绝、拒绝、撤销或终止通知（NOID / Denial / Revocation / Termination）
 
 这类文件不要按普通 RFE 心态处理。立即识别：
 - 是否尚有 response / motion / appeal；
