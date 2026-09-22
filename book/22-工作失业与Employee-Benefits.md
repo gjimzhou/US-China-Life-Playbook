@@ -254,7 +254,15 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 **当天优先入口：** [DOL COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [USA.gov Unemployment Benefits](https://www.usa.gov/unemployment-benefits) · [USCIS Find Legal Services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services)（如身份依赖工作）。
 
-## 31. 最小执行集与核验范围
+## 31. 工作中受伤或突然无法工作，要同时处理医疗、工伤与请假
+
+work-related injury / occupational illness 不只是“看病报销”。多数 private-company、state / local government employee 的 workers’ compensation 由州系统处理；联邦雇员和少数特定行业另有 federal programs。与此同时，FMLA、ADA accommodation、employer STD / LTD 和普通 PTO 可能与 workers’ comp 并行，但它们不是同一制度。
+
+先处理医疗与现场安全，再按 employer policy 留下书面 injury report，取得 carrier / claim number，保存 work restrictions、medical notes 和 payroll / leave changes。不要因为 workers’ comp 在处理，就默认 HR 已自动完成 leave、benefits 或 accommodation。
+
+**完整清单：** [工作中受伤、职业病或突然无法工作](../checklists/workplace-injury-leave.md) · [USA.gov：Workers’ compensation](https://www.usa.gov/workers-compensation) · [DOL：State Workers’ Compensation Officials](https://www.dol.gov/agencies/owcp/wc)。
+
+## 32. 最小执行集与核验范围
 
 - [ ] 休假保护、收入给付和医保分别明确。
 - [ ] 医保衔接、续保选择与付款日期已记录。
