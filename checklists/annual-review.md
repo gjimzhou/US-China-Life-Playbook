@@ -18,11 +18,12 @@
 
 - [ ] 主要邮箱和金融账户的多因素认证可用；优先评估通行密钥或安全密钥等抗钓鱼方式。
 - [ ] 安全保管恢复码，确认备用恢复不完全依赖同一手机或邮箱。
-- [ ] 按家庭选择核对信用冻结；查看信用记录并处理异常。
-- [ ] 核对国税局账户、社会保障收入记录及异常通知。
+- [ ] 按家庭选择核对信用冻结；通过 AnnualCreditReport.com 查看三家信用报告并处理异常。当前每家 bureau 的免费 report 最多可每周取得一次；年度复查不要求每周都查，但应知道该入口随时可用。
+- [ ] 核对国税局账户与当年 IP PIN：continuous enrollment 每年取得新 PIN；one-time enrollment 年末自动退出，下一年需要时重新加入。当前 calendar year 提交 prior-year / amended federal return 也使用该年 current IP PIN。
+- [ ] 核对 my Social Security 的上一年 earnings record。发现漏记或错误尽早更正；普通情况下不要拖过该税年结束后 **3 年、3 个月、15 天**的 correction window，超过后只剩法定例外。
 - [ ] 检查密码管理器的合法应急访问安排与已授权设备。
 
-**一键核验：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IdentityTheft.gov](https://www.identitytheft.gov/)。
+**一键核验：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [IRS：IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：IP PIN FAQ](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin) · [SSA：Review Your Earnings Record](https://www.ssa.gov/prepare/review-record-earnings) · [SSA：Correct Your Earnings Record](https://www.ssa.gov/faqs/en/questions/KA-02603.html)。
 
 ## 保险
 
