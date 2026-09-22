@@ -10,11 +10,15 @@
 - [ ] 核对电梯、装卸区、停车、搬家许可及楼宇要求的保险证明。
 - [ ] 核验搬家公司、书面报价、物品责任与索赔程序，安排宠物和必要仓储。
 
+**搬家公司核验：** [FMCSA：Protect Your Move](https://www.fmcsa.dot.gov/protect-your-move) · [FMCSA：Search Movers](https://www.fmcsa.dot.gov/protect-your-move/search-movers)。州内搬家还要查本州监管机关。
+
 ## 保险与公共服务
 
 - [ ] 衔接住房或租客险，核对贵重物品运输、超额责任险和车辆停放地址。
 - [ ] 检查新址洪水等风险，确认保障而非只更新邮寄地址。
 - [ ] 安排水、电、燃气、网络、楼宇服务与报警系统起止日期。
+
+**风险核验：** [FEMA Flood Map Service Center](https://msc.fema.gov/portal/home) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
 
 ## 逐机构变更地址
 
@@ -22,6 +26,8 @@
 - [ ] 符合资格时处理选民登记；需要时更新专业执照。
 - [ ] 分别通知银行、证券、信用卡、雇主、保险及退休和健康账户机构。
 - [ ] 保存每项确认，邮政转寄不能代替其他机构地址申报。
+
+**地址变更入口：** [USPS：Official Change of Address](https://moversguide.usps.com/) · [IRS：Address Changes](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes) · [USCIS：Change of Address](https://www.uscis.gov/addresschange) · [USA.gov：State Motor Vehicle Services](https://www.usa.gov/state-motor-vehicle-services)。
 
 ## 医疗与照护衔接
 
@@ -55,11 +61,15 @@
 - [ ] 核对州税居民身份、工资预扣、工作地点和迁居证据。
 - [ ] 请专业人士检查遗产与医疗指示文件、专业执照及医保适用性。
 
+**跨州核验：** [USA.gov：State Governments](https://www.usa.gov/state-governments) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。
+
 ## 中美迁居或长期停留
 
 - [ ] 核对入境身份、工作许可、手机号、银行与支付恢复路径。
 - [ ] 安排医疗保障、药物合法携带、病历和必要跨境文件。
 - [ ] 提前评估两国及相关州税务，安排邮件、住所监护与现场家人联络。
+
+**跨境入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [自然人电子税务局](https://etax.chinatax.gov.cn/) · [CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)。
 
 ## 迁移完成记录
 
