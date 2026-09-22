@@ -12,6 +12,8 @@
 - [ ] 必要时按厂商说明远程抹除，先评估备份与证据；不要因陌生“找回手机”消息交出密码。
 - [ ] 恢复新设备和认证方式，撤销旧设备会话，按情况报警或联系保险。
 
+**直接入口：** [Apple：设备遗失或被盗](https://support.apple.com/en-us/120837) · [Google：Find Hub](https://support.google.com/android/answer/6160491) · [FTC：SIM Swap Scams](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
+
 ## 主要邮箱被入侵
 
 - [ ] 在可信设备改密码并启用合适的多因素认证，撤销陌生会话。
@@ -36,6 +38,8 @@
 - [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排。
 - [ ] 保存每家机构的案件号、材料清单与截止日。
 
+**直接入口：** [FTC：Credit Freezes and Fraud Alerts](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [Equifax Freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian Freeze](https://www.experian.com/freeze/center.html) · [TransUnion Freeze](https://www.transunion.com/credit-freeze) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IRS：Get an IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)。
+
 ## 银行或证券账户被接管
 
 - [ ] 用账单、官方应用或已知网址取得反欺诈电话，不使用可疑消息中的号码。
@@ -43,6 +47,8 @@
 - [ ] 安全保存交易编号、收款信息及通知，索取书面争议受理凭证。
 - [ ] 更新凭证并撤销陌生设备，同时保护邮箱和手机号。
 - [ ] 重大损失按情况联系律师、执法及适用保险；不等待其他机构办结才联系银行。
+
+**投诉 / 报案：** [CFPB：Submit a Complaint](https://www.consumerfinance.gov/complaint/) · [FTC：ReportFraud](https://reportfraud.ftc.gov/) · [FBI IC3](https://www.ic3.gov/)。
 
 ## 电汇诈骗
 
@@ -94,6 +100,8 @@
 - [ ] 修复受影响的恢复路径，评估通行密钥或安全密钥。
 - [ ] 调整提醒、停用不用的账户，并更新家人的合法应急访问安排。
 - [ ] 把实际有效的官方入口、所需材料与耗时写回私人操作说明。
+
+**恢复后加固：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world) · [CISA：Turn On MFA](https://www.cisa.gov/secure-our-world/turn-mfa) · [CISA：Use Strong Passwords](https://www.cisa.gov/secure-our-world/use-strong-passwords)。
 
 
 
