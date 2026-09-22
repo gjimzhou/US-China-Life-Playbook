@@ -40,6 +40,14 @@
 
 **直接申请病历：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [HHS：Right of Access Guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html)。先从医院 / 诊所的 Health Information Management、Medical Records 或 patient portal 找 request form；可先下载 portal 已有文件，再申请缺失部分或询问能否直接传给新医生。
 
+对受 HIPAA Right of Access 约束的 covered entity，**30 calendar days 是处理 access request 的 outer limit，不是“医院有权默认拖 30 天”**。机构确实无法在 30 天内完成时，只能对同一请求使用 **一次** extension，最多再加 **30 calendar days**，并且必须在最初 30 天内书面告知延误原因和预计完成日期。州法或其他制度如果要求更快，应按更快规则执行。
+
+申请副本时也不要默认任何“records fee”都合法。HIPAA 允许的是合理、cost-based 的 copy fee，例如实际 copying labor、按请求提供的纸张 / 电子介质、邮资，以及双方同意的 summary / explanation 成本；**searching、retrieving records、verification、系统维护与基础设施成本不能被塞进 HIPAA access fee**。
+
+如果机构拒绝 access，应要求书面 denial，核对是否属于可 review 的拒绝理由及申诉 / complaint 入口。认为 HIPAA access rights 被违反时，可向 HHS Office for Civil Rights（OCR）投诉；OCR 当前一般要求在知道相关行为后 **180 天内**提交，good cause 情形可能允许延期。
+
+**期限 / 投诉入口：** [HHS：HIPAA Right of Access — 30-day rule, one extension, copy fees](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html) · [HHS：File a Health Information Privacy Complaint](https://www.hhs.gov/hipaa/filing-a-complaint/index.html) · [HHS OCR Complaint Portal](https://ocrportal.hhs.gov/ocr/cp/complaint_frontpage.jsf)。
+
 ## 4. 便携资料包与完整档案分层保存
 
 就医时优先提供医疗摘要、用药与过敏清单、重要手术和病理报告、相关检验、关键影像、疫苗记录及最近的专科意见。完整病历另行归档，供需要时调取。
@@ -170,4 +178,4 @@
 
 **入口汇总：** [HHS Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [CDC Vaccine Records](https://www.cdc.gov/iis/contacts-locate-records/index.html) · [DailyMed](https://dailymed.nlm.nih.gov/dailymed/) · [CDC Traveling with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) · [CISA Secure Our World](https://www.cisa.gov/secure-our-world)。
 
-最后编辑与来源核验：2026-09-21。已把医疗资料包连接到 HHS 病历访问 / personal representative 权利、CDC 疫苗记录与旅行携药、FDA / DailyMed 药品与器械信息、DICOM 标准、NCI second-opinion 资源和 CISA 数字安全入口。具体药物的储存、vacation override、受管制属性、目的地入境规则、病理 / 影像调取方式仍须按产品、保险、医疗机构和行程逐项确认。
+最后编辑与来源核验：2026-09-21。第三轮补核 HIPAA Right of Access：covered entity 一般须在收到请求后 30 calendar days 内采取行动；确有需要时只允许一次、最多额外 30 天的 extension，并须在初始 30 天内书面说明；copy fee 只能是规定范围内的 reasonable cost-based fee，不能包括 search / retrieval / verification / infrastructure；OCR privacy complaint 当前一般有 180-day filing window，good cause 可例外。另核对 HHS personal representative、CDC 疫苗记录与旅行携药、FDA / DailyMed、DICOM、NCI second opinion 与 CISA。具体药物储存、vacation override、受管制属性、目的地入境规则、州级更快 access rule、病理 / 影像调取方式仍须按产品、地区、保险和机构逐项确认。
