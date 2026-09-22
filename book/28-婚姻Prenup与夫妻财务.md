@@ -168,6 +168,20 @@
 
 **数字安全参考：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。公开仓库仅保存空白模板和去识别化示例。
 
+## 26. 关系破裂时先区分普通分居与安全风险
+
+普通关系争议可以讨论财务、住房、孩子和法律安排；但如果存在暴力、威胁、跟踪、强制控制或技术监控，不应把“双方坐下来协商”当作默认第一步。立即危险时使用应急服务；其他情况下可在安全设备上联系 domestic-violence advocate，制定住房、孩子、宠物、证件、交通和数字安全计划。
+
+**安全资源：** [DOJ Office on Violence Against Women：Resources for Victims and Survivors](https://www.justice.gov/ovw/resources-victims-and-survivors) · [National Domestic Violence Hotline：Plan for Safety](https://www.thehotline.org/plan-for-safety/)。
+
+## 27. 分居／离婚前先保存事实并维持基本生活
+
+不存在立即安全风险时，合法保存自己有权取得的婚姻协议、税表、工资、银行／证券／退休账户、房屋／租约／贷款、保险、债务和孩子资料。尽早向所在地 family-law lawyer 询问 jurisdiction、临时 support / custody、住房、资产、保险和跨州／跨境移动的影响。
+
+不要把清空联名账户、取消必要保险、删除记录、私自转移重大资产或搬走孩子当成通用“先保护自己”的动作；这些决定可能产生法律后果。安全事件例外，按 advocate / lawyer 的个案计划处理。
+
+**完整分流：** [分居、离婚与家庭安全清单](../checklists/separation-family-safety.md)。
+
 ## 最小执行集与核验范围
 
 - [ ] 双方理解财务、债务和父母支持安排。
