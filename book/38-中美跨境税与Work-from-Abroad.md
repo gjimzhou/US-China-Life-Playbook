@@ -58,6 +58,13 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 ## 8. 在中国工作的所得来源需具体计算
 
+**不到 183 天不等于“中国不用交税”。** 对在中国无住所个人，居民身份、所得来源和具体免税条件要分开判断：
+
+- 一个纳税年度在境内居住**不超过 90 天**时，实施条例第5条只对一类特定所得给出免税：来源于中国境内、但由境外雇主支付且**不由该境外雇主在中国境内的机构 / 场所负担**的部分。由中国境内单位支付或负担的中国来源工资，并不会因为本人“不到90天”自动免税。
+- 在境内居住**超过 90 天但不满 183 天**时，仍可能就中国来源工资薪金纳税；具体工资分摊按35号公告规则计算，不能用“我是中国税务非居民”推导成零税。
+- **高管人员**有单独规则。35号公告对高管在 ≤90 天、90–183 天等情形另有处理，因此不能把普通员工的简化理解直接套给董事、监事或高层管理岗位。
+- 税收协定可能进一步改变 90 / 183-day employment-income treatment，但协定通常还会看 employer、PE / borne-by 等条件，不能只数天数。
+
 [财政部 税务总局公告2019年第35号](https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202332/content.html)对境内工作期间的工资、奖金与股权所得来源作出规定，工作期间还涉及实际工作日、公休假、个人休假和培训天数。
 
 **不要把第6节的 residence-day 规则直接拿来算 workdays。** 34号公告的 residence days 中，当天在中国境内不足 24 小时不计入居住天数；35号公告在适用的工资薪金来源计算中，对境内、境外同时任职或仅境外任职的无住所个人，境内停留不足 24 小时的当天可按**半天**计算境内工作天数。税务 residence test 与 income sourcing 是两套计算，可能对同一天给出不同处理。
@@ -225,4 +232,4 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 
 **本项目方法论：** 把结论写成“事实 + 年度 + 管辖区 + 依据 + 行动”，是为了防止下一年或情形变化后误用旧结论；详见[方法论](../METHODOLOGY.md)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS / FinCEN 当前页面：2026 FEIE 上限为 **$132,900 / qualifying person**；FBAR 仍使用外国金融账户全年任一时点 aggregate value **超过 $10,000** 的一般门槛，常规 due 4/15 且自动延至 10/15、无需单独 extension request；Form 8938 当前四组个人门槛及 living-abroad 条件已列出，并明确其随相应 income-tax return 的 due date（including extensions）提交；IRS 当前 treaty A–Z 仍列 China，Publication 901 当前为 **09/2024 quick reference**，并明确 U.S.–China treaty 不适用于香港。中国侧已交叉核对《个人所得税法实施条例》及财政部 / 税务总局 2019年第34号、35号公告：无住所个人 183-day residence test、preceding-six-years rule、单次离境 >30-day reset、2019 起算，以及 residence days 与工资薪金 workdays 的不同计日规则均已写入正文。仍需专项专业复核的主要是具体 treaty position、工资 / bonus / equity sourcing 公式在个案中的应用、PFIC / trust / entity 分类、境外税额抵免及具体申报备案操作。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS / FinCEN 当前页面：2026 FEIE 上限为 **$132,900 / qualifying person**；FBAR 仍使用外国金融账户全年任一时点 aggregate value **超过 $10,000** 的一般门槛，常规 due 4/15 且自动延至 10/15、无需单独 extension request；Form 8938 当前四组个人门槛及 living-abroad 条件已列出，并明确其随相应 income-tax return 的 due date（including extensions）提交；IRS 当前 treaty A–Z 仍列 China，Publication 901 当前为 **09/2024 quick reference**，并明确 U.S.–China treaty 不适用于香港。中国侧已交叉核对《个人所得税法实施条例》及财政部 / 税务总局 2019年第34号、35号公告：无住所个人 183-day residence test、preceding-six-years rule、单次离境 >30-day reset、2019 起算，以及 residence days 与工资薪金 workdays 的不同计日规则均已写入正文。同时明确“不满183天 ≠ 中国零税”：实施条例第5条与35号公告对 ≤90 天、90–183 天及高管人员分别设有所得来源 / 免税规则。仍需专项专业复核的主要是具体 treaty position、工资 / bonus / equity sourcing 公式在个案中的应用、PFIC / trust / entity 分类、境外税额抵免及具体申报备案操作。
