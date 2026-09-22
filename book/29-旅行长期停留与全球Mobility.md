@@ -34,7 +34,7 @@
 
 ## 5. 境外医疗不能按美国境内体验推断
 
-向保险方确认哪些地区和治疗适用、是否先付款后报销、如何联系救援、是否有事先批准要求。询问既往病症、免赔额和材料。参考[国务院旅行保险说明](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html)，具体结论以保单为准。
+向保险方确认哪些地区和治疗适用、是否先付款后报销、如何联系救援、是否有事先批准要求。询问既往病症、免赔额和材料。具体结论以保单为准。
 
 **继续看：** [国务院：Travel Insurance](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) · [NAIC：Travel Insurance](https://content.naic.org/consumer/travel-insurance)。
 
@@ -125,13 +125,13 @@
 
 ## 19. 安全提醒服务不等于救援保证
 
-符合条件的美国公民可了解[旅行者登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html)，接收相关使领馆信息。其他国籍人员应另查本国领事保护渠道。登记、旅行警示和旅行保险各有作用，不能互相替代。
+符合条件的美国公民可了解旅行者登记计划（STEP），接收相关使领馆信息。其他国籍人员应另查本国领事保护渠道。登记、旅行警示和旅行保险各有作用，不能互相替代。
 
 **直接办理：** [国务院：Smart Traveler Enrollment Program (STEP)](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [国务院：Travel Advisories](https://travel.state.gov/en/international-travel/travel-advisories.html)。
 
 ## 20. 护照遗失按签发国流程补办
 
-从本国使领馆正式渠道查询预约、材料和紧急证件，另向目的地主管机构核对离境或签证记录恢复要求。美国护照持有人可查看[国务院境外遗失护照说明](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html)。扫描件可帮助提供信息，不能代替有效旅行证件，也不保证当日补发。
+从本国使领馆正式渠道查询预约、材料和紧急证件，另向目的地主管机构核对离境或签证记录恢复要求。扫描件可帮助提供信息，不能代替有效旅行证件，也不保证当日补发。
 
 **美国护照直接入口：** [国务院：Lost or Stolen Passport Abroad](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html) · [国务院：U.S. Embassies and Consulates](https://www.usembassy.gov/)。
 
@@ -149,7 +149,7 @@
 
 ## 23. 驾驶资格、保险与道路规则逐项查
 
-[国务院境外驾驶说明](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html)提醒核对当地接受的驾照与保险；需要国际驾驶许可（International Driving Permit，IDP）时仍须携带有效本国驾照。租车公司愿意交车不代表所有法律和保险条件已满足。
+国务院境外驾驶说明提醒核对当地接受的驾照与保险；需要国际驾驶许可（International Driving Permit，IDP）时仍须携带有效本国驾照。租车公司愿意交车不代表所有法律和保险条件已满足。
 
 **继续看：** [国务院：Driving and Transportation Safety Abroad](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html) · [国务院：International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html)。
 
