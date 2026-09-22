@@ -1,0 +1,31 @@
+{
+  "book/30-Household-Emergency-Runbook.md": {
+    "19-只保留适用的最小执行集": "21-只保留适用的最小执行集"
+  },
+  "checklists/lost-pet.md": {
+    "做一张可核验的-lost-pet-信息卡": "做一张可核验的寻宠信息卡"
+  },
+  "checklists/vehicle-roadside-ticket-tow.md": {
+    "boot--wheel-clamp": "车轮锁boot--wheel-clamp"
+  },
+  "checklists/medication-access-problem.md": {
+    "prior-authorization--insurance-denial": "事先授权保险拒付prior-authorization--insurance-denial"
+  },
+  "checklists/jury-court-summons.md": {
+    "jury-summons": "陪审团传票jury-summons",
+    "subpoena": "传票证据传唤subpoena",
+    "jury-scam": "陪审团诈骗jury-scam"
+  },
+  "checklists/immigration-notice-rfe.md": {
+    "rfe--request-for-evidence": "补件通知rfe--request-for-evidence",
+    "biometrics-appointment": "生物信息采集预约biometrics-appointment",
+    "interview-notice": "面试通知interview-notice",
+    "noid--denial--revocation--termination-notice": "拟拒绝拒绝撤销或终止通知noid--denial--revocation--termination",
+    "收到-uscis-rfebiometricsinterviewnoid-或其他-notice": "收到移民局通知补件指纹面试与拟拒绝",
+    "先确认-notice-真的属于哪个-case": "先确认通知属于哪个案件",
+    "notice-没收到或地址变更": "通知没收到或地址变更"
+  },
+  "checklists/crime-victim.md": {
+    "victim-services": "受害者支持victim-services"
+  }
+}

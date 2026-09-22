@@ -7,6 +7,7 @@ if OUT.exists():shutil.rmtree(OUT)
 shutil.copytree(ROOT/'site',OUT)
 labels={'first-30-days':'前 30 天','annual-review':'年度复查','emergency-sheet':'紧急信息表','cyber-incident':'网络安全事件','death-administration':'死亡后事务','home-purchase':'购房与交割','international-travel':'国际旅行','job-loss':'失业应对','marriage-checklist':'婚姻准备','move-checklist':'搬家','parents-emergency':'父母紧急应对','life-events-index':'生活事件索引','pet-loss':'宠物去世','mental-health-care':'心理健康服务','rental-lifecycle':'租房全流程','school-support':'学龄教育支持','separation-family-safety':'分居离婚与家庭安全','disaster-utility-outage':'灾害与公共服务中断','cross-border-problem':'跨境办事失败排查','pregnancy-birth-loss':'怀孕生产与妊娠丢失','hospital-discharge-major-diagnosis':'重大诊断与出院','lost-wallet-documents':'钱包与重要证件丢失','vehicle-roadside-ticket-tow':'车辆抛锚拖车与罚单','lost-pet':'宠物走失','crime-victim':'犯罪受害与失踪','workplace-injury-leave':'工伤与请假','medication-access-problem':'药物获取失败','jury-court-summons':'陪审传唤与法院通知','immigration-notice-rfe':'移民局通知处理','GLOSSARY':'中英术语表','METHODOLOGY':'方法论','STYLE':'写作规范','CONTRIBUTING':'贡献指南','source-policy':'来源原则','HOME':'首页与阅读导览','editorial-status':'编辑审查进度','README':'项目介绍','DISCLAIMER':'阅读须知与免责声明'}
 paths=sorted((ROOT/'book').glob('*.md'))+sorted((ROOT/'checklists').glob('*.md'))+[ROOT/p for p in ['HOME.md','references/editorial-status.md','DISCLAIMER.md','GLOSSARY.md','METHODOLOGY.md','STYLE.md','CONTRIBUTING.md','references/source-policy.md','README.md']]
+historical_aliases=json.loads((ROOT/'site/anchor-aliases.json').read_text())
 docs=[]
 for p in paths:
  text=p.read_text();path=p.relative_to(ROOT).as_posix()
@@ -37,9 +38,17 @@ for p in paths:
    if priorities or evidence:tags.append({'priorities':priorities,'evidence':evidence})
   sections.append({'id':anchor,'aliases':aliases,'level':level,'title':heading_text if i else '概览','markdown':part,'tags':tags,'priorities':sorted({v for t in tags for v in t['priorities']}),'evidence':sorted({v for t in tags for v in t['evidence']})})
 
+ # Explicit historical mappings are reviewed; never infer a destination at runtime.
+ by_id={s['id']:s for s in sections}
+ occupied={a for s in sections for a in [s['id'],*s['aliases']]}
+ for old,new in historical_aliases.get(path,{}).items():
+  if new not in by_id or old in occupied:
+   raise ValueError(f'Invalid or conflicting historical anchor: {path}#{old} -> {new}')
+  by_id[new]['aliases'].append(old);occupied.add(old)
  reading_mode=re.search(r'^> \*\*内容性质：([^*]+)\*\*',parts[0],re.M)
  docs.append({'path':path,'title':title,'kind':kind,'readingMode':reading_mode[1] if reading_mode else '', 'sections':sections})
  dest=OUT/path;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(text)
+assert set(historical_aliases) <= {d['path'] for d in docs}, 'Alias document missing'
 (OUT/'data.json').write_text(json.dumps(docs,ensure_ascii=False))
 (OUT/'.nojekyll').touch()
 print(f'Built {len(docs)} documents; {sum(len(d["sections"]) for d in docs)} searchable sections')

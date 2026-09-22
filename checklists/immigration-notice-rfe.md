@@ -1,78 +1,80 @@
-# 收到 USCIS RFE、Biometrics、Interview、NOID 或其他 Notice
+# 收到移民局通知：补件、指纹、面试与拟拒绝
 
-用于已经有 pending USCIS case 后突然收到 notice 的场景。一般身份维护见[第37章](../book/37-移民身份与文件维护.md)。
+> **内容性质：程序规则与材料整理建议。** 法规说明不等于个案结论；日历、归档和分工属于防遗漏建议。回复内容及救济途径应由合格移民律师结合完整案卷判断。
 
-> 移民 notice 的后果高度个案化。这里的目标是防止错过、误读或交错材料，不替代 immigration lawyer 对具体案件的判断。
+用于美国公民及移民服务局（USCIS）案件审理期间收到通知的场景。一般身份维护见[第37章](../book/37-移民身份与文件维护.md)。
 
-## 先确认 notice 真的属于哪个 case
+## 先确认通知属于哪个案件
 
-记录：
-- form type；
-- receipt number；
-- applicant / petitioner / beneficiary；
-- notice type；
-- notice date；
-- response / appointment date；
-- issuing office；
-- attorney / representative 是否也收到。
+记录并核对：
 
-如果在线 case status 显示已发 notice，但纸件没收到、online account 也没有，可使用 USCIS e-Request / Contact Center 的 non-delivery 路径。
+- 申请表格类型；
+- 收据号码（Receipt Number）；
+- 申请人、请愿人或受益人的姓名；
+- 通知类型、签发日期、签发办公室；
+- 回复期限或预约日期、时间、地点；
+- 律师或认可代表是否也收到完整通知。
 
-**官方入口：** [USCIS e-Request](https://egov.uscis.gov/e-request) · [USCIS Contact Center](https://www.uscis.gov/contactcenter)。
+若在线案件状态显示通知已发出，但没有收到纸件，账户内也找不到，应按官方未收到通知的查询流程处理。不要把“正在查询邮件”理解为回复期限自动暂停。
+
+**官方入口：** [移民局电子查询（e-Request）](https://egov.uscis.gov/e-request) · [移民局联系中心](https://www.uscis.gov/contactcenter) · [通知或证件未收到时如何查询](https://www.uscis.gov/forms/filing-guidance/how-to-track-delivery-of-your-notice-or-secure-identity-document-or-card)。通知信与安全身份证件的投递查询方式可能不同。
 
 ## 补件通知（RFE / Request for Evidence）
 
-不要只看 RFE 的“缺什么文件”标题。逐段标出：
-- USCIS 认为当前 record 缺什么；
-- legal / factual issue 是什么；
-- 可接受哪些 evidence；
-- response deadline；
-- response address / online upload instructions；
-- 是否要求 original。
+不要只看“缺什么文件”的标题。逐段标出：
 
-USCIS 的 notice 会给 response deadline；不要自行假设能延期。复杂、关键或涉及此前表述矛盾的 RFE，尽早给 immigration lawyer 看完整 filing + notice，而不是只发 RFE 最后一页。
+- 移民局认为现有案卷缺少哪些事实或证据；
+- 要解决什么法律或事实问题；
+- 接受哪些材料，是否要求原件；
+- 回复截止日，以及寄送地址或上传要求。
 
-**不要把回复当成可以随意分批补齐的材料箱。** 8 CFR 103.2(b)(11)要求所需材料一起提交；仅提交部分所要求证据，可能被视为请求按现有记录作决定。应按通知指定方式组织完整回复；有材料无法取得时，先让律师判断解释、替代证据及程序选择，不自行先交一部分期待后续再补。
+不要自行假设可以延期，也不要把别人的补件天数套到自己的通知上。复杂、关键或涉及此前表述矛盾的补件，应尽早把原申请和完整通知交给律师。
 
-**规则原文：** [联邦法规：补件与拟拒绝通知的回复规则，8 CFR 103.2(b)(11)](https://www.ecfr.gov/current/title-8/section-103.2#p-103.2(b)(11))。
+**回复材料须一起提交。** 8 CFR 103.2(b)(11)规定，部分提交所要求的证据将被视为请求按现有记录作决定。缺少材料时，先让律师判断解释、替代证据及程序选择，不要先交一部分再期待系统允许补齐。
+
+**规则原文：** [联邦法规：补件与拟拒绝通知的回复规则](https://www.ecfr.gov/current/title-8/section-103.2#p-103.2(b)(11))。按通知和适用规则确认收件要求，给投递、整理和复核留出时间。
 
 ## 生物信息采集预约（Biometrics Appointment）
 
-- [ ] 看清 appointment date / time / ASC。
-- [ ] 按 notice 携带指定身份证件和 appointment notice。
-- [ ] 无法出席时使用 notice / USCIS 当前 rescheduling 路径，不要 simply no-show。
-- [ ] reschedule 后保存 confirmation。
+- [ ] 看清日期、时间及申请支持中心（ASC）地址。
+- [ ] 按通知携带指定身份证件和预约通知。
+- [ ] 无法出席时，及时使用通知或官方页面指定的改约渠道，保存请求及处理结果；不直接缺席。
+- [ ] 已错过预约时，立即联系移民局及代理律师处理，不自行到场就假设已经补救。
 
-USCIS 当前说明，错过 appointment 可能延误案件，并可能影响 benefit eligibility。
+缺席可能导致申请被视为放弃并遭拒绝，而不只是“慢一点”。一般规则要求移民局在预约时间前收到其认为足以免除缺席后果的地址变更或改约请求；入籍等程序可能另有适用规定。**发出请求不等于获得批准。**
+
+**核对入口：** [移民局：生物信息采集预约准备](https://www.uscis.gov/forms/filing-guidance/preparing-for-your-biometric-services-appointment) · [联邦法规：未出席的后果及例外](https://www.ecfr.gov/current/title-8/section-103.2#p-103.2(b)(13))。
 
 ## 面试通知（Interview Notice）
 
-- [ ] 确认是哪个 form / case 的 interview。
-- [ ] 按 notice 准备 originals、ID、updated evidence 和 interpreter（如适用）。
-- [ ] 重大事实变化、逮捕／citation、婚姻／工作变化、旅行／身份变化等应提前让律师判断是否影响 case。
-- [ ] 不要在面试前临时“修正”历史事实而不理解前后记录。
+- [ ] 确认是哪个申请或案件的面试。
+- [ ] 按通知准备原件、身份证明、更新材料及口译安排（如适用）；不要默认所有面试都允许相同的陪同人员或口译方式。
+- [ ] 逮捕或违法传票、婚姻与工作变化、旅行与身份变化等，应提前让律师判断是否需要说明及提交材料。
+- [ ] 如发现历史填写错误，向律师如实说明并讨论更正方式，不隐瞒，也不凭记忆临时改写事实。
 
 ## 拟拒绝、拒绝、撤销或终止通知（NOID / Denial / Revocation / Termination）
 
-这类文件不要按普通 RFE 心态处理。立即识别：
-- 是否尚有 response / motion / appeal；
-- deadline；
-- 哪个 agency / office；
-- 是否影响 status、work authorization、travel 或 dependent。
+拟拒绝通知（NOID）与已经作出的拒绝决定不是一回事。尽快让律师阅读完整文件，确认：
 
-尽早让合格 immigration lawyer 审完整 record。
+- 是否仍可回复，或有重新开启／复议动议（Motion）、上诉（Appeal）等途径；
+- 适用期限、受理办公室及提交方式；
+- 对身份、工作许可、旅行及家属申请的影响。
 
-## Notice 没收到或地址变更
+不要把所有决定都当作可上诉。例如，依据放弃申请作出的拒绝通常不能上诉，但可能有申请重新开启的程序；能否使用及怎样提交须按具体决定核对。
 
-邮政 forwarding 不等于 USCIS change of address。按[第37章](../book/37-移民身份与文件维护.md)使用 USCIS current change-of-address procedure；pending cases 要确认 receipt numbers 是否已正确关联。
+**规则入口：** [联邦法规：撤回或因放弃而拒绝的后果](https://www.ecfr.gov/current/title-8/section-103.2#p-103.2(b)(15))。
+
+## 通知没收到或地址变更
+
+邮政转寄不等于向移民局变更地址。使用[移民局地址变更说明](https://www.uscis.gov/addresschange)，核对所有相关案件的收据号码，保存确认。不要假设改了一份申请、一个家庭成员或律师的地址，其他记录就全部更新；受保护案件等可能有专用渠道，按官方说明办理。
 
 ## 完成标准
 
-- notice 已扫描保存；
-- deadline 进入日历；
-- response package 有目录和完整 copy；
-- tracking / online confirmation 保存；
-- attorney copy / G-28 情况确认；
-- USCIS case status 后续更新有人检查。
+- 通知已完整扫描保存；
+- 截止日、提前提醒及负责处理的人已明确；
+- 回复材料有目录和完整副本；
+- 邮寄追踪或在线提交确认已保存，并继续确认接收状态；
+- 律师副本及代理登记表（G-28）情况已核对；
+- 有人持续检查案件状态和后续通知。
 
-最后编辑与来源核验：2026-09-22。Notice non-delivery、appointment / Contact Center 入口依据 USCIS 当前自助与联系页面；具体 RFE、NOID、denial、motion / appeal 期限以 notice、法规与律师审查为准。
+最后编辑与来源核验：2026-09-22。已读取联邦法规关于部分补件、缺席和放弃申请的规定。移民局地址变更与未收通知页面本轮取得官方搜索摘要；预约和地址页面正文未能完整抓取，因此未将当前界面、改约按钮或全部操作条件标为已核验。具体期限与救济以通知、适用法规和专业审查为准。

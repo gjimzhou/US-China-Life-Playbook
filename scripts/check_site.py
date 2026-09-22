@@ -16,6 +16,9 @@ for doc in docs:
     ids = [s['id'] for s in sections]
     if len(ids) != len(set(ids)):
         errors.append(f'Duplicate anchors: {doc["path"]}')
+    routes = [a for s in sections for a in [s['id'], *s['aliases']]]
+    if len(routes) != len(set(routes)):
+        errors.append(f'Ambiguous section routes: {doc["path"]}')
     for section in sections:
         for label, href in re.findall(r'\[([^\]]+)\]\(([^)]+)\)', section['markdown']):
             url = urlsplit(href)

@@ -1,37 +1,43 @@
 # 宠物走失：前几小时怎么做
 
+> **内容性质：搜寻与防诈骗的行动建议。** 芯片工具说明有专业机构依据；搜寻安排需结合动物习性、现场安全和本地收容规则。
+
 宠物急症、芯片、旅行和临终见[第17章](../book/17-宠物Operating-System.md)。本清单处理“宠物突然不见了”。
 
 ## 先确认最后出现时间和可能逃逸路径
 
-- [ ] 记录最后确认见到的时间、地点、门窗／电梯／garage／yard 情况。
+- [ ] 记录最后确认见到的时间、地点、门窗、电梯、车库和庭院情况。
 - [ ] 立即搜索住宅内部、楼道、车库、楼梯间、储物空间和附近安全区域。
 - [ ] 对猫、受惊动物或新到家的宠物，不要只按“会往远处跑”的假设搜索。
-- [ ] 通知 building staff、household member、pet sitter 和附近关键联系人。
+- [ ] 通知物业人员、同住家人、宠物照护者和附近关键联系人。
 
 ## 芯片状态立即确认
 
-确认 microchip number 和 registry contact information 是否正确。如果只知道 chip number、不知道登记在哪家 registry，可使用 AAHA Microchip Registry Lookup 查询可能的 registry；AAHA lookup 本身不会显示 owner info，也不能代替向 registry 更新联系方式。
+确认芯片号码和登记联系方式是否正确。如果只知道芯片号码、不知道登记在哪家登记平台，可使用美国动物医院协会（AAHA）芯片登记查询工具查询可能的登记平台；该查询工具本身不会显示主人资料，也不能代替向登记平台更新联系方式。
 
-**工具：** [AAHA Microchip Registry Lookup](https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/)。
+**工具：** [美国动物医院协会（AAHA）芯片登记查询工具](https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/)。
+
+芯片不是定位器，不能显示宠物现在的位置。该工具只搜索参与平台，查不到结果不等于没有芯片或从未登记；可向植入芯片的医院或芯片厂商继续确认。
+
+**说明：** [AAHA：芯片功能与限制](https://www.aaha.org/resources/pet-microchipping-faqs/)。
 
 ## 通知本地会收到走失宠物的机构
 
-- [ ] local animal control / municipal shelter；
-- [ ] nearby shelters / humane societies；
-- [ ] 常用兽医和附近 emergency vet；
-- [ ] microchip registry 的 lost-pet 状态／alert（如该 registry 提供）；
-- [ ] building / neighborhood security。
+- [ ] 本地动物管理部门或市政收容所；
+- [ ] 附近动物收容所或动物福利机构；
+- [ ] 常用兽医和附近急诊兽医；
+- [ ] 芯片登记平台的走失状态／通知功能（如该登记平台提供）；
+- [ ] 楼宇或社区安保。
 
-不要只发 social media 而不报 shelter / animal control。
+不要只发社交媒体而不报收容所／动物管理部门。
 
-## 做一张可核验的 lost-pet 信息卡
+## 做一张可核验的寻宠信息卡
 
 包含：
 - 清晰近期照片；
-- 名字、species / breed、sex、颜色、体型；
-- collar / harness；
-- microchip 状态（不要公开完整 chip number）；
+- 名字、物种／品种、性别、颜色、体型；
+- 项圈／胸背带；
+- 芯片状态（不要公开完整芯片号码）；
 - 最后出现地点与时间；
 - 是否怕人、是否需要药物；
 - 一个安全联系渠道。
@@ -40,18 +46,22 @@
 
 ## 防诈骗
 
-常见风险包括“我找到你的宠物，先转钱”“需要验证码证明你是主人”“假的 veterinary emergency bill”。
+常见风险包括“我找到你的宠物，先转钱”“需要验证码证明你是主人”“假的兽医急诊账单”。
 
 - 不提供短信验证码；
 - 不先向陌生人转不可追回款项；
 - 要求能证明宠物在对方手里的新照片／细节；
-- 见面取宠物时选择安全地点，必要时让 shelter / vet / police 协助。
+- 见面取宠物时选择安全地点，必要时让收容所、兽医或警方协助。
+
+如果对方自称医院或收容所，使用自己从其官网找到的电话回拨核实，不依赖来电号码、对方发来的付款链接或一张照片。
+
+**识别具体骗局：** [美国联邦贸易委员会（FTC）：以寻宠为由索取验证码](https://consumer.ftc.gov/consumer-alerts/2021/10/google-voice-scam-how-verification-code-scam-works-how-avoid-it) · [美国联邦调查局（FBI）：冒充动物服务机构索要急诊费](https://www.fbi.gov/contact-us/field-offices/elpaso/news/fbi-tech-tuesday-beware-of-lost-pet-scams)。
 
 ## 找回来后
 
 - [ ] 先检查脱水、伤口、跛行、呼吸、误食等情况；有异常联系兽医。
-- [ ] 告知 shelter / animal control / registry 已找到，撤下帖子。
-- [ ] 检查 collar、tag、microchip contact、门窗／carrier / leash 的失败点。
-- [ ] 如果走失与 sitter / boarding / building incident 有关，保留事实和书面记录。
+- [ ] 告知收容所、动物管理部门和登记平台已找到，撤下帖子。
+- [ ] 检查项圈、身份牌、芯片联系方式、门窗、航空箱或牵引绳的失败点。
+- [ ] 如果走失与临时照护、寄养或楼宇事件有关，保留事实和书面记录。
 
-最后编辑与来源核验：2026-09-22。芯片 registry 查询工具依据 AAHA 当前页面；local reporting 和 shelter 流程依所在地办理。
+最后编辑与来源核验：2026-09-22。芯片功能与登记查询已对照 AAHA；验证码与假急诊费骗局已对照 FTC、FBI。当地报失、收容与认领流程仍须向所在地机构确认。
