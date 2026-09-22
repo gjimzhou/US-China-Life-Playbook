@@ -42,6 +42,20 @@
 
 取得可比较的书面报价，确认是否包含相同范围。不同工种及地区的许可要求不同，不宣称全国存在统一“承包商牌照”。
 
+**1978 年以前住宅的 renovation 另加一层 lead-safe 核验。** EPA Renovation, Repair and Painting（RRP）Rule 对很多 pre-1978 homes / child-occupied facilities 的付费 renovation、repair、painting 工作适用。Plumber、electrician、HVAC、window installer、painter 等并不会因为“不是油漆工”就自动排除；关键在于 paid work 是否会 disturb covered painted surfaces。
+
+当前 federal RRP baseline：
+
+- covered work 通常要求 firm 获得 EPA certification，并由 trained / certified renovator 负责适用 lead-safe practices；
+- “minor repair / maintenance”小面积豁免一般只到**每个房间 ≤6 sq ft 的 interior painted surface**或**总计 ≤20 sq ft exterior painted surface**；
+- 但 **window replacement、painted-surface demolition，以及 RRP 明确禁止的 work practices**不享受上述小面积豁免；
+- 如果受影响表面已有符合要求的 lead-free determination，可按规则排除相应组件；不要用“房子后来翻新过”“窗户看起来很新”自行推断没有 lead-based paint；
+- EPA 的 homeowner / contractor lead-safe renovation materials 已在 **2026-03** 更新，开工前应让 contractor 提供当前 required pamphlet / notices，并把 certification、test result、work area containment 与 cleanup 方式写进项目资料。
+
+这不是要求所有 pre-1978 home renovation 都做全面 lead abatement，而是要求先判断 RRP applicability；州、市还可能有更严格的 lead / contractor rules。
+
+**Lead-safe 核验入口：** [EPA：RRP Program — Contractors](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) · [EPA：Steps to Lead-Safe Renovation, Repair and Painting — March 2026](https://www.epa.gov/lead/steps-lead-safe-renovation-repair-and-painting) · [EPA：Find a Lead-Safe Certified Firm](https://www.epa.gov/lead/find-lead-safe-certified-firm) · [EPA：Lead FAQ / Renovation](https://www.epa.gov/lead/lead-renovation-repair-and-painting-program-rules)。
+
 ## 6. 估价要写明工程范围
 
 写清拆除、材料规格或预算额度、人工、清理、垃圾处置、许可、检查、开始与完工安排，以及哪些项目不包含。口头承诺加入合同。
@@ -152,10 +166,10 @@
 
 - [ ] 取得住房责任文件与夜间紧急入口。
 - [ ] 知道阀门位置及操作边界。
-- [ ] 核验承包商资质、保险与书面范围。
+- [ ] 核验承包商资质、保险与书面范围；pre-1978 housing 涉及扰动漆面时另查 EPA RRP / lead-safe certification。
 - [ ] 许可、付款、变更和验收责任写清楚。
 - [ ] 私下保存物品证据与备用联系人。
 
 **入口汇总：** [USA.gov State & Local Governments](https://www.usa.gov/state-local-governments) · [FTC Home Improvement](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC State Insurance Departments](https://content.naic.org/state-insurance-departments) · [USFA Home Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/)。
 
-最后编辑与来源核验：2026-09-21。已重新核对 FTC 当前 Home Improvement Scam 与灾后维修防诈骗页面，并补入 USA.gov 州 / 地方政府与消费者保护入口、NAIC 保险监管入口和 USPS 搬家入口。各地许可、租赁义务、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。
+最后编辑与来源核验：2026-09-21。第三轮新增核对 EPA RRP：paid work 在多数 pre-1978 housing / child-occupied facilities 扰动 covered painted surfaces 时须判断 lead-safe certification / work-practice requirements；minor-repair threshold 一般为每房间 ≤6 sq ft interior 或 ≤20 sq ft exterior，但 window replacement、painted-surface demolition 和 prohibited practices 不适用该小面积豁免；EPA lead-safe renovation materials 已于 2026-03 更新。另核对 FTC Home Improvement / disaster-repair scam、USA.gov state-local / consumer protection、NAIC insurance regulator 与 USPS move 入口。各地许可、租赁义务、lead rules、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。
