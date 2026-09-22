@@ -104,11 +104,15 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 税务表格可能不足以还原全部成本资料。不要带走公司的研究、客户或其他机密信息。
 
+**税务入口：** [IRS Tax Topic 427 — Stock Options](https://www.irs.gov/taxtopics/tc427) · [IRS：Form 3921](https://www.irs.gov/forms-pubs/about-form-3921) · [Form 3922](https://www.irs.gov/forms-pubs/about-form-3922)。RSU、ESPP、options 等处理不同，实际 grant agreement 和 tax forms 一并保存。
+
 ## 14. 雇主寿险结束后的选项要核对
 
 询问转为个人保单或携带保障的资格、费用和申请窗口，并结合家庭依赖程度评估替代保障。
 
 旧保障结束前确认新安排何时有效，不能只因已提出申请就推定无缝衔接。
+
+**计划入口：** 向 plan administrator 索取 group life certificate / SPD；ERISA-covered employer benefits 的一般帮助可联系 [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。conversion / portability window 以实际计划文件为准。
 
 ## 15. 医保最后有效日不要猜
 
@@ -124,11 +128,15 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 不要绕过访问限制，也不批量带走公司邮件、源代码、交易资料或客户信息。
 
+**本项目实务建议：** 只保存本人有权保留的 employment / payroll / benefits records。税务记录保存可参考 [IRS：How long should I keep records?](https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records)；雇主机密与个人可带走资料的边界以 employer policy、协议和适用法律为准。
+
 ## 17. 找得到自己签过的协议
 
 保存保密、知识产权、竞业、招揽限制、仲裁及返还条款。离职、创业或加入其他雇主前，向独立律师说明实际安排。
 
 本章不声称竞业条款在全国一律有效或无效；适用法律与最新裁判须单独查。
+
+**找法律入口：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。限制性条款高度依州法、协议文字与事实。
 
 ## 18. 人事部门与个人律师的角色不同
 
@@ -136,11 +144,15 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 需要专业意见时先确认代理关系与保密范围，不把公司内部沟通默认当成自己的律师咨询。
 
+**本项目实务边界：** HR / benefits team 是雇主流程入口，不自动构成员工个人法律代理。劳动权益官方入口可从 [DOL Worker.gov](https://www.worker.gov/) · [EEOC](https://www.eeoc.gov/)开始；个别法律意见用本州律师目录核验。
+
 ## 19. 裁员协议不能只看补偿金额
 
 查看终止日、支付条件、放弃权利、保密、限制条款、福利、股权、税务与签署期限。留出独立审阅时间，询问不清楚的条款。
 
 不同人和不同协议可能有不同法定要求，不套用一个固定“考虑期”或撤回期。
+
+**继续看：** [EEOC：Understanding Waivers of Discrimination Claims in Employee Severance Agreements](https://www.eeoc.gov/laws/guidance/understanding-waivers-discrimination-claims-employee-severance-agreements) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)用于福利问题。EEOC 页面包含特定年龄歧视 waiver 的特殊要求，但不能把这些期限套给所有 severance。
 
 ## 20. 失业保险向适用州查询
 
@@ -155,6 +167,8 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 定期与前同事、校友和行业联系人交流，了解市场与技能变化。关系维护不需要只围绕求职，也不能通过泄露雇主资料证明能力。
 
 失业后使用清楚的个人经历和目标介绍，给对方可具体帮助的事项。
+
+**本项目实务建议：** 这是职业连续性策略，不是劳动法要求。公开求职经历仍应遵守保密、知识产权和前雇主协议。
 
 ## 22. 每年重新看开放参保材料
 
@@ -178,11 +192,15 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 纸质索引可写机构和资料位置，不必写账户密码。
 
+**继续看：** [DOL：What You Should Know About Your Retirement Plan](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)。计划文件、beneficiary、claim 和 administrator 信息应能在离职后继续取得。
+
 ## 25. 个人联系不依赖公司账户
 
 合法将个人福利通知地址改为可持续使用的私人邮箱，确认离职后税表如何寄送。个人手机号和恢复入口也应能继续使用。
 
 迁移的是自己的合法资料，不是复制公司通讯录或商业数据。
+
+**本项目实务建议：** 离职前确认 payroll、benefits、equity administrator 和 tax-form delivery 使用可持续的个人联系方式；不得用此理由复制无权带走的企业数据。
 
 ## 26. 定期记录可公开的工作经历
 
@@ -190,11 +208,15 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 日后求职时不应为了证明经历而拿出无权保留的材料。
 
+**本项目实务建议：** 用可公开描述的职责和成果维护职业记录，不以带走内部文档作为证明。具体 confidentiality / IP 边界回到本人协议与州法。
+
 ## 27. 过渡期预算按实际风险设计
 
 估计固定支出、医疗保费、家属需要、招聘周期和地理限制，分别考虑有无离职补偿及其他收入的情形。
 
 不机械套用三个月或六个月。预算应说明能维持到何时、什么时点需要调整支出或求职范围。
+
+**本项目实务建议：** 过渡期现金缓冲没有适用于所有家庭的固定月数；把 COBRA / marketplace、新工作空档、severance、失业保险和固定支出放进同一现金流情景。失业入口见 [USA.gov](https://www.usa.gov/unemployment-benefits)。
 
 ## 28. 工作授权与福利同时处理
 
@@ -202,17 +224,23 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 支付补偿、医保仍有效或处于工资系统，不自动证明移民身份与工作权限不受影响。见[第 37 章](37-移民身份与文件维护.md)。
 
+**移民入口：** [USCIS：Find Legal Services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services) · [USCIS Forms](https://www.uscis.gov/forms)。具体 grace period、工作授权和 change-of-employer 规则按本人类别核对。
+
 ## 29. 职业准备保留选择空间
 
 技能、健康、联系、资金和可迁移的合法资历共同影响恢复能力。不能把全部家庭支出建立在某一职位持续存在的假设上。
 
 可定期评估替代路径，不必为了准备风险而持续处于求职焦虑。
 
+**本项目实务建议：** 这是职业与家庭韧性框架，不是预测失业概率；重点是保留合法可迁移的技能、联系、资料与现金缓冲。
+
 ## 30. 离职当天先记录这些事项
 
 确认终止日、医保结束、协议期限、股权和薪酬事项、适用身份期限及设备归还要求。指定下一步负责人，保存合法资料，按时与专业人士联系。
 
 具体执行见[失业应对清单](../checklists/job-loss.md)。不需要在同一天完成所有退休账户或长期财务决定。
+
+**当天优先入口：** [DOL COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [USA.gov Unemployment Benefits](https://www.usa.gov/unemployment-benefits) · [USCIS Find Legal Services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services)（如身份依赖工作）。
 
 ## 31. 最小执行集与核验范围
 
@@ -221,5 +249,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 - [ ] 双方 HSA/FSA 及福利互动已核对。
 - [ ] 合同、股权、个人税务资料可合法取得。
 - [ ] 离职预算与适用身份期限有处理路径。
+
+**核验入口汇总：** [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [IRS Publication 969](https://www.irs.gov/publications/p969)。
 
 最后编辑与来源核验：2026-09-21。已重新核对 DOL FMLA eligibility / employee-protection / notice 页面、COBRA worker FAQ、EBSA claim / retirement guides，IRS 2026 Publication 15-B 与 Publication 969、HealthCare.gov 特别参保和 USA.gov unemployment 入口，并补入 rollover 直达页。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
