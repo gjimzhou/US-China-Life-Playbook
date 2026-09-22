@@ -6,6 +6,8 @@
 
 一个共同日历、一份待办、一张资料索引和必要的应急说明，通常比不断更换应用更容易维护。选择家里真正愿意使用的方式，也可以是纸质和数字工具结合。
 
+**应急资料模板：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [FEMA：Emergency Financial First Aid Kit](https://www.ready.gov/financial-preparedness)。本章的日常管理框架不要求采用某个特定 app。
+
 ## 2. 每项事务明确协调人
 
 注明负责跟进的人、期限、当前状态和备用人。“我们都记得”不能代替明确分工。共同决定的事项仍可由双方讨论，由一人负责把下一步落实。
@@ -38,9 +40,13 @@
 
 密码、恢复码和密钥放在适当的受保护系统。共享说明只描述入口及授权流程，不把全部秘密写进一份所有人可见的文件。
 
+**继续看：** [CISA：Use Strong Passwords](https://www.cisa.gov/secure-our-world/use-strong-passwords) · [CISA：Turn On MFA](https://www.cisa.gov/secure-our-world/turn-mfa)。
+
 ## 10. 低频事件写简短操作单
 
 事故、手机遗失、漏水、住院、身份盗用或失业时，先写紧急联系、立即动作和资料位置。使用[第 30 章](30-Household-Emergency-Runbook.md)及对应清单，并按实际情况填私人副本。
+
+**外部参考：** [Ready.gov：Emergency Plans](https://www.ready.gov/plan) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [Poison Control](https://www.poison.org/)。不同事件仍按对应章节处理。
 
 ## 11. 复查频率可轻可重
 
@@ -54,6 +60,8 @@
 
 清洁、税务、维修和照护可考虑专业服务。比较范围、能力、总费用、沟通成本和隐私，而不只是“自己能不能做”。
 
+**核验入口：** 税务专业人士可从 [IRS：Choosing a Tax Professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) 开始；装修维修可看 [FTC：How To Avoid a Home Improvement Scam](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)；其他专业人士见[第 27 章](27-律师CPA医生保险经纪怎么找.md)。
+
 ## 14. 使用服务也要看交付
 
 确认完成标准、期限、费用、资料去向和失败后的处理。请人报税后仍要确认申报回执，请人维修后仍需验收约定工作；不必事事监督操作细节，但要知道结果。
@@ -64,9 +72,13 @@
 
 接手安排须尊重法律权限与隐私，不能把共享登录当成完整授权。
 
+**继续看：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [HHS：HIPAA Personal Representatives](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html)。
+
 ## 16. 出门前使用固定清单
 
 检查药物、证件、通信、支付、住宅、邮件和宠物。按旅行性质调整，不用每次重新从空白开始。跨境准备见[旅行清单](../checklists/international-travel.md)。
+
+**旅行入口：** [美国国务院：International Travel](https://travel.state.gov/content/travel/en/international-travel.html) · [CDC Travelers’ Health](https://wwwnc.cdc.gov/travel/)。
 
 ## 17. 共同日历只放需要共同知道的事
 
@@ -96,6 +108,8 @@
 
 证件、受益人和整体保障可纳入年度检查；烟雾或一氧化碳报警器测试、账单核对及其他维护，仍按设备说明和实际需要执行。不要因为列进年度清单就一年只做一次。
 
+**安全维护：** [USFA：Smoke Alarms](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/)。
+
 ## 24. 重大变化后额外复查
 
 婚姻、子女、搬家、工作、诊断、父母能力变化和长期境外停留，都可能让原安排失效。优先查受影响的部分，不必每次重做全部系统。
@@ -108,4 +122,4 @@
 - [ ] 自动化有结果检查，维护按适当频率执行。
 - [ ] 分工、工具和服务会根据负担与需要调整。
 
-最后逐段编辑：2026-09-21。本章为家庭协作建议，没有把时间分配、工具或会议频率标作科学定论；涉及医疗、安全和法律权限时，以所链接专题与适用专业要求为准。
+最后编辑与来源核验：2026-09-21。本章仍明确属于家庭协作与 operating-system 建议，不把工具、会议频率或分工模式包装成科学定论；仅在应急、数字安全、专业服务、代理权限、旅行与消防安全等可执行环节补入 Ready.gov、CISA、FTC、IRS、CFPB、HHS、国务院、CDC 与 USFA 入口。
