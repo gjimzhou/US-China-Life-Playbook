@@ -86,11 +86,19 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 ## 11. 退休账户转移先比较后操作
 
-离职后可能有留在原计划、转到新计划、转入个人退休账户或领取分配等选择，具体看计划。比较费用、投资、税务、债权保护及贷款后果。
+离职后可能有留在原计划、转到新计划、转入个人退休账户（IRA）或领取分配等选择，具体看计划。比较费用、投资选项、税务、债权保护、RMD / beneficiary consequences 及 plan loan 后果。
 
-不要为了尽快“清空旧账户”贸然取现或转移。涉及税后供款、罗斯转换和个人退休账户合并计算等复杂事项时，请熟悉相关规则的人核对。
+**资金真的要移动时，先区分 direct rollover 和“钱先到自己手里”：**
 
-**比较选择：** [DOL：What You Should Know About Your Retirement Plan](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan) · [IRS：Rollovers of Retirement Plan and IRA Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions)。
+- **Direct rollover（plan → plan / IRA）或 trustee-to-trustee IRA transfer：** 资金直接去 receiving account，通常不触发本人拿到 eligible rollover distribution 时的 mandatory 20% federal withholding；这是避免误触 60-day clock 的最简单路径。
+- **60-day rollover：** 如果 eligible retirement-plan / IRA distribution 先付给本人，通常从**收到款项之日**起有 **60 天**完成适用 rollover。超过 60 天可能使未 rollover 的 taxable amount 计入收入，并可能触发 early-distribution additional tax；IRS 有有限的 waiver / self-certification relief，但不能计划性依赖。
+- **Employer-plan eligible rollover distribution 直接付给本人：** taxable eligible amount 一般会被 mandatory **20% federal withholding**。如果仍想把原 distribution **100%** rollover，必须在 60 天内用其他资金补齐被 withholding 的部分；只 rollover 实收的 80%，被扣的 20% 仍可能成为 taxable distribution（并视情况有 early-distribution tax）。
+- **IRA one-rollover-per-year rule：** 一般只限制 **IRA-to-IRA 60-day rollover**，按本人所有 traditional / Roth / SEP / SIMPLE IRAs 聚合，12 个月内通常只能一次。**Trustee-to-trustee IRA transfers、traditional-to-Roth conversions、plan-to-IRA、IRA-to-plan、plan-to-plan**不受这条 one-per-year limit 限制。
+- RMD、hardship distribution 等某些款项本来就不是 eligible rollover distribution；不要收到 1099-R 后才假设什么都能塞回 IRA。
+
+不要为了尽快“清空旧账户”贸然 cash out。涉及 after-tax basis、Roth conversion、mega-backdoor after-tax money、employer stock / NUA、plan loan offset 或多个 IRA basis 时，先让 plan administrator / tax professional 给出书面 mapping，再移动资金。
+
+**比较 / 办理：** [IRS：Rollovers of Retirement Plan and IRA Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [IRS Topic 413 — Rollovers from Retirement Plans](https://www.irs.gov/taxtopics/tc413) · [IRS：Termination of Employment — retirement plan rollover](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment) · [DOL：What You Should Know About Your Retirement Plan](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan)。
 
 ## 12. 离职日期影响哪些权益要书面确认
 
@@ -254,4 +262,4 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 **核验入口汇总：** [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [IRS Publication 969](https://www.irs.gov/publications/p969)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 DOL FMLA / COBRA 与 IRS 2026 benefits 数字：FMLA 常见 employee eligibility 仍为 12 months、1,250 hours 和 50 employees within 75 miles；COBRA 常见 election period 60 天、initial payment 45 天、后续月费至少 30 天 grace period，常规最高 premium 通常为 plan cost 的 102%；2026 HSA limit 为 $4,400 / $8,750，HDHP deductible floor 为 $1,700 / $3,400、OOP ceiling 为 $8,500 / $17,000，health FSA salary-reduction limit 为 $3,400。另核对 EBSA claim / retirement guides、HealthCare.gov 特别参保和 USA.gov unemployment 入口。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 DOL FMLA / COBRA 与 IRS 2026 benefits / rollover rules：FMLA 常见 employee eligibility 仍为 12 months、1,250 hours 和 50 employees within 75 miles；COBRA 常见 election period 60 天、initial payment 45 天、后续月费至少 30 天 grace period，常规最高 premium 通常为 plan cost 的 102%；2026 HSA limit $4,400 / $8,750，HDHP deductible floor $1,700 / $3,400、OOP ceiling $8,500 / $17,000，health FSA salary-reduction limit $3,400。退休账户新增 direct rollover / 60-day rollover 区分、employee-plan distribution paid to participant 的 mandatory 20% withholding，以及 IRA-to-IRA 60-day rollover 一般 12 个月仅一次、trustee-to-trustee transfer 不受该限制的说明。另核对 EBSA claim / retirement guides、HealthCare.gov SEP 和 USA.gov unemployment。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
