@@ -69,7 +69,7 @@
 - [ ] 如实申报应说明的物品与境外维修，不把免税待遇当作免申报。
 - [ ] 避免公开实时位置与具体收藏信息。
 
-**贵重物品 / 海关：** [CBP Form 4457](https://www.cbp.gov/sites/default/files/2024-06/cbp_form_4457.pdf) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [TSA：What Can I Bring?](https://www.tsa.gov/travel/security-screening/whatcanibring/all)。
+**贵重物品 / 海关：** [CBP：Form 4457 官方入口](https://www.cbp.gov/document/forms/form-4457-certificate-registration-personal-effects-taken-abroad?language_content_entity=en) · [CBP：出发前登记个人物品说明](https://www.help.cbp.gov/s/article/Article1833) · [CBP：Customs Duty Information](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [TSA：What Can I Bring?](https://www.tsa.gov/travel/security-screening/whatcanibring/all)。
 
 ## 返程后
 
