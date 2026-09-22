@@ -204,6 +204,28 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 **本项目方法论：** 每项至少保留 case / confirmation number、submitted document、到账或关闭证明之一；官方总入口可从 [USA.gov After a Death](https://www.usa.gov/after-death)开始。
 
+## 31. 殡葬服务先选“需要什么”，不要默认买套餐
+
+美国 FTC Funeral Rule 允许消费者选择需要的 funeral goods / services，并要求 funeral provider 在适用情形提供价格信息和 General Price List。可以比较 direct cremation、burial、viewing、memorial、transport、embalming / refrigeration 等项目；州法、cemetery 和具体情况可能另有要求。
+
+处于悲伤状态也不必默认昂贵 package 是法律必须。要求 itemized price、第三方费用和任何声称“法律要求购买”的项目依据；确定方案后保存书面 statement。
+
+**消费者入口：** [FTC：The Funeral Rule](https://consumer.ftc.gov/articles/ftc-funeral-rule) · [FTC：Funeral Costs and Pricing Checklist](https://consumer.ftc.gov/articles/funeral-costs-pricing-checklist)。
+
+## 32. 人在境外去世，先接入当地与领事流程
+
+如果美国公民在境外去世，美国国务院说明，当地医院／警方和美国使领馆可能参与通知与后续协调；使领馆可以提供当地 burial / cremation、遗体或个人物品运输等信息，并在取得当地死亡证明等条件后办理 Consular Report of Death Abroad（CRODA）。使领馆通常不替家属支付遗体或骨灰运回美国的费用。
+
+如果逝者不是美国公民，也应先联系当地主管机关、逝者国籍国使领馆和实际承运／殡葬服务方；不要把美国公民 CRODA 流程直接套用。
+
+**美国公民境外身故入口：** [U.S. Department of State：Death Abroad](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
+
+## 33. 遗体或骨灰跨境运输要单独核对
+
+遗体跨境不是“带着死亡证明上飞机”这么简单。国务院当前说明，遗体运回美国通常涉及当地死亡证明、consular mortuary certificate、当地 funeral director affidavit、transit permit 等文件，并可能受到 CDC quarantine 要求和外国当地法律影响；具体文件随死亡原因、embalming 状态和国家而变化。
+
+骨灰通常有不同于完整遗体的运输和安检规则，且航空公司、出发国、目的国／州和使领馆可能有额外要求。先让实际 funeral home / crematory、承运航空公司和相关政府机关给出书面清单，再订不可退运送安排。
+
 ## 最小准备与核验范围
 
 提前保留文件和账户索引、明确意愿与合法权限，让可信接手人知道入口。事件发生后使用[身故办理清单](../checklists/death-administration.md)，真实信息只私下填写。
