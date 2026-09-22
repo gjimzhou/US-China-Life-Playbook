@@ -69,7 +69,11 @@
 
 房屋检查（Inspection）关注约定范围内的状况；估价（Appraisal）用于价值判断，不能替代结构、屋顶或机电检查。向服务方询问范围、排除项目、报告形式与后续问题，不把完成估价当成房屋没有缺陷。
 
-**继续看：** [HUD：Buying a Home — Home Inspection 入口](https://www.hud.gov/topics/buying_a_home) · [CFPB：What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/)。
+对**以住宅第一顺位留置权（first lien on a dwelling）担保的信用申请**，Regulation B 当前要求 creditor 免费向 applicant 提供为该申请开发的 appraisals 和其他 written valuations；一般应在 valuation 完成后 promptly 提供，或最迟在 closed-end transaction consummation 前 **3 个营业日**交付，取较早者。规则覆盖的不只传统人工 appraisal，也可能包括某些 AVM / broker price opinion 等 written valuations。
+
+Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 waiver，copy 仍须在 closing / account opening 时或之前提供；某些 higher-priced mortgage 又有不能 waiver 的额外规则。不要把“我没主动问”理解成 lender 可以完全不提供 valuation copy。
+
+**继续看：** [HUD：Buying a Home — Home Inspection](https://www.hud.gov/topics/buying_a_home) · [CFPB：What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/) · [CFPB Regulation B §1002.14 — appraisal / valuation copies](https://www.consumerfinance.gov/rules-policy/regulations/1002/14/)。
 
 ## 10. 检查报告要读未覆盖部分
 
@@ -203,4 +207,4 @@
 
 **总流程：** [CFPB：Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 CFPB TRID / Regulation Z：适用贷款提交六项 application 信息后，Loan Estimate 通常应在 3 个营业日内发送，lender 不能要求先交额外 verification documents；消费者收到 Loan Estimate 后还应注意通常的 10-business-day intent-to-proceed window。Closing Disclosure 对适用 purchase mortgage 仍要求至少在 closing 前 3 个营业日收到，但**这不是 closing 后 3-day cancellation right**；purchase-money mortgage 签署 closing documents 后没有一般联邦 rescission right，certain refinance / home-equity transactions 才可能有 3-business-day rescission。另核对 rate lock、title services、escrow、交割诈骗、FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、施工与保险条款仍须按州、合同和具体物业核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 CFPB TRID / Regulation Z / Regulation B：适用贷款提交六项 application 信息后，Loan Estimate 通常应在 3 个营业日内发送，lender 不能要求先交额外 verification documents；消费者收到 Loan Estimate 后还应注意通常的 10-business-day intent-to-proceed window。Closing Disclosure 对适用 purchase mortgage 仍要求至少在 closing 前 3 个营业日收到，但这不是 closing 后 3-day cancellation right；purchase-money mortgage 没有一般联邦 rescission right，certain refinance / home-equity transactions 才可能有 3-business-day rescission。对 first-lien dwelling credit，appraisal / written valuation copies 一般须 promptly upon completion 或最迟 closing 前 3 个营业日提供（取较早者），waiver 和 higher-priced-mortgage 情形另有规则。另核对 rate lock、title services、escrow、交割诈骗、FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、施工与保险条款仍须按州、合同和具体物业核验。
