@@ -18,7 +18,11 @@ CDC Hear Her 当前提醒：怀孕期间及生产后一年内都可能出现需�
 
 **官方入口：** [CDC：Urgent Maternal Warning Signs](https://www.cdc.gov/hearher/maternal-warning-signs/index.html) · [CDC：Pregnant and Postpartum Women](https://www.cdc.gov/hearher/pregnant-postpartum/index.html)。
 
-## 怀疑流产／early pregnancy loss
+## 怀疑流产／早期妊娠丢失（Early Pregnancy Loss）
+
+**先排除需要立即急救的情况。** 怀孕或可能怀孕时，突然剧烈腹痛／盆腔痛、肩痛、明显虚弱、眩晕或昏厥可能提示异位妊娠等急症，应立即去急诊；不宜自行前往或存在立即危险时拨打当地急救电话，不等产科回电。不能仅因有阴道出血就判断为普通流产。
+
+**专业说明：** [美国妇产科医师学会：异位妊娠症状与急诊指征](https://www.acog.org/womens-health/faqs/ectopic-pregnancy)。
 
 出血或腹痛并不一定代表流产，但需要医学判断。ACOG 当前患者资料说明，出现阴道出血／spotting、液体流出、组织排出或较重出血伴痉挛时应联系产科；确诊可能需要 ultrasound 和／或 serial hCG，而不是仅凭一次家庭验孕或一次症状判断。
 

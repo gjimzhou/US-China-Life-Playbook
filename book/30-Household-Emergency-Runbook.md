@@ -34,19 +34,15 @@
 
 ## 4. 火灾、烟雾或一氧化碳警报
 
-### 区域性停电、停水、极端天气和撤离另走连续生活流程
-
-这类事件往往不是“修好一个设备”即可结束，而是需要同时处理临时住所、药物／医疗设备、宠物、孩子／父母、工作通信、保险和几天无法回家的生活连续性。官方 evacuation / utility / public-health 指令优先于家庭自己的计划。
-
-**直接使用：** [区域灾害、停电停水与暂时不能回家清单](../checklists/disaster-utility-outage.md)。
-
-
-
 **现在：** 立即按安全疏散路线离开，呼叫当地紧急服务，到约定集合点；不要返回取物或搜寻宠物，将未撤离人员和动物信息交给救援人员。
 
 **安全后：** 与救援和物业确认能否返回，再安排住宿、必要药物、证件和支付。联系保险方并记录损失。不要自行认定报警停止就能安全进入。安全准备见[不要意外死亡](01-不要意外死亡.md)。
 
 **继续看：** [USFA：Home Fire Escape Plans](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-escape-plans/) · [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/)。
+
+### 区域性停电、停水、极端天气和撤离另走连续生活流程
+
+其他区域灾害的生活安排见[本章第19节](#19-区域灾害停电停水或暂时不能回家)。火警当下仍先执行上面的撤离步骤。
 
 ## 5. 交通事故
 

@@ -57,6 +57,10 @@
 
 ## 数字与账号边界
 
+**存在监控或控制时，先评估更改账户会不会增加危险。** 改密码、恢复方式或共享权限可能向对方可见的邮箱／设备发送通知。先从安全设备与家暴支持人员制定顺序，再决定何时更改；不要在可能受监控的设备上直接照下面清单操作。
+
+**安全说明：** [全国家暴热线：被迫负债与账户安全](https://www.thehotline.org/resources/how-to-recognize-coerced-debt/)。
+
 - [ ] 给自己的邮箱、银行、云盘和运营商设置自己控制的安全恢复方式。
 - [ ] 复查 family sharing、shared password vault、location sharing、smart lock / camera、共享设备登录。
 - [ ] 保存合法需要的共同记录后，再按律师／安全计划决定是否更改访问。

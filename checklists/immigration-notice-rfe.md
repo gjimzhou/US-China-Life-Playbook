@@ -32,6 +32,10 @@
 
 USCIS 的 notice 会给 response deadline；不要自行假设能延期。复杂、关键或涉及此前表述矛盾的 RFE，尽早给 immigration lawyer 看完整 filing + notice，而不是只发 RFE 最后一页。
 
+**不要把回复当成可以随意分批补齐的材料箱。** 8 CFR 103.2(b)(11)要求所需材料一起提交；仅提交部分所要求证据，可能被视为请求按现有记录作决定。应按通知指定方式组织完整回复；有材料无法取得时，先让律师判断解释、替代证据及程序选择，不自行先交一部分期待后续再补。
+
+**规则原文：** [联邦法规：补件与拟拒绝通知的回复规则，8 CFR 103.2(b)(11)](https://www.ecfr.gov/current/title-8/section-103.2#p-103.2(b)(11))。
+
 ## 生物信息采集预约（Biometrics Appointment）
 
 - [ ] 看清 appointment date / time / ASC。

@@ -54,7 +54,10 @@ Medicare / CMS 的 discharge planning checklist 强调患者和 caregiver 在离
 
 - [ ] 保存 admission / discharge date、hospital status、claim / authorization number。
 - [ ] 记录 ambulance、hospital、physician、radiology、pathology、DME、home health 等可能分开发账的主体。
-- [ ] 大额账单先等 EOB / claim status，再判断真正 patient responsibility。
+- [ ] 有保险时，把账单与保险理赔说明（EOB）、理赔状态和已付款逐项核对。保险尚未处理完时，主动联系账单部门和保险方，记录付款期限并请求核查或暂缓催收的书面确认；不要默认等待理赔会暂停期限。自费或未走保险的账单可能没有 EOB，应直接核对明细、估价及适用争议程序。
+
+**账单核对入口：** [美国消费者金融保护局：医疗账单核查与求助](https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-cant-pay-a-medical-bill-en-2125/)。
+
 - [ ] 需要 rehab / SNF / home health 时，提前问保险 coverage criteria 和 network。
 
 ## 工作和家庭运营

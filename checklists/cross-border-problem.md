@@ -64,7 +64,7 @@
 ## 常用官方入口
 
 - 美国州级 apostille / authentication：从各州 Secretary of State 官方网站进入；
-- 美国联邦文件认证：[U.S. Department of State — Authenticate Your Document](https://travel.state.gov/en/replace-certify-documents/authenticate-your-document.html)；
+- 美国联邦文件认证：[U.S. Department of State — Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html)；
 - Apostille Convention：[HCCH Apostille Section](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)；
 - 中国政务：[国家政务服务平台](https://gjzwfw.www.gov.cn/)；
 - 中国领事服务与附加证明书：[中国领事服务网](https://cs.mfa.gov.cn/)。
