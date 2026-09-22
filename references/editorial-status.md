@@ -121,6 +121,13 @@
 - **第37章 Immigration / EAD：** 发现并修正一个重要 2026 动态变化。DHS 的 **90 FR 48799** 自 2025-10-30 起结束某些 EAD renewal categories 中“及时 renewal 即自动延长 EAD”的做法；此前已取得的 extension 与法律 / Federal Register notice 另行提供的 extension 不受追溯取消。正文不再沿用“540-day automatic extension”旧经验。
 - **第38章 Cross-border Tax：** 重新核对 2026 FEIE $132,900、FBAR aggregate > $10,000、Form 8938 四组个人门槛及 living-abroad 条件；Publication 901 当前仍为 09/2024 quick reference，协定原文与 current treaty A–Z index 为主入口，并明确 U.S.–China treaty 不适用于香港。
 
+- **第13章家庭财务：** 重新核对 FDIC / SIPC 与 SEC 2025 cash-sweep guidance。FDIC standard amount 仍为 $250,000 per depositor / insured bank / ownership category；2024-04-01 起多数 revocable / irrevocable / POD-ITF trust deposits 统一进入 trust-accounts category，通常每 owner × eligible beneficiary × $250,000，5 位或更多 beneficiary 时 capped at $1.25m / owner / bank。SIPC 仍为 $500,000 per customer，其中 cash claim $250,000；bank sweep、money-market fund sweep 与 brokerage free-credit balance 的保护体系已分开说明。
+- **第16章银行卡 / 诈骗：** 重新核对 CFPB 2026-08-28 guidance 与 Regulation E。实体 debit card / PIN loss-theft 的 2-business-day rule、statement unauthorized-EFT 的 60-day rule、银行通常 10-business-day 初始调查期，以及 fraudster-initiated P2P unauthorized EFT 与 consumer-authorized scam 的差异已写入；与 credit-card FCBA 60-day written billing-error notice 明确分开。
+- **第17章宠物：** 重新核对 CDC 2026 dog-import rules。所有返美犬只的 Dog Import Form、健康、≥6个月、microchip 底线已写入；low-risk-only 与 high-risk 路径分开；U.S.-vaccinated dog 去过 high-risk country 时所需 Certification of U.S.-issued Rabies Vaccination 必须在离美前办理，并明确 2025-07-31 后签发的普通 USDA export health certificate 不能再作为该返美文件替代。
+- **第29章旅行：** 重新核对 DOT 当前退款规则。Significant schedule change 核心阈值 domestic 3h / international 6h；refund timing 为 credit-card 7 business days、其他 payment methods 20 calendar days；checked-bag fee significant delay 为 domestic 12h、international 15h / 30h。另记录 2026-07-08 至 2027-07-07 的 narrow renumbered-flight enforcement discretion。
+- **第39章 Household Payroll：** 在原 $3,000 / $1,000 trigger 基础上补核 2026 Social Security wage base $184,500、双方常规 FICA 各 7.65%、employee wages >$200,000 时 0.9% Additional Medicare withholding，以及 FUTA first-$7,000 wage base 与 state-credit / credit-reduction 影响。
+- **第40章高价值物品 / 海关：** 重新核对 CBP 2026-02-27 duty-free guidance：returning U.S. resident 多数情况 personal exemption $800，但存在 $200 / $1,600 等情形及 48-hour / 30-day 等条件；免税不等于免申报。酒类通常 1 liter 可纳入 duty-free allowance，但超出不自动禁止，可能缴 duty / IRT 并受州法及 commercial-purpose 判断影响。
+
 
 ## 本轮收尾与后续核验
 
