@@ -70,6 +70,8 @@
 
 办理时说明所需证明的事实与用途，不要只把中文“公证”翻成英文后要求对方照办。
 
+**权威入口：** [U.S. State Department：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [HCCH Apostille Convention](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+
 ## 8. 翻译是一项独立要求
 
 接收方可能要求认证翻译（certified translation）、宣誓译员、译者声明或特定排版。不同机构对这些名称的使用也可能不同，应问清具体标准。
@@ -91,6 +93,8 @@
 某些事项需要明确到具体房产、账户、交易及有效期。笼统的全面授权可能被拒绝，也可能扩大滥用风险。
 
 让专业人士根据用途设计授权，并确认撤销、期限和原件管理方式。不要把网上模板当成跨境通用文件。
+
+**找法律帮助：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [中国法律服务网 12348](https://www.12348.gov.cn/)。最终 wording 仍先问接收机构。
 
 ## 11. 婚姻文件考虑后续用途
 
@@ -114,17 +118,23 @@
 
 不要因为文件跨境就一律办理附加证明书。医疗整理步骤见[医疗记录与跨境连续性照护](06-医疗记录药物与跨境Continuity.md)。
 
+**医疗资料入口：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。医疗记录能否直接被境外机构使用，先问接诊机构格式与翻译要求。
+
 ## 14. 文件新旧可能影响受理
 
 接收机构可能要求近期出具的文件或认证副本。例如要求近几个月内签发，这属于具体机构的受理条件，不能概括成所有附加证明书统一有效期。
 
 使用旧文件前，核对底层文件、翻译与认证是否仍满足当前要求。
 
+**本项目实务建议：** Apostille 本身不提供全世界统一“有效期”；是否要求近期签发文件由最终接收机构决定。
+
 ## 15. 姓名差异提前建立对照
 
 记录中文姓名顺序、拼音、英文名、中间名、婚前姓名、空格及历史写法的差异。重大申请前询问是否需要更正文件或补充姓名关联证明。
 
 不要自行改动已经签发的官方文件来“统一拼写”。
+
+**本项目实务建议：** 建立 name-variant 对照表并保留支持文件；需要更正时使用签发机关正式 amendment / correction 流程，而不是手工修改扫描件。
 
 ## 16. 邮寄原件保留交接记录
 
@@ -155,6 +165,8 @@
 
 公开仓库只保存空白模板。实际证件、姓名、账户和签名存入私人档案。
 
+**数字安全参考：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。索引记录文件位置和状态，不在公共项目集中真实证件。
+
 ## 19. 从官方机关查当前要求
 
 美国文件先查签发州的主管机关或相关联邦机关；公约适用情况查[海牙国际私法会议的附加证明书专题](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
@@ -175,5 +187,7 @@
 - [ ] 建立原件、副本和办理进度索引。
 - [ ] 使用可追踪的交接与邮寄方式。
 - [ ] 真实文件只存私人系统。
+
+**入口汇总：** [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department Authentication](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [USA.gov Vital Records](https://www.usa.gov/vital-records)。
 
 最后编辑与来源核验：2026-09-21。已重新核对中国外交部附加证明书专题与核验入口、美国国务院 2026 年 document authentication 页面、DS-4194 办理入口、HCCH Apostille Convention authorities，以及 USA.gov 生命事件记录入口。具体州级公证 / apostille 权限、翻译标准与最终接收机构要求仍须按文件、州和用途逐项确认。
