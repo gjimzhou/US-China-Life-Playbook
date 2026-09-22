@@ -52,9 +52,9 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 ## 7. 续保的选择和付款分别有期限
 
-上述 COBRA 指引说明，通常从保障结束或选择通知提供之日两者较晚者起有 60 天选择；选择后首次付款通常有 45 天期限。记录通知、选择及付款回执，按实际计划和适用救济核对。
+上述 COBRA 指引说明，通常从保障结束或选择通知提供之日两者较晚者起有 60 天选择；选择后首次付款通常有 45 天期限。首次付款之后，计划必须允许按月付款，并对按期应付的常规月费提供至少 30 天 grace period；不要因为没收到纸质账单就假定付款期限自动延长。记录通知、选择及每次付款回执，按实际计划和适用救济核对。
 
-费用可能包括原先雇主承担的份额，通常可达计划总费用的 102%。不要用原工资单上自己支付的金额估算续保预算，也不要假定停止 COBRA 就随时获得其他计划的特别参保机会。
+费用可能包括原先雇主承担的份额，常规 COBRA premium 最高通常可达同类在职覆盖总成本的 102%；特定 disability extension 有另外规则。不要用原工资单上自己支付的金额估算续保预算，也不要假定停止 COBRA 就随时获得其他计划的特别参保机会。
 
 **期限核对：** [DOL：COBRA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [HealthCare.gov：Job-based coverage loss and SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)。
 
@@ -70,9 +70,11 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 健康储蓄账户（HSA）供款资格需要核对符合要求的高免赔额医疗计划（HDHP）、其他保障及个人条件。一般用途医疗灵活支出账户（health FSA）可能使本人或受其覆盖的配偶失去 HSA 供款资格；限用途或免赔额后 FSA 可能兼容。
 
-2026 年 HSA 基本供款上限为个人保障 4,400 美元、家庭保障 8,750 美元；不是夫妻各有一份完整家庭上限，雇主供款也应计入。2026 年开始的计划年度，医疗 FSA 员工工资减额供款上限为 3,400 美元。
+2026 年 HSA 基本供款上限为个人保障 4,400 美元、家庭保障 8,750 美元；不是夫妻各有一份完整家庭上限，雇主供款也应计入。2026 年 HSA 所称高免赔额医疗计划（HDHP）的年度最低 deductible 为 self-only 1,700 美元、family 3,400 美元；年度 out-of-pocket 上限不得超过 self-only 8,500 美元、family 17,000 美元。满足这些数字仍不自动代表本人具备 HSA 供款资格，还要看其他 coverage 和个人条件。
 
-**继续看：** [IRS Publication 15-B (2026)](https://www.irs.gov/publications/p15b) · [IRS Publication 969 — HSA / FSA / HRA](https://www.irs.gov/publications/p969) · [IRS Form 8889](https://www.irs.gov/forms-pubs/about-form-8889)。资格月份、追加供款和特殊规则另行核对，账户有余额不等于当年仍可继续供款。
+2026 年开始的计划年度，医疗 FSA 员工工资减额供款上限为 3,400 美元。
+
+**继续看：** [IRS Rev. Proc. 2025-19 — 2026 HSA / HDHP inflation-adjusted amounts](https://www.irs.gov/irb/2025-21_IRB) · [IRS Publication 15-B (2026)](https://www.irs.gov/publications/p15b) · [IRS Publication 969 — HSA / FSA / HRA](https://www.irs.gov/publications/p969) · [IRS Form 8889](https://www.irs.gov/forms-pubs/about-form-8889)。资格月份、追加供款和特殊规则另行核对，账户有余额不等于当年仍可继续供款。
 
 ## 10. 报销截止与发生费用截止分开
 
@@ -252,4 +254,4 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 **核验入口汇总：** [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [IRS Publication 969](https://www.irs.gov/publications/p969)。
 
-最后编辑与来源核验：2026-09-21。已重新核对 DOL FMLA eligibility / employee-protection / notice 页面、COBRA worker FAQ、EBSA claim / retirement guides，IRS 2026 Publication 15-B 与 Publication 969、HealthCare.gov 特别参保和 USA.gov unemployment 入口，并补入 rollover 直达页。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 DOL FMLA / COBRA 与 IRS 2026 benefits 数字：FMLA 常见 employee eligibility 仍为 12 months、1,250 hours 和 50 employees within 75 miles；COBRA 常见 election period 60 天、initial payment 45 天、后续月费至少 30 天 grace period，常规最高 premium 通常为 plan cost 的 102%；2026 HSA limit 为 $4,400 / $8,750，HDHP deductible floor 为 $1,700 / $3,400、OOP ceiling 为 $8,500 / $17,000，health FSA salary-reduction limit 为 $3,400。另核对 EBSA claim / retirement guides、HealthCare.gov 特别参保和 USA.gov unemployment 入口。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
