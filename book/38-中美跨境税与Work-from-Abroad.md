@@ -56,7 +56,7 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 如拟使用中美税收协定，让专业人士写明适用版本、条款、身份、收入、条件与所需披露。不要只摘取就业所得或居民条款中的天数；本章不提供个案协定豁免。
 
-**官方原文：** [IRS：U.S.–China Income Tax Treaty PDF](https://www.irs.gov/pub/irs-trty/china.pdf) · [IRS：U.S. Income Tax Treaties A–Z](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z) · [IRS Publication 901 — quick reference](https://www.irs.gov/publications/p901) · [IRS Tax Treaty Tables](https://www.irs.gov/individuals/international-taxpayers/tax-treaty-tables)。
+**官方原文 / 当前索引：** [IRS：U.S.–China Income Tax Treaty PDF](https://www.irs.gov/pub/irs-trty/china.pdf) · [IRS：U.S. Income Tax Treaties A–Z](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z) · [IRS Tax Treaty Tables](https://www.irs.gov/individuals/international-taxpayers/tax-treaty-tables)。[IRS Publication 901](https://www.irs.gov/publications/p901)当前修订版为 **09/2024**，IRS 明确把它定位为 quick reference，而不是每份协定全部条款的完整指南；涉及实际 treaty position 时回到协定原文、适用 protocol / table 及必要的披露要求。Publication 901 也明确说明 U.S.–China treaty **不适用于香港**。
 
 ## 11. 联邦与州税分开核对
 
@@ -72,9 +72,20 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 ## 13. FBAR与Form8938独立判断
 
-IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得税申报提交，涵盖指定海外金融资产，门槛依身份与居住情况等变化。报其中一份不替代另一份；资产范围也不完全一致。
+IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得税申报提交，涵盖指定海外金融资产，门槛依申报身份与是否符合“living abroad”条件而变化。报其中一份不替代另一份；资产范围也不完全一致。
 
-**直接核对：** [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+截至 2026-09-21，IRS 对个人的 Form 8938 主要门槛为：
+
+| 情形 | 年末总值超过 | 年内任一时点超过 |
+|---|---:|---:|
+| 居住美国，未婚或夫妻分别申报 | $50,000 | $75,000 |
+| 居住美国，夫妻联合申报 | $100,000 | $150,000 |
+| 符合 IRS “living abroad” 条件，非联合申报 | $200,000 | $300,000 |
+| 符合 IRS “living abroad” 条件，夫妻联合申报 | $400,000 | $600,000 |
+
+“Living abroad”本身有 tax home、bona fide residence / physical presence 等条件，不等于当年人在国外住过一段时间；没有所得税申报义务时，Form 8938 也有另外规则。门槛只是第一层筛查，仍需判断资产是否属于 specified foreign financial assets。
+
+**直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 ## 14. 购买国内投资产品前先识别法律结构
 
@@ -190,4 +201,4 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 
 **本项目方法论：** 把结论写成“事实 + 年度 + 管辖区 + 依据 + 行动”，是为了防止下一年或情形变化后误用旧结论；详见[方法论](../METHODOLOGY.md)。
 
-最后编辑与来源核验：2026-09-21。已核对 IRS 境外申报、FEIE / Form 2555、2026 FEIE 上限、Foreign Tax Credit / Form 1116、FBAR / Form 8938、foreign gifts / Form 3520、Substantial Presence Test，以及 IRS 当前中美税收协定原文与 treaty index；中国个税法与 2019 年无住所人员公告继续作为中国侧原始入口。中国实施条例、六年规则、具体 treaty position、PFIC / trust / entity 分类与个案来源分配仍需专项专业复核。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS / FinCEN 当前页面：2026 FEIE 上限为 **$132,900 / qualifying person**；FBAR 仍使用外国金融账户全年任一时点 aggregate value **超过 $10,000** 的一般门槛；Form 8938 当前四组个人门槛及 living-abroad 条件已在第13节列出；IRS 当前 treaty A–Z 仍列 China，Publication 901 当前为 **09/2024 quick reference**，并明确 U.S.–China treaty 不适用于香港。中国个税法与 2019 年无住所人员公告继续作为中国侧原始入口。中国实施条例、六年规则、具体 treaty position、PFIC / trust / entity 分类与个案来源分配仍需专项专业复核。
