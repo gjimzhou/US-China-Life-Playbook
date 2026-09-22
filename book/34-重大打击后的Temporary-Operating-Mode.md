@@ -6,6 +6,8 @@
 
 先处理安全、医疗、必要住处、儿童或动物照护、关键付款和实际期限。可以安全延后的投资调整、购房、赠与或其他大决定暂缓；不要把本章建议当成固定等待天数或错过期限的理由。
 
+**危机入口：** [911.gov](https://www.911.gov/) · [988 Lifeline](https://988lifeline.org/) · [Ready.gov：Make a Plan](https://www.ready.gov/plan)。988 适用于美国的 mental health / suicide / substance-use crisis support，不替代需要 911 的即时人身危险。
+
 ## 2. 指定自愿协调人，并设置替代
 
 由一位愿意且有能力的人汇总联系与下一步，其他人分担餐食、交通、照护和账单。独居者可找可信亲友或相关服务协助。协调不等于获得医疗、财务或法律代理权。
@@ -13,6 +15,8 @@
 ## 3. 把基本生活安排交给具体的人
 
 尽可能保持饮食、休息和按医嘱用药；需要改变药物或症状持续影响生活时，联系医生。可以请人送饭、接送或轮班，避免要求照护人持续不眠不休。这里不是要求受打击者靠自律立即恢复。
+
+**找支持：** [SAMHSA：FindTreatment.gov](https://findtreatment.gov/) · [988 Lifeline](https://988lifeline.org/)；有急性身体症状仍按 911 / 急诊流程处理。
 
 ## 4. 用简短记录减轻记忆负担
 
@@ -58,13 +62,19 @@
 
 确认收款机构、费用项目和账户，通过事先核实的渠道联系；有可信第二人时请其协助复核。不要因对方声称“必须现在付”就跳过验证。正在发生诈骗损失时立即联系金融机构。
 
+**诈骗 / 电汇入口：** [FBI IC3](https://www.ic3.gov/) · [FTC ReportFraud](https://reportfraud.ftc.gov/) · [CFPB Complaint](https://www.consumerfinance.gov/complaint/)。
+
 ## 13. 不向陌生来电提供完整资料
 
 殡葬、医院、灾后维修或亲属名义的联系都需核对。公开的信息越多，越容易被用来编造可信故事；保留必要隐私，不依据来电显示或熟悉称呼付款。具体防护见[第15章](15-网络安全与身份盗窃.md)。
 
+**继续看：** [FTC：How To Avoid a Scam](https://consumer.ftc.gov/articles/how-avoid-scam) · [IdentityTheft.gov](https://www.identitytheft.gov/)。
+
 ## 14. 不要把严重身体症状一律归因于情绪
 
 出现危及生命的症状按急救流程处理，不能因为刚经历悲痛就忽略。持续难以维持日常生活时也可以寻求医疗或心理支持。紧急入口见[第03章](03-紧急情况与急救.md)。
+
+**美国支持入口：** [988 Lifeline](https://988lifeline.org/) · [SAMHSA：FindTreatment.gov](https://findtreatment.gov/)；如果本人或他人存在立即危险，使用 911。
 
 ## 15. 可以暂停非必要社交
 
@@ -74,9 +84,13 @@
 
 告知目前可联络时间、请假需求和下一次更新方式，按政策向指定部门提交必要证明。只向需要的人提供相应信息；休假期间收入、岗位保护和医保分别核对。
 
+**工作 / 福利入口：** [U.S. Department of Labor：FMLA](https://www.dol.gov/agencies/whd/fmla) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [DOL：COBRA](https://www.dol.gov/general/topic/health-plans/cobra)。是否适用取决于 employer、员工资格和具体计划。
+
 ## 17. 真正的期限单独管理
 
 法院答复、保险通知、福利选择、申诉、税务、移民和合同等可能各有期限。请适当专业人士确认起算点、可否延期和提交方式。记下完成证据，不能用“已经问了客服”替代办理。
+
+**核验入口：** [IRS：Understanding Your Notice or Letter](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [USCIS Case Status](https://egov.uscis.gov/casestatus/landing.do) · [NAIC：State Insurance Departments](https://content.naic.org/state-insurance-departments) · [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)。
 
 ## 18. 按实际情况安排复盘
 
@@ -96,4 +110,4 @@
 
 暂时减少任务是允许的。目标是维持必要生活，并在需要时取得帮助。
 
-最后编辑：2026-09-21。本章为家庭分工实践框架；删除了没有充分依据的固定24—72小时及1—4周时程，不作为心理诊断或治疗建议。医疗、法律与福利流程及核验范围见所链接章节。
+最后编辑与来源核验：2026-09-21。本章仍是重大打击后的家庭分工框架，不规定 24–72 小时、1–4 周或任何固定恢复时间，也不承担心理诊断功能。已在真正需要立即行动的节点补入 911 / 988、SAMHSA、IC3 / FTC / CFPB、DOL FMLA / EBSA / COBRA、IRS / USCIS / NAIC / ABA 等入口；医疗、法律、福利与合同期限仍须按具体事件核对。
