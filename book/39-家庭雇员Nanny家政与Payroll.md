@@ -134,9 +134,18 @@ FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名 household
 
 ## 16. 依法核验工作资格
 
-对于适用的常规家庭雇佣，按就业资格核验表（Form I-9）的要求完成核验并保留记录，不寄给国税局。允许员工按规则选择可接受文件，不能自行要求额外国籍证明。偶发、零星家务服务等边界须另核对。
+对于适用的常规家庭雇佣，按就业资格核验表（Form I-9）的要求完成核验并保留记录，不寄给国税局。允许员工按规则自己从 Lists of Acceptable Documents 选择文件，不能指定“必须给绿卡 / 护照”或额外要求国籍证明。偶发、零星家务服务等是否属于适用 domestic employment 边界须另核对。
 
-**办理入口：** [USCIS：I-9 Central](https://www.uscis.gov/i-9-central) · [USCIS：Form I-9](https://www.uscis.gov/i-9) · [IRS Publication 926](https://www.irs.gov/publications/p926)。Form I-9 保留在雇主记录中，不寄给 IRS；具体 retention period 与 acceptable documents 以 USCIS 当前说明为准。
+当前 I-9 时间线：
+
+- Employee Section 1：最迟在 **first day of employment** 完成并签署，但不能早于本人已经接受 job offer。
+- Employer Section 2：对通常持续 3 个营业日以上的雇佣，雇主应在员工开始有偿工作后的 **3 business days 内**完成 document examination 和 Section 2；短于 3 个营业日的特殊用工按当前 instructions 另查。
+- Retention：员工仍在职时持续保留；employment 结束后，保存到“**date of hire 后 3 年**”和“**termination 后 1 年**”两者中**更晚**的日期。
+- **2026-08-01 起的当前版本：** edition date 仍显示 **08/01/23**，但应使用右上角 expiration **05/31/2027** 的 Form I-9。不要因为 edition date 没变，就继续打印 expiration 07/31/2026 的旧版文件。
+
+如果 employer 选择保存员工出示文件的 photocopy / image，相应副本也按 I-9 retention 规则安全保存；不要为了“以防万一”无期限留存敏感身份文件。
+
+**办理 / 当前表格：** [USCIS：I-9 Central](https://www.uscis.gov/i-9-central) · [USCIS：Form I-9](https://www.uscis.gov/i-9) · [USCIS：current Form I-9 instructions](https://www.uscis.gov/sites/default/files/document/forms/i-9instr.pdf) · [IRS Publication 926](https://www.irs.gov/publications/p926)。
 
 ---
 
@@ -257,6 +266,6 @@ FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名 household
 
 ## 本轮核验范围与限制
 
-本轮已重新核对 IRS 2026 Publication 926、EIN / Schedule H / household-employee 分类入口，USCIS I-9 Central，以及 DOL Domestic Service Fact Sheets #79B / #79C / #79D 与 29 CFR Part 552。第三轮又核对 2026 payroll 数字：同一 household employee 的 FICA trigger 为 $3,000 cash wages；Social Security wage base $184,500；常规 FICA 双方各 7.65%；employee wages 超过 $200,000 时 household employer 需代扣 0.9% Additional Medicare Tax；FUTA trigger 为 2025 或 2026 任一季度全部 household employees 合计 $1,000，触发后通常对每名员工前 $7,000 FUTA wages 计算，state credit / credit-reduction rules 另行影响净税。另补入 SSA W-2 filing、FTC / EEOC background-check 和州工伤入口。各州与城市的最低工资、加班、带薪假、工资单、工伤、失业保险、住家住房权利、录音 / 摄像和 final-pay 规则仍须按实际工作地址核验；联邦税务门槛不是全国统一的劳动法豁免线。
+本轮已重新核对 IRS 2026 Publication 926、EIN / Schedule H / household-employee 分类入口，以及 DOL Domestic Service Fact Sheets #79B / #79C / #79D 与 29 CFR Part 552。第三轮又核对 2026 payroll 与 I-9：同一 household employee 的 FICA trigger $3,000；Social Security wage base $184,500；常规 FICA 双方各 7.65%；employee wages >$200,000 时代扣 0.9% Additional Medicare Tax；FUTA trigger 为 2025 或 2026 任一季度全部 household employees 合计 $1,000，通常对每名员工前 $7,000 FUTA wages 计算。I-9 Section 1 最迟 first day、Section 2 通常 hire 后 3 business days；离职后的 retention 为 hire+3y / termination+1y 取更晚；2026-08-01 起使用 edition 08/01/23、expiration 05/31/2027 的当前表格。另补入 SSA W-2 filing、FTC / EEOC background-check 和州工伤入口。各州与城市的最低工资、加班、带薪假、工资单、工伤、失业保险、住家住房权利、录音 / 摄像和 final-pay 规则仍须按实际工作地址核验；联邦税务门槛不是全国统一的劳动法豁免线。
 
 最后编辑与来源查阅：2026-09-21
