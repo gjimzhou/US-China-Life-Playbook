@@ -74,9 +74,17 @@
 
 ## 10. 新生儿参保主动办理
 
-出生可能触发特别参保期（special enrollment period），但期限与材料按计划类型确认。不要假设医院登记出生后就自动完成所有保险手续。
+出生、adoption 或 placement for adoption 都可能触发特别参保，但 **job-based plan 与 Marketplace 的 deadline 不一样**；不要假设医院登记出生后就自动完成保险手续。
 
-**参保入口：** [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：Pregnant or Planning to Get Pregnant](https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)。Marketplace 与 job-based plan 的通知窗口不同；雇主计划另向 administrator 确认并保存回执。
+截至 2026-09-21：
+
+- **Job-based group health plan / HIPAA：** 对 birth、adoption、placement for adoption，plan 必须至少提供 **30 天** special-enrollment request window。若在窗口内提出适用申请，coverage 最迟应从 **birth / adoption / placement 当天**生效；员工本人、配偶和新 child 在符合 plan eligibility 的情况下都可能有 special-enrollment rights。实际 plan 可以给更长窗口，所以仍看 SPD / benefits portal。
+- **Marketplace：** birth、adoption 或 placement for foster care 通常提供事件后 **60 天**的 SEP；即使到事件后才 enroll，coverage 可以从事件当天开始。HealthCare.gov 明确提醒 newborn 应尽快 report / enroll，不要把 60 天理解为“可以放心等两个月再处理”。
+- **Medicaid / CHIP：** 可以全年申请；如果 parent 在 birth 时已有 Medicaid，newborn 的具体自动 coverage / duration 按 state Medicaid rules 与当前 federal protections 核对。
+
+把 hospital birth registration、Social Security、birth certificate 和 insurance enrollment 当作不同手续，分别确认完成凭证。
+
+**参保入口：** [DOL：HIPAA Special Enrollment FAQ — birth / adoption 30-day group-plan rule](https://www.dol.gov/node/25144) · [DOL：Newborns / New Parents — special enrollment](https://www.dol.gov/node/64683) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：Pregnant or Planning to Get Pregnant / recently gave birth](https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)。
 
 ## 11. 提前了解儿科服务
 
@@ -196,4 +204,4 @@ Child and Dependent Care Credit 是另一套机制。2026 年可用于计算 cre
 
 **入口汇总：** [ChildCare.gov](https://www.childcare.gov/) · [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA Child Passenger Safety](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NCES](https://nces.ed.gov/) · [CDC Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 2026 dependent-care tax changes：DCAP / dependent-care FSA federal exclusion 已提高到 $7,500（MFS $3,750）；Child and Dependent Care Credit 的 qualifying-expense cap 仍为 $3,000 / $6,000，但 2026 maximum credit rate 提高到 50%。IRS 当前 Publication 503 仍是 2025 revision，正文已明确不能拿其中 $5,000 上限覆盖 2026。另核对 ChildCare.gov licensing / background checks / monitoring / inspections / provider-selection、CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、HealthCare.gov 新生儿特别参保、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 2026 dependent-care tax changes：DCAP / dependent-care FSA federal exclusion 已提高到 $7,500（MFS $3,750）；Child and Dependent Care Credit 的 qualifying-expense cap 仍为 $3,000 / $6,000，但 2026 maximum credit rate 提高到 50%。同时重新核对 newborn / adoption health-plan special enrollment：job-based HIPAA plans 至少 30-day request window，coverage 可自 birth / adoption / placement date 生效；Marketplace 通常 60-day SEP，也可从 event date 起 coverage。IRS 当前 Publication 503 仍是 2025 revision，正文已明确不能拿其中 $5,000 上限覆盖 2026。另核对 ChildCare.gov licensing / background checks / monitoring / inspections / provider-selection、CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。
