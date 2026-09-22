@@ -60,25 +60,37 @@
 
 可准备分开放置的实体卡、不同机构的备用付款方式及适量当地可用资金，按费用和合法携带要求选择。手机钱包、验证码和银行卡若都依赖同一手机，就不算独立备用。出发前确认海外联系与挂失方式。
 
+**卡片遗失参考：** [FTC：Lost or Stolen Credit, ATM, and Debit Cards](https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-debit-cards)。实际海外客服电话、freeze / replacement 与 cash-access 方案以自己的银行 / 发卡行官方渠道为准。
+
 ## 10. 实测丢手机后的恢复路径
 
 用另一台受信任设备确认能找到住宿、航班、联系人和账户恢复入口；检查设备锁定、备份和恢复资料。不要把所有恢复码只放在手机里，也不要用公开共享链接保存密码。详细见[网络安全](15-网络安全与身份盗窃.md)。
+
+**设备入口：** [Apple：Lost or Stolen iPhone / iPad](https://support.apple.com/en-us/120837) · [Google：Find Hub / lost Android device](https://support.google.com/android/answer/6160491)。
 
 ## 11. 网络连接之外，也要核对设备与网站
 
 优先使用自己的已更新设备，核对网址与连接，避免在共享电脑登录关键账户。蜂窝网络或私人网络不能防止钓鱼网站；验证码、恢复码和远程控制权限都不应交给陌生“客服”。
 
+**继续看：** [FTC：Public Wi‑Fi](https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-know) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
+
 ## 12. 离家安排包括重要纸质通知
 
 让已同意且有适当权限的人按需要查收信件，及时转达机关、法院、保险或银行通知；不要等回国后再拆所有信。另安排漏水、温控、包裹、门禁和停车。无法返程时谁可继续处理、授权不足怎么办，也要留路径。
+
+**邮件辅助工具：** [USPS Informed Delivery](https://www.usps.com/manage/informed-delivery.htm)。它只辅助预览部分来件，不替代正式地址更新、送达或合法授权。
 
 ## 13. 宠物安排要能覆盖延误
 
 留下喂养与用药说明、常规和急诊兽医、合理的费用与就医授权，以及备用照护人的联系方式。确认对方实际接受，不能只发一份文件便视为完成。详见[宠物照护](17-宠物Operating-System.md)。
 
+**宠物入口：** [AAHA：Find an Accredited Animal Hospital](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [USDA APHIS：Pet Travel](https://www.aphis.usda.gov/pet-travel)。
+
 ## 14. 行程分享按需要限范围
 
 让可信联系人知道必要行程与联系方法；公开发布时避免暴露实时位置、空置住房及随身贵重物品。私下分享同样应控制接收者和访问期限。
+
+**本项目实务建议：** 行程共享遵循“need to know + 可撤销访问”；账户与文件共享安全参考 [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
 
 ## 15. 旅行保障逐项比较
 
@@ -97,6 +109,8 @@
 
 分别核对车辆损坏或盗抢、第三方责任、人身医疗与随身物品。自己的车险、信用卡权益、旅行险和租车产品可能分担不同风险；同一张卡在不同国家、车型或租期的条件也可能不同。拿到具体条款再决定是否购买柜台产品。
 
+**继续看：** [FTC：Renting a Car](https://consumer.ftc.gov/articles/renting-car) · [NAIC：Travel Insurance](https://content.naic.org/consumer/travel-insurance)。信用卡 rental coverage 必须看本人当前 Guide to Benefits。
+
 ## 17. 工作与长期停留在出发前审查
 
 记录真实停留日和实际工作地点，向雇主确认境外工作与数据要求，并向合适专业人士核对目的地许可、税务和工资安排。休假名义不能改变实际工作的事实。参见[跨境税与境外工作](38-中美跨境税与Work-from-Abroad.md)。
@@ -106,6 +120,8 @@
 ## 18. 中美通信与支付分任务测试
 
 分别测试上网、接收所需短信、登录、支付、联系家人和找回账户，记下设备、套餐与测试日期。某一项成功不代表其余都可用；身份或证件变化后重新核对。不要通过陌生代办规避实名或风控流程。
+
+**本项目实务建议：** 这是“按任务测试”而非运营商推荐。中国手机号、银行和支付的漫游 / 实名 / 风控规则直接查实际服务商；美国账户恢复安全见 [CISA](https://www.cisa.gov/secure-our-world)。
 
 ## 19. 安全提醒服务不等于救援保证
 
@@ -129,6 +145,8 @@
 
 确认船上或度假村医疗设施能做什么、何时需转诊、如何联系外部救援及天气或交通影响。已有健康问题时，把行程与活动交给医生讨论，不自行以酒店星级判断是否适合。
 
+**继续看：** [State Department：Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html) · [Travel Insurance / Medical Evacuation](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) · [CDC Travelers’ Health](https://wwwnc.cdc.gov/travel/)。
+
 ## 23. 驾驶资格、保险与道路规则逐项查
 
 [国务院境外驾驶说明](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html)提醒核对当地接受的驾照与保险；需要国际驾驶许可（International Driving Permit，IDP）时仍须携带有效本国驾照。租车公司愿意交车不代表所有法律和保险条件已满足。
@@ -139,9 +157,13 @@
 
 保存预订、保险、领事与紧急联系入口，以及受保护的证件副本。给必要联系人最小访问范围，并准备少量纸质联络信息。不要在公共仓库、论坛或开放云盘分享真实证件与行程。
 
+**数字安全参考：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)；旅行证件遗失后的正式补办仍走签发国使领馆流程。
+
 ## 25. 返程后确认未结事项
 
 检查异常交易、设备登录、遗失物、医疗后续和保险索赔期限。报案或提交材料后记录回执与下一步；退款、赔款或账户恢复需确认实际完成，再清理不再需要的共享权限。
+
+**返程检查入口：** [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [FTC Identity Theft](https://www.identitytheft.gov/) · [DOT Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。保险 / 医疗事项仍按实际 claim 和 provider 跟进。
 
 ## 26. 最小执行集
 
@@ -151,6 +173,6 @@
 - [ ] 住房、重要邮件与适用照护事项有人接手。
 - [ ] 实际境外工作与长期停留已做额外核对。
 
-详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
+**入口汇总：** [State Department Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC Travelers’ Health](https://wwwnc.cdc.gov/travel/) · [TSA What Can I Bring?](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [STEP](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [DOT Air Consumer](https://www.transportation.gov/airconsumer)。详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
 
 最后编辑与来源核验：2026-09-21。已重新核对国务院当前 International Travel Checklist、Planning / STEP / lost-passport / driving / insurance / health-abroad 入口，CDC Travelers’ Health destination 与携药页面、TSA 携带物品 / 医疗安检，以及美国交通部航空退款与消费者保护入口。具体目的地入境、过境、药品、工作许可、保险合同、航空公司规则和当地交通法规仍须按实际国籍、日期与行程逐项核验。
