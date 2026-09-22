@@ -136,7 +136,9 @@
 
 ## 25. 收到貌似官方的房贷邮件先核实
 
-购房相关公开记录可能被用于营销或诈骗。不要仅凭姓名、地址或贷款方标志付款；从已核实的服务机构入口确认。来源同上方CFPB交割后指南。
+购房相关公开记录可能被用于营销或诈骗。不要仅凭姓名、地址或贷款方标志付款；从已核实的服务机构入口确认。
+
+**继续看：** [CFPB：After Closing](https://www.consumerfinance.gov/owning-a-home/close/after-closing/) · [CFPB：Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。
 
 ## 26. 税费代管仍要对账
 
