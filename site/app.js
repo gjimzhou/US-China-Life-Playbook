@@ -24,11 +24,14 @@ function safeMarkdown(text,path){
    }catch{node.removeAttribute('href')}
   }
  }
+ const modes={'指南解读':'guidance','决策框架':'decision','管理建议':'practice','经验建议':'practice','专业咨询准备':'consultation','规则说明':'rule'};
+ for(const note of template.content.querySelectorAll('blockquote')){const mode=note.textContent.trim().match(/^内容性质：([^\n]+)/)?.[1]?.trim();if(modes[mode]){note.classList.add('content-nature','nature-'+modes[mode]);note.setAttribute('role','note');note.setAttribute('aria-label','内容性质：'+mode)}}
  for(const input of template.content.querySelectorAll('input[type="checkbox"]'))input.closest('li')?.classList.add('task-item');
  const referenceLabel=/(入口|办理|核验|查询|工具|求助|报案|投诉|参考|继续看|官方|去办|查资格|查风险|查州|找专业|找本地|外部|第一站|一键|直接|培训|学习|规则说明)/;
  for(const p of template.content.querySelectorAll('p')){
   const first=p.firstElementChild;
   if(first?.tagName==='STRONG'&&referenceLabel.test(first.textContent.trim()))p.classList.add('reference-links');
+  if(first?.tagName==='STRONG'&&/^本项目实务建议[：:]?$/.test(first.textContent.trim())){p.classList.add('practice-advice');p.setAttribute('role','note');p.setAttribute('aria-label','经验建议，可按情境调整')}
  }
  return template.content;
 }
@@ -60,7 +63,7 @@ function render(){
   results.sort((a,b)=>{const score=([d,s])=>(query&&s.title.toLowerCase().includes(query)?4:0)+(query&&d.title.toLowerCase().includes(query)?2:0);return score(b)-score(a)});
   $('status').textContent=`全书搜索 · ${results.length} 个匹配段落`;document.title='搜索 · 中美双栖人生指南';
   if(!results.length)out.append(el('p','没有匹配结果。试试其他关键词，或清除优先级与证据筛选。','empty'));
-  for(const [d,s] of results){const card=el('section',undefined,'result');card.append(el('span',d.kind+' · '+d.title,'source'));const h=el('h2');const a=el('a',s.title==='概览'?d.title:s.title);a.href=route(d.path,s.id);h.append(a);card.append(h);for(const b of [...s.priorities,...s.evidence.map(e=>'证据 '+e)])card.append(el('span',b,'badge'));const text=plain(s.markdown);const at=query?text.toLowerCase().indexOf(query):-1;card.append(el('p',(at>50?'…':'')+text.slice(Math.max(0,at-45),Math.max(0,at-45)+210)+'…'));out.append(card)}return;
+  for(const [d,s] of results){const card=el('section',undefined,'result');card.append(el('span',d.kind+' · '+d.title,'source'));if(d.readingMode)card.append(el('span','阅读定位：'+d.readingMode,'reading-mode'));const h=el('h2');const a=el('a',s.title==='概览'?d.title:s.title);a.href=route(d.path,s.id);h.append(a);card.append(h);for(const b of [...s.priorities,...s.evidence.map(e=>'证据 '+e)])card.append(el('span',b,'badge'));const text=plain(s.markdown);const at=query?text.toLowerCase().indexOf(query):-1;card.append(el('p',(at>50?'…':'')+text.slice(Math.max(0,at-45),Math.max(0,at-45)+210)+'…'));out.append(card)}return;
  }
  const doc=docs.find(d=>d.path===current);if(!doc){$('status').textContent='未找到章节';out.append(el('p','链接中的章节不存在，请从目录重新选择。','empty'));return}
  $('status').textContent=doc.kind+' · '+doc.title;document.title=doc.title+' · 中美双栖人生指南';

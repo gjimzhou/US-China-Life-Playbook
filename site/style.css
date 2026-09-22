@@ -14,3 +14,11 @@ article .task-item{list-style:none;position:relative;padding-left:1.65em;margin:
 .home-link{display:block;margin-top:20px;font-weight:650;font-size:14px}
 
 [hidden]{display:none!important}.topic{margin-top:10px;padding-top:8px}.topic summary{font-size:13px;color:var(--muted)}.back-search{display:inline-block;margin:8px 0;font-size:14px}@media print{.back-search{display:none}}
+
+/* Editorial labels describe use, not a blanket evidence rating. */
+article .content-nature{border:1px solid var(--line);border-left:5px solid var(--blue);border-radius:5px;padding:10px 18px;background:var(--wash);font-size:15px}
+article .nature-practice{border-left-style:dashed;border-left-color:#95723b}article .nature-decision{border-left-color:#56836a}article .nature-consultation{border-left-color:#866a9c}
+.reading-mode{display:inline-block;margin-left:10px;padding:2px 8px;border:1px dashed var(--field);border-radius:4px;font-size:12px;color:var(--muted)}
+:root[data-theme="dark"] article .nature-practice{border-left-color:#d2ad70}:root[data-theme="dark"] article .nature-decision{border-left-color:#8bb8a0}:root[data-theme="dark"] article .nature-consultation{border-left-color:#bea4d4}
+
+article .practice-advice{border-left:3px dashed #95723b;padding:8px 14px;background:var(--wash);font-size:15px}:root[data-theme="dark"] article .practice-advice{border-left-color:#d2ad70}

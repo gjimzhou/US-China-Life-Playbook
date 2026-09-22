@@ -37,7 +37,8 @@ for p in paths:
    if priorities or evidence:tags.append({'priorities':priorities,'evidence':evidence})
   sections.append({'id':anchor,'aliases':aliases,'level':level,'title':heading_text if i else '概览','markdown':part,'tags':tags,'priorities':sorted({v for t in tags for v in t['priorities']}),'evidence':sorted({v for t in tags for v in t['evidence']})})
 
- docs.append({'path':path,'title':title,'kind':kind,'sections':sections})
+ reading_mode=re.search(r'^> \*\*内容性质：([^*]+)\*\*',parts[0],re.M)
+ docs.append({'path':path,'title':title,'kind':kind,'readingMode':reading_mode[1] if reading_mode else '', 'sections':sections})
  dest=OUT/path;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(text)
 (OUT/'data.json').write_text(json.dumps(docs,ensure_ascii=False))
 (OUT/'.nojekyll').touch()
