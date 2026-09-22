@@ -18,9 +18,13 @@
 
 不要涉水接触电器、开关或配电箱，也不要为了查明责任而延误减损。无法判断安全时交给救援或合格专业人员。
 
+**安全参考：** [Ready.gov：Floods](https://www.ready.gov/floods) · [USFA：Electrical Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/electrical/)。住宅漏水不是洪水灾害的同义词，但涉水与电气危险的安全原则可直接参考。
+
 ## 3. 知道阀门在哪里，不等于自行维修
 
 让物业或技师说明水阀、配电箱和适用设备的位置，以及哪些操作允许住户进行。闻到疑似燃气、发生烟火或一氧化碳报警时，先撤离并联系当地应急服务或燃气公司，不自行试验开关寻找来源。
+
+**安全入口：** [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/) · [Ready.gov：Home Fires](https://www.ready.gov/home-fires)。燃气泄漏的具体 emergency number 使用当地 utility / fire department 官方入口。
 
 ## 4. 保存常用服务入口
 
@@ -84,11 +88,15 @@
 
 备用钥匙或智能锁恢复方案应由可信赖的人妥善保管，不能公开发布地址和进入方式。
 
+**消费者入口：** [USA.gov：State Consumer Protection Offices](https://www.usa.gov/state-consumer)。锁匠许可与收费监管高度地方化；优先用物业既有 vendor 或州 / 地方可核验的企业信息。
+
 ## 12. 设备故障按环境和住户状况分级
 
 极端高温、严寒、脆弱人群或燃烧设备风险，可能使故障超出普通舒适问题。安排安全的临时居住或专业援助，不用不适当的燃烧设备替代取暖。
 
 维护频率按制造商、设备状态和专业建议确定，不把每年购买某个套餐当成统一要求。
+
+**安全参考：** [Ready.gov：Extreme Heat](https://www.ready.gov/heat) · [Ready.gov：Winter Weather](https://www.ready.gov/winter-weather) · [USFA：Heating Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/)。
 
 ## 13. 家庭物品清单提前准备
 
@@ -118,13 +126,19 @@
 
 不能因为每月支付管理费就推断所有单元内部损坏都由协会负责。
 
+**查本州规则：** [USA.gov：State Governments](https://www.usa.gov/state-governments) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。HOA / condo 权限、records access 与 dispute process 依州法和 governing documents。
+
 ## 17. 关键服务准备备用联系人
 
 物业管理、清洁、水管或照护服务只有一位联系人时，询问其休假、停业或无法到场的替代安排。备份联系人同样要核验，不能因紧急自动免除检查。
 
+**本项目实务建议：** 关键服务至少保留“主入口 + 备用入口 + 夜间 / 节假日处理方式”；承包商核验仍从 [FTC Home Improvement](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) 与所在地许可机关开始。
+
 ## 18. 家政关系还可能涉及雇佣义务
 
 固定家政或保姆是否属于家庭雇员，取决于实际工作关系与适用规则，不取决于用哪个支付应用或合同是否写“独立承包商”。具体税务、工资和保险见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。
+
+**直接判断入口：** [IRS：Household Employees](https://www.irs.gov/taxtopics/tc756) · [IRS Publication 926](https://www.irs.gov/publications/p926) · [DOL：Domestic Service Workers](https://www.dol.gov/agencies/whd/direct-care)。
 
 ## 19. 搬家要迁移账户与责任
 
@@ -141,5 +155,7 @@
 - [ ] 核验承包商资质、保险与书面范围。
 - [ ] 许可、付款、变更和验收责任写清楚。
 - [ ] 私下保存物品证据与备用联系人。
+
+**入口汇总：** [USA.gov State & Local Governments](https://www.usa.gov/state-local-governments) · [FTC Home Improvement](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC State Insurance Departments](https://content.naic.org/state-insurance-departments) · [USFA Home Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/)。
 
 最后编辑与来源核验：2026-09-21。已重新核对 FTC 当前 Home Improvement Scam 与灾后维修防诈骗页面，并补入 USA.gov 州 / 地方政府与消费者保护入口、NAIC 保险监管入口和 USPS 搬家入口。各地许可、租赁义务、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。
