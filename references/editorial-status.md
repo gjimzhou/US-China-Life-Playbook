@@ -112,6 +112,16 @@
 
 本轮原则：**仍是现行法律 / 政策依据的历史文件可以保留，但必须标年代与适用边界；只是旧宣传页、旧 PDF 路径或旧页面结构的，优先改为当前 landing page / FAQ / action portal。**
 
+本轮后续继续核验：
+
+- **第14章美国税务：** 2026 Publication 505 重新确认 estimated-tax due dates 为 2026-04-15、06-15、09-15、2027-01-15；safe-harbor 仍是 90% current-year / 100% prior-year（高收入者通常 110% prior-year）框架。IRS 当前 `i2210` 页面仍为 **2025 Form 2210 instructions**，正文已明确不能拿它当 2026 年度数字来源。
+- **第22章 Employee Benefits：** 重新核对 FMLA、COBRA 与 2026 IRS benefits limits。补入 COBRA 后续月费至少 30 天 grace period；2026 HSA $4,400 / $8,750，HDHP deductible floor $1,700 / $3,400、OOP ceiling $8,500 / $17,000，health FSA salary-reduction limit $3,400。
+- **第35章 Estate Administration：** 重新核对 Form 1041。国内遗产年度 gross income ≥ $600 通常触发申报，但低于 $600 仍可能因 nonresident-alien beneficiary 等条件触发；补入 calendar / fiscal estate 的当前 filing timing 与 Form 7004 5-month extension 入口。
+- **第36章 Mortgage / Closing：** 重新核对 CFPB TRID。六项 application information 即触发 Loan Estimate，不能要求先交 verification documents；补入通常的 10-business-day intent-to-proceed window，并确认 Closing Disclosure 对适用贷款仍须至少在 closing 前 3 个营业日收到。
+- **第37章 Immigration / EAD：** 发现并修正一个重要 2026 动态变化。DHS 的 **90 FR 48799** 自 2025-10-30 起结束某些 EAD renewal categories 中“及时 renewal 即自动延长 EAD”的做法；此前已取得的 extension 与法律 / Federal Register notice 另行提供的 extension 不受追溯取消。正文不再沿用“540-day automatic extension”旧经验。
+- **第38章 Cross-border Tax：** 重新核对 2026 FEIE $132,900、FBAR aggregate > $10,000、Form 8938 四组个人门槛及 living-abroad 条件；Publication 901 当前仍为 09/2024 quick reference，协定原文与 current treaty A–Z index 为主入口，并明确 U.S.–China treaty 不适用于香港。
+
+
 ## 本轮收尾与后续核验
 
 1. 已完成全部11份清单的逐段对照与中文校订，补入对账、福利兑现和事件跟踪表。
