@@ -1,0 +1,35 @@
+name: External link health
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 13 * * 1'
+  push:
+    paths:
+      - 'scripts/check_external_links.py'
+      - '.github/workflows/link-health.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  link-health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Check external links
+        run: python scripts/check_external_links.py --report link-health-report.md
+      - name: Add report to job summary
+        if: always()
+        run: cat link-health-report.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload link health report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: external-link-health
+          path: link-health-report.md
+          retention-days: 30
