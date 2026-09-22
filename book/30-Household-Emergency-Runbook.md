@@ -10,6 +10,8 @@
 
 准备一份[家庭紧急信息表](../checklists/emergency-sheet.md)。让接手人知道在哪里取用，不把全部密码和证件放在公开文件。
 
+**紧急入口：** [911.gov：When to Call 911](https://www.911.gov/calling-911/) · [Ready.gov：Make a Plan](https://www.ready.gov/plan) · 中国医疗急救规则见[国家卫健委《院前医疗急救管理办法》](https://www.nhc.gov.cn/fzs/c100048/201808/6878dddd2a3d48c59de1c43a6c68423d.shtml)。
+
 ## 2. 医疗急症
 
 **现在：** 联系当地急救，提供位置和主要症状，按调度员指示采取相应急救措施；不要因寻找保险卡、联系家人或等待预约而延误。不要在自身状况不适合时驾车。
@@ -17,6 +19,8 @@
 **有人接手后：** 提供药物、过敏、病史与相关医疗指示；安排儿童、宠物和家中事务。仅向必要人员分享信息。
 
 **继续跟进：** 指定记录人，记录治疗团队、待决事项与下一次沟通。重大治疗决定如需第二意见，先确认安全时间窗口。详见[紧急情况与急救](03-紧急情况与急救.md)。
+
+**直接学习 / 求助：** [AHA：Hands-Only CPR](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr) · [American Red Cross：First Aid](https://www.redcross.org/take-a-class/first-aid) · [Poison Control](https://www.poison.org/)。
 
 ## 3. 漏水与房屋损坏
 
@@ -26,11 +30,15 @@
 
 **确认完成：** 漏源已处理，后续干燥、修复与保险事项有负责人。参见[住房与维修](09-住房物业与Contractor.md)。
 
+**维修 / 保险入口：** [FTC：How To Avoid a Home Improvement Scam](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
+
 ## 4. 火灾、烟雾或一氧化碳警报
 
 **现在：** 立即按安全疏散路线离开，呼叫当地紧急服务，到约定集合点；不要返回取物或搜寻宠物，将未撤离人员和动物信息交给救援人员。
 
 **安全后：** 与救援和物业确认能否返回，再安排住宿、必要药物、证件和支付。联系保险方并记录损失。不要自行认定报警停止就能安全进入。安全准备见[不要意外死亡](01-不要意外死亡.md)。
+
+**继续看：** [USFA：Home Fire Escape Plans](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-escape-plans/) · [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/)。
 
 ## 5. 交通事故
 
@@ -40,6 +48,8 @@
 
 **确认完成：** 报告和理赔要求分别处理，保存维修、医疗和付款记录。详见[事故与责任](08-车祸停车维修与责任.md)。
 
+**事故入口：** [NAIC：Auto Claim Guide](https://content.naic.org/article/what-you-should-know-about-filing-auto-claim) · [USA.gov：State motor vehicle services](https://www.usa.gov/state-motor-vehicle-services) · [NHTSA：Recalls](https://www.nhtsa.gov/recalls)。
+
 ## 6. 手机丢失或被盗
 
 **现在：** 从受信任设备使用官方定位和锁定入口，不自行追踪或对峙疑似盗窃者。联系运营商保护号码，并保护邮箱和金融账户；保留必要恢复路径。
@@ -47,6 +57,8 @@
 **继续：** 检查登录、支付卡和验证器恢复；按厂商正式说明决定是否远程擦除，避免误删设备关联或恢复信息。需要时报警。
 
 **确认完成：** 旧设备或会话已妥善处理，号码、登录与支付已恢复，并检查异常交易。详见[网络安全](15-网络安全与身份盗窃.md)。
+
+**设备入口：** [Apple：iPhone / iPad lost or stolen](https://support.apple.com/en-us/120837) · [Google：Find Hub](https://support.google.com/android/answer/6160491) · [FTC：SIM Swap Scams](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
 
 ## 7. 身份盗用、账户接管或被骗转账
 
@@ -56,11 +68,15 @@
 
 **确认完成：** 记录每家机构案号、独立期限和恢复状态。详见[网络安全](15-网络安全与身份盗窃.md)及[消费者纠纷](16-银行信用卡消费者纠纷与诈骗.md)。
 
+**直接恢复 / 报案：** [IdentityTheft.gov](https://www.identitytheft.gov/) · [FBI IC3](https://www.ic3.gov/) · [FTC ReportFraud](https://reportfraud.ftc.gov/) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action)。
+
 ## 8. 宠物急症
 
 尽快联系合适兽医或急诊兽医，说明呼吸、意识、创伤或可能误食等情况，按其指示安全运送。携带药物与病史；可能中毒时保存包装或照片，但不要为寻找材料延误求助。未经兽医指示不要催吐或给予人用药。
 
 让照护人知道医院、费用授权和后续用药安排，详见[宠物照护](17-宠物Operating-System.md)。
+
+**动物中毒入口：** [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control)；是否收费、是否需转急诊兽医以其当时说明为准。
 
 ## 9. 父母在中国突发住院
 
@@ -70,11 +86,15 @@
 
 **需要返程时：** 分别确认证件、交通、工作休假和离家照护；返程受阻则启用当地备用支持。详见[父母照护](20-父母养老与远程照护.md)。
 
+**中国医疗入口：** [国家卫健委：医院 / 医师信息查询](https://www.nhc.gov.cn/wjw/sjcx/sjcx.shtml) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/)。
+
 ## 10. 失业或收到裁员通知
 
 记录终止日、医疗保障结束日、协议签署期限、薪酬和股权事项；合法保存个人福利文件。适用移民身份的人员及时取得专业建议，不按工资最后到账日自行推算身份期限。
 
 比较医保衔接方案，核对失业福利入口与预算，再处理退休账户、求职和长期安排。不急于签署不理解的豁免协议。详见[员工福利](22-工作失业与Employee-Benefits.md)及[失业清单](../checklists/job-loss.md)。
+
+**直接查询：** [U.S. Department of Labor：COBRA](https://www.dol.gov/general/topic/health-plans/cobra) · [USA.gov：Unemployment Benefits](https://www.usa.gov/unemployment-benefits)。
 
 ## 11. 律师函、索赔或诉讼文件
 
@@ -82,17 +102,23 @@
 
 完成标志是已有明确处理责任与下一步，必要答复按规定提交并有凭证。投诉、协商和联系保险方不应被假定为自动暂停诉讼期限。
 
+**找律师：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。
+
 ## 12. 政府或税务通知
 
 核对机构、案号、事项和日期，通过独立找到的官方入口验证，避免直接使用可疑短信中的付款链接。税务通知找相应税务人士，移民事项找适当移民律师，法院文件按法律程序处理。
 
 保存送达和提交凭证，记录何时追踪；打过电话不等于办结。详见[美国政府入口](11-美国政府到底找谁.md)与[中国政府入口](12-中国政府与办事入口.md)。
 
+**核验入口：** [IRS：Understanding Your IRS Notice or Letter](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [USCIS：Case Status Online](https://egov.uscis.gov/casestatus/landing.do) · [国家政务服务平台](https://gjzwfw.www.gov.cn/)。
+
 ## 13. 境外遗失护照
 
 确保人身和其他证件安全，通过签发国使领馆正式渠道询问补办或紧急证件。按当地要求办理相关报告，另核对签证、出境和航空公司要求，及时调整住宿与行程。
 
 证件副本可帮助提供信息，但不是替代证件。流程入口与限制见[旅行准备](29-旅行长期停留与全球Mobility.md)。
+
+**美国护照遗失：** [U.S. State Department：Lost or Stolen Passport](https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html) · [Find a U.S. Embassy or Consulate](https://www.usembassy.gov/)。其他国籍使用相应签发国使领馆。
 
 ## 14. 中国手机号或银行访问失败
 
@@ -105,6 +131,8 @@
 先按医疗流程处理，再由具有适当权限的人取得医疗指示、联系人和必要账单信息。分别安排儿童、宠物、家人通知、住房和工作沟通；不要求由一个人独自接下所有事务。
 
 能找到文件与有权使用账户不同，权限不清时向机构或律师确认。详见[失能规划](10-Estate-Planning与失能.md)。
+
+**代理权限参考：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [HHS：HIPAA Personal Representatives](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html)。
 
 ## 16. 家人身故
 
@@ -128,6 +156,8 @@
 
 有重大变化后重测适用部分。年度演练不能替代设备要求的日常测试和维护。
 
+**演练参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [FEMA：Emergency Financial First Aid Kit](https://www.ready.gov/financial-preparedness)。不要为了演练真的拨报警电话、制造转账或破坏账户。
+
 ## 19. 只保留适用的最小执行集
 
 - [ ] 紧急信息表可取用，地址与求助入口准确。
@@ -136,4 +166,4 @@
 - [ ] 事件记录含负责人、期限、下一步和完成证据。
 - [ ] 至少试过一个最可能导致全家无法运作的场景。
 
-最后编辑：2026-09-21。本章为行动索引，引用已审章节的流程与来源，不新增统一医疗或法律时限。不同事件的实际规则、设备说明和机构要求分别核验；医疗急症依当地调度和救援人员指示。
+最后编辑与来源核验：2026-09-21。本章已从内部索引升级为直接 action portal：911 / Ready.gov、AHA / Red Cross / Poison Control、USFA、NAIC / NHTSA、Apple / Google、IdentityTheft.gov / IC3、ASPCA、国家卫健委 / 医保、DOL / USA.gov unemployment、ABA、IRS / USCIS、国务院护照、CFPB / HHS 与 FEMA 均有对应入口。不同事件的实际法律期限、承保、医疗处置和地方流程仍以现场专业指示与主管机构为准。
