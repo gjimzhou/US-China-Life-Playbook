@@ -16,9 +16,13 @@
 
 可以合并大部分收入与支出，也可以保留各自账户、共同承担家庭账单。约定谁存入多少、何时补足、谁对账和如何应急。账户是否联名与法律上财产如何分类不是同一问题，需要分别确认。
 
+**本项目实务建议：** “共同 / 个人账户怎么组合”属于家庭 operating choice；婚姻财产性质、债务责任和死亡后归属则按州法、账户 title 和相关文件判断。
+
 ## 3. 披露与决定相关的财务信息
 
 讨论收入、资产、债务、担保、税务欠款、企业权益、父母支持和跨境资产。把尚不确定的继承或赠与写为预期，不当成已拥有资产。法律协议要求的披露范围与形式由各自律师确认，不能用一张粗略净资产表替代。
+
+**找本州律师：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。prenup disclosure 的充分性和形式高度依州法与事实。
 
 ## 4. 婚前协议能讨论什么，不能自行承诺什么
 
@@ -32,6 +36,8 @@
 
 在婚礼或登记日期之外预留准备、披露、咨询、翻译和修改时间。不要在重大时间压力下突然提出最后版本。询问各自律师适用法律的签署要求，保存最终版本和所需附件；本章不设全国通用的提前天数。
 
+**本项目实务建议：** 提前开始是为了留出 disclosure、independent advice 和 revision 时间，不代表存在全国统一“必须提前 X 天”的规则；具体要求回到本州律师与 statute。
+
 ## 6. 分别获得独立法律意见
 
 双方各自的律师应解释条款对自己客户的影响，并识别潜在利益冲突。即使某地允许不同安排，也先问清谁代表谁、谁不代表谁。独立咨询有助于理解，但不保证任何协议都能执行。
@@ -42,6 +48,8 @@
 
 讨论工资奖金、股权、退休资金、创业权益、房产、家庭照护、迁居和职业中断。把“若一方暂时减少工作或照顾家人，如何分担后果”写成具体问题交给律师，不只比较签约当天的余额。
 
+**本项目实务建议：** 把 future earnings、career interruption 与 care work 作为谈判维度，不代表任何州必然按某种方式执行；可约定范围与可执行性由各自律师确认。
+
 ## 8. 父母出资先明确性质
 
 大额房款或其他支持要明确是赠与、借款还是投资，给谁、是否期待偿还、由谁持有。文件、转账记录、贷款申请和实际安排应一致；涉及跨境申报或税务的部分另请专业人士核对。
@@ -51,6 +59,8 @@
 ## 9. 房屋产权与贷款责任分别判断
 
 房契上的所有人、贷款借款人、首付来源、日常还款和身故后的归属需分别说明。不要为了贷款办理方便就默认某种产权形式适合双方。详见[买房与交割](36-买房Mortgage-Closing与HOA.md)，签署前请当地律师解释。
+
+**买房 / 法律入口：** [CFPB：Buying a House](https://www.consumerfinance.gov/owning-a-home/) · [ABA：State Bar Directories](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。deed title 与 mortgage liability 是不同问题。
 
 ## 10. 退休受益人不是只看婚前协议
 
@@ -68,21 +78,31 @@
 
 双方不必处理完全相同的事务，但应知道主要账单、保险、税务、住房、照护和重要文件在哪里。用一次实际演练确认一方暂时不能处理时如何接手；不要直接共享所有密码来替代授权和安全恢复。
 
+**本项目实务建议：** household handoff 关注“知道入口 + 合法权限 + 恢复路径”，不是互相交出全部密码。数字安全见 [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
+
 ## 13. 联名账户用于明确的共同目标
 
 可用于房租、房贷、日常账单或共同储备，先讨论供款、支出、透支和退出安排。个人账户可以保留。开户前了解机构规则，避免用合并全部资产证明信任。
+
+**本项目实务建议：** 联名账户适合承载明确共同用途，但其 ownership、survivorship、creditor 和 tax consequences 取决于州法与机构合同；开户时直接阅读 bank / brokerage account agreement。
 
 ## 14. 提前约定需要共同讨论的大事
 
 正常个人消费可有各自空间；大额购买、借款、投资、家庭资助和担保则约定讨论方式。金额门槛由实际预算决定，不给所有家庭套固定数字。规则应双方都能理解和使用，而不是单方审批。
 
+**本项目实务建议：** 这是家庭治理规则，不是法律阈值；threshold 应与 household cash flow、risk capacity 和双方接受度匹配。
+
 ## 15. 父母支持单独列入预算
 
 讨论平时支持范围、紧急例外、与兄弟姐妹如何协调及信息如何共享。双方家庭的需要可能不同，不必机械对半；先明确可承受范围和决策流程，减少突发事件中反复争论。
 
+**本项目实务建议：** parent support 属于家庭预算与关系安排；涉及跨境赠与 / 汇款时另按 [IRS：Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person) 和对应国家税务 / 外汇规则核对。
+
 ## 16. 赠与与继承保持记录并核对处理
 
 保存来源、时间、受赠或继承文件，以及之后如何使用的记录。是否保留个人财产性质、混用资金有什么后果，依适用法律与事实判断；不要仅凭转入个人账户就作确定结论。
+
+**税务 / 法律入口：** [IRS：Gift Tax FAQ](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person) · [ABA State Bar Directories](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。marital-property classification 仍按州法。
 
 ## 17. 税务预测同时看金额和责任
 
@@ -102,6 +122,8 @@
 
 询问协议、产权、受益人和遗产文件在这些情况下如何配合，哪些需要另外授权或机构办理。协议不是自动的资金访问工具，也不保证隔离所有债务风险。
 
+**继续看：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：Power of Attorney](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [IRS：Retirement Beneficiaries](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。
+
 ## 20. 迁居后复查适用法律
 
 搬州或跨国长期居住前，向相关地区律师说明既有协议、资产所在地和未来安排，核对是否需要更新。合同写了适用法律，也不能自行假定所有事项都只受该地法律控制。
@@ -111,6 +133,8 @@
 ## 21. 共同管理不等于失去隐私
 
 可以共享家庭必须知道的信息，同时保留个人沟通、账户与独立咨询空间。若存在控制、威胁或财务胁迫，不能用“更透明”要求受影响的一方交出全部安全与资金控制；应通过安全渠道取得当地专业支持。
+
+**安全入口：** [USA.gov：Domestic Violence Help](https://www.usa.gov/domestic-violence) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。这不是要求普通夫妻隐藏信息，而是强调 household transparency 不能取消个人安全边界。
 
 ## 22. 应急资金要依法可用
 
@@ -122,13 +146,19 @@
 
 在没有迫近安全风险或法律期限时，可以暂停重大决定、汇总资料，再安排独立咨询或双方愿意的调解。不要因冲突而擅自转空账户、隐匿财产或签署不理解的文件；已有诉讼或法院命令时尤其要先核对限制。
 
+**找帮助：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [ABA Dispute Resolution](https://www.americanbar.org/groups/dispute_resolution/)。调解是否适合取决于安全、程序和双方自愿程度。
+
 ## 24. 婚前协议与遗产规划互相核对
 
 分别检查遗嘱、适用信托、授权、医疗指示、受益人与产权，不把其中任何一份文件视为其余手续的替代。完成时应知道哪里保存签署原件、谁持有副本、机构是否已接受需要登记的安排。
 
+**继续看：** [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [IRS Retirement Beneficiaries](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。
+
 ## 25. 只公开问题清单，不公开私人协议
 
 资产明细、律师草稿、协商邮件、签名和家庭姓名都留在私人安全系统。这个公开仓库只提供通用准备框架；提交反馈时使用虚构或去识别化示例。
+
+**数字安全参考：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。公开仓库仅保存空白模板和去识别化示例。
 
 ## 最小执行集与核验范围
 
@@ -136,5 +166,7 @@
 - [ ] 需要协议时，已有独立咨询、充分准备和当地签署核对。
 - [ ] 福利、税务、受益人、产权与授权分别办理并保存确认。
 - [ ] 应急访问可以依法执行，重大变化有复查节点。
+
+**入口汇总：** [ABA Lawyer Referral](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL Retirement Plans](https://www.dol.gov/general/topic/retirement) · [NIA Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)。
 
 最后编辑与来源核验：2026-09-21。已补入并核对 IRS withholding / joint-liability / gift / foreign-gift 入口、DOL 退休计划配偶权益、HealthCare.gov 婚姻特别参保、NIA / CFPB 医疗与财务代理，以及 ABA 州律师转介入口。纽约州第 236 条继续仅作州法示例；婚前协议的签署、披露、婚姻财产分类、跨州 / 跨国效力和具体条款必须按适用地区与事实由各自律师审查。
