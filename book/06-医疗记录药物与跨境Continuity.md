@@ -18,6 +18,8 @@
 
 摘要用于快速交接，不替代完整病历。真实资料只保存在私人系统，不填写到公开仓库。
 
+**病历入口：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [HHS：Get It. Check It. Use It.](https://www.hhs.gov/hipaa/for-individuals/right-to-access/index.html)。在美国，受 HIPAA 约束的机构通常需要提供规定范围内的病历访问与副本渠道；中国病历取得见第 05 章。
+
 **病历获取入口：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [HHS：Individuals’ Right under HIPAA to Access their Health Information](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html)。
 
 ## 2. 用药清单必须可读、可复制
@@ -30,11 +32,15 @@
 
 按需用药（PRN）应抄录医嘱中的使用条件、间隔与上限。把非处方药（OTC）和补充剂也列给医生或药师核对；不要自行补写剂量或把已停药项目当作现用药。
 
+**查美国药品正式标签：** [DailyMed](https://dailymed.nlm.nih.gov/dailymed/)可按药名查询 FDA 提交的处方药 / OTC 标签信息，包括剂型、成分、警示与储存条件；它用于核对标签，不替代医生或药师的个体用药建议。
+
 **用药清单参考：** [FDA：My Medicines — Record Keeper](https://www.fda.gov/drugs/resources-you-drugs/my-medicine-record-keeper) · [MedlinePlus：Medicines](https://medlineplus.gov/medicines.html)。
 
 ## 3. 不要只依赖医院患者平台
 
 医生离职、医院更换系统、账户锁定、手机丢失或跨境访问不畅，都可能使患者平台暂时不可用。关键资料应另有可携带副本，并确认授权的家人知道存放位置。
+
+**直接申请病历：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [HHS：Right of Access Guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html)。先从医院 / 诊所的 Health Information Management、Medical Records 或 patient portal 找 request form；需要转给新医生时可询问能否直接传送。
 
 **直接申请病历：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。如果机构提供 patient portal，可先下载可用文件，再按机构的 Medical Records / Health Information Management 流程申请缺失部分。
 
@@ -43,6 +49,8 @@
 就医时优先提供医疗摘要、用药与过敏清单、重要手术和病理报告、相关检验、关键影像、疫苗记录及最近的专科意见。完整病历另行归档，供需要时调取。
 
 不要用上千页无索引文件代替一页交接摘要，也不要因有摘要就删除原始资料。
+
+**美国可取得的范围：** [HHS：What personal health information can individuals access?](https://www.hhs.gov/hipaa/for-professionals/faq/what-personal-health-information-do-individuals/index.html)列出 medical records、billing / claims、laboratory reports、X-rays、clinical notes 等常见记录；具体例外与个人代表权限仍看 HIPAA 规则和州法。
 
 ## 5. 影像既保存报告，也保存原始图像
 
@@ -55,11 +63,15 @@
 
 第二诊疗意见可能需要重新查看图像。预约前确认接收方能读取所提供的格式。
 
+**影像取得权：** [HHS：Can I get copies of my X-rays or other diagnostic images?](https://www.hhs.gov/hipaa/for-professionals/faq/do-individuals-have-a-right-under-hipaa-to-get-copies/index.html)。HHS 明确把 X-ray 等诊断影像纳入 HIPAA access；如机构可以 readily produce 所请求格式，应按规则提供该格式。实际 DICOM 下载、光盘或云影像方式由机构决定。
+
 **影像格式继续看：** [DICOM Standard / DICOM overview](https://www.dicomstandard.org/)；实际调取仍从做检查的医院 Radiology / Medical Records 部门申请，并问接诊医院接受 CD、download link、cloud share 还是 direct transfer。
 
 ## 6. 病理资料值得长期保留
 
 涉及活检或肿瘤时，保留病理报告、相关分子检测和手术报告，并记录切片或蜡块由哪家机构保管、如何申请调阅。不要把取回全部实物当作默认要求；先问接诊医生需要什么。
+
+**病理第二意见入口示例：** [NCI：Pathology Reports](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)解释病理报告的作用；如需 slide / block review，先向接诊医院 pathology department 索取其具体 transfer instructions，而不是自行邮寄唯一材料。
 
 **癌症 second-opinion 参考：** [NCI：Finding Cancer Care / Second Opinions](https://www.cancer.gov/about-cancer/managing-care/services)。具体 slides / blocks 调阅流程由原 pathology lab 和接诊中心决定。
 
@@ -75,6 +87,8 @@
 
 保存纸卡扫描件及可取得的正式电子记录，记录疫苗名称、接种日期和生产商等原始信息。跨境时不要自行把不同品牌改写成同一产品；由接种机构判断记录与后续安排。
 
+**找美国疫苗记录：** [CDC：Staying Up to Date with Your Vaccine Records](https://www.cdc.gov/vaccines-adults/recommended-vaccines/keeping-vaccine-records-up-to-date.html) · [CDC：Contacts for IIS Immunization Records](https://www.cdc.gov/iis/contacts-locate-records/index.html)。CDC 不保存全国统一个人疫苗记录；应从接种机构、学校 / 大学健康中心或所在州 Immunization Information System（IIS）寻找。
+
 **查美国州级疫苗记录：** [CDC：Contacts for Immunization Records](https://www.cdc.gov/iis/contacts-locate-records/index.html)。各州 IIS / registry 的可访问方式不同。
 
 ## 9. 检验结果必须带单位与背景
@@ -84,6 +98,8 @@
 ## 10. 临床翻译保留原文供核对
 
 机器翻译可辅助理解普通摘要，但病理、手术、失能证明、移民体检或理赔材料，应按接收机构要求采用专业翻译，必要时请临床人员复核。
+
+**先问接收方要求：** 医疗机构通常自行决定是否接受患者提供的翻译；移民材料应回到具体 [USCIS form instructions](https://www.uscis.gov/forms)；保险 / 法律文件则按对应 insurer、法院或机构要求。不要默认一种“认证翻译”格式全球通用。
 
 原文与译文一起保存，尤其核对否定词、药名、剂量、左右侧和日期。不要只交一份无法回查的译文。
 
@@ -101,11 +117,15 @@
 
 同时核查药物保存条件、管制属性及目的地和过境地的携带要求。获准配药不等于获准跨境携带。
 
+**旅行用药入口：** [CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) · [CDC Yellow Book：Traveling with Prohibited or Restricted Medications](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html)。CDC 建议同时核对目的地及转机国家官方规则，把药物放在原始有标签容器中，并准备足够行程及延误使用的数量。
+
 ## 13. 冷链药物要有温度异常预案
 
 向药师核对具体产品的保存温度、离开冷藏后的允许条件，以及温度异常后如何处置。提前安排随身携带、冷却设备、住宿储存与备用方案。
 
 不要默认酒店迷你冰箱适合储药，也不要把药物直接冻在冰袋上。发生温度异常时记录情况，联系药师或生产商确认，不自行判断药效。
+
+**查具体储存条件：** [DailyMed](https://dailymed.nlm.nih.gov/dailymed/)可查询美国药品标签中的 Storage and Handling；[CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)也要求旅行前确认是否需要冷藏。温度异常后的可用性仍问药师、开药团队或生产商。
 
 **储存说明：** [FDA：Where and How to Dispose of Unused Medicines](https://www.fda.gov/consumers/consumer-updates/where-and-how-dispose-unused-medicines)之外，具体储存温度应优先看药品 label / manufacturer information；可从 [DailyMed](https://dailymed.nlm.nih.gov/dailymed/)搜索美国药品标签。
 
@@ -114,6 +134,8 @@
 在美国合法开具的兴奋剂、阿片类药物、苯二氮䓬类药物或安眠药，在其他地区可能受到不同限制。核查目的地及过境地政府、使领馆或卫生主管机关的要求，包括数量、证明和事前许可。
 
 不要用美国处方代替入境许可判断。旅行相关入口见[国际旅行清单](../checklists/international-travel.md)。
+
+**查管制药规则：** [International Narcotics Control Board（INCB）：Travellers with Controlled Substances](https://www.incb.org/incb/en/travellers/index.html) · [CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)。INCB 汇总部分国家提交的 traveller regulations，但最终仍以目的地 / 转机地政府或使领馆最新要求为准。
 
 **查目的地：** [CDC Yellow Book：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)建议向目的地国家使领馆 / 官方卫生或海关机关确认限制；美国国务院的[Country Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages.html)可作为寻找当地官方入口的起点。
 
@@ -138,6 +160,8 @@
 ## 18. 医疗档案采用受保护的存储方式
 
 使用加密存储、可靠的账户恢复机制和按需共享。不要依赖公开链接、工作账户或零散聊天记录。授权家人能取用资料，不等于所有亲友都应有访问权。
+
+**数字安全原则：** 参见[第 15 章](15-网络安全与身份盗窃.md)的密码管理器、MFA、恢复资料和备份入口。医疗资料不需要为了“共享方便”而放到公开云链接。
 
 **数字安全参考：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)；主邮箱、密码管理器、MFA 与恢复码详见[第 15 章](15-网络安全与身份盗窃.md)。
 
