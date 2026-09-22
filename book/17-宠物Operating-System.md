@@ -130,9 +130,22 @@
 
 ## 17. 出发前就检查回程
 
-入境美国的犬只规则取决于入境前六个月去过的国家及狂犬病疫苗等情况，还可能涉及 USDA 和目的州要求。不要把犬只规则直接套用猫或其他动物。
+入境美国的犬只规则取决于入境前 **6 个月**去过哪些国家 / 地区、犬只在哪里接种狂犬病疫苗，以及 microchip 与文件情况；还可能涉及 USDA 和目的州要求。不要把犬只规则直接套用猫或其他动物。
 
-**回美国前重新核对：** [CDC：Dogs Entering the United States](https://www.cdc.gov/importation/dogs/index.html) · [USDA APHIS：Bring a Pet Into the U.S.](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import) · [APHIS：State-to-State Pet Travel](https://www.aphis.usda.gov/pet-travel/state-to-state)。
+截至 2026-09-21，CDC 对**所有进入或返回美国的犬只**有几个共同底线：
+
+- 每只狗都需要 **CDC Dog Import Form receipt**；
+- 到达时必须看起来健康；
+- 入境时至少 **6 个月大**；
+- 必须有能被 universal scanner 读取的 microchip。
+
+如果过去 6 个月**只在 dog-rabies-free / low-risk 国家或地区**，CDC 当前规则通常只要求上述 Dog Import Form receipt 加共同底线；receipt 通常自提交日起可用 6 个月，但 departure country 改变、去过 high-risk country 等会改变可用性。
+
+如果过去 6 个月去过任何 **high-risk dog-rabies country**，则需要额外文件。对于 **U.S.-vaccinated dog**，CDC 当前要求 Dog Import Form receipt + USDA-endorsed **Certification of U.S.-issued Rabies Vaccination**。这个 certification 必须由 USDA-accredited veterinarian **在犬只离开美国前**完成，不能事后补做。旧的 USDA-endorsed export health certificate 只有在 **2025-07-31 或之前签发**且满足 CDC 条件时，才可能继续代替这张 certification；**2025-07-31 之后签发的 export health certificate 不能再用于这种返美替代。**
+
+对于 **foreign-vaccinated dog + high-risk country exposure**，要求更严格，通常涉及 foreign rabies vaccination / microchip certification、rabies serology、CDC-registered animal care facility reservation 和指定机场；没有有效 titer 时还可能涉及 28-day quarantine。不要仅凭普通疫苗本或“以前这样入境过”行动。
+
+**回美国前重新核对：** [CDC：Dogs Entering the United States / Navigator](https://www.cdc.gov/importation/dogs/index.html) · [CDC：Dog Import Form and Instructions — 2026-04-28](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html) · [CDC：High-Risk Countries for Dog Rabies](https://www.cdc.gov/importation/dogs/high-risk-countries.html) · [CDC：U.S.-Vaccinated Dogs from High-Risk Countries](https://www.cdc.gov/importation/dogs/us-vaccinated-high-risk-countries.html) · [USDA APHIS：Bring a Pet Into the U.S.](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import) · [APHIS：State-to-State Pet Travel](https://www.aphis.usda.gov/pet-travel/state-to-state)。
 
 中国入境、过境及隔离要求须按当次行程向目的地主管机构核对。本章未给出可替代官方核验的中美往返材料清单。
 
@@ -162,4 +175,4 @@
 
 **入口汇总：** [AAHA Hospital Finder](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC Pet Insurance](https://content.naic.org/consumer/pet-insurance) · [USDA APHIS Pet Travel](https://www.aphis.usda.gov/pet-travel) · [Ready.gov Pets](https://www.ready.gov/pets)。
 
-最后编辑与来源核验：2026-09-21。已重新核对 2026 年 USDA APHIS Pet Travel / export / import / interstate 页面、CDC 犬只入境入口、AAHA 2026 宠物常规照护与急症资源、ASPCA 毒物咨询和 NAIC 宠物保险入口。日常照护和给药仍以实际 veterinarian-client-patient relationship 为准；航司、中国入境、保险与寄养规则须按当次服务和行程重新确认。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 CDC 2026-08-27 dog-import FAQ、2026-04-28 Dog Import Form / high-risk-country 页面及 USDA APHIS：所有返美犬只的 CDC Dog Import Form、健康、≥6个月、microchip 底线已写入；low-risk-only 与 high-risk 路径分开；U.S.-vaccinated dog 去过 high-risk country 时所需 Certification of U.S.-issued Rabies Vaccination 必须在离美前由 USDA-accredited veterinarian 完成，并明确 2025-07-31 后签发的普通 USDA export health certificate 不再能作为该返美文件的替代。另核对 AAHA 2026 常规照护 / 急症、ASPCA 毒物咨询和 NAIC pet insurance。航司、中国入境、州级要求、保险与寄养规则须按当次服务和行程重新确认。
