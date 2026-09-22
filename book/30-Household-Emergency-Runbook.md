@@ -126,6 +126,8 @@
 
 记录问题与官方答复，恢复后实际测试必要功能。详见[跨境生活基础设施](18-中美双栖生活基础设施.md)。
 
+**中国侧入口：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家金融监督管理总局：金融消费者服务](https://www.nfra.gov.cn/cn/view/pages/ItemList.html?itemPId=928&itemId=939&itemUrl=ItemListRightList.html&itemName=%E6%B6%88%E8%B4%B9%E8%80%85%E6%9D%83%E7%9B%8A%E4%BF%9D%E6%8A%A4)。具体手机号恢复仍使用实际运营商官方渠道，银行风控 / 解限使用实际银行官方入口。
+
 ## 15. 家庭主要办事人暂时失能
 
 先按医疗流程处理，再由具有适当权限的人取得医疗指示、联系人和必要账单信息。分别安排儿童、宠物、家人通知、住房和工作沟通；不要求由一个人独自接下所有事务。
@@ -140,9 +142,13 @@
 
 不要在悲痛或权限未明时急于转移资产、清偿所有声称的债务或关闭账户。后续见[身故后的实际操作](35-死亡后的实际操作与Estate-Administration.md)。
 
+**美国总入口：** [USA.gov：What to do when someone dies](https://www.usa.gov/after-death) · [SSA：When Someone Dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
+
 ## 17. 把家庭手册做成索引
 
 私下保存紧急信息、医疗、保险、法律授权、工作、住房、车辆、照护、跨境与数字恢复的文件位置和办理说明。常用联络信息可有纸质备份；密钥、恢复码和完整证件应单独保护。只让需要的人取得相应部分。
+
+**准备参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [FEMA：Emergency Financial First Aid Kit](https://www.ready.gov/financial-preparedness) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
 
 ## 18. 用三个场景演练
 
@@ -165,5 +171,7 @@
 - [ ] 必要照护、支付与离家事务有替代路径。
 - [ ] 事件记录含负责人、期限、下一步和完成证据。
 - [ ] 至少试过一个最可能导致全家无法运作的场景。
+
+**入口汇总：** [911.gov](https://www.911.gov/calling-911/) · [Ready.gov](https://www.ready.gov/) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [USA.gov After a Death](https://www.usa.gov/after-death) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [国家政务服务平台](https://gjzwfw.www.gov.cn/)。
 
 最后编辑与来源核验：2026-09-21。本章已从内部索引升级为直接 action portal：911 / Ready.gov、AHA / Red Cross / Poison Control、USFA、NAIC / NHTSA、Apple / Google、IdentityTheft.gov / IC3、ASPCA、国家卫健委 / 医保、DOL / USA.gov unemployment、ABA、IRS / USCIS、国务院护照、CFPB / HHS 与 FEMA 均有对应入口。不同事件的实际法律期限、承保、医疗处置和地方流程仍以现场专业指示与主管机构为准。
