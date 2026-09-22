@@ -73,6 +73,8 @@
 
 一起核对医疗代理、财务授权、遗嘱、受益人、保险、账户所有权、雇主福利、紧急联系和相关协议义务。双方分别理解后再签署，不以“家庭统一管理”为由取消另一方的知情与自主。
 
+**复查入口：** [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [DOL：Retirement Plans](https://www.dol.gov/general/topic/retirement)。婚姻对州法文件的具体影响仍由本州律师确认。
+
 ## 9. 律师委托范围要写明
 
 预约前准备居住与法律住所、家庭关系、资产所在国家、所有权、既有文件和想解决的问题。询问委托是否涵盖起草、签署指导、账户衔接、跨境协调及后续更新，费用如何计算。
@@ -117,11 +119,15 @@
 
 证明文件来源真实性与认可其法律效果是不同问题，详见[第 19 章](19-文件公证Apostille与跨境授权.md)。
 
+**跨境文件入口：** [HCCH：Apostille Convention](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
+
 ## 15. 父母也有自己的意愿与授权安排
 
 在父母知情同意下，确认当地接应、医疗联络、生活账单、资料位置和必要权限。子女住在海外不能替代父母作所有决定，也不能仅凭亲属关系推定授权范围。
 
 照护安排见[第 20 章](20-父母养老与远程照护.md)。
+
+**美国侧参考：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。中国侧授权和受理仍按父母实际所在地与具体机构核对。
 
 ## 16. 数字资产与账户恢复一并准备
 
@@ -147,5 +153,7 @@
 - [ ] 指定人员知情，机构登记与实施步骤有记录。
 - [ ] 原件、副本和数字资料可由适当人员取得。
 - [ ] 跨境受理和重大变化后的复查有负责人。
+
+**入口汇总：** [NIA Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
 最后编辑与来源核验：2026-09-21。已重新核对 NIH / NIA advance-care-planning 与 health-care-proxy 指南、CFPB POA / fiduciary / Managing Someone Else’s Money、DOL retirement-benefit 入口及 IRS estate-and-gift-tax 入口，并补入州律师转介和平台数字遗产入口。遗嘱、POA、见证、公证、受益人、probate、trust 和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
