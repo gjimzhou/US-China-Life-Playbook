@@ -37,7 +37,8 @@
 
 示例：
 
-> **来源：** [美国联邦贸易委员会：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts)
+> **规则说明：** [FTC：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts)  
+> **直接办理：** [Equifax Freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian Freeze](https://www.experian.com/freeze/center.html) · [TransUnion Freeze](https://www.transunion.com/credit-freeze/)  
 > **最后核验：** 年-月-日，注明本次检查的规则及适用范围。
 
 读者应能看出链接支持的是期限、机构入口、定义，还是操作建议。不要让章末一串网址代替逐项依据。
