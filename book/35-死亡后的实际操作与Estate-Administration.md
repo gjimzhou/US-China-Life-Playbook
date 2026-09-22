@@ -104,9 +104,11 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 ## 17. 遗产所得税另行判断
 
-遗产在管理期间产生的收入可能需要单独税号和申报。IRS 当前的 estate-administration 页面说明，遗产产生超过 600 美元年度总收入时通常需要 Form 1041；其他情形和具体年度仍以当年 instructions 为准。
+遗产在管理期间产生的收入可能需要单独税号和申报。IRS 当前规则要求国内遗产（domestic estate）在年度 gross income 达到 600 美元或以上时提交 Form 1041；**即使低于 600 美元**，存在 nonresident-alien beneficiary 等特定情形也可能触发申报。遗产还可能有 estimated-tax、Schedule K-1 和其他义务，因此不能把 600 美元当成“低于就什么都不用管”的通用免报线。
 
-**直接办理 / 核对：** [IRS：File an estate income tax return](https://www.irs.gov/individuals/file-an-estate-tax-income-tax-return) · [IRS：About Form 1041](https://www.irs.gov/forms-pubs/about-form-1041) · [IRS：Apply for an EIN](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)。600 美元不是遗产价值门槛，也不是所有遗产或信托通用的免报线。
+对 calendar-year estate，IRS 当前说明通常在次年 4 月 15 日前提交 Form 1041；fiscal-year estate 通常在税年结束后第 4 个月的第 15 日前提交。需要更多时间时，Form 7004 可提供适用的 automatic 5-month extension to file；延期是否影响付款义务仍应另行核对。
+
+**直接办理 / 核对：** [IRS：File an estate income tax return](https://www.irs.gov/individuals/file-an-estate-tax-income-tax-return) · [IRS：About Form 1041](https://www.irs.gov/forms-pubs/about-form-1041) · [IRS：Form 1041 Instructions](https://www.irs.gov/instructions/i1041) · [IRS：Apply for an EIN](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)。600 美元不是遗产价值门槛，也不是所有遗产或信托通用的免报线。
 
 ## 18. 区分三种税务问题
 
@@ -198,4 +200,4 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 提前保留文件和账户索引、明确意愿与合法权限，让可信接手人知道入口。事件发生后使用[身故办理清单](../checklists/death-administration.md)，真实信息只私下填写。
 
-最后编辑与来源核验：2026-09-21。已重新核对 SSA death-report / survivor-benefit 页面、IRS Deceased Person / final return / estate-administrator / estate-income-tax / Form 1041 入口、CFPB deceased-debt 指引、NAIC life-policy locator 和 USA.gov death-certificate / unclaimed-property 入口。遗产法院、债务清偿顺序、probate 小额程序、账户继承和中美两地继承效力仍必须按州法、资产类型与个案办理。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS estate-income-tax / Form 1041 当前规则：国内遗产年度 gross income ≥ $600 通常触发 Form 1041；低于 $600 仍可能因 nonresident-alien beneficiary 等特定条件触发；calendar-year estate 通常次年 4/15 到期，fiscal-year estate 通常税年结束后第 4 个月第 15 日到期，Form 7004 可用于适用的 automatic 5-month extension to file。另核对 SSA death-report / survivor-benefit、IRS Deceased Person / final return、CFPB deceased-debt、NAIC life-policy locator 和 USA.gov death-certificate / unclaimed-property 入口。遗产法院、债务清偿顺序、probate 小额程序、账户继承和中美两地继承效力仍必须按州法、资产类型与个案办理。
