@@ -18,7 +18,7 @@
 
 如果收入集中在后半年，收入年化分期法可能有帮助，但需要相应计算和表格。不能只把全年已缴金额相加，就认定所有期间都没有罚金。
 
-**继续看：** [IRS 官方：Tax Topic 306 — 预缴不足罚金](https://www.irs.gov/taxtopics/tc306) · [IRS 原文：Form 2210 Instructions — 如何计算预缴不足](https://www.irs.gov/instructions/i2210)。
+**继续看：** [IRS 官方：Tax Topic 306 — 预缴不足罚金](https://www.irs.gov/taxtopics/tc306) · [IRS：Form 2210 Instructions — 如何计算预缴不足](https://www.irs.gov/instructions/i2210)。截至 2026-09-21，该 `i2210` 页面仍是 **2025 Form 2210 instructions**；本章只用它说明 penalty / annualized-income 的计算机制，不从中读取 2026 safe-harbor 年度数字。2026 年门槛与比例以 2026 Publication 505 为准。
 
 ## 3. 奖金预扣率不等于最终税率
 
@@ -32,7 +32,7 @@
 
 在联邦预缴不足计算中，预扣税通常可按规则分配到各期；直接预估税缴款则须考虑付款时间。使用实际预扣日期等选择也有相应条件。
 
-**官方原文：** [IRS：Form 2210 Instructions — Underpayment of Estimated Tax](https://www.irs.gov/instructions/i2210)。计算具体年度时，应以该年度最终表格及说明为准。
+**官方原文：** [IRS：Form 2210 Instructions — Underpayment of Estimated Tax](https://www.irs.gov/instructions/i2210)。截至 2026-09-21，IRS 此入口仍展示 2025 instructions；计算 2026 实际 penalty 时，应等待 / 使用 IRS 发布的 2026 最终表格与说明，当前年度预缴规划优先参考 [2026 Publication 505](https://www.irs.gov/publications/p505)。
 
 年末调整前先核对工资处理截止和实际可预扣金额，不能假设次年一次补款消除此前所有罚金。
 
@@ -166,4 +166,4 @@
 
 **入口汇总：** [IRS Publication 505](https://www.irs.gov/publications/p505) · [Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。
 
-最后编辑与来源核验：2026-09-21。核对 IRS 2026 年第 505 号刊物、预缴不足和延期说明、2025 年第 2210 表说明、纽约州官方居民定义与远程工作资料，以及 FinCEN 的 FBAR 入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 Publication 505：2026 estimated-tax 一般 due dates 为 4/15、6/15、9/15、2027/1/15，safe-harbor 仍按 90% current-year / 100% prior-year（高收入者通常 110% prior-year）框架。IRS 当前 Form 2210 instructions 页面仍为 2025 版，因此正文明确只借其 penalty / annualized-income 机制，不把它当 2026 数字来源。另核对纽约州居民定义与远程工作资料，以及 FinCEN FBAR 入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
