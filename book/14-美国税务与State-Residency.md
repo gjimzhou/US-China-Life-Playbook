@@ -72,11 +72,15 @@
 
 移居前请税务专业人士确认所需资料、居民身份切换日期、收入分配及涉及的申报表；不要等收到审查通知才补回忆。
 
+**州税入口：** [IRS：State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。具体 domicile / statutory residency / part-year rules 按迁出和迁入州分别核对。
+
 ## 10. 停留日与工作日分开记录
 
 在何地过夜、当天去过哪些地方、在哪里实际工作，可能对应不同测试。旅行日、短暂停留和远程工作按适用规则处理，不能把出差日历直接当作所有税务天数。
 
 保留机票、交通和工作记录等支持材料。请假标签不能替代实际工作事实，也不要为了税务结果改写记录。
+
+**本项目实务建议：** residence-day log 与 actual-workday log 分开保存；联邦国际计日可参考 [IRS Substantial Presence Test](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test)，州规则另查对应州。
 
 ## 11. 市和地方税单独检查
 
@@ -98,11 +102,15 @@
 
 股权薪酬还可能涉及服务期间分配，不能只看支付当天在哪个州。具体计算交给熟悉相关州和收入类型的专业人士。
 
+**州税入口：** [IRS State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)用于进入相关州税务机关；资产和 equity-comp sourcing 必须按具体州与收入类型核对。
+
 ## 14. 工资税表是记录，不是最终法律结论
 
 工资税表（Form W-2）中的州工资和预扣信息需要与实际工作安排核对。多个州显示工资不一定是重复征收，看到异常也不能自行删除一栏了事。
 
 先让薪资部门解释或更正，再由报税人确定正确申报与抵免方法；保留原表、更正表和往来说明。
+
+**表格入口：** [IRS：About Form W-2](https://www.irs.gov/forms-pubs/about-form-w-2) · [IRS：State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。W-2 是信息记录，不自行决定最终州税法律结论。
 
 ## 15. 收到税务通知，先保护期限
 
@@ -126,6 +134,8 @@
 
 出行前如实向雇主确认允许的地点与安排，再由合适的专业人士评估个人和雇主事项。详见[第 38 章](38-中美跨境税与Work-from-Abroad.md)。
 
+**国际税入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。工作许可、当地 payroll 和 corporate presence 仍由目的地与雇主合规团队另行判断。
+
 ## 18. 境外账户申报与所得税不是同一件事
 
 美国财政部金融犯罪执法网络（FinCEN）规定，符合定义的美国人对境外金融账户有财务利益或签字权，且合计价值在日历年任一时点超过 1 万美元时，一般须考虑境外银行及金融账户报告（FBAR），具体豁免按说明判断。不是每个账户各看 1 万，也不是只看年底余额。
@@ -144,6 +154,8 @@
 
 不要把“每季度复查”误当作各项税款都在自然季度最后一天到期。具体日期写入当年日历并核对州和地方要求。
 
+**年度工具：** [IRS：Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS Payments](https://www.irs.gov/payments)。
+
 ## 20. 最小执行集与核验范围
 
 - [ ] 已区分最终税额、预缴要求及付款时间。
@@ -151,5 +163,7 @@
 - [ ] 居住日、工作地及搬家记录可追溯。
 - [ ] 境外账户、权益和签字权限已完整告知报税专业人士。
 - [ ] 重大交易与境外工作提前评估，税务通知有负责人和期限。
+
+**入口汇总：** [IRS Publication 505](https://www.irs.gov/publications/p505) · [Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。
 
 最后编辑与来源核验：2026-09-21。核对 IRS 2026 年第 505 号刊物、预缴不足和延期说明、2025 年第 2210 表说明、纽约州官方居民定义与远程工作资料，以及 FinCEN 的 FBAR 入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
