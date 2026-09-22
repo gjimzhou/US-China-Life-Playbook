@@ -153,7 +153,17 @@ FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名 household
 
 比较服务范围：工资单、扣缴、州申报、年度表格、工时记录和更正由谁负责。每次检查付款是否到账、申报是否被接受、税款是否入账；服务商的提醒邮件不能代替正式回执。合同也应说明漏报后的协助范围。
 
-**自己核对：** [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA Business Services Online](https://www.ssa.gov/bso/bsowelcome.htm) · [IRS Payments](https://www.irs.gov/payments)。州 payroll / unemployment portal 另从州政府官网进入。
+对 **2026 wages**，IRS Publication 926 当前 household-employer checklist 给出的主要联邦年终时间点是：
+
+- **2027-02-01：** 向需要 W-2 的 household employee 提供 Copies B / C / 2，并向 SSA 提交 Copy A of Form W-2 + Form W-3；paper 和 electronic filing 都是这个日期。
+- 如果通过 SSA W-2 Online electronic filing，系统会从 W-2 submission 生成 W-3 data，通常无需另交纸质 W-3。
+- 员工在 2026 年中离职时，可以 final wage 后马上做 W-2，不必等次年；如果离职员工主动要求 W-2，IRS 当前说明应在 **request 后 30 天**或**最后一次工资支付后 30 天**两者较晚的时间内提供。
+- **2027-04-15：** 一般随 2026 Form 1040 / 1040-SR 等提交 Schedule H 并支付 household employment taxes；如 individual return 获得 filing extension，Schedule H 的 filing extension 通常随之延长，但付款 timing 仍应按实际规则核对。
+- Household employment taxes 可能需要通过年内 withholding / estimated tax 提前覆盖，不能把 2027-04-15 当成“到那天才第一次考虑税款”的许可。
+
+州 unemployment、paid leave、workers’ compensation、state wage statements 和 local payroll deadlines 可能完全不同，应在 payroll calendar 里单独列出，不能只做联邦 W-2 / Schedule H。
+
+**自己核对：** [IRS Publication 926 (2026) — household employer checklist](https://www.irs.gov/publications/p926) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA Business Services Online](https://www.ssa.gov/bso/bsowelcome.htm) · [IRS Payments](https://www.irs.gov/payments)。州 payroll / unemployment portal 另从州政府官网进入。
 
 ---
 
@@ -266,6 +276,6 @@ FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名 household
 
 ## 本轮核验范围与限制
 
-本轮已重新核对 IRS 2026 Publication 926、EIN / Schedule H / household-employee 分类入口，以及 DOL Domestic Service Fact Sheets #79B / #79C / #79D 与 29 CFR Part 552。第三轮又核对 2026 payroll 与 I-9：同一 household employee 的 FICA trigger $3,000；Social Security wage base $184,500；常规 FICA 双方各 7.65%；employee wages >$200,000 时代扣 0.9% Additional Medicare Tax；FUTA trigger 为 2025 或 2026 任一季度全部 household employees 合计 $1,000，通常对每名员工前 $7,000 FUTA wages 计算。I-9 Section 1 最迟 first day、Section 2 通常 hire 后 3 business days；离职后的 retention 为 hire+3y / termination+1y 取更晚；2026-08-01 起使用 edition 08/01/23、expiration 05/31/2027 的当前表格。另补入 SSA W-2 filing、FTC / EEOC background-check 和州工伤入口。各州与城市的最低工资、加班、带薪假、工资单、工伤、失业保险、住家住房权利、录音 / 摄像和 final-pay 规则仍须按实际工作地址核验；联邦税务门槛不是全国统一的劳动法豁免线。
+本轮已重新核对 IRS 2026 Publication 926、EIN / Schedule H / household-employee 分类入口，以及 DOL Domestic Service Fact Sheets #79B / #79C / #79D 与 29 CFR Part 552。第三轮又核对 2026 payroll 与 I-9：同一 household employee 的 FICA trigger $3,000；Social Security wage base $184,500；常规 FICA 双方各 7.65%；employee wages >$200,000 时代扣 0.9% Additional Medicare Tax；FUTA trigger 为 2025 或 2026 任一季度全部 household employees 合计 $1,000，通常对每名员工前 $7,000 FUTA wages 计算。I-9 Section 1 最迟 first day、Section 2 通常 hire 后 3 business days；离职后的 retention 为 hire+3y / termination+1y 取更晚；2026-08-01 起使用 edition 08/01/23、expiration 05/31/2027 的当前表格。2026 wage-year 的 W-2 / W-3 due date 为 2027-02-01，Schedule H 一般随 federal return 于 2027-04-15 申报；year-end / separated-employee timing 已写入第17节。另补入 SSA W-2 filing、FTC / EEOC background-check 和州工伤入口。各州与城市的最低工资、加班、带薪假、工资单、工伤、失业保险、住家住房权利、录音 / 摄像和 final-pay 规则仍须按实际工作地址核验；联邦税务门槛不是全国统一的劳动法豁免线。
 
 最后编辑与来源查阅：2026-09-21
