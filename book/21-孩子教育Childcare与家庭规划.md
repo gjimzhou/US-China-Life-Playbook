@@ -156,7 +156,13 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 用可持续的安排覆盖实际工作时间，而不是默认家长能无限补上所有缺口。
 
-**费用 / 税务入口：** [ChildCare.gov：State Resources](https://childcare.gov/state-resources-home) · [IRS Publication 503 — Child and Dependent Care Expenses](https://www.irs.gov/publications/p503) · [IRS Publication 926](https://www.irs.gov/publications/p926)（直接雇家庭雇员时）。
+**2026 dependent-care tax rules 不要继续沿用旧的 $5,000 FSA 记忆。** 从 2026 tax year 起，雇主 dependent care assistance program（常见包括 dependent care FSA / DCFSA）的联邦 gross-income exclusion 上限提高到 **$7,500**；married filing separately 为 **$3,750**。雇主自己的 plan 可以设更低上限，而且 earned-income、nondiscrimination 与 highly-compensated-employee rules 仍可能限制最终可排除金额。
+
+Child and Dependent Care Credit 是另一套机制。2026 年可用于计算 credit 的 work-related expense dollar cap 仍为 **$3,000（1 位 qualifying person）/ $6,000（2 位或以上）**，但 maximum credit rate 从 35% 提高到 **50%**；实际 percentage 取决于 AGI 和其他资格。通过 DCFSA / employer dependent-care benefit 已经 tax-excluded / reimbursed 的同一费用，不能再简单重复拿去算 credit；最终用 Form 2441 协调两者。
+
+**费用 / 税务入口：** [ChildCare.gov：State Resources](https://childcare.gov/state-resources-home) · [IRS Publication 15-B (2026) — dependent care assistance $7,500 / $3,750](https://www.irs.gov/publications/p15b) · [IRS：2026 W-2 instructions correction — dependent-care exclusion raised to $7,500](https://www.irs.gov/forms-pubs/correction-to-the-dependent-care-benefits-exclusion-amount-in-the-2026-general-instructions-for-forms-w-2-and-w-3) · [IRS Publication 505 (2026) — 2026 Child and Dependent Care Credit change](https://www.irs.gov/publications/p505) · [IRS：Form 2441](https://www.irs.gov/forms-pubs/about-form-2441) · [IRS Publication 926](https://www.irs.gov/publications/p926)（直接雇家庭雇员时）。
+
+截至 2026-09-21，[Publication 503](https://www.irs.gov/publications/p503) 当前正文仍是 **2025 revision**，其中 $5,000 / $2,500 dependent-care benefit exclusion 是 2025 数字，不应用来覆盖上述 2026 新上限。
 
 ## 21. 共享日历记录共同责任
 
@@ -190,4 +196,4 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 **入口汇总：** [ChildCare.gov](https://www.childcare.gov/) · [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA Child Passenger Safety](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NCES](https://nces.ed.gov/) · [CDC Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)。
 
-最后编辑与来源核验：2026-09-21。已重新核对 ChildCare.gov 当前可访问的 licensing、background checks、monitoring / inspections 与 provider-selection 页面，以及 CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、HealthCare.gov 新生儿特别参保、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 2026 dependent-care tax changes：DCAP / dependent-care FSA federal exclusion 已提高到 $7,500（MFS $3,750）；Child and Dependent Care Credit 的 qualifying-expense cap 仍为 $3,000 / $6,000，但 2026 maximum credit rate 提高到 50%。IRS 当前 Publication 503 仍是 2025 revision，正文已明确不能拿其中 $5,000 上限覆盖 2026。另核对 ChildCare.gov licensing / background checks / monitoring / inspections / provider-selection、CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、HealthCare.gov 新生儿特别参保、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。
