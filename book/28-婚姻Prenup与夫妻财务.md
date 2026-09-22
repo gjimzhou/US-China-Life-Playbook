@@ -152,6 +152,14 @@
 
 ## 23. 争议时先保存事实与选择
 
+### 关系破裂时先区分普通分居与安全事件
+
+准备分居或离婚时，应先把人身安全、孩子、住房、医疗保险、现金流、共同账单和法律权限分开处理。若存在暴力、威胁、跟踪、强制控制或技术监控，不应套用“双方坐下来协商”的普通关系流程，而应先进入安全计划和当地专业支持。
+
+**直接使用：** [分居、离婚与家庭安全清单](../checklists/separation-family-safety.md)。
+
+
+
 在没有迫近安全风险或法律期限时，可以暂停重大决定、汇总资料，再安排独立咨询或双方愿意的调解。不要因冲突而擅自转空账户、隐匿财产或签署不理解的文件；已有诉讼或法院命令时尤其要先核对限制。
 
 **找帮助：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [ABA Dispute Resolution](https://www.americanbar.org/groups/dispute_resolution/)。调解是否适合取决于安全、程序和双方自愿程度。
