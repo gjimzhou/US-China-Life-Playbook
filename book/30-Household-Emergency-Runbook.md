@@ -180,7 +180,15 @@
 
 **执行清单：** [区域灾害、停电停水与暂时不能回家](../checklists/disaster-utility-outage.md) · [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [Ready.gov：Pets](https://www.ready.gov/pets)。
 
-## 20. 只保留适用的最小执行集
+## 20. 盗窃、入室、袭击或家人失踪
+
+危险仍在发生时先离开危险区域并联系 911；不要为了追回财物、拍照或“保护现场”重新进入可能有人的住宅。事件结束后再处理 police report、证据、保险、被盗设备／证件和 victim services。
+
+孩子失踪时不要等待 24 小时。NCMEC 当前要求家长立即联系 local law enforcement，报案后再联系 NCMEC；成人失踪则应把受伤、自杀风险、认知障碍、暴力、异常失联或灾害等具体风险事实告诉警方。
+
+**完整清单：** [遭遇犯罪或家人失踪](../checklists/crime-victim.md) · [USA.gov：Report crime / victim support](https://www.usa.gov/crime) · [NCMEC：Is Your Child Missing?](https://us.missingkids.org/MissingChild)。
+
+## 21. 只保留适用的最小执行集
 
 - [ ] 紧急信息表可取用，地址与求助入口准确。
 - [ ] 人身安全流程优先，接手人已同意且权限明确。
