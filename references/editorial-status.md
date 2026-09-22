@@ -130,6 +130,8 @@
 
 - **第21 / 28章 + marriage checklist：** 重新核对 health-plan special enrollment。Job-based HIPAA group health plans 对 marriage / birth / adoption / placement 通常至少提供 30-day request window；birth / adoption / placement 可从 event date 生效，marriage 最迟通常从 plan 收到完整 request 后的下月 1 日生效。Marketplace marriage / birth / adoption 通常为 60-day SEP；birth / adoption 可从 event date 起 coverage。Marketplace marriage SEP 还存在 prior-coverage requirement 与境外居住等当前例外；Medicaid / CHIP loss 或 premium-assistance group-plan SEP 通常为 60 days。
 
+- **第10 / 35章 Estate & Gift Tax：** 重新核对 IRS 2026 Form 706 / gift-tax rules。2026 basic exclusion amount $15,000,000；annual gift exclusion $19,000 per donee；qualifying gifts to non-U.S.-citizen spouse annual exclusion $194,000。Form 706 常规 due date death 后 9 months，Form 4768 可申请适用的 6-month filing extension；低于 $15m 的 estate 仍可能为 portability 提交 Form 706，符合 Rev. Proc. 2022-32 且原本无 filing requirement 的 late portability estate 可在 death fifth anniversary 前使用 simplified relief。
+
 
 ## 本轮收尾与后续核验
 
