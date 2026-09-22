@@ -42,8 +42,13 @@
 
 - [ ] 核对最后工资、奖金、未付款项与费用报销。
 - [ ] 查询人寿、意外死亡及伤残保险、退休计划、养老金与遗属医疗保障。
+- [ ] 对 IRA、401(k)、403(b) 等退休账户，先确认 beneficiary designation、owner death date、owner 是否已到 required beginning date，以及 beneficiary 类型；不要只把账户“转成 inherited IRA”就认为后续税务已经完成。
+- [ ] 如果逝者当年原本已有 RMD，确认 death-year RMD 是否尚未完成，以及应由谁在何时补足。
+- [ ] 对 inherited IRA / plan，书面确认适用的是 spouse option、eligible designated beneficiary life-expectancy route、10-year rule 或其他 plan-specific rule；特别确认第 1–9 年是否仍有 annual RMD，不能只记住“第十年清空”。
 - [ ] 确认健康储蓄／灵活支出账户、股权及递延报酬处理。
 - [ ] 记录每项申请截止日与生效条件，依法归还公司财物。
+
+**退休账户直接核对：** [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [IRS：Required Minimum Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS Publication 590-B](https://www.irs.gov/publications/p590b)。
 
 ## 保险
 
@@ -111,4 +116,4 @@
 
 
 
-模板校订：2026-09-21
+模板校订与动态规则核验：2026-09-21
