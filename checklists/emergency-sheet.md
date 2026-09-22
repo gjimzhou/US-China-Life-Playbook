@@ -40,6 +40,8 @@
 - 汽车、住房或租客险理赔：______
 - 超额责任险联系入口：______
 
+**官方急救 / 安全入口：** [911.gov](https://www.911.gov/calling-911/) · [Poison Control](https://www.poison.org/) · [USFA：Smoke Alarms](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [NAIC：State Insurance Departments](https://content.naic.org/state-insurance-departments)。
+
 ## 专业人士
 
 - 注册会计师或税务专业人士：______
@@ -48,6 +50,8 @@
 - 保险经纪：______
 - 银行或证券机构官方反欺诈电话：______
 
+**专业入口：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS：Choosing a Tax Professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [SEC IAPD](https://adviserinfo.sec.gov/)。
+
 ## 中国现场支援
 
 - 医疗急救：**120**；具体所在地其他紧急入口：______
@@ -55,6 +59,8 @@
 - 医院、物业及家务联系人：______
 - 当地政务服务渠道：______
 - 银行官方挂失与反欺诈入口：______
+
+**中国官方入口：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [国家卫健委：机构 / 医师查询](https://www.nhc.gov.cn/wjw/sjcx/sjcx.shtml) · [全国 12315 平台](https://www.12315.cn/)。
 
 ## 只记文件位置
 
@@ -83,6 +89,8 @@
 私人副本负责人：______　内容核对日期：______　备用存放位置：______
 
 每年至少复查一次；搬家、婚姻变化、新生儿、重大诊断、用药、保险、居住国或法律文件变化后及时更新。
+
+**更新时可顺手核验：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [Ready.gov：Make a Plan](https://www.ready.gov/plan)。
 
 
 
