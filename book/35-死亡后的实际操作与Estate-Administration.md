@@ -32,13 +32,13 @@
 
 ## 5. 确认社会保障署已收到死亡报告
 
-[SSA说明](https://www.ssa.gov/personal-record/when-someone-dies)指出殡葬机构通常报告死亡；若没有参与或未报告，应联系 SSA。境外情形另有联邦福利部门或使领馆入口。请确认实际已报告，不根据“通常如此”省略核对。
+SSA 说明指出殡葬机构通常报告死亡；若没有参与或未报告，应联系 SSA。境外情形另有联邦福利部门或使领馆入口。请确认实际已报告，不根据“通常如此”省略核对。
 
 **直接联系：** [SSA：What to do when someone dies](https://www.ssa.gov/personal-record/when-someone-dies)；页面列出美国境内电话、境外 Federal Benefits Unit / International Call Center，以及美国公民在海外死亡时联系使领馆的提示。
 
 ## 6. 遗属福利资格另查
 
-[SSA遗属福利](https://www.ssa.gov/survivor)可能适用于符合条件的配偶、前配偶、子女或受供养父母，取决于工作记录与个人条件。死亡报告与福利申请不是同一件事，既有福利如何转换也应向 SSA 确认。
+SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受供养父母，取决于工作记录与个人条件。死亡报告与福利申请不是同一件事，既有福利如何转换也应向 SSA 确认。
 
 **查资格：** [SSA：Survivor Benefits](https://www.ssa.gov/survivor) · [SSA：Who can get Survivor benefits](https://www.ssa.gov/survivor/eligibility)。
 
@@ -98,7 +98,7 @@
 
 ## 16. 确认最终个人所得税申报义务
 
-由合适代表与税务人士核对死亡年度及以前漏报年度是否需要申报、谁签字及如何支付或申领退税。[IRS最终个人申报说明](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person)提供入口；不要以身故为由认为所有税务自动结束。
+由合适代表与税务人士核对死亡年度及以前漏报年度是否需要申报、谁签字及如何支付或申领退税。不要以身故为由认为所有税务自动结束。
 
 **税务入口：** [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person) · [IRS：File the final income tax returns of a deceased person](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person) · [IRS Publication 559](https://www.irs.gov/publications/p559)。
 
