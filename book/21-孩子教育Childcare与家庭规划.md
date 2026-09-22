@@ -46,6 +46,8 @@
 
 可以是家长分工、亲友或合适服务，但必须先征得对方同意；备用安排不能突破孩子的安全和照护需要。
 
+**找备用照护：** [ChildCare.gov：Child Care Search](https://childcare.gov/state-resource-type/child-care-search) · [Child Care Licensing](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing)。临时 / backup care 是否接病童、是否 licensed、能否 same-day 仍直接问实际 provider。
+
 ## 7. 雇保姆也是雇佣问题
 
 直接控制工作内容和做法的家庭雇佣，可能涉及雇员分类、工资税和劳动法。通过支付应用付款或合同写“独立承包人”，不能单独决定法律身份。
@@ -106,11 +108,15 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 不要未经分析就让未成年人直接承接复杂资产，具体结构见[第 10 章](10-Estate-Planning与失能.md)。
 
+**准备 / 找律师：** [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。监护与未成年人资产管理依州法。
+
 ## 15. 养育与管钱可以是不同职责
 
 讨论候选监护人和资产管理人的意愿、居住地、能力及备用人，了解法院及当地法律的作用。亲属口头答应不等于所有手续已经完成。
 
 跨国候选安排还要考虑孩子身份、旅行、学校和实际照护能力。
+
+**本项目实务建议：** “谁养育孩子”和“谁管理孩子资产”可以分别设计，但法律效力由州法院 / estate documents 决定；跨国候选再结合 [State Department：Children’s Issues](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html)与目的地身份 / 旅行要求专项核对。
 
 ## 16. 祖父母协助也要有边界
 
@@ -118,11 +124,15 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 对喂养、睡眠和纪律存在分歧时，提前与儿科医生或合适人员讨论，不把代际冲突留到疲惫的夜间处理。
 
+**本项目实务建议：** 祖父母协助属于家庭协作，不存在全国统一“应帮多少”的标准；安全座椅、医疗和接送仍按 [NHTSA child passenger safety](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats)及机构授权要求执行。
+
 ## 17. 双语目标按家庭实际安排
 
 如果希望孩子维持两种语言，可安排日常交流、阅读、亲友互动与适合的活动。结合孩子需要和家庭时间逐步调整，不把某一种语言分工作为必达标准。
 
 语言或发育有疑虑时咨询专业人士，不凭单次表现或其他孩子的进度作判断。
+
+**继续看：** [ASHA：Learning More Than One Language](https://www.asha.org/public/speech/development/learning-more-than-one-language/) · [CDC：Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)。双语本身不应被简单当作发育问题；有疑虑时看整体发育并咨询儿科 / speech-language 专业人士。
 
 ## 18. 住房决定前确认学校分配
 
@@ -138,15 +148,21 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 问清额外费用、退出或退费条款及长期预算，避免只看第一年学费。
 
+**找学校 / 支持入口：** [NCES School Search](https://nces.ed.gov/globallocator/) · [U.S. Department of Education：IDEA](https://sites.ed.gov/idea/) · [Office for Civil Rights：Section 504](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination)。具体招生、support services 与费用以学校 / 学区材料为准。
+
 ## 20. 托育预算算上间断与附加成本
 
 除常规学费或工资外，计算备用照护、假期、夏令营、接送、雇佣税费和临时延时。明确哪些支出不可随时取消。
 
 用可持续的安排覆盖实际工作时间，而不是默认家长能无限补上所有缺口。
 
+**费用 / 税务入口：** [ChildCare.gov：State Resources](https://childcare.gov/state-resources-home) · [IRS Publication 503 — Child and Dependent Care Expenses](https://www.irs.gov/publications/p503) · [IRS Publication 926](https://www.irs.gov/publications/p926)（直接雇家庭雇员时）。
+
 ## 21. 共享日历记录共同责任
 
 放入学校关闭、接送、医疗、照护排班、家长出差和关键报名期限。为每项注明负责人和替补，不把所有提醒默认发给同一个人。
+
+**本项目实务建议：** 共享日历只记录共同执行需要，不要求把私人医疗或账户细节全部放进去；重点是 owner + backup + deadline。
 
 ## 22. 儿童应急表与接送授权分开核对
 
@@ -154,11 +170,15 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 应急表不自动赋予医疗或监护权，正式授权按当地规则完成。
 
+**应急参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [Poison Control](https://www.poison.org/)；接送与医疗同意的法律效力按学校 / childcare policy 与所在地规则确认。
+
 ## 23. 从小保护孩子隐私
 
 与家人约定照片、实时位置、学校和健康信息的分享范围。避免将完整姓名、出生日期、证件和住址组合公开。
 
 向服务机构提供所需资料时，核对收集目的和安全渠道；随着孩子成长让其参与隐私决定。
+
+**隐私参考：** [FTC：Protecting Kids Online](https://consumer.ftc.gov/identity-theft-and-online-security/protecting-kids-online) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
 
 ## 24. 最小执行集与核验范围
 
@@ -167,5 +187,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 - [ ] 休假、参保和福利期限有负责人。
 - [ ] 儿科、安全座椅、监护与财务安排已讨论。
 - [ ] 学校、预算、共享日历与儿童隐私相互配合。
+
+**入口汇总：** [ChildCare.gov](https://www.childcare.gov/) · [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA Child Passenger Safety](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NCES](https://nces.ed.gov/) · [CDC Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)。
 
 最后编辑与来源核验：2026-09-21。已重新核对 ChildCare.gov 当前可访问的 licensing、background checks、monitoring / inspections 与 provider-selection 页面，以及 CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、HealthCare.gov 新生儿特别参保、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。
