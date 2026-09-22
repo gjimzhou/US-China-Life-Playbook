@@ -1,5 +1,15 @@
 # 变更日志（Changelog）
 
+## 2026-09-22 — 自动 EPUB / PDF / 电子书导出
+
+- 新增网站一级“下载 / 导出”入口与 `DOWNLOADS.md`，回应 Kindle / EPUB 离线阅读需求。
+- Pages 每次发布同时生成 EPUB、PDF、DOCX、单文件 HTML、单文件 Markdown 与完整 Markdown source ZIP；各格式来自同一份 reader-edition 合并源，避免网站和电子书版本漂移。
+- reader edition 包含主页、免责声明、40章正文、全部执行清单、术语表、方法论与来源原则；仓库维护日志不塞进阅读正文，source ZIP 另保留原 Markdown 结构。
+- 导出脚本重写章节间相对链接为电子书内部锚点，并生成 manifest、SHA-256 校验文件。
+- CI 在 Pages deploy 前检查导出文件存在性；EPUB / DOCX 还做 ZIP 容器完整性检查，PDF 检查文件签名。
+- Kindle 页面优先推荐 EPUB；Amazon 当前 Send to Kindle 支持 EPUB、PDF、DOCX、HTML 等个人文档格式。
+
+
 ## 2026-09-22 — 第三波生活事件盲区
 
 - 再新增4份事件型清单，当前总数29份：工伤／职业病与请假、药物获取失败、Jury summons／subpoena／法院通知、USCIS RFE／biometrics／interview／NOID 等 notice。
