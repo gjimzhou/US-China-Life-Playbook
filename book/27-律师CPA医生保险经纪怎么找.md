@@ -18,7 +18,7 @@
 
 ## 3. 律师：问类似问题、执行人员和交付
 
-准备事件摘要与材料目录，先询问初次咨询是否收费、能否接案及利益冲突核查所需信息。[FTC 聘请律师指引](https://consumer.ftc.gov/articles/hiring-lawyer)建议询问经验、实际经办人员、费用与时间，并取得书面约定。
+准备事件摘要与材料目录，先询问初次咨询是否收费、能否接案及利益冲突核查所需信息。FTC 聘请律师指引建议询问经验、实际经办人员、费用与时间，并取得书面约定。
 
 **继续看：** [FTC：Hiring a Lawyer](https://consumer.ftc.gov/articles/hiring-lawyer) · [ABA：Find Legal Help / Lawyer Referral](https://www.americanbar.org/groups/legal_services/flh-home/)。
 
@@ -26,7 +26,7 @@
 
 ## 4. 律师转介目录是起点
 
-从[ABA 州与地方律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)找到所在地区入口，再向该州负责律师执业管理的机构核对姓名、执业状态及可公开的纪律记录。律师协会会员身份、搜索广告和执照有效都不能单独证明该律师擅长你的问题。
+从 ABA 州与地方律师转介目录找到所在地区入口，再向该州负责律师执业管理的机构核对姓名、执业状态及可公开的纪律记录。律师协会会员身份、搜索广告和执照有效都不能单独证明该律师擅长你的问题。
 
 **查资格：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [ABA：State Bar Associations](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。
 
@@ -48,7 +48,7 @@
 
 工资奖金、股权、合伙企业、出租房、多州、跨境或税务争议所需经验不同。询问近期处理过哪些相近事项、哪些需转介，不要求披露其他客户资料。
 
-[IRS 税务专业人士选择入口](https://www.irs.gov/tax-professionals/choosing-a-tax-professional)说明可选人员包括 CPA、注册税务师（Enrolled agent，EA）、律师等。不要把“不是 CPA”直接等同于不能报税，也不要把 CPA 头衔等同于精通跨境税。
+IRS 税务专业人士选择指南说明可选人员包括 CPA、注册税务师（Enrolled agent，EA）、律师等。不要把“不是 CPA”直接等同于不能报税，也不要把 CPA 头衔等同于精通跨境税。
 
 **查税务专业人士：** [IRS：Directory of Federal Tax Return Preparers](https://irs.treasury.gov/rpo/rpo.jsf) · [IRS：Credentials and Qualifications](https://www.irs.gov/tax-professionals/understanding-tax-return-preparer-credentials-and-qualifications) · [IRS：Choosing a Tax Professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional)。
 
@@ -76,7 +76,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 ## 11. 医生：先确认专业和接诊条件
 
-确认专科是否对应问题、是否接收新患者、所需转诊、具体保险计划、预约时间和病历传递方式。[州医学委员会联合会的目录](https://www.fsmb.org/contact-a-state-medical-board/)可定位各州主管机构，进一步查执照和公开记录。专科认证、保险网络与州执照是不同事项，需要分别确认。
+确认专科是否对应问题、是否接收新患者、所需转诊、具体保险计划、预约时间和病历传递方式。州医学委员会联合会的目录可定位各州主管机构，进一步查执照和公开记录。专科认证、保险网络与州执照是不同事项，需要分别确认。
 
 **查医生：** [FSMB：Contact a State Medical Board](https://www.fsmb.org/contact-a-state-medical-board/) · [DocInfo：Physician license / disciplinary information](https://www.docinfo.org/) · [Medicare Care Compare：Doctors & Clinicians](https://www.medicare.gov/care-compare/?providerType=Physician)。
 
@@ -102,7 +102,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 ## 15. 保险：先列风险再问产品
 
-说明住房用途、车辆、个人责任、贵重物品和家庭雇员等适用情况，询问代理或经纪承接哪些险种、哪些不在其服务范围。[NAIC 州保险部门目录](https://content.naic.org/state-insurance-departments)可定位监管入口，按州核验所需执照与授权。
+说明住房用途、车辆、个人责任、贵重物品和家庭雇员等适用情况，询问代理或经纪承接哪些险种、哪些不在其服务范围。NAIC 州保险部门目录可定位监管入口，按州核验所需执照与授权。
 
 **查资格 / 投诉：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments) · [NIPR：Licensing Center](https://nipr.com/licensing-center) · [NAIC：Insurance Complaints](https://content.naic.org/consumer/insurance-complaints)。
 
@@ -122,7 +122,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 ## 18. 金融服务：核对本人、公司和披露记录
 
-使用[FINRA BrokerCheck](https://brokercheck.finra.org/)和[SEC 投资顾问公开查询](https://adviserinfo.sec.gov/)，核对姓名、注册编号、所属机构和监管披露。入口用途可参照[Investor.gov 的核验说明](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
+使用下方 FINRA / SEC / Investor.gov 入口，核对姓名、注册编号、所属机构和监管披露。
 
 **直接核验：** [FINRA BrokerCheck](https://brokercheck.finra.org/) · [SEC IAPD](https://adviserinfo.sec.gov/) · [Investor.gov：Check Out Your Investment Professional](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
 
