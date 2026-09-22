@@ -187,7 +187,7 @@ def build_formats(combined: Path, css: Path):
     OUT.mkdir(parents=True, exist_ok=True)
     shutil.copy2(combined, OUT / f"{BASENAME}.md")
     common = ["pandoc", str(combined), "--from=markdown+task_lists+pipe_tables+strikeout", "--toc", "--toc-depth=2", "--metadata", f"title={TITLE}", "--metadata", "lang=zh-CN"]
-    run(common + ["--css", str(css), "--epub-chapter-level=1", "-o", str(OUT / f"{BASENAME}.epub")])
+    run(common + ["--css", str(css), "--split-level=1", "-o", str(OUT / f"{BASENAME}.epub")])
     run(common + ["-o", str(OUT / f"{BASENAME}.docx")])
     run(common + ["--standalone", "--embed-resources", "--css", str(css), "-o", str(OUT / f"{BASENAME}.html")])
     run(common + ["--pdf-engine=weasyprint", "--css", str(css), "-o", str(OUT / f"{BASENAME}.pdf")])
