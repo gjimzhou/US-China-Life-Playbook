@@ -120,7 +120,7 @@
 
 美国海关的个人物品登记表（Form 4457）可用于符合条件、有序列号或其他永久独特标记的外国来源物品。法规要求向海关人员出示物品与未签名表格办理核验；不是自行填表就完成登记。出发前向办理口岸确认安排。
 
-**直接办理 / 原文：** [CBP Form 4457 — Certificate of Registration for Personal Effects Taken Abroad](https://www.cbp.gov/sites/default/files/2024-06/cbp_form_4457.pdf) · [19 CFR 148.1](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1)。办理前向实际 CBP port 确认地点、时间和是否需预约。
+**直接办理 / 原文：** [CBP：Form 4457 官方 landing page](https://www.cbp.gov/document/forms/form-4457-certificate-registration-personal-effects-taken-abroad?language_content_entity=en)（页面内提供当前 PDF） · [CBP：Registration for Dutiable Personal Articles Prior to U.S. Departure](https://www.help.cbp.gov/s/article/Article1833) · [19 CFR 148.1](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1)。当前 CBP 说明要求出发前把物品带到 CBP office，由 officer 核对并签署；表格本身不是自行下载、填完就生效。办理前向实际 CBP port 确认地点、时间和是否需预约。
 
 ---
 
@@ -304,6 +304,6 @@
 
 ## 本轮核验范围与限制
 
-本轮已重新核对 CBP Form 4457、Customs Duty / duty-free / alcohol / prohibited-items 页面、19 CFR Part 148、NAIC valuables / home inventory / homeowners resources、IRS noncash-donation appraisal / Form 8283 入口，以及 Fish & Wildlife 的象牙 / wildlife-material 限制入口。各州酒类规则、中国海关要求、其他受保护材料、运输合同、个别 collection policy、拍卖 / 寄售合同与非慈善用途估价标准仍须逐项核验；本章不作真伪、市场价值或赔付保证。
+本轮已重新核对 CBP Form 4457 当前 landing page、2025-11-04 更新的个人物品出境前登记说明、Customs Duty / duty-free / alcohol / prohibited-items 页面、19 CFR Part 148、NAIC valuables / home inventory / homeowners resources、IRS noncash-donation appraisal / Form 8283 入口，以及 Fish & Wildlife 的象牙 / wildlife-material 限制入口。各州酒类规则、中国海关要求、其他受保护材料、运输合同、个别 collection policy、拍卖 / 寄售合同与非慈善用途估价标准仍须逐项核验；本章不作真伪、市场价值或赔付保证。
 
 最后编辑与来源查阅：2026-09-21
