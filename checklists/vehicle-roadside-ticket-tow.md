@@ -26,7 +26,7 @@
 - [ ] 需要争议时，查州／市 consumer protection、parking / towing regulator 或 small claims / court 程序。
 - [ ] 不在停车场与 tow operator 发生升级冲突。
 
-## Boot / wheel clamp
+## 车轮锁（Boot / Wheel Clamp）
 
 先查是谁加的 boot：city / parking authority、private operator、finance / repo-related entity 的处理路径不同。只用设备上的可核验官方／运营方渠道付款或申诉，警惕假 QR code。
 
