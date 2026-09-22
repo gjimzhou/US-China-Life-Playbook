@@ -118,7 +118,21 @@
 
 纸质通知未显示在网上，不足以判定其无效。争议金额大、涉及处罚或诉讼期限时，请合适的税务专业人士及时介入。
 
-**办事入口：** [IRS：Understanding your IRS notice or letter — 按通知编号查说明与下一步](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals)。
+如果要让 CPA、律师、Enrolled Agent（EA）或家人持续与 IRS 沟通，**不要只把财务 POA、报税软件授权或 IRS Online Account 密码交给对方。IRS 有自己的第三方授权体系：**
+
+| 需要 | 常用 IRS 授权 | 能做什么 | 不能误解成什么 |
+|---|---|---|---|
+| 让合资格专业人士代表本人处理指定税务事项 | **Form 2848 — Power of Attorney and Declaration of Representative** | 代表 taxpayer 与 IRS 交涉，并查看 / 接收列明事项和年度的 confidential tax information | 不是“任何家人都可凭普通 POA 自动代理”；named representative 一般须属于可在 IRS 执业的合资格类别 |
+| 只让第三方查看 / 收取指定税务信息 | **Form 8821 — Tax Information Authorization** | 指定任何符合要求的个人 / entity 查阅或接收列明税种、年度的信息 | **不能**替 taxpayer advocacy、谈判、签 agreement 或代表本人处理税务争议 |
+| 只在当次电话 / meeting 让旁人在场协助 | **Oral authorization** | IRS 完成身份核验后，可在那次 interaction 中讨论被允许的具体事项 | 通常只对该次 conversation 有效，不是长期 POA / TIA |
+
+**Joint return 也不是一张 2848 夫妻共用。** IRS 当前 Form 2848 instructions 明确：即使夫妻为同一 joint return、授权同一个 representative，也应**每位 spouse 单独提交 Form 2848**。
+
+提交方式也不只剩 fax / mail。符合条件的个人和 tax professional 可以用 **Tax Pro Account**做 limited matters / periods 的 all-digital authorization；Forms 2848 / 8821 也可通过 IRS secure online submission 上传。不要把本人 IRS username、password 或 MFA code 直接交给 preparer 代登录。
+
+真正操作时，把 notice number、tax form、tax period / year 和需要代理的事项写清，不要为了“以后省事”无边界授权所有税务年度。旧授权需要保留还是 revoke，也在提交前确认。
+
+**办事 / 授权入口：** [IRS：Understanding your IRS notice or letter](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：About Form 2848](https://www.irs.gov/forms-pubs/about-form-2848) · [IRS：Form 8821 / disclosure authorization overview](https://www.irs.gov/taxtopics/tc312) · [IRS：Submit POA / Tax Information Authorizations](https://www.irs.gov/submit-power-of-attorney-and-tax-information-authorizations) · [IRS：Submit Forms 2848 and 8821 Online](https://www.irs.gov/tax-professionals/submit-forms-2848-and-8821-online)。
 
 ## 16. 两州申报不等于一定重复付完整税款
 
@@ -163,7 +177,8 @@
 - [ ] 居住日、工作地及搬家记录可追溯。
 - [ ] 境外账户、权益和签字权限已完整告知报税专业人士。
 - [ ] 重大交易与境外工作提前评估，税务通知有负责人和期限。
+- [ ] 需要第三方持续与 IRS 沟通时，已区分 Form 2848（representation）与 Form 8821（information only），没有共享 IRS 登录密码。
 
 **入口汇总：** [IRS Publication 505](https://www.irs.gov/publications/p505) · [Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 Publication 505：2026 estimated-tax 一般 due dates 为 4/15、6/15、9/15、2027/1/15，safe-harbor 仍按 90% current-year / 100% prior-year（高收入者通常 110% prior-year）框架。IRS 当前 Form 2210 instructions 页面仍为 2025 版，因此正文明确只借其 penalty / annualized-income 机制，不把它当 2026 数字来源。另核对纽约州居民定义与远程工作资料，以及 FinCEN FBAR 入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 Publication 505：2026 estimated-tax 一般 due dates 为 4/15、6/15、9/15、2027/1/15，safe-harbor 仍按 90% current-year / 100% prior-year（高收入者通常 110% prior-year）框架。IRS 当前 Form 2210 instructions 页面仍为 2025 版，因此正文明确只借其 penalty / annualized-income 机制，不把它当 2026 数字来源。新增 IRS third-party authorization：Form 2848 用于合资格 representative 的税务代理，Form 8821 只授权 inspect / receive tax information，oral authorization 通常仅限当次 interaction；joint-return spouses 即使授权同一代表也各自提交 Form 2848。另核对 IRS online submission / Tax Pro Account、纽约州居民定义与远程工作资料，以及 FinCEN FBAR 入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
