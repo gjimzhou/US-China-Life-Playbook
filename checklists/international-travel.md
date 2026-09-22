@@ -30,9 +30,14 @@
 ## 出发前再次确认
 
 - [ ] 机票姓名与证件一致，确认行李、接送和住宿地址。
+- [ ] Lawful permanent resident（绿卡持有人）如计划长期离境，分别确认：返美 travel document、是否需要 reentry permit、abandonment 风险、naturalization continuous-residence / physical-presence 影响；不要用“每 6 个月回来一次”替代分析。
+- [ ] 如果预计连续离美超过 1 年，出发前核对 Form I-131 / reentry permit；不要假设人在国外后还能补办同样的申请流程。
+- [ ] 如未来计划 naturalization，任何单次 >6 months absence 都应记录支持 continuous residence 的真实事实；≥1 year absence 另核对是否打断 continuous residence，以及本人是否属于可用 Form N-470 的特殊情形。
 - [ ] 核对天气与安全通知，保存必要离线路线。
 - [ ] 测试漫游或电话卡、账户认证及恢复在境外是否可用。
 - [ ] 安排住所、邮件、宠物及家人照护，确定谁能处理限期通知。
+
+**绿卡 / 入籍入口：** [USCIS：International Travel as a Permanent Resident](https://www.uscis.gov/green-card/after-we-grant-your-green-card/international-travel-as-a-permanent-resident) · [USCIS：Form I-131](https://www.uscis.gov/i-131) · [USCIS：Continuous Residence and Physical Presence](https://www.uscis.gov/citizenship/continuous-residence-and-physical-presence-requirements-for-naturalization) · [USCIS：Form N-470](https://www.uscis.gov/n-470)。
 
 ## 关键随身物品
 
@@ -81,4 +86,4 @@
 
 
 
-模板校订：2026-09-21
+模板校订与动态规则核验：2026-09-21
