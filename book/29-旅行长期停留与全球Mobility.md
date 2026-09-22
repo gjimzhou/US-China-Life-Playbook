@@ -103,7 +103,16 @@
 
 信用卡权益可能只覆盖部分项目。把支付方式、报案期限和实际受保对象写下来，不只比较最高金额。
 
-**航空纠纷入口：** [美国交通部：Airline Refunds](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds) · [DOT：Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。适用于美国航空消费者规则的航班时，可用这些页面核对退款、行李和投诉；其他国家另查当地监管制度。
+对适用美国 DOT 退款规则的 flights to, from, or within the United States，当前几个最实用的硬规则是：
+
+- **Flight cancelled / significantly changed：** 如果 passenger 不接受继续旅行、rebooking、voucher 或其他替代补偿，可以进入 cash / original-form-of-payment refund 路径。DOT 当前把 significant schedule change 的时间阈值定义为：domestic itinerary 提前出发或延迟到达 **3 小时或以上**；international itinerary **6 小时或以上**。改变 origin / destination airport、增加 connection、involuntary downgrade 等也可能构成 significant change。
+- **Refund timing：** refund 成为应付后，credit-card purchase 通常应在 **7 个营业日**内退；cash、check、debit card 等其他支付方式通常在 **20 个日历日**内退。DOT 某些 consumer FAQ 文案曾出现 “20 business days” 的不一致措辞，但 14 CFR / final rule 对“prompt refund”的正式定义是 **20 calendar days** for non-credit-card payments。
+- **Checked baggage fee：** 先向 airline 提交 mishandled baggage report（MBR）。如果 checked bag 未在 domestic arrival 后 **12 小时**内交付，或 international flight segment ≤12h 时在 **15 小时**内、>12h 时在 **30 小时**内交付，DOT 当前把它视为 significantly delayed，符合条件的 checked-bag fee 应自动退款；这不等于 bag 已被正式 declare lost，也不代替 delayed-baggage expense claim。
+- **Ancillary service：** 已付费但未实际提供的适用 ancillary service（例如某些 seat selection、Wi‑Fi 等）也可能触发 fee refund。
+
+**2026 特殊动态：** DOT 于 2026-07-08 延长一项 enforcement discretion 至 **2027-07-07**：如果只是 airline renumbered a flight，但 passenger 已被重新订到新 flight number，且实际运行没有其他 significant change / delay，DOT 暂不因“单纯 flight-number change”而执行原规则下的 automatic-refund requirement。不要把这项窄例外理解为普遍取消退款规则。
+
+**航空纠纷入口：** [DOT：Refunds — current consumer rules](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds) · [DOT：Ticket Refunds — rules / 2026 guidance index](https://www.transportation.gov/airconsumer/ticket-refunds) · [DOT：Lost, Delayed, or Damaged Baggage](https://www.transportation.gov/lost-delayed-or-damaged-baggage) · [DOT：Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。其他国家另查当地监管制度。
 
 ## 16. 租车车损与对他人责任分开
 
@@ -175,4 +184,4 @@
 
 **入口汇总：** [State Department Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC Travelers’ Health](https://wwwnc.cdc.gov/travel/) · [TSA What Can I Bring?](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [STEP](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [DOT Air Consumer](https://www.transportation.gov/airconsumer)。详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
 
-最后编辑与来源核验：2026-09-21。已重新核对国务院当前 International Travel Checklist、Planning / STEP / lost-passport / driving / insurance / health-abroad 入口，CDC Travelers’ Health destination 与携药页面、TSA 携带物品 / 医疗安检，以及美国交通部航空退款与消费者保护入口。具体目的地入境、过境、药品、工作许可、保险合同、航空公司规则和当地交通法规仍须按实际国籍、日期与行程逐项核验。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 DOT 当前退款规则：适用航班 significant schedule change 的核心时间阈值仍为 domestic 3h / international 6h；prompt refund 正式规则为 credit-card 7 business days、other payment methods 20 calendar days；checked-bag fee 的 significant-delay thresholds 为 domestic 12h、international 15h（≤12h flight segment）/ 30h（>12h）。同时记录 DOT 2026-07-08 至 2027-07-07 的 narrow enforcement discretion：单纯 renumbered flight、已 rebook 且无其他 significant change / delay 时暂不执行该自动退款要求。另核对国务院 International Travel Checklist / STEP / lost-passport / driving / insurance / health-abroad、CDC Travelers’ Health 与携药、TSA 携带物品 / 医疗安检。具体目的地入境、过境、药品、工作许可、保险合同、航空公司自愿服务和当地交通法规仍须按实际国籍、日期与行程逐项核验。
