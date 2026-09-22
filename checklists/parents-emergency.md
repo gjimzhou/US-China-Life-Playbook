@@ -59,6 +59,15 @@
 | 照看住所与宠物 |  |  |  |
 | 办理账单和保险 |  |  |  |
 
+## 美国 Medicare / 长期照护分流（如适用）
+
+- [ ] 接近 65 岁时已记录 Medicare Initial Enrollment Period，以及是否因本人 / 配偶 current-employment coverage 可延后 Part B。
+- [ ] 如发生住院后 rehab，确认是否符合 Medicare skilled nursing facility（SNF）条件、benefit period 和剩余 covered days。
+- [ ] 不把 Medicare SNF benefit 当成长期养老院保障；如预计长期需要 ADL / custodial care，单独确认 private pay、long-term care insurance、Medicaid 或其他实际付款来源。
+- [ ] 跨境长期居住时，不假定 Medicare 会报销中国医疗或长期照护。
+
+**直接核对：** [Medicare：When does coverage start?](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [Medicare：Skilled Nursing Facility care](https://www.medicare.gov/coverage/skilled-nursing-facility-care) · [Medicare：Long-term care](https://www.medicare.gov/coverage/long-term-care) · [Medicare：Travel outside the U.S.](https://www.medicare.gov/coverage/travel-outside-the-u.s.) · [Medicaid：Nursing Facilities](https://www.medicaid.gov/medicaid/long-term-services-supports/institutional-long-term-care/nursing-facilities)。
+
 ## 海外子女返程
 
 - 入境所需文件与可行路线：______
@@ -85,4 +94,4 @@
 
 
 
-模板校订：2026-09-21
+模板校订与动态规则核验：2026-09-21
