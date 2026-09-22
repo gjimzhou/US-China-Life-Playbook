@@ -216,7 +216,15 @@ Section 504 不是“轻量版 IEP”。美国教育部说明，学校应基于�
 
 **官方原文：** [IDEA §300.301](https://sites.ed.gov/idea/regs/b/d/300.301) · [IDEA §300.504](https://sites.ed.gov/idea/regs/b/e/300.504) · [IDEA §300.502](https://sites.ed.gov/idea/regs/b/e/300.502) · [U.S. Department of Education：Section 504 FAPE FAQ](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
 
-## 26. 最小执行集与核验范围
+## 26. 家庭规划也包括怀孕、妊娠丢失和生产
+
+验孕阳性后要尽快建立产科入口、核对长期用药、保险 network / delivery facility 和工作福利；孕期或生产后一年内出现严重或异常症状时，要主动告诉医疗人员“正在怀孕／过去一年内怀孕过”。
+
+怀疑 miscarriage 时，出血、腹痛或组织排出需要由产科判断；不能靠一次家庭验孕或症状自行确认是否已经流产。生产后也不能只关注婴儿，母体的出血、呼吸、血压、感染和心理状态仍需要持续 follow-up。
+
+**完整清单：** [怀孕、妊娠丢失与生产](../checklists/pregnancy-birth-loss.md) · [CDC Hear Her：Urgent Maternal Warning Signs](https://www.cdc.gov/hearher/maternal-warning-signs/index.html) · [ACOG：Early Pregnancy Loss](https://www.acog.org/womens-health/faqs/early-pregnancy-loss)。
+
+## 27. 最小执行集与核验范围
 
 - [ ] 托育资格、检查记录和具体操作已核对。
 - [ ] 备用照护与接送授权可执行。
