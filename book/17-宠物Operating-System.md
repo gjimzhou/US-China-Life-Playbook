@@ -88,7 +88,7 @@
 
 把药物、清洁剂、杀虫剂及可能有毒的植物或食物放到动物无法接触处。不同物种的毒性不同，不能把猫狗或人类经验互相套用。
 
-美国可联系 [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control)，电话 **888-426-4435**，提供全天服务，可能收费。准备动物体重、接触物、时间、可能剂量和包装；同时按需要联系急诊兽医，不自行催吐或用偏方。
+美国可联系 ASPCA Animal Poison Control，电话 **888-426-4435**，提供全天服务，可能收费。准备动物体重、接触物、时间、可能剂量和包装；同时按需要联系急诊兽医，不自行催吐或用偏方。
 
 **直接入口：** [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)。
 
@@ -130,7 +130,7 @@
 
 ## 17. 出发前就检查回程
 
-入境美国的犬只应查 [CDC 犬只入境入口](https://www.cdc.gov/importation/dogs/index.html)：规则取决于入境前六个月去过的国家及狂犬病疫苗等情况，还可能涉及 USDA 和目的州要求。不要把犬只规则直接套用猫或其他动物。
+入境美国的犬只规则取决于入境前六个月去过的国家及狂犬病疫苗等情况，还可能涉及 USDA 和目的州要求。不要把犬只规则直接套用猫或其他动物。
 
 **回美国前重新核对：** [CDC：Dogs Entering the United States](https://www.cdc.gov/importation/dogs/index.html) · [USDA APHIS：Bring a Pet Into the U.S.](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import) · [APHIS：State-to-State Pet Travel](https://www.aphis.usda.gov/pet-travel/state-to-state)。
 
