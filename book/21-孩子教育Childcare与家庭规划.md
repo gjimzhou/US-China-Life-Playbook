@@ -140,7 +140,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 语言或发育有疑虑时咨询专业人士，不凭单次表现或其他孩子的进度作判断。
 
-**继续看：** [ASHA：Learning More Than One Language](https://www.asha.org/public/speech/development/learning-more-than-one-language/) · [CDC：Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)。双语本身不应被简单当作发育问题；有疑虑时看整体发育并咨询儿科 / speech-language 专业人士。
+**继续看：** [ASHA：Learning More Than One Language](https://www.asha.org/public/speech/development/learning-more-than-one-language/) · [CDC：Developmental Milestones](https://www.cdc.gov/act-early/milestones/index.html)。双语本身不应被简单当作发育问题；有疑虑时看整体发育并咨询儿科 / speech-language 专业人士。
 
 ## 18. 住房决定前确认学校分配
 
@@ -228,6 +228,6 @@ Section 504 不是“轻量版 IEP”。美国教育部说明，学校应基于�
 - [ ] 儿科、安全座椅、监护与财务安排已讨论。
 - [ ] 学校、预算、共享日历与儿童隐私相互配合。
 
-**入口汇总：** [ChildCare.gov](https://www.childcare.gov/) · [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA Child Passenger Safety](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NCES](https://nces.ed.gov/) · [CDC Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)。
+**入口汇总：** [ChildCare.gov](https://www.childcare.gov/) · [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA Child Passenger Safety](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NCES](https://nces.ed.gov/) · [CDC Developmental Milestones](https://www.cdc.gov/act-early/milestones/index.html)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对 2026 dependent-care tax changes：DCAP / dependent-care FSA federal exclusion 已提高到 $7,500（MFS $3,750）；Child and Dependent Care Credit 的 qualifying-expense cap 仍为 $3,000 / $6,000，但 2026 maximum credit rate 提高到 50%。同时重新核对 newborn / adoption health-plan special enrollment：job-based HIPAA plans 至少 30-day request window，coverage 可自 birth / adoption / placement date 生效；Marketplace 通常 60-day SEP，也可从 event date 起 coverage。IRS 当前 Publication 503 仍是 2025 revision，正文已明确不能拿其中 $5,000 上限覆盖 2026。另核对 ChildCare.gov licensing / background checks / monitoring / inspections / provider-selection、CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。

@@ -32,7 +32,7 @@
 
 **查美国药品正式标签：** [药品标签数据库（DailyMed）](https://dailymed.nlm.nih.gov/dailymed/)可按药名查询 向美国食品药品监督管理局（FDA）提交的处方药／非处方药标签信息，包括剂型、成分、警示与储存条件；它用于核对标签，不替代医生或药师的个体用药建议。
 
-**用药清单参考：** [FDA：个人用药记录表](https://www.fda.gov/drugs/resources-you-drugs/my-medicine-record-keeper) · [美国国家医学图书馆：药物知识](https://medlineplus.gov/medicines.html)。
+**用药清单参考：** [FDA：个人用药记录表](https://www.fda.gov/media/73856/download) · [美国国家医学图书馆：药物知识](https://medlineplus.gov/medicines.html)。
 
 ## 3. 不要只依赖医院患者平台
 
@@ -133,7 +133,7 @@
 
 手机没电、没有网络或本人无法表达时，授权的家人应能找到过敏、关键药物、重要疾病、医疗代理文件及保险信息。随身卡只保留急救所需信息，完整病历放在受保护的位置。
 
-**应急准备参考：** [美国应急准备网站：制定计划](https://www.ready.gov/plan) · [FDA：个人用药记录表](https://www.fda.gov/drugs/resources-you-drugs/my-medicine-record-keeper)。
+**应急准备参考：** [美国应急准备网站：制定计划](https://www.ready.gov/plan) · [FDA：个人用药记录表](https://www.fda.gov/media/73856/download)。
 
 ## 16. 决策权限与信息权限分别确认
 
@@ -149,7 +149,7 @@
 
 在父母知情及授权的前提下，整理慢性病、用药、常用医院与医生、最近住院、影像和医保信息。让现场照护者与远程家人使用同一份更新记录，减少互相转述造成的错误。
 
-**照护参考：** [美国国家老龄研究所（NIA）：照护资源](https://www.nia.nih.gov/health/caregiving) · [FDA：个人用药记录表](https://www.fda.gov/drugs/resources-you-drugs/my-medicine-record-keeper)。中国侧病历 / 医保入口见第05章。
+**照护参考：** [美国国家老龄研究所（NIA）：照护资源](https://www.nia.nih.gov/health/caregiving) · [FDA：个人用药记录表](https://www.fda.gov/media/73856/download)。中国侧病历 / 医保入口见第05章。
 
 ## 18. 医疗档案采用受保护的存储方式
 
@@ -163,7 +163,7 @@
 
 由患者与医生或药师核对用药，避免把不同就诊记录中的重复项目直接合并。
 
-**复查入口：** [CDC：成人接种安排](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [FDA：个人用药记录表](https://www.fda.gov/drugs/resources-you-drugs/my-medicine-record-keeper) · [HHS：病历获取](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。
+**复查入口：** [CDC：成人接种安排](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [FDA：个人用药记录表](https://www.fda.gov/media/73856/download) · [HHS：病历获取](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。
 
 ## 20. 药突然拿不到时，先分清是缺货、保险、处方还是法规问题
 

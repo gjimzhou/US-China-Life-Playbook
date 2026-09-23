@@ -18,3 +18,10 @@ for path, doc in lookup.items():
 paths = export_paths(); maps = build_anchor_maps(paths)
 for path in paths: transform_doc(path, set(paths), maps)
 print('Frozen legacy routes and every offline Markdown destination passed')
+
+# A terminal dot belongs to this real Medicare URL, not sentence punctuation.
+from check_external_links import collect_links
+links = collect_links()
+assert 'https://www.medicare.gov/coverage/travel-outside-the-u.s.' in links
+assert 'https://www.medicare.gov/coverage/travel-outside-the-u.s' not in links
+print('External URL punctuation preserved')

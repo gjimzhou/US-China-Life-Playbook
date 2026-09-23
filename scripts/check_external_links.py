@@ -59,7 +59,7 @@ def collect_links() -> dict[str, list[str]]:
         rel = path.relative_to(ROOT).as_posix()
         text = path.read_text(encoding="utf-8")
         for url in MARKDOWN_LINK.findall(text):
-            url = url.rstrip(".,;")
+            # Markdown already delimits the URL; punctuation can be part of its path.
             refs[url].append(rel)
     return dict(refs)
 
