@@ -54,7 +54,8 @@
     "医生的-work-restriction-要具体": "医生的工作限制要具体"
   },
   "checklists/hospital-discharge-major-diagnosis.md": {
-    "medication-reconciliation-不要只看新打印单": "药物核对不要只看新打印单"
+    "medication-reconciliation-不要只看新打印单": "药物核对不要只看新打印单",
+    "重大诊断住院与出院把医生说完了变成家庭能接得住": "重大诊断住院与出院后的照护安排"
   },
   "checklists/school-support.md": {
     "section-504-不等于轻量版-iep": "第504节section-504不等于轻量版个别化教育计划iep",
@@ -72,5 +73,8 @@
   },
   "book/25-如何建立美国本地社会基础设施.md": {
     "25--如何建立美国本地社会基础设施": "25--在美国建立日常交往与本地联系"
+  },
+  "checklists/service-follow-up.md": {
+    "示例把已经打过电话变成可接手的事项": "电话沟通后的记录示例"
   }
 }
