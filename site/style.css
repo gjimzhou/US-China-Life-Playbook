@@ -24,3 +24,5 @@ article .nature-practice{border-left-style:dashed;border-left-color:#95723b}arti
 article .practice-advice{border-left:3px dashed #95723b;padding:8px 14px;background:var(--wash);font-size:15px}:root[data-theme="dark"] article .practice-advice{border-left-color:#d2ad70}
 
 .advanced-filters{margin:1rem 0}.advanced-filters summary{cursor:pointer}.event-suggestions{padding:1rem;border:1px solid currentColor;margin-bottom:1rem}.event-suggestions a{display:block;margin:.6rem 0}
+
+.wide-table-scroll{max-width:100%;overflow-x:auto}.wide-table-scroll:focus-visible{outline:3px solid #e6a43d;outline-offset:3px}.wide-table-scroll table{display:table}.wide-table-hint{display:none}@media screen and (max-width:600px){.wide-table-scroll table{min-width:36rem}.wide-table-hint{display:block;font-size:13px;color:var(--muted)}}@media print{.wide-table-scroll{overflow:visible}.wide-table-hint{display:none}}

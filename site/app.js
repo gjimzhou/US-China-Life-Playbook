@@ -34,6 +34,12 @@ function safeMarkdown(text,path){
   if(first?.tagName==='STRONG'&&referenceLabel.test(first.textContent.trim()))p.classList.add('reference-links');
   if(first?.tagName==='STRONG'&&/^本项目实务建议[：:]?$/.test(first.textContent.trim())){p.classList.add('practice-advice');p.setAttribute('role','note');p.setAttribute('aria-label','经验建议，可按情境调整')}
  }
+ for(const table of template.content.querySelectorAll('table')){
+  if((table.rows[0]?.cells.length||0)<4)continue;
+  const wrapper=el('div',undefined,'wide-table-scroll');wrapper.tabIndex=0;wrapper.setAttribute('role','region');wrapper.setAttribute('aria-label','宽表格，可左右滚动查看');
+  const hint=el('p','表格较宽，可左右滑动；使用键盘时先选中表格，再按左右方向键。','wide-table-hint');
+  table.before(hint,wrapper);wrapper.append(table);
+ }
  return template.content;
 }
 const topics=[['生存、健康与医疗',1,6],['保险、责任、住房与车辆',7,10],['政府办事、财务与数字安全',11,16],['宠物、父母与家庭',17,21],['工作、家庭与社会关系',22,27],['婚姻、旅行与紧急应对',28,34],['遗产、购房与跨境事务',35,40]];
