@@ -41,7 +41,7 @@
 - [ ] 确认交割需付现金、所需储备和后续月供构成。
 - [ ] 记录贷款方要求的文件及未满足条件，重大就业或收入变化及时说明。
 
-**比较工具：** [CFPB：Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) · [CFPB：Explore Interest Rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/) · [CFPB：Compare Loan Estimates](https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/)。
+估算表的取得条件、比较工具与官方样表统一见[第36章](../book/36-买房Mortgage-Closing与HOA.md#3-收到规定申请信息后取得贷款估算表)。
 
 ## 资金来源
 
@@ -70,7 +70,7 @@
 - [ ] 核对税费、保险、贷款及产权费用和交割需付现金。
 - [ ] 对差异取得解释；适用贷款的收到披露表与交割间隔要求见第36章，不以发出日期代替收到日期。
 
-**直接核对：** [CFPB：Closing Disclosure Explainer](https://www.consumerfinance.gov/owning-a-home/closing-disclosure/) · [CFPB：TRID Forms and Samples](https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/tila-respa-integrated-disclosures/forms-samples/)。
+收到披露表的时间规则和官方解释统一见[第36章](../book/36-买房Mortgage-Closing与HOA.md#4-交割披露要留足收到后的审阅时间)。
 
 ## 电汇防诈骗——最高优先级
 
