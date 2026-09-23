@@ -1,87 +1,89 @@
 # 重大诊断、住院与出院：把“医生说完了”变成家庭能接得住
 
+> **内容性质：就医准备与专业资料摘要。** 清单帮助联系医疗团队和核对安排，不用于自行诊断、换药或决定治疗；一般分工建议不等于医疗规范。
+
 用于癌症、手术、中风、严重感染、骨折、重大慢性病恶化等情形。重点不是解释疾病本身，而是避免从“医院里有人管”突然切换到“回家后没人知道下一步”。
 
 ## 住院期间先确定一个信息协调人
 
-- [ ] 记录 attending / primary team、主要专科、case manager / social worker、护士站和出院协调入口。
+- [ ] 记录主治医生／主管团队、主要专科、个案管理人员／社工、护士站和出院协调入口。
 - [ ] 家庭内部确定一个主协调人，统一记录问题和任务，但不把协调角色误认为医疗代理权。
-- [ ] 每次重大决定问：当前 working diagnosis 是什么？已经排除什么？今天改变了什么？下一步决定点是什么？
+- [ ] 每次重大决定问：当前初步诊断是什么？已经排除什么？今天改变了什么？下一步决定点是什么？
 - [ ] 记录尚未解决的问题，而不是只记“情况稳定”。
 
 ## 重大诊断后先拿到“下一步地图”
 
 至少问清：
-- 正式 diagnosis / stage / severity；
-- 还需要哪些 confirmatory tests；
-- treatment options 与时间窗口；
+- 正式诊断／分期／严重程度；
+- 还需要哪些确诊检查；
+- 治疗方案与时间窗口；
 - 哪个医生负责总协调；
 - 哪些症状需要立即联系；
-- 下次 appointment / test / procedure；
-- 哪些事情可以等 second opinion，哪些不能拖。
+- 下次预约／检查／医疗操作；
+- 哪些事情可以等第二诊疗意见，哪些不能拖。
 
-不要只依赖口头解释。请求 discharge summary、pathology / imaging reports、medication list 和可带走的 records。
+不要只依赖口头解释。请求出院小结、病理／影像报告、药物清单和可带走的记录。
 
 ## 出院前逐项确认
 
-Medicare / CMS 的 discharge planning checklist 强调患者和 caregiver 在离开 hospital、nursing home 或其他 care setting 前，应拿到后续照护所需信息。
+联邦医疗保险（Medicare）／医疗保险和医疗补助服务中心（CMS）的出院计划清单强调患者和照护者在离开医院、护理机构或其他照护机构前，应拿到后续照护所需信息。
 
 - [ ] 回家后谁实际照护？
 - [ ] 能否安全上楼、洗澡、上厕所、吃饭和取药？
-- [ ] wound / drain / catheter / oxygen / mobility equipment 怎样使用？
+- [ ] 伤口／引流管／导尿管／氧疗／行动辅助设备怎样使用？
 - [ ] 每种药：开始、停止、改变剂量的原因是什么？
 - [ ] 哪些旧药现在明确不要再吃？
-- [ ] home health、PT/OT、DME 是否已经真正安排，而不是“有人会联系”？
-- [ ] follow-up appointment 是否已有日期或明确预约责任人？
-- [ ] 哪些症状打医生，哪些去 urgent care / ER，哪些直接 911？
+- [ ] 居家医疗服务、物理治疗／作业治疗（PT/OT）、耐用医疗设备（DME）是否已经真正安排，而不是“有人会联系”？
+- [ ] 复诊预约是否已有日期或明确预约责任人？
+- [ ] 哪些症状打医生，哪些去非危重急诊诊所／医院急诊，哪些直接 911？
 - [ ] 谁能在夜间和周末回答问题？
 
-**官方工具：** [Medicare：Your Discharge Planning Checklist](https://www.medicare.gov/Pubs/pdf/11376-discharge-planning-checklist.pdf) · [CMS Consumer Engagement](https://www.cms.gov/medicare/provider-enrollment-and-certification/qapi/consumer-engagement)。
+**官方工具：** [联邦医疗保险（Medicare）：出院计划清单](https://www.medicare.gov/publications/11376-your-discharge-planning-checklist.pdf) · [医疗保险和医疗补助服务中心（CMS）：患者参与照护](https://www.cms.gov/medicare/provider-enrollment-and-certification/qapi/consumer-engagement)。
 
-## Medication reconciliation 不要只看新打印单
+## 药物核对不要只看新打印单
 
-把出院 medication list 和入院前真实用药逐项对照，特别找：
-- duplicate；
-- same drug 不同 strength；
-- “hold” 但家里仍有旧瓶；
-- anticoagulant、insulin、opioid、steroid 等高风险药；
-- PRN 药的最大频率；
-- 哪位医生负责下一次 refill。
+把出院药物清单和入院前真实用药逐项对照，特别找：
+- 重复用药；
+- 同一种药不同规格；
+- 医嘱写明“暂停使用”，但家里仍有旧药瓶；
+- 抗凝药、胰岛素、阿片类药物、类固醇等高风险药；
+- 按需使用（PRN）药的最大频率；
+- 哪位医生负责下一次续配。
 
-不确定时联系 discharge team / pharmacist / prescriber，不靠家人自己猜。
+不确定时联系出院团队／药师／处方医生，不靠家人自己猜。对伤口、设备和给药操作，可以请工作人员演示，再由实际照护者复述或演示一次，确认理解一致。
 
 ## 保险和账单同步建档
 
-- [ ] 保存 admission / discharge date、hospital status、claim / authorization number。
-- [ ] 记录 ambulance、hospital、physician、radiology、pathology、DME、home health 等可能分开发账的主体。
+- [ ] 保存入院／出院日期、住院或观察身份、理赔／授权编号。
+- [ ] 记录救护车、医院、医生、放射科、病理科、耐用医疗设备（DME）、居家医疗服务等可能分开发账的主体。
 - [ ] 有保险时，把账单与保险理赔说明（EOB）、理赔状态和已付款逐项核对。保险尚未处理完时，主动联系账单部门和保险方，记录付款期限并请求核查或暂缓催收的书面确认；不要默认等待理赔会暂停期限。自费或未走保险的账单可能没有 EOB，应直接核对明细、估价及适用争议程序。
 
 **账单核对入口：** [美国消费者金融保护局：医疗账单核查与求助](https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-cant-pay-a-medical-bill-en-2125/)。
 
-- [ ] 需要 rehab / SNF / home health 时，提前问保险 coverage criteria 和 network。
+- [ ] 需要康复／专业护理机构（SNF）／居家医疗服务时，提前问保险保障条件和保险网络。
 
 ## 工作和家庭运营
 
 重大诊断往往同时影响：
-- sick leave / FMLA / disability；
-- childcare；
-- pet care；
-- transportation；
-- household bills；
-- travel plans；
-- immigration / cross-border appointments。
+- 病假／家庭与医疗假／伤残保障；
+- 儿童照护；
+- 宠物照护；
+- 交通；
+- 家庭账单；
+- 旅行计划；
+- 移民／跨境事务预约。
 
-把这些放进一张 temporary operating plan，而不是让病人本人同时处理。可结合[第34章](../book/34-重大打击后的Temporary-Operating-Mode.md)和[第30章](../book/30-Household-Emergency-Runbook.md)。
+把这些放进一张临时分工与办事安排，而不是要求病人本人独自处理。可结合[第34章](../book/34-重大打击后的Temporary-Operating-Mode.md)和[第30章](../book/30-Household-Emergency-Runbook.md)。
 
 ## 出院后的第一个复盘点
 
-在最初 follow-up 前确认：
+在最初复诊前确认：
 - 所有处方真的拿到了；
-- equipment 到了且会用；
-- home services 真正开始；
-- lab / imaging / pathology result 有人负责 review；
-- follow-up appointments 已排；
-- symptoms 没有恶化；
-- caregiver 没有因为不懂流程而失控。
+- 设备到了且会用；
+- 上门服务真正开始；
+- 化验／影像／病理结果有人负责审阅；
+- 复诊预约已排；
+- 症状没有恶化；
+- 照护者理解操作、愿意承担且具备实际照护能力；不足时已向团队求助。
 
-最后编辑：2026-09-22。出院准备框架参考 CMS / Medicare 当前 discharge-planning checklist；具体疾病、保险资格与 post-acute care 规则按医院、计划和个人情况核实。
+最后编辑：2026-09-22。出院准备框架参考医疗保险和医疗补助服务中心／联邦医疗保险的出院计划清单；具体疾病、保险资格与急性期后照护规则按医院、计划和个人情况核实。

@@ -1,61 +1,65 @@
 # 工作中受伤、职业病或突然无法工作
 
-用于工伤、职业暴露、因疾病／伤残暂时无法工作，以及医疗、workers’ compensation、FMLA／disability benefits 同时交叉的情况。失业见[失业应对清单](job-loss.md)，一般员工福利见[第22章](../book/22-工作失业与Employee-Benefits.md)。
+> **内容性质：行动建议与个案核对问题。** 勾选项用于整理任务，不代表每项都是法律义务；期限、资格与合同要求按所在地和实际文件确认。
+
+用于工伤、职业暴露、因疾病／伤残暂时无法工作，以及医疗、工伤补偿、《家庭与医疗假法》（FMLA）／伤残福利同时交叉的情况。失业见[失业应对清单](job-loss.md)，一般员工福利见[第22章](../book/22-工作失业与Employee-Benefits.md)。
 
 ## 先处理医疗与安全
 
-- [ ] 有急症先求医或拨打 911，不要为了等 employer approval 延误紧急治疗。
+- [ ] 有急症先求医或拨打 911，不要为了等雇主批准延误紧急治疗。
 - [ ] 能安全做到时，记录事故时间、地点、发生经过、相关设备／环境和目击者。
-- [ ] 按 employer policy 尽快向 supervisor / HR / safety team 报告，但不要只依赖口头报告。
+- [ ] 按雇主规定尽快向主管／人力资源／安全团队报告，但不要只依赖口头报告。
 - [ ] 让医疗人员知道伤病与工作有关，并按实际情况记录。
 
-## Workers’ compensation 不是全国统一一个系统
+## 工伤补偿（Workers’ Compensation）不是全国统一一个系统
 
-USA.gov / DOL 当前说明：大多数 private-company、state / local government employee 的 workers’ compensation 由州系统管理；联邦雇员和少数特定行业另有 federal programs。
+美国政府服务网／美国劳工部当前说明：大多数私营企业、州／地方政府雇员的工伤补偿由州系统管理；联邦雇员和少数特定行业另有联邦项目。
 
-- [ ] 查实际工作州的 workers’ compensation agency。
-- [ ] 问 employer 谁是 carrier / third-party administrator、claim number 和 medical-network rule。
-- [ ] 保存 injury report、medical notes、work restrictions、claim correspondence。
-- [ ] claim denied 时不要只和 supervisor 口头争论；查州 agency 的 appeal / hearing 路径和 deadline。
+- [ ] 从实际工作州的工伤补偿机构开始核对；跨州工作、出差或远程工作涉及哪个制度，需要结合雇佣和受伤事实确认。
+- [ ] 问雇主谁是承保公司／第三方管理机构、理赔编号和医疗网络规则。
+- [ ] 保存工伤报告、医疗记录、工作限制、理赔通信。
+- [ ] 理赔被拒时不要只和主管口头争论；查州机构的申诉／听证路径和期限。
 
-**官方入口：** [USA.gov：Workers’ compensation](https://www.usa.gov/workers-compensation) · [DOL：State Workers’ Compensation Officials](https://www.dol.gov/agencies/owcp/wc)。
+**官方入口：** [美国政府服务网：工伤补偿（Workers’ Compensation）](https://www.usa.gov/workers-compensation) · [美国劳工部：州工伤补偿主管机构](https://www.dol.gov/agencies/owcp/wc)。
 
-## Workers’ comp、FMLA、ADA、short-term disability 可能同时存在
+## 工伤补偿、家庭与医疗假、残障合理便利与短期伤残保障可能同时存在
 
 同一伤病可能触发多套制度，但它们不是互相替代的：
-- workers’ comp：主要处理 work-related injury / illness 的医疗与收入替代等；
-- FMLA：符合条件时提供 job-protected leave；
-- ADA：符合条件时可能涉及 reasonable accommodation；
-- employer STD / LTD：按 plan document 处理 wage replacement。
+- 工伤补偿：主要处理工作相关伤病的医疗与收入替代等；
+- 《家庭与医疗假法》（FMLA）：符合条件时提供保职假并延续适用的团体医保条件；联邦法本身通常不要求带薪，可与其他合资格假期并行；
+- 《美国残障人士法》（ADA）：符合条件时可能涉及合理便利；
+- 雇主短期／长期伤残保障（STD/LTD）：按计划文件处理收入替代。
 
-不要因为 workers’ comp claim 在处理，就默认 HR 已自动处理 leave、benefits 或 accommodation。
+**制度对照：** [美国劳工部：医疗与伤残相关假期及制度交叉](https://www.dol.gov/agencies/odep/publications/fact-sheets/employment-laws-medical-and-disability-related-leave)。
 
-## 医生的 work restriction 要具体
+不要因为工伤补偿理赔在处理，就默认人力资源部门（HR）已自动处理请假、福利或合理便利。
 
-让 treating clinician 根据实际情况写清：
+## 医生的工作限制要具体
+
+让主治医疗人员根据实际情况写清：
 - 是否完全不能工作；
-- lifting / standing / typing / travel / schedule 等限制；
+- 搬重物／站立／打字／出差／工作时间等限制；
 - 预计持续多久；
 - 何时复查；
-- 是否可 modified duty / remote work。
+- 是否可调整工作任务／远程工作。
 
-HR / claims administrator 需要什么表格，应从实际 employer / plan / state system 获取。
+人力资源部门（HR）／理赔管理方需要什么表格，应从实际雇主／计划／州制度获取。
 
 ## 工资、医保和福利连续性
 
-- [ ] 确认 PTO、sick leave、workers’ comp wage replacement、STD 是否重叠或协调。
-- [ ] 问 health insurance、HSA / FSA、401(k)、bonus / equity 在 leave 期间怎样处理。
-- [ ] 记录 unpaid period 和 payroll changes。
-- [ ] 长期无法工作时，提前了解 LTD、Social Security Disability 等是否可能相关，但不要假设资格。
+- [ ] 确认带薪休假（PTO）、病假、工伤补偿收入替代、短期伤残保障（STD）是否重叠或协调。
+- [ ] 问医疗保险、健康储蓄账户／弹性支出账户（HSA/FSA）、401(k)、奖金／股权在请假期间怎样处理。
+- [ ] 记录无薪期间和工资发放变化。
+- [ ] 长期无法工作时，提前了解长期伤残保障（LTD）、社会保障伤残福利等是否可能相关，但不要假设资格。
 
 ## 返回工作
 
-return-to-work 不是“感觉好了就回去”。确认：
-- medical release / restrictions；
-- modified duty；
-- schedule；
-- follow-up care；
-- claim 是否仍开放；
-- recurrence / worsening 如何报告。
+复工不是“感觉好了就回去”。确认：
+- 医疗准许复工证明／限制；
+- 调整工作任务；
+- 时间安排；
+- 后续治疗；
+- 理赔是否仍开放；
+- 复发／恶化如何报告。
 
-最后编辑与来源核验：2026-09-22。workers’ compensation 的州／联邦分工根据 USA.gov 与 DOL 当前页面；FMLA / ADA / employer disability plan 的适用性必须按个人工作关系与计划文件判断。
+最后编辑与来源核验：2026-09-22。工伤补偿的州／联邦分工根据美国政府服务网与美国劳工部当前页面；《家庭与医疗假法》（FMLA）／《美国残障人士法》（ADA）／雇主伤残计划的适用性必须按个人工作关系与计划文件判断。

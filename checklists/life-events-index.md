@@ -1,5 +1,7 @@
 # “现在发生了什么？”生活事件索引
 
+> **内容性质：事件导航。** 本页只负责分流，具体步骤及适用边界见所链接页面。
+
 这不是新的知识章节，而是把全书按**事件**重新串起来。遇到事情时，不必先判断它属于保险、法律、医疗还是家庭管理；先从下面最接近的一句进入，再按链接处理。
 
 > 紧急危险、严重伤病、火灾、暴力或正在发生的犯罪，先联系所在地应急服务，不要为了查指南延误求助。金额、期限、法律权利和机构规则仍以适用地区、日期和正式文件为准。
@@ -9,7 +11,7 @@
 | 现在发生了什么 | 第一入口 |
 |---|---|
 | 人呼吸困难、意识异常、严重创伤或其他急症 | [第03章：紧急情况与急救](../book/03-紧急情况与急救.md) · [第30章：家庭紧急手册](../book/30-Household-Emergency-Runbook.md) |
-| 非紧急，但不知道应该找 PCP、专科、心理治疗还是精神科 | [心理健康服务清单](mental-health-care.md) · [第04章：美国医疗系统](../book/04-美国医疗系统怎么用.md) |
+| 非紧急，但不知道应该找初级保健医生（PCP）、专科、心理治疗还是精神科 | [心理健康服务清单](mental-health-care.md) · [第04章：美国医疗系统](../book/04-美国医疗系统怎么用.md) |
 | 验孕阳性、怀疑流产、临产或产后出现异常症状 | [怀孕、妊娠丢失与生产清单](pregnancy-birth-loss.md) |
 | 刚收到重大诊断、准备出院或回家后不知道怎么接续 | [重大诊断、住院与出院清单](hospital-discharge-major-diagnosis.md) |
 | 家人住院、主要办事人暂时不能处理家庭事务 | [第30章](../book/30-Household-Emergency-Runbook.md) · [家庭紧急信息表](emergency-sheet.md) |
@@ -28,9 +30,9 @@
 | 家里被闯入、遭遇盗窃、抢劫或袭击 | [犯罪受害者处理清单](crime-victim.md) |
 | 正在看出租房、准备签约或第一次入住 | [租房全流程清单](rental-lifecycle.md) |
 | 想转租、提前解约、退租或追押金 | [租房全流程清单](rental-lifecycle.md) |
-| 收到 landlord notice、eviction papers 或法院文件 | [租房全流程清单](rental-lifecycle.md) · [第30章正式文件分流](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件) |
+| 收到房东通知、驱逐诉讼文件或法院文件 | [租房全流程清单](rental-lifecycle.md) · [第30章正式文件分流](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件) |
 | 普通搬家或跨州搬家 | [搬家清单](move-checklist.md) |
-| 买房、交割、房贷或 HOA | [购房与交割清单](home-purchase.md) · [第36章](../book/36-买房Mortgage-Closing与HOA.md) |
+| 买房、交割、房贷或业主协会（HOA） | [购房与交割清单](home-purchase.md) · [第36章](../book/36-买房Mortgage-Closing与HOA.md) |
 
 ## 伴侣、孩子与家庭关系变化
 
@@ -40,7 +42,7 @@
 | 准备分居或离婚，但不存在立即人身危险 | [分居、离婚与家庭安全清单](separation-family-safety.md) |
 | 伴侣有暴力、威胁、控制、跟踪或技术监控 | [分居、离婚与家庭安全清单](separation-family-safety.md#如果存在暴力威胁跟踪或强制控制不要按普通协商流程) |
 | 孩子入学、转学或学校沟通反复无结果 | [学龄期教育与支持清单](school-support.md) |
-| 怀疑孩子需要 IDEA / Section 504 支持或学校评估 | [学龄期教育与支持清单](school-support.md#怀疑需要特殊教育或504支持时从书面请求开始) |
+| 怀疑孩子需要《残障人士教育法》（IDEA）／第504节（Section 504）支持或学校评估 | [学龄期教育与支持清单](school-support.md#怀疑需要特殊教育或504支持时从书面请求开始) |
 | 父母在中国突然住院、失能或需要现场接应 | [父母紧急应对计划](parents-emergency.md) · [第20章](../book/20-父母养老与远程照护.md) |
 
 ## 车辆、钱包、犯罪与实体安全
@@ -49,7 +51,7 @@
 |---|---|
 | 车在路边抛锚 | [车辆抛锚／拖车／罚单清单](vehicle-roadside-ticket-tow.md) |
 | 车突然不见了，怀疑被拖或被盗 | [车辆抛锚／拖车／罚单清单](vehicle-roadside-ticket-tow.md) · [犯罪受害者处理清单](crime-victim.md) |
-| 车被 boot、收到 parking ticket 或 moving violation | [车辆抛锚／拖车／罚单清单](vehicle-roadside-ticket-tow.md) |
+| 车被加车轮锁、收到停车罚单或行驶违章 | [车辆抛锚／拖车／罚单清单](vehicle-roadside-ticket-tow.md) |
 | 钱包、驾照、护照、绿卡或一整套证件丢了／被盗 | [钱包与重要证件丢失清单](lost-wallet-documents.md) |
 | 家人突然失踪，担心人身安全 | [犯罪受害者／失踪处理清单](crime-victim.md) |
 
@@ -59,12 +61,12 @@
 |---|---|
 | 失业或收到裁员通知 | [失业应对清单](job-loss.md) |
 | 工作中受伤、职业暴露或突然因伤病无法工作 | [工伤与请假清单](workplace-injury-leave.md) |
-| 长期药突然拿不到、药房缺货、PA 卡住或旅行丢药 | [药物获取失败清单](medication-access-problem.md) |
+| 长期药突然拿不到、药房缺货、事先授权（PA）卡住或旅行丢药 | [药物获取失败清单](medication-access-problem.md) |
 | 银行卡盗刷、被骗转账、账户接管或身份盗用 | [网络安全事件清单](cyber-incident.md) · [第16章](../book/16-银行信用卡消费者纠纷与诈骗.md) |
-| 手机丢失，很多账户都靠它做 MFA | [第30章](../book/30-Household-Emergency-Runbook.md#6-手机丢失或被盗) |
-| 收到 IRS、州税务、保险、律师或法院正式文件 | [第30章](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件) |
-| 收到 jury summons、subpoena 或其他法院通知 | [Jury / Subpoena / 法院通知清单](jury-court-summons.md) |
-| 收到 USCIS RFE、biometrics、interview、NOID 或其他 notice | [USCIS Notice 处理清单](immigration-notice-rfe.md) |
+| 手机丢失，很多账户都靠它做多重身份验证（MFA） | [第30章](../book/30-Household-Emergency-Runbook.md#6-手机丢失或被盗) |
+| 收到美国国税局（IRS）、州税务、保险、律师或法院正式文件 | [第30章](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件) |
+| 收到陪审团传票、证据传唤或其他法院通知 | [陪审、证据传唤与法院通知清单](jury-court-summons.md) |
+| 收到移民局补件、指纹、面试、拟拒绝或其他通知 | [移民局通知处理清单](immigration-notice-rfe.md) |
 | 不知道某个长期财务决定应该先问什么 | [第13章：家庭财务运行](../book/13-高收入家庭财务Operating-System.md) |
 
 ## 跨境与证件突然卡住

@@ -6,15 +6,23 @@
     "做一张可核验的-lost-pet-信息卡": "做一张可核验的寻宠信息卡"
   },
   "checklists/vehicle-roadside-ticket-tow.md": {
-    "boot--wheel-clamp": "车轮锁boot--wheel-clamp"
+    "boot--wheel-clamp": "车轮锁boot--wheel-clamp",
+    "车辆抛锚被拖被-boot-或收到交通罚单": "车辆抛锚被拖被加车轮锁或收到交通罚单",
+    "private-tow--impound-争议": "私人拖车扣车争议",
+    "收到-parking-ticket--moving-violation": "收到停车罚单行驶违章"
   },
   "checklists/medication-access-problem.md": {
-    "prior-authorization--insurance-denial": "事先授权保险拒付prior-authorization--insurance-denial"
+    "prior-authorization--insurance-denial": "事先授权保险拒付prior-authorization--insurance-denial",
+    "药突然拿不到缺货refill-用完prior-authorization旅行遗失": "药突然拿不到缺货续配次数用完事先授权prior-authorization旅行遗失",
+    "pharmacy-说没货": "药房说没货",
+    "refill-用完或-prescriber-没回复": "续配次数用完或处方医生没回复"
   },
   "checklists/jury-court-summons.md": {
     "jury-summons": "陪审团传票jury-summons",
     "subpoena": "传票证据传唤subpoena",
-    "jury-scam": "陪审团诈骗jury-scam"
+    "jury-scam": "陪审团诈骗jury-scam",
+    "收到-jury-summonssubpoena-或法院通知先分清是什么文件": "收到陪审团传票证据传唤或法院通知先分清是什么文件",
+    "被正式起诉或收到-complaint--summons": "被正式起诉或收到起诉状传票"
   },
   "checklists/immigration-notice-rfe.md": {
     "rfe--request-for-evidence": "补件通知rfe--request-for-evidence",
@@ -27,5 +35,29 @@
   },
   "checklists/crime-victim.md": {
     "victim-services": "受害者支持victim-services"
+  },
+  "checklists/disaster-utility-outage.md": {
+    "停水boil-water-advisory-或水质问题": "停水煮沸饮水通知或水质问题"
+  },
+  "checklists/lost-wallet-documents.md": {
+    "绿卡permanent-resident-card": "绿卡永久居民卡"
+  },
+  "checklists/rental-lifecycle.md": {
+    "收到-landlord-noticepay-or-quitnotice-to-cease-或法院文件": "收到房东通知缴租或搬离通知要求停止违约行为的通知或法院文件"
+  },
+  "checklists/separation-family-safety.md": {
+    "尽早问-family-law-lawyer-的问题": "尽早问家庭法律师的问题"
+  },
+  "checklists/workplace-injury-leave.md": {
+    "workers-compensation-不是全国统一一个系统": "工伤补偿workers-compensation不是全国统一一个系统",
+    "workers-compfmlaadashort-term-disability-可能同时存在": "工伤补偿家庭与医疗假残障合理便利与短期伤残保障可能同时存在",
+    "医生的-work-restriction-要具体": "医生的工作限制要具体"
+  },
+  "checklists/hospital-discharge-major-diagnosis.md": {
+    "medication-reconciliation-不要只看新打印单": "药物核对不要只看新打印单"
+  },
+  "checklists/school-support.md": {
+    "section-504-不等于轻量版-iep": "第504节section-504不等于轻量版个别化教育计划iep",
+    "每次-meeting-前准备一页纸": "每次会议前准备一页纸"
   }
 }

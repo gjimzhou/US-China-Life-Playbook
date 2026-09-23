@@ -1,50 +1,58 @@
-# 收到 Jury Summons、Subpoena 或法院通知：先分清是什么文件
+# 收到陪审团传票、证据传唤或法院通知：先分清是什么文件
 
-很多人第一次收到法院信件时会把 jury duty、subpoena、civil complaint、traffic summons、collection notice 混在一起。先识别文件类型，再处理期限。
+> **内容性质：行动建议与个案核对问题。** 勾选项用于整理任务，不代表每项都是法律义务；期限、资格与合同要求按所在地和实际文件确认。
+
+很多人第一次收到法院信件时会把陪审义务、证据传唤、民事起诉状、交通传票、催收通知混在一起。先识别文件类型，再处理期限。
 
 ## 第一步：看谁签发、要求你做什么
 
 记录：
-- court / agency 全名；
-- case / participant number；
+- 法院／机构全名；
+- 案件／参与者编号；
 - 收到日期；
-- response / appearance date；
-- 是 jury summons、subpoena、complaint / summons、court order、traffic matter 还是普通律师信；
-- 文件提供的 official contact。
+- 答复／出庭日期；
+- 是陪审团传票、证据传唤、起诉状／传票、法院命令、交通事项还是普通律师信；
+- 文件提供的官方联系方式。
 
-不要用信上陌生 QR code 或搜索广告直接付款；从法院官网独立核对。
+不要用信上陌生二维码或搜索广告直接付款；从法院官网独立核对。
 
 ## 陪审团传票（Jury Summons）
 
-Federal jury summons 由具体 U.S. district court 管理。U.S. Courts 当前说明，收到 federal jury service summons 后，应进入**签发该 summons 的 district court 官网**按说明完成 eJuror / questionnaire、查看 reporting instructions、申请 deferral / excuse。
+联邦陪审团传票由具体美国联邦地区法院管理。美国联邦法院当前说明，收到联邦陪审通知后，应进入**签发该传票的地区法院官网**按说明完成电子陪审系统（eJuror）／问卷、查看报到说明、申请延期／豁免。
 
-**官方入口：** [U.S. Courts：Summoned for Federal Jury Service](https://www.uscourts.gov/court-programs/jury-service/summoned-federal-jury-service) · [Federal Court Finder](https://www.uscourts.gov/federal-court-finder/search)。
+**官方入口：** [美国联邦法院：收到联邦陪审通知](https://www.uscourts.gov/court-programs/jury-service/summoned-federal-jury-service) · [联邦法院查询](https://www.uscourts.gov/federal-court-finder/search)。
 
-州／地方 jury duty 则使用对应 state / county court 官方入口，不套 federal district 的期限。
+**非美国公民也可能误收到通知。** 联邦陪审资格要求美国公民身份；不符合条件时，按签发法院的问卷／联系方式如实说明并申请确认，不要谎称公民，也不要仅凭自认为不合资格而忽略通知。延期和豁免需要按该法院程序申请，不能自行视为获准。
+
+**资格说明：** [美国联邦法院：陪审资格、豁免与免除](https://www.uscourts.gov/court-programs/jury-service/juror-qualifications-exemptions-and-excuses)。
+
+州／地方陪审义务则使用对应州／县法院官方入口，不套联邦地区法院的期限。
 
 ## 传票／证据传唤（Subpoena）
 
-Subpoena 可能要求出庭作证、参加 deposition 或提供文件。它与 jury duty 不同。
+证据传唤（Subpoena）可能要求出庭作证、参加庭外宣誓证言或提供文件。它与陪审义务不同。
 
 - [ ] 不要忽略。
-- [ ] 看清 issuing court / tribunal、case、date、location、requested documents。
-- [ ] 如果范围过宽、涉及 privilege、商业机密、跨州或无法按时遵守，尽早找律师。
+- [ ] 看清签发法院／审裁机构、案件、日期、地点和要求提供的文件。
+- [ ] 如果范围过宽、涉及法律特权保护、商业机密、跨州或无法按时遵守，尽早找律师。
 - [ ] 不自行删改可能被要求保存的材料。
 
-## 被正式起诉或收到 complaint / summons
+## 被正式起诉或收到起诉状／传票
 
-把它当作[第30章正式文件流程](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件)：保存完整文件和 service date，确认 response deadline，联系匹配领域的律师。与对方私下沟通不一定暂停法院 deadline。
+把它当作[第30章正式文件流程](../book/30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件)：保存完整文件和送达日期，确认答复期限，联系匹配领域的律师。与对方私下沟通不一定暂停法院期限。
 
 ## 陪审团诈骗（Jury Scam）
 
-法院相关诈骗常以“你没去 jury duty，马上交罚款／礼卡／crypto”为话术。不要按来电者提供的号码付款；挂断后从法院官网独立核实。
+法院相关诈骗常以“你没有履行陪审义务，马上交罚款／礼卡／加密货币”为话术。不要按来电者提供的号码付款；挂断后从法院官网独立核实。
+
+**识别骗局：** [美国联邦法院：陪审诈骗](https://www.uscourts.gov/court-programs/jury-service/juror-scams)。真实通知仍可能要求及时回复；核实真伪和处理期限应同时进行。
 
 ## 完成标准
 
 - 已确认文件真伪与类型；
-- deadline 已进入日历；
-- response / appearance 已完成或获书面延期；
+- 期限已进入日历；
+- 回复／出庭已完成或获书面延期；
 - 必要律师已介入；
-- 保存提交 confirmation / attendance proof / court filing receipt。
+- 保存提交确认／出席证明／法院提交回执。
 
-最后编辑：2026-09-22。Federal jury service 入口依据 U.S. Courts；州 jury、subpoena 和 civil procedure 的期限及异议方式依签发法院和适用法处理。
+最后编辑：2026-09-22。联邦陪审服务入口依据美国联邦法院；州陪审服务、证据传唤和民事程序的期限及异议方式依签发法院和适用法处理。

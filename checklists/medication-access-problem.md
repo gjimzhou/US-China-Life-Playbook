@@ -1,51 +1,57 @@
-# 药突然拿不到：缺货、refill 用完、prior authorization、旅行遗失
+# 药突然拿不到：缺货、续配次数用完、事先授权（Prior Authorization）、旅行遗失
 
-用于长期处方药突然断供的常见原因：pharmacy out of stock、全国／地区 shortage、refill exhausted、prior authorization、保险拒付、处方转移失败、旅行中遗失或 pharmacy closed。一般用药管理见[第04章](../book/04-美国医疗系统怎么用.md)和[第06章](../book/06-医疗记录药物与跨境Continuity.md)。
+> **内容性质：就医准备与专业资料摘要。** 清单帮助联系医疗团队和核对安排，不用于自行诊断、换药或决定治疗；一般分工建议不等于医疗规范。
+
+用于长期处方药突然断供的常见原因：药房缺货、全国／地区短缺、续配次数用尽、事先授权（Prior Authorization）、保险拒付、处方转移失败、旅行中遗失或药房关闭。一般用药管理见[第04章](../book/04-美国医疗系统怎么用.md)和[第06章](../book/06-医疗记录药物与跨境Continuity.md)。
 
 ## 先判断能不能安全等
 
-- [ ] 看药名、dose、剩余天数和下一次正常 refill date。
-- [ ] 询问 prescriber / pharmacist：漏药或突然停药是否可能有 withdrawal、rebound 或其他风险。
-- [ ] insulin、anticoagulant、anti-seizure、steroid、psychiatric medication 等不要凭经验自行减量／停药。
+- [ ] 看药名、剂量、剩余天数和下一次正常续配日期。
+- [ ] 询问处方医生／药师：漏药或突然停药是否可能有戒断、反跳或其他风险。
+- [ ] 胰岛素、抗凝药、抗癫痫药、类固醇、精神科药物等不要凭经验自行减量／停药。
 - [ ] 已经出现严重症状时按医疗急症处理。
 
-## Pharmacy 说“没货”
+## 药房说“没货”
 
 先问：
-- 是本店暂时 out of stock，还是 wholesaler / broader shortage？
-- 同一连锁其他门店能否查库存／转 prescription？
-- 是否有不同 strength / formulation / package，但必须让 prescriber / pharmacist 判断能否替代？
-- controlled substance 是否有特殊 transfer / refill rules？
+- 是本店暂时缺货，还是批发商／更大范围缺货？
+- 同一连锁其他门店能否查库存／转处方？
+- 是否有不同规格／剂型／包装，但必须让处方医生／药师判断能否替代？
+- 受管制药物是否有特殊转移处方／续配规则？
 
-FDA 当前 Drug Shortages 页面建议先查数据库；如果已列为 shortage，与医生／药师讨论替代治疗，而不是自行换药。
+美国食品药品监督管理局（FDA）当前药品短缺页面建议先查数据库；如果已列为短缺，与医生／药师讨论替代治疗，而不是自行换药。
 
-**官方入口：** [FDA：Drug Shortages](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)。
+**官方入口：** [FDA：药品短缺](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)。
 
-## Refill 用完或 prescriber 没回复
+本店缺货不一定是全国短缺，数据库未列出也不代表本店能立即配药。
 
-- [ ] 通过 patient portal / office 电话提交 refill request，并说明剩余药量。
-- [ ] 问 pharmacy 是否已经真正发出 request，还是只显示“waiting for prescriber”。
-- [ ] 若原 prescriber 离职／诊所关闭，尽快建立新的 prescriber，而不是依赖一次次 emergency refill。
-- [ ] 保存药瓶、旧 prescription information 和必要病历，方便新 clinician 核对。
+**下一步：** [食品药品监督管理局：短缺常见问题与局部缺货处理](https://www.fda.gov/drugs/drug-shortages/frequently-asked-questions-about-drug-shortages)。
+
+## 续配次数用完或处方医生没回复
+
+- [ ] 通过患者平台／诊所电话提交续配请求，并说明剩余药量。
+- [ ] 问药房是否已经真正发出请求，还是只显示“等待处方医生回复”。
+- [ ] 若原处方医生离职／诊所关闭，尽快与新的处方医生建立诊疗关系，而不是依赖一次次紧急续配。
+- [ ] 保存药瓶、旧处方信息和必要病历，方便新医疗人员核对。
 
 ## 事先授权／保险拒付（Prior Authorization / Insurance Denial）
 
 先区分：
-- PA 根本没提交；
-- insurer 要 additional clinical info；
-- formulary exclusion；
-- step therapy；
-- quantity limit；
-- refill too soon；
-- network pharmacy 问题。
+- 事先授权（PA）根本没提交；
+- 保险公司要补充临床资料；
+- 不在承保药品目录中；
+- 阶梯治疗要求；
+- 数量限制；
+- 未到允许续配时间；
+- 网络内药房问题。
 
-取得 denial / rejection 的 exact wording 和 reference number，问 prescriber office 是否有 PA team；如果 insurer 正式 denial，查 plan 的 appeal / exception 路径。
+取得拒付／拒绝的准确措辞和参考编号，问处方医生所在诊所是否有事先授权团队；如果保险公司正式拒付，查计划的申诉／例外申请路径。病情不允许等待时，让临床团队同时制定临时方案，并询问是否符合加急审查条件；不要把保险审批当作唯一的医疗处理路径。
 
 ## 旅行中丢药或延误
 
-- [ ] 联系 prescriber 和原 pharmacy；
-- [ ] 联系 insurer 问 vacation override / lost-medication override；
-- [ ] controlled substance、跨州 prescribing、跨境携带规则可能另有要求；
+- [ ] 联系处方医生和原药房；
+- [ ] 联系保险公司问旅行／遗失药物的提前配药例外；即使保险允许提前支付，也不等于药房有库存、处方有效或法律允许配药；
+- [ ] 受管制药物、跨州开方、跨境携带规则可能另有要求；
 - [ ] 不从陌生网站购买来源不明药品。
 
 境外用药还要查目的地法律与可用药名；见[国际旅行清单](international-travel.md)。
@@ -54,9 +60,9 @@ FDA 当前 Drug Shortages 页面建议先查数据库；如果已列为 shortage
 
 不是“药店说订货了”就结束。确认：
 - 哪天能拿到；
-- interim plan；
-- dose / formulation 没有被误换；
-- insurer / PA 状态；
-- 下一次 refill 前是否还会重复发生同样问题。
+- 临时用药安排；
+- 剂量／剂型没有被误换；
+- 保险公司／事先授权（PA）状态；
+- 下一次续配前是否还会重复发生同样问题。
 
-最后编辑与来源核验：2026-09-22。全国药品 shortage 入口依据 FDA 当前 Drug Shortages 页面；具体处方转移、controlled-substance、保险和州规则按药物、州和计划核实。
+最后编辑与来源核验：2026-09-22。全国药品短缺入口依据美国食品药品监督管理局（FDA）当前药品短缺页面；具体处方转移、受管制药物、保险和州规则按药物、州和计划核实。

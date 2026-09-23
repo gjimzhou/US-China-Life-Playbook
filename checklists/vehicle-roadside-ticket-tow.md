@@ -1,57 +1,61 @@
-# 车辆抛锚、被拖、被 boot 或收到交通罚单
+# 车辆抛锚、被拖、被加车轮锁或收到交通罚单
+
+> **内容性质：行动建议与个案核对问题。** 勾选项用于整理任务，不代表每项都是法律义务；期限、资格与合同要求按所在地和实际文件确认。
 
 车祸伤害与保险责任见[第08章](../book/08-车祸停车维修与责任.md)。这份清单处理“没有撞车，但车突然不能正常继续用”的场景。
 
 ## 路边抛锚
 
 - [ ] 先判断人是否处于车流、隧道、桥梁、铁路、极端天气或其他危险位置。
-- [ ] 能安全移动时，把车移到更安全的位置并打开 hazard lights；无法安全移动时优先联系 911 / highway patrol / road authority。
+- [ ] 能安全移动时，把车移到更安全的位置并打开危险警示灯；无法安全移动时优先联系 911 / 公路巡警／道路管理部门。
 - [ ] 不为了检查轮胎或机舱站在高速车道旁。
-- [ ] 联系 roadside assistance、保险 roadside benefit、manufacturer assistance 或合适 tow company。
-- [ ] 拖车前确认目的地、基础费用、里程费、storage、after-hours surcharge 和付款方式。
+- [ ] 联系道路救援、保险道路救援权益、厂家救援或合适拖车公司。
+- [ ] 拖车前确认目的地、基础费用、里程费、保管费、非营业时间附加费和付款方式。
 
 ## 找不到车：先确认是不是被拖
 
-- [ ] 先检查是否记错停车层／街区、是否被 building / private lot tow。
-- [ ] 查看当地 police / parking / tow lookup 或物业入口。
-- [ ] 确认 impound lot、tow reason、release requirements、营业时间、每天 storage fee。
-- [ ] 被盗可能性不能排除时，联系当地警方，而不是只打 tow yard。
+- [ ] 先检查是否记错停车层／街区、是否被物业／私人停车场拖车。
+- [ ] 查看当地警方／停车管理／拖车查询或物业入口。
+- [ ] 确认扣车场、拖车原因、取车要求、营业时间、每天保管费。
+- [ ] 被盗可能性不能排除时，联系当地警方，而不是只打拖车场。
 
-## Private tow / impound 争议
+## 私人拖车／扣车争议
 
-私人物业拖车、signage、授权、收费与取车程序高度州／地方化。
+私人物业拖车、标志设置、授权、收费与取车程序高度州／地方化。
 
-- [ ] 先取回车辆所需的最小信息：地点、金额、付款方式、需要的 ID / registration。
-- [ ] 保存现场标志、停车位置、receipt、tow authorization 和车况照片。
-- [ ] 需要争议时，查州／市 consumer protection、parking / towing regulator 或 small claims / court 程序。
-- [ ] 不在停车场与 tow operator 发生升级冲突。
+- [ ] 先取回车辆所需的最小信息：地点、金额、付款方式、需要的身份证件／车辆登记。
+- [ ] 保存现场标志、停车位置、收据、拖车授权和车况照片。
+- [ ] 需要争议时，查州／市消费者保护部门、停车／拖车监管部门或小额诉讼／法院程序。
+- [ ] 不在停车场与拖车操作人员发生升级冲突。
 
 ## 车轮锁（Boot / Wheel Clamp）
 
-先查是谁加的 boot：city / parking authority、private operator、finance / repo-related entity 的处理路径不同。只用设备上的可核验官方／运营方渠道付款或申诉，警惕假 QR code。
+先查是谁加的车轮锁：市政／停车管理部门、私人运营方、融资／车辆收回相关机构的处理路径不同。先从市政官网、物业或已独立核实的运营方确认渠道，再付款或申诉，不仅依赖设备上的二维码。
 
-## 收到 parking ticket / moving violation
+## 收到停车罚单／行驶违章
 
-- [ ] 看清 issuing authority、violation code、日期、地点、plate、应答期限。
-- [ ] 区分 parking citation、camera ticket、moving violation、court summons。
+- [ ] 看清签发机构、违规代码、日期、地点、车牌、应答期限。
+- [ ] 区分停车罚单、摄像执法罚单、行驶违章、法院传票。
 - [ ] 通过签发机构官网核对案件，不用搜索广告里的代缴站。
-- [ ] 决定 pay / contest 前，先确认是否涉及 points、insurance、license、mandatory court appearance 或其他后果。
-- [ ] 涉及 criminal traffic charge、license suspension、事故伤人、commercial license 或移民后果时，尽早找适当律师。
+- [ ] 决定缴款／提出异议前，先确认是否涉及扣分、保险、驾驶资格、强制出庭或其他后果。
+- [ ] 涉及刑事交通指控、驾照暂停、事故伤人、商用驾照或移民后果时，尽早找适当律师。
 
 ## 车辆送修或拖到店后
 
-- [ ] 记录 odometer、fuel、外观和现有损伤。
-- [ ] 书面确认 diagnostic fee、storage fee、estimate authorization 和开始维修前的批准阈值。
+- [ ] 记录里程表、油量、外观和现有损伤。
+- [ ] 书面确认诊断费、保管费、估价授权和开始维修前的批准阈值。
 - [ ] 不因为“车已经拖进店里”就自动授权所有维修。
-- [ ] 保险 claim、warranty、roadside 和维修账单分别跟踪。
+- [ ] 保险理赔、保修、道路救援和维修账单分别跟踪。
+
+**维修核对入口：** [美国联邦贸易委员会：书面估价、超额维修授权与账单](https://consumer.ftc.gov/articles/0211-auto-repair-basics)。这些是消费核对建议；具体收费、听证与取车要求仍按所在地规则确认。
 
 ## 完成标准
 
 车辆恢复可用之外，还要确认：
-- citation / tow / storage 没有继续 accruing；
-- insurer / roadside claim 有结果；
-- license / registration 没有未处理 hold；
-- dispute 有书面状态；
+- 罚单处理状态已核实；已取车或明确仍在发生的保管费及停止计费条件；
+- 保险公司／道路救援理赔有结果；
+- 驾照／车辆登记没有未解决的限制或冻结；
+- 争议有书面状态；
 - 取车时新增损伤已立即记录。
 
-最后编辑：2026-09-22。拖车、停车、罚单、boot 和道路救援高度地方化；优先使用签发机关、警方／road authority、物业和车辆所在地监管机构的官方入口。
+最后编辑：2026-09-22。拖车、停车、罚单、车轮锁和道路救援高度地方化；优先使用签发机关、警方／道路管理部门、物业和车辆所在地监管机构的官方入口。

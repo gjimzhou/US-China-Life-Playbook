@@ -1,45 +1,49 @@
 # 学龄期教育：入学、转学、家校沟通与学习支持
 
-用于 K–12 入学／转学、长期学业或行为困难、与学校沟通，以及怀疑孩子需要 IDEA 特殊教育或 Section 504 支持的场景。托育和家庭规划见[第21章](../book/21-孩子教育Childcare与家庭规划.md)。
+> **内容性质：教育程序规则与家校沟通建议。** 联邦条款、州时间表与经验性沟通方式分别说明，不把备忘清单当作孩子已获得服务资格的结论。
+
+用于幼儿园至高中（K–12）入学／转学、长期学业或行为困难、与学校沟通，以及怀疑孩子需要《残障人士教育法》（IDEA）特殊教育或《康复法》第504节（Section 504）支持的场景。托育和家庭规划见[第21章](../book/21-孩子教育Childcare与家庭规划.md)。
 
 ## 入学或转学前
 
-- [ ] 从 school district 官方网站确认 enrollment office、居住证明、年龄／身份文件、疫苗／健康材料和注册日期。
-- [ ] 不把房地产网站或经纪人口中的 school assignment 当作最终确认。
-- [ ] 如果孩子已有 IEP、504 plan、evaluation、therapy / medical records，准备可提供给新学校的完整副本。
-- [ ] 记录学校 counselor、teacher、special-education / student-services 入口和 district-level 联系方式。
+- [ ] 从学区官方网站确认入学注册部门、居住证明、年龄／身份文件、疫苗／健康材料和注册日期。
+- [ ] 不把房地产网站或经纪人口中的划片学校当作最终确认。
+- [ ] 如果孩子已有个别化教育计划（IEP）、504支持计划、评估、治疗／医疗记录，准备可提供给新学校的完整副本。
+- [ ] 记录学校咨询师、教师、特殊教育／学生服务入口和学区层级联系方式。
 
 ## 第一次出现学习、行为或出勤问题
 
-- [ ] 先收集具体例子：哪些课程／时间出现、持续多久、作业／考试／attendance 数据、老师观察和家庭观察。
-- [ ] 给老师或 counselor 发简洁书面沟通，请求说明学校看到的问题、已经尝试的支持和下一次复盘时间。
+- [ ] 先收集具体例子：哪些课程／时间出现、持续多久、作业／考试／出勤数据、老师观察和家庭观察。
+- [ ] 给老师或咨询师发简洁书面沟通，请求说明学校看到的问题、已经尝试的支持和下一次复盘时间。
 - [ ] 会议后发一封简短确认：讨论了什么、谁负责什么、何时再看结果。
-- [ ] 不只保存成绩单；同时保存 emails、meeting notes、work samples 和 intervention records。
+- [ ] 不只保存成绩单；同时保存邮件、会议记录、作业样本和干预记录。
 
 ## 怀疑需要特殊教育或504支持时，从书面请求开始
 
-在 IDEA 下，家长或 public agency 都可以发起 initial evaluation 请求。联邦 IDEA 规则规定，initial evaluation 通常应在取得 parental consent 后 60 天内完成，**但如果州另设自己的时间表，则按州时间表**；规则也有例外情形。
+在《残障人士教育法》（IDEA）下，家长或公共教育机构都可以发起初次评估请求。联邦《残障人士教育法》（IDEA）规则规定，初次评估通常应在取得家长同意后 60 天内完成，**但如果州另设自己的时间表，则按州时间表**；规则也有例外情形。这里的60天从收到家长评估同意起算，不是首次向老师表达担忧当天；该时间表属于特殊教育初评规则，不能直接套给第504节评估。
 
-- [ ] 向学校／district 指定部门书面说明担忧，并明确请求 evaluation，而不只写“请多帮助一下”。
+- [ ] 向学校／学区指定部门书面说明担忧，并明确请求评估，而不只写“请多帮助一下”。
 - [ ] 保存请求发送日期和学校回复。
-- [ ] 在签 consent 前看清评估领域；孩子的困难不一定只属于单一学科。
-- [ ] 要求并保存 procedural safeguards notice。IDEA 规则要求在 initial referral 或 parent request for evaluation 等情形向家长提供相应程序权利说明。
+- [ ] 在签同意书前看清评估领域；孩子的困难不一定只属于单一学科。
+- [ ] 要求并保存程序保障通知。《残障人士教育法》（IDEA）规则要求在首次转介或家长提出评估请求等情形向家长提供相应程序权利说明。
 
-**官方原文：** [IDEA §300.301 Initial evaluations](https://sites.ed.gov/idea/regs/b/d/300.301) · [IDEA §300.504 Procedural safeguards notice](https://sites.ed.gov/idea/regs/b/e/300.504)。
+**官方原文：** [《残障人士教育法》（IDEA） §300.301 初次评估](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/section-300.301) · [《残障人士教育法》（IDEA） §300.504 程序保障通知](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.504)。
 
-## Section 504 不等于“轻量版 IEP”
+## 第504节（Section 504）不等于“轻量版个别化教育计划（IEP）”
 
-Section 504 与 IDEA 是不同法律框架。学校在 Section 504 下也需要基于个体信息进行 evaluation；不能只凭诊断名称自动决定是否提供 plan，也不能因为没有某个医学标签就停止讨论实际功能限制。
+第504节（Section 504）与《残障人士教育法》（IDEA）是不同法律框架。学校在第504节（Section 504）下也需要基于个体信息进行评估；不能只凭诊断名称自动决定是否提供计划，也不能因为没有某个医学标签就停止讨论实际功能限制。
 
-**官方解释：** [U.S. Department of Education：Section 504 FAPE FAQ](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
+**诊断要求：** [教育部：医疗诊断不是学校认定残障和评估需要的必备前提](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination)。
+
+**官方解释：** [美国教育部：第504节免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
 
 ## 对学校评估不同意时
 
-IDEA 规则为符合条件的情形提供 independent educational evaluation（IEE）机制。家长对 public agency 的 evaluation 不同意并请求 public-expense IEE 时，agency 通常需要在不作不合理拖延的情况下，要么提供 IEE，要么提起 due process 来证明其 evaluation appropriate；具体条件和次数限制见规则。
+《残障人士教育法》（IDEA）规则为符合条件的情形提供独立教育评估（IEE）机制。家长对公共教育机构的评估不同意并请求公费独立教育评估（IEE）时，机构必须在不作不合理拖延的情况下，要么提供公费独立教育评估，要么提起正当程序听证来证明其评估适当；具体条件和次数限制见规则。
 
-**官方原文：** [IDEA §300.502 Independent educational evaluation](https://sites.ed.gov/idea/regs/b/e/300.502)。
+**官方原文：** [《残障人士教育法》（IDEA） §300.502 独立教育评估](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.502)。
 
-## 每次 meeting 前准备一页纸
+## 每次会议前准备一页纸
 
 | 项目 | 内容 |
 |---|---|
@@ -52,15 +56,15 @@ IDEA 规则为符合条件的情形提供 independent educational evaluation（I
 
 ## 沟通卡住时怎样升级
 
-1. 先确认目前是在普通 classroom support、evaluation、IEP、504、discipline 还是其他流程。
+1. 先确认目前是在普通课堂支持、评估、个别化教育计划（IEP）、504、纪律处分还是其他流程。
 2. 要求学校把决定和理由用书面形式提供。
-3. 从 district special-education / student-services、state education agency、parent training and information center 或合格教育律师查对应程序。
-4. 不把社交媒体经验帖中的 deadline、IEP 权利或州程序直接套用到自己的 district。
+3. 从学区特殊教育／学生服务、州教育主管机构、家长培训与信息中心或合格教育律师查对应程序。
+4. 不把社交媒体经验帖中的期限、个别化教育计划（IEP）权利或州程序直接套用到自己的学区。
 
 ## 转学时不要只转成绩
 
-- [ ] 请求当前 IEP / 504、最近 evaluation、progress reports、discipline / attendance records 和重要通信。
+- [ ] 请求当前个别化教育计划（IEP） / 504、最近评估、进展报告、纪律／出勤记录和重要通信。
 - [ ] 把新学校实际收到材料作为完成节点。
-- [ ] 对正在进行的 evaluation 或 dispute，询问两边 district 如何承接，记录明确联系人和时间表。
+- [ ] 对正在进行的评估或争议，询问两边学区如何承接，记录明确联系人和时间表。
 
-最后编辑与来源核验：2026-09-21。IDEA initial evaluation、procedural safeguards、IEE 与 Section 504 基础说明依据 U.S. Department of Education 当前公开规则；州时间表和地方程序需单独确认。
+最后编辑与来源核验：2026-09-22。《残障人士教育法》（IDEA）初次评估、程序保障、IEE 与第504节（Section 504）基础说明已对照联邦法规与美国教育部官方说明；原教育部法规页本轮抓取受限，已改用联邦法规入口；州时间表和地方程序需单独确认。

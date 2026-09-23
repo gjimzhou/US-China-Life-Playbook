@@ -1,5 +1,7 @@
 # 遭遇盗窃、入室、抢劫、袭击或家人失踪：先处理安全，再留证据
 
+> **内容性质：行动建议与个案核对问题。** 勾选项用于整理任务，不代表每项都是法律义务；期限、资格与合同要求按所在地和实际文件确认。
+
 用于普通刑事事件和人身安全事件。家庭暴力／伴侣控制另见[分居、离婚与家庭安全清单](separation-family-safety.md)；金融诈骗另见[网络安全事件清单](cyber-incident.md)。
 
 ## 正在发生危险
@@ -7,66 +9,66 @@
 - [ ] 先离开危险、锁门／进入安全地点并联系 911 或当地应急服务。
 - [ ] 不为了拍摄、追回财物或保护现场而重新进入危险区域。
 - [ ] 有身体伤害、性侵或其他医疗需要时优先接受医疗照护。
-- [ ] 告诉 dispatcher 当前位置、是否有人受伤、是否看见武器、嫌疑人是否仍在附近。
+- [ ] 告诉接警调度员当前位置、是否有人受伤、是否看见武器、嫌疑人是否仍在附近。
 
 ## 事情已经结束，但需要报案
 
-USA.gov 当前 crime portal 将 emergency reporting、police report 和 victim support 分开列出。对于 theft、burglary、assault 等，先从所在地 police / law enforcement 的 official reporting channel 进入。
+美国政府服务网当前犯罪报告门户将紧急报案、报警记录和受害者支持分开列出。对于盗窃、入室盗窃、袭击等，先从所在地警方／执法机构的官方报案渠道进入。
 
-**全国入口：** [USA.gov：Report crime, find victim support](https://www.usa.gov/crime)。
+**全国入口：** [美国政府服务网：犯罪报告与受害者支持](https://www.usa.gov/crime)。
 
 - [ ] 记录时间、地点、损失／伤害和已知目击者。
-- [ ] 保留照片、门禁记录、camera clip、receipt、serial number。
+- [ ] 保留照片、门禁记录、监控片段、收据、序列号。
 - [ ] 不先清理可能需要警方查看的明显证据，除非安全／卫生需要。
-- [ ] 取得 incident / report number 和后续联系人。
+- [ ] 取得事件／报案编号和后续联系人。
 
 ## 入室盗窃或住宅被闯入
 
 如果回家发现门窗异常、屋内可能还有人，不要进去搜索，先在安全地点联系警方。
 
 警方处理后再做：
-- [ ] lock / door / window emergency repair；
-- [ ] insurer / landlord / HOA 通知；
-- [ ] inventory loss；
-- [ ] stolen cards / devices / IDs 的账户止损；
+- [ ] 锁具／门窗紧急维修；
+- [ ] 保险公司／房东／业主协会通知；
+- [ ] 损失清单；
+- [ ] 被盗银行卡／设备／证件的账户止损；
 - [ ] 保存临时住宿、维修和更换锁具费用。
 
 ## 被抢／被盗的不只是物品
 
-如果手机、wallet、keys、ID、passport 或 badge 被拿走，同时进入：
+如果手机、钱包、钥匙、身份证件、护照或门禁卡被拿走，同时进入：
 - [手机丢失流程](../book/30-Household-Emergency-Runbook.md#6-手机丢失或被盗)；
 - [钱包与证件丢失清单](lost-wallet-documents.md)；
 - [网络安全事件清单](cyber-incident.md)。
 
 ## 受害者支持（Victim Services）
 
-DOJ Office for Victims of Crime 提供 nonemergency victim-service directory，可按地区、victimization type 和服务类型查本地资源；也列出 VictimConnect 等 referral / support 入口。
+美国司法部犯罪受害者办公室提供非紧急受害者服务目录，可按地区、受害事件类型和服务类型查本地资源；也列出受害者联络服务（VictimConnect）等转介／支持入口。
 
-**入口：** [OVC Directory of Crime Victim Services](https://ovc.ojp.gov/directory-crime-victim-services) · [OVC Hotlines](https://ovc.ojp.gov/help-for-victims/toll-free-text-and-online-hotlines)。
+**入口：** [犯罪受害者办公室：服务目录](https://ovc.ojp.gov/directory-crime-victim-services) · [犯罪受害者办公室：求助热线](https://ovc.ojp.gov/help-for-victims/toll-free-text-and-online-hotlines)。
 
 ## 家人／孩子失踪
 
 ### 孩子失踪
 
-不要等 24 小时。NCMEC 当前明确建议：认为孩子失踪时立即联系当地 law enforcement；报案后联系 NCMEC 1-800-THE-LOST。联邦规则不允许 law enforcement 对 missing child report 设置等待期。
+不要等 24 小时。美国失踪与受剥削儿童中心（NCMEC）当前明确建议：认为孩子失踪时立即联系当地执法机构；报案后联系 NCMEC 1-800-THE-LOST（1-800-843-5678）。联邦规则不允许执法机构对儿童失踪报告设置等待期。
 
-**入口：** [NCMEC：Is Your Child Missing?](https://us.missingkids.org/MissingChild)。
+**入口：** [美国失踪与受剥削儿童中心：孩子失踪怎么办](https://www.missingkids.org/gethelpnow/isyourchildmissing)。
 
 ### 成人失踪
 
-成人失踪是否进入 endangered / involuntary 等类别取决于实际情况和执法机关标准。如果存在受伤、自杀风险、认知障碍、暴力、异常失联、灾害等安全担忧，尽快联系当地警方，说明具体风险事实，而不是简单说“联系不上”。
+不要自行等待某个统一的24或48小时门槛，有安全担忧即可向警方说明。成人失踪是否进入处于危险／非自愿失踪等类别取决于实际情况和执法机关标准。如果存在受伤、自杀风险、认知障碍、暴力、异常失联、灾害等安全担忧，尽快联系当地警方，说明具体风险事实，而不是简单说“联系不上”。
 
 ## 境外遭遇犯罪
 
-美国公民在境外遭遇犯罪，可联系当地警方和最近的 U.S. embassy / consulate；国务院可协助提供当地医疗、律师、护照 replacement 和 victim resource 信息，但不会替代当地警方调查。
+美国公民在境外遭遇犯罪，可联系当地警方和最近的美国使领馆；国务院可协助提供当地医疗、律师、护照补办和受害者资源信息，但不会替代当地警方调查。
 
-**入口：** [State Department：Victims of Crime Abroad](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html)。
+**入口：** [美国国务院：境外犯罪受害者援助](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html)。
 
 ## 保险与后续
 
-- [ ] renters / homeowners / auto / travel insurance 可能分别适用；
-- [ ] 每家 insurer 的 police report / proof-of-loss 要求不同；
-- [ ] 保留 claim number、estimate、receipt 和最终 settlement；
-- [ ] 有持续 stalking / harassment / threat 时，重新评估 safety plan，不把它当作单次 property claim。
+- [ ] 租客／房主／汽车／旅行保险可能分别适用；
+- [ ] 每家保险公司的报警记录／损失证明要求不同；
+- [ ] 保留理赔编号、估价、收据和最终结算；
+- [ ] 有持续跟踪／骚扰／威胁时，重新评估安全计划，不把它当作单次财产理赔。
 
-最后编辑与来源核验：2026-09-22。犯罪报告总入口依据 USA.gov；非紧急 victim-service 入口依据 DOJ OVC；missing child 紧急报告依据 NCMEC / FBI 当前公开说明；境外受害者入口依据美国国务院。
+最后编辑与来源核验：2026-09-22。犯罪报告总入口依据美国政府服务网；非紧急受害者服务入口依据司法部犯罪受害者办公室；失踪儿童紧急报告依据美国失踪与受剥削儿童中心／美国联邦调查局当前公开说明；境外受害者入口依据美国国务院。
