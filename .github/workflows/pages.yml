@@ -73,5 +73,5 @@ jobs:
           PYRELEASE
           gh release create "$version" release-site/downloads/* \
             --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
-            --title "$version：中美双栖人生指南 · 首个完整参考版" \
+            --title "$version：中美双栖人生指南" \
             --notes-file "docs/releases/$version.md" --latest
