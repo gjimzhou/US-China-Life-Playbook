@@ -146,7 +146,7 @@
 
 不要在悲痛或权限未明时急于转移资产、清偿所有声称的债务或关闭账户。后续见[身故后的实际操作](35-死亡后的实际操作与Estate-Administration.md)。
 
-**美国总入口：** [USA.gov：What to do when someone dies](https://www.usa.gov/after-death) · [SSA：When Someone Dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
+**美国总入口：** [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [SSA：When Someone Dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
 
 ## 17. 把家庭手册做成索引
 
@@ -192,6 +192,6 @@
 - [ ] 事件记录含负责人、期限、下一步和完成证据。
 - [ ] 至少试过一个最可能导致全家无法运作的场景。
 
-**入口汇总：** [911.gov](https://www.911.gov/calling-911/) · [Ready.gov](https://www.ready.gov/) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [USA.gov After a Death](https://www.usa.gov/after-death) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [国家政务服务平台](https://gjzwfw.www.gov.cn/)。
+**入口汇总：** [911.gov](https://www.911.gov/calling-911/) · [Ready.gov](https://www.ready.gov/) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [国家政务服务平台](https://gjzwfw.www.gov.cn/)。
 
 最后编辑与来源核验：2026-09-21。本章已从内部索引升级为直接 action portal：911 / Ready.gov、AHA / Red Cross / Poison Control、USFA、NAIC / NHTSA、Apple / Google、IdentityTheft.gov / IC3、ASPCA、国家卫健委 / 医保、DOL / USA.gov unemployment、ABA、IRS / USCIS、国务院护照、CFPB / HHS 与 FEMA 均有对应入口。不同事件的实际法律期限、承保、医疗处置和地方流程仍以现场专业指示与主管机构为准。

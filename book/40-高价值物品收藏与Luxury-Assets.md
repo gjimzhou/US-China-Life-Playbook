@@ -184,7 +184,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 记录作品、尺寸、来源、状态、装裱、安装和运输历史。脆弱、体积大或价值重大的作品，可请熟悉该类作品的搬运或保护人员评估；先确定包装、环境和交接责任。
 
-**保存参考：** [Smithsonian Museum Conservation Institute：Taking Care](https://mci.si.edu/ask-mci)提供藏品保存的一般入口；高价值作品的包装、安装和运输仍应由熟悉该媒介的专业人员按具体 condition 处理。
+**保存参考：** [史密森尼美国艺术博物馆：藏品养护与专业修复](https://americanart.si.edu/research/my-art/care)提供藏品保存的一般入口；高价值作品的包装、安装和运输仍应由熟悉该媒介的专业人员按具体 condition 处理。
 
 ---
 

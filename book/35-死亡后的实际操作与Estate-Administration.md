@@ -8,7 +8,7 @@
 
 安排儿童、宠物、住所安全、家人通知、必要交通和依法可用的资金。医疗机构、临终照护方或当地机构可以说明下一步。无需立即卖房、重新投资或分配遗产，但真正的通知与办理期限不能忽略。
 
-**美国总入口：** [USA.gov：What to do when someone dies](https://www.usa.gov/after-death) · [SSA：What to do when someone dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
+**美国总入口：** [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [SSA：What to do when someone dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
 
 ## 2. 确认谁有权处理哪类资产
 
@@ -22,7 +22,7 @@
 
 寻找遗嘱、信托、殡葬意愿、身份与关系文件、受益人记录、房契、保单、报税资料、雇主福利和账户目录。记录原件在哪里，暂不把唯一原件寄给多个机构，按要求提供副本或认证件。
 
-**准备参考：** [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [USA.gov：What to do when someone dies](https://www.usa.gov/after-death)。
+**准备参考：** [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one)。
 
 ## 4. 死亡证明按机构要求取得
 
@@ -206,7 +206,7 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 以机构接收、依法完成转移、实际到账或专业结案确认作为相应节点，不能只标“已联系”。
 
-**本项目方法论：** 每项至少保留 case / confirmation number、submitted document、到账或关闭证明之一；官方总入口可从 [USA.gov After a Death](https://www.usa.gov/after-death)开始。
+**本项目方法论：** 每项至少保留 case / confirmation number、submitted document、到账或关闭证明之一；官方总入口可从 [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one)开始。
 
 ## 31. 殡葬服务先选“需要什么”，不要默认买套餐
 

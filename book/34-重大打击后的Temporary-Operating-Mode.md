@@ -39,7 +39,7 @@
 
 先安排必要医疗或殡葬联络、儿童与宠物、住所和合法可用资金，再按权限处理遗产。没有统一要求必须在某一天关闭全部账户。见[身故后操作](35-死亡后的实际操作与Estate-Administration.md)。
 
-**总入口：** [USA.gov：What to do when someone dies](https://www.usa.gov/after-death) · [SSA：When Someone Dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
+**总入口：** [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [SSA：When Someone Dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
 
 ## 7. 失业后的工作分阶段
 
@@ -135,6 +135,6 @@
 - [ ] 权限、信息分享与收款渠道已核对。
 - [ ] 未完成事项有负责人、下一步和适当复盘。
 
-**入口汇总：** [911.gov](https://www.911.gov/) · [988 Lifeline](https://988lifeline.org/) · [USA.gov After a Death](https://www.usa.gov/after-death) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [FTC ReportFraud](https://reportfraud.ftc.gov/) · [DOL FMLA](https://www.dol.gov/agencies/whd/fmla)。暂时减少任务是允许的；目标是维持必要生活，并在需要时取得帮助。
+**入口汇总：** [911.gov](https://www.911.gov/) · [988 Lifeline](https://988lifeline.org/) · [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [FTC ReportFraud](https://reportfraud.ftc.gov/) · [DOL FMLA](https://www.dol.gov/agencies/whd/fmla)。暂时减少任务是允许的；目标是维持必要生活，并在需要时取得帮助。
 
 最后编辑与来源核验：2026-09-21。本章仍是重大打击后的家庭分工框架，不规定 24–72 小时、1–4 周或任何固定恢复时间，也不承担心理诊断功能。已在真正需要立即行动的节点补入 911 / 988、SAMHSA、IC3 / FTC / CFPB、DOL FMLA / EBSA / COBRA、IRS / USCIS / NAIC / ABA 等入口；医疗、法律、福利与合同期限仍须按具体事件核对。

@@ -11,7 +11,7 @@
 - [ ] 确认家属合法可用的日常资金，保存关键文件。
 - [ ] 按需要通知雇主，暂缓未经确认的账户转移或遗产分配。
 
-**第一站：** [USA.gov：What to do when someone dies](https://www.usa.gov/after-death) · [SSA：What to do when someone dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
+**第一站：** [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [SSA：What to do when someone dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
 
 ## 文件与专业人士
 
