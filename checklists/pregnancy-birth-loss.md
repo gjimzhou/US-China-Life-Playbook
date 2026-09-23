@@ -18,7 +18,7 @@
 
 美国疾病控制与预防中心（CDC）的“倾听她”项目当前提醒：怀孕期间及生产后一年内都可能出现需要立即医疗评估的孕产妇危险信号。严重头痛、昏厥、视力变化、发热、呼吸困难、胸痛、严重腹痛、明显出血／流液、胎动明显减少等都不应等到下一次普通产检再说。
 
-**官方入口：** [CDC：孕产妇紧急危险信号](https://www.cdc.gov/hearher/maternal-warning-signs/index.html) · [CDC：孕产妇须知](https://www.cdc.gov/hearher/pregnant-postpartum/index.html)。
+**官方入口：** [CDC Hear Her：孕产妇紧急警示症状](https://www.cdc.gov/hearher/maternal-warning-signs/index.html) · [CDC：孕产妇须知](https://www.cdc.gov/hearher/pregnant-postpartum/index.html)。
 
 ## 怀疑流产／早期妊娠丢失（Early Pregnancy Loss）
 
@@ -34,7 +34,7 @@
 - [ ] 问清何时必须去医院急诊（ER）、何时复诊、何时重复超声检查／化验。
 - [ ] 如果这次妊娠结束，记得处理预约、保险账单、工作请假和情绪支持，而不是只处理身体部分。
 
-**专业入口：** [ACOG：早期妊娠丢失（Early Pregnancy Loss）](https://www.acog.org/womens-health/faqs/early-pregnancy-loss)。
+**专业入口：** [ACOG：早期妊娠丢失](https://www.acog.org/womens-health/faqs/early-pregnancy-loss)。
 
 ## 临产或疑似破水
 

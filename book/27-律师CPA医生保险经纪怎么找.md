@@ -6,7 +6,7 @@
 
 写清涉及的地区、发生了什么、希望解决什么、已知期限和已有材料。例如“需要审查一份适用某州法的雇佣协议”，比“找一个厉害的律师”更便于匹配。初次询问不必附完整证件、账户或病历。
 
-**本项目实务建议：** 先定义 problem / jurisdiction / deadline / desired deliverable，再找专业人士。律师、税务、医生、保险分别从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) · [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) 开始。
+**本项目实务建议：** 先定义问题、管辖地区、截止日期及预期交付物，再找专业人士。律师、税务、医生、保险分别从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) · [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) 开始。
 
 ## 2. 按四步从候选走到委托
 
@@ -36,13 +36,13 @@
 
 询问各级人员费率、电话与邮件如何计费、第三方费用、超范围工作如何批准，以及中止委托时如何交接。按结果收费也可能另有支出责任。
 
-**继续看：** [FTC：聘请律师](https://consumer.ftc.gov/articles/hiring-lawyer)。具体 fee agreement、trust account 和 contingency rules 依州法与事项核对。
+**继续看：** [FTC：聘请律师](https://consumer.ftc.gov/articles/hiring-lawyer)。具体收费协议、受托保管账户和胜诉收费规则依州法与事项核对。
 
 ## 6. 事务所规模不是匹配度
 
 比较真正负责人的经验、可投入时间、需要的跨领域协作和预算。大所、小所或独立执业都有可能适合。不要只与负责接洽的人谈得愉快，却不知道经办人是谁。
 
-**本项目实务建议：** firm size 不是质量分数；关键是 named responsible professional、scope、response time、conflicts 和 budget。执业资格仍从对应 regulator 独立核对。
+**本项目实务建议：** 机构规模不是质量分数；关键是明确负责的专业人士、服务范围、回复时间、利益冲突和预算。执业资格仍从对应监管机构独立核对。
 
 ## 7. 税务：先列出自己真正的复杂点
 
@@ -56,7 +56,7 @@ IRS 税务专业人士选择指南说明可选人员包括 CPA、注册税务师
 
 让事务所说明资料由谁接触、实际编制人与复核人、关键假设如何确认、报税后通知由谁处理。团队分工本身不是问题，但应有明确负责人。提交前自己核对姓名、账户、收入和主要选择，保留最终申报文件及接收确认。
 
-**继续看：** [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional)。无论谁编制，纳税人仍应在签名前审阅 return，并保留最终申报文件。
+**继续看：** [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional)。无论谁编制，纳税人仍应在签名前审阅税表，并保留最终申报文件。
 
 ## 9. 税务资格分别核验
 
@@ -66,7 +66,7 @@ IRS 税务专业人士选择指南说明可选人员包括 CPA、注册税务师
 
 IRS 上述入口链接的名录收录持特定资质或完成指定项目的报税人员，并非所有报税员总名单。报税员识别号（PTIN）也不是专业能力认证。找不到记录时先核对姓名和资质类型，必要时向发证机构确认。
 
-**继续看：** [IRS：PTIN requirements](https://www.irs.gov/tax-professionals/ptin-requirements-for-tax-return-preparers) · [IRS：Return preparer directory FAQ](https://www.irs.gov/tax-professionals/faqs-directory-of-federal-tax-return-preparers-with-credentials-and-select-qualifications)。
+**继续看：** [IRS：报税人员识别号码要求](https://www.irs.gov/tax-professionals/ptin-requirements-for-tax-return-preparers) · [IRS：报税人员名录常见问题](https://www.irs.gov/tax-professionals/faqs-directory-of-federal-tax-return-preparers-with-credentials-and-select-qualifications)。
 
 ## 10. 税务规划与报税委托分开写
 
@@ -90,15 +90,15 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 问清常规预约、急性问题、非工作时间咨询、处方续配、检验结果通知和转诊怎么处理。如果主要需求是长期管理，持续沟通与病历衔接应纳入选择，而不是只看名气。参见[美国医疗系统](04-美国医疗系统怎么用.md)。
 
-**保险网络仍要另查：** 医生在州执照、CMS 或医院目录中出现，不代表属于你这份具体保险计划；最终回到 insurer provider directory 并向诊所确认具体地点与 billing entity。
+**保险网络仍要另查：** 医生在州执照、CMS 或医院目录中出现，不代表属于你这份具体保险计划；最终回到保险公司医疗服务名录并向诊所确认具体地点与收费实体。
 
-**找医生：** [Medicare Care Compare：医生与临床人员查询](https://www.medicare.gov/care-compare/?providerType=Physician)可作为候选入口；最终仍以本人 insurer directory 和诊所确认结果为准。
+**找医生：** [Medicare Care Compare：医生与临床人员查询](https://www.medicare.gov/care-compare/?providerType=Physician)可作为候选入口；最终仍以本人保险公司服务名录和诊所确认结果为准。
 
 ## 14. 第二意见要问清是否来得及
 
 面对重大、不可逆或存在明显分歧的治疗决定，可以询问独立第二意见（Second opinion），带齐影像、病理和病历。先问当前医生安全的决策时间窗口，避免因预约延迟耽误急症。重点是理解诊断、替代方案、收益与风险，不是寻找必然同意自己想法的人。
 
-**继续看：** [NCI：寻找癌症医疗与第二意见](https://www.cancer.gov/about-cancer/managing-care/services)；其他疾病应从相应专业协会或大型医疗系统寻找具体 second-opinion 入口。
+**继续看：** [NCI：寻找癌症医疗与第二意见](https://www.cancer.gov/about-cancer/managing-care/services)；其他疾病应从相应专业协会或大型医疗系统寻找具体第二诊疗意见入口。
 
 ## 15. 保险：先列风险再问产品
 
@@ -110,7 +110,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 询问对方能提供哪些公司的哪些产品、谁支付费用或佣金、是否存在无法比较的选择。专属代理通常服务特定公司，但具体关系以披露为准。名称不决定服务质量，比较实际覆盖、除外条款和理赔协助。
 
-**核验入口：** [NIPR：执照查询](https://nipr.com/licensing-center) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。“Independent”不等于覆盖全市场，carrier appointments / product access 直接问清。
+**核验入口：** [NIPR：执照查询](https://nipr.com/licensing-center) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。“独立经纪”不等于覆盖全市场，代理保险公司的范围及可销售产品直接问清。
 
 ## 17. 要求指出缺口并交付书面结果
 
@@ -118,7 +118,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 要求说明建议保额、关键除外责任、免赔额、需补充的资料以及何时生效。报价、申请、付款和正式承保不是同一个完成节点；保存承保确认与保单。
 
-**继续看：** [NAIC：消费者保险资料](https://content.naic.org/consumer) · [保险投诉](https://content.naic.org/consumer/insurance-complaints)。最终以 declarations、policy forms 与 endorsements 为准。
+**继续看：** [NAIC：消费者保险资料](https://content.naic.org/consumer) · [保险投诉](https://content.naic.org/consumer/insurance-complaints)。最终以保单概要、保单条款与附加条款为准。
 
 ## 18. 金融服务：核对本人、公司和披露记录
 
@@ -150,13 +150,13 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 | 主要风险和无法保证的部分是什么？ | What are the main risks and uncertainties? |
 | 如何联系，多久回复，急事找谁？ | How do we communicate, and who handles urgent matters? |
 
-**本项目实务建议：** 这五问用于所有专业服务的初筛；资格核验仍回到本章对应 regulator / directory。
+**本项目实务建议：** 这五问用于所有专业服务的初筛；资格核验仍回到本章对应监管机构 / 名录。
 
 ## 22. 服务中断时要能升级或交接
 
 约定常规回复时间和紧急联系方式。期限临近而联系不上，向负责人或机构升级，同时寻找替代咨询，不因已发邮件就认为期限暂停。更换服务前确认资料、费用和未完成事项如何交接；法律程序中的退出或替换要求需另查。
 
-**本项目实务建议：** “已发邮件”不等于延期。律师替换按法院 / bar rules，税务 / 医疗 / 保险则按实际机构交接流程；候选入口可从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) / [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) / [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) / [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)重新寻找。
+**本项目实务建议：** “已发邮件”不等于延期。律师替换按法院 / 律师协会规则，税务 / 医疗 / 保险则按实际机构交接流程；候选入口可从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) / [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) / [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) / [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)重新寻找。
 
 ## 23. 敏感材料通过核实的渠道传递
 
@@ -168,7 +168,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 比较相同服务范围、负责人员、交付物和后续支持，而不只比小时费率。可以从一次范围明确的咨询开始；如果对方无法解释成本、持续扩张任务或建议超出自身专业，应暂停并找第二意见。
 
-**本项目实务建议：** 比较 total cost of solving the problem，而不是最低 hourly rate；费用和 scope 最终以 engagement / service agreement 为准。
+**本项目实务建议：** 比较解决问题的总费用，而不是最低小时收费；费用和服务范围最终以委托或服务协议为准。
 
 ## 25. 私人专业联系人表
 

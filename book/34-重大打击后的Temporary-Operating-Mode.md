@@ -107,7 +107,7 @@
 
 告知目前可联络时间、请假需求和下一次更新方式，按政策向指定部门提交必要证明。只向需要的人提供相应信息；休假期间收入、岗位保护和医保分别核对。
 
-**工作 / 福利入口：** [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [DOL：COBRA](https://www.dol.gov/general/topic/health-plans/cobra)。是否适用取决于 employer、员工资格和具体计划。
+**工作 / 福利入口：** [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [U.S. Department of Labor：医保延续保障（COBRA）](https://www.dol.gov/general/topic/health-plans/cobra)。是否适用取决于 employer、员工资格和具体计划。
 
 ## 17. 真正的期限单独管理
 

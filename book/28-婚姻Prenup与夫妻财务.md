@@ -14,9 +14,9 @@
 
 **医保期限不要把“30 天”和“60 天”混成一个规则：**
 
-- **Job-based group health plan：** HIPAA special enrollment 对 marriage 通常要求 plan 至少提供 **30 天**申请窗口；在这 30 天内提出完整 enrollment request 后，marriage-based coverage 最迟应从 plan 收到申请后的下一个 calendar month 第 1 天生效。雇主 plan 可给更长窗口，所以仍要看 SPD / benefits portal，但不能把 Marketplace 的 60 天直接套进 employer plan。
-- **Marketplace：** HealthCare.gov / CMS 当前规则下，marriage 通常给事件后 **60 天**的 SEP。Federal Marketplace 对 marriage SEP 还通常要求夫妻至少一方在婚前 60 天中有 **至少 1 天 qualifying health coverage**；如果婚前 60 天内曾居住在外国或美国领地、属于 federally recognized tribe / ANCSA shareholder，或符合 CMS 列出的无 QHP service-area 等例外，则 prior-coverage requirement 可能不适用。选定计划后，一般可从 plan selection 后的下月 1 日开始 coverage。
-- **Medicaid / CHIP 相关 group-plan special enrollment：** 因失去 Medicaid / CHIP，或新取得 premium assistance eligibility 而要求加入 employer group health plan，联邦最低 request window 通常是 **60 天**，不是上述 30 天。
+- **雇主团体医保计划：** HIPAA 特别参保对结婚通常要求计划至少提供 **30 天**申请窗口；在这 30 天内提出完整参保申请后，因结婚取得的保障最迟应从计划收到申请后的下一个自然月第 1 天生效。雇主计划可给更长窗口，所以仍要看 SPD / 福利网站，但不能把医保市场（Marketplace） 的 60 天直接套进雇主计划。
+- **医保市场（Marketplace）：** HealthCare.gov / CMS 当前规则下，结婚通常给事件后 **60 天**的 SEP。联邦医保市场对结婚 SEP 还通常要求夫妻至少一方在婚前 60 天中有 **至少 1 天符合条件的医疗保障**；如果婚前 60 天内曾居住在外国或美国领地、属于联邦承认的部落成员或阿拉斯加原住民索赔解决法规定的公司股东，或符合 CMS 列出的无合资格医疗计划服务区域等例外，则先前保障要求可能不适用。选定计划后，一般可从选择计划后的下月 1 日开始保障。
+- **医疗补助计划与儿童健康保险计划（Medicaid / CHIP） 相关团体计划特别参保：** 因失去医疗补助计划与儿童健康保险计划（Medicaid / CHIP），或新取得保费援助资格而要求加入雇主团体医保计划，联邦最低申请窗口通常是 **60 天**，不是上述 30 天。
 
 **当前规则入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
 
@@ -24,13 +24,13 @@
 
 可以合并大部分收入与支出，也可以保留各自账户、共同承担家庭账单。约定谁存入多少、何时补足、谁对账和如何应急。账户是否联名与法律上财产如何分类不是同一问题，需要分别确认。
 
-**本项目实务建议：** “共同 / 个人账户怎么组合”属于家庭 operating choice；婚姻财产性质、债务责任和死亡后归属则按州法、账户 title 和相关文件判断。
+**本项目实务建议：** “共同 / 个人账户怎么组合”属于家庭管理选择；婚姻财产性质、债务责任和死亡后归属则按州法、账户持有形式 和相关文件判断。
 
 ## 3. 披露与决定相关的财务信息
 
 讨论收入、资产、债务、担保、税务欠款、企业权益、父母支持和跨境资产。把尚不确定的继承或赠与写为预期，不当成已拥有资产。法律协议要求的披露范围与形式由各自律师确认，不能用一张粗略净资产表替代。
 
-**找本州律师：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。prenup disclosure 的充分性和形式高度依州法与事实。
+**找本州律师：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。婚前协议财产披露的充分性和形式高度依州法与事实。
 
 ## 4. 婚前协议能讨论什么，不能自行承诺什么
 
@@ -44,7 +44,7 @@
 
 在婚礼或登记日期之外预留准备、披露、咨询、翻译和修改时间。不要在重大时间压力下突然提出最后版本。询问各自律师适用法律的签署要求，保存最终版本和所需附件；本章不设全国通用的提前天数。
 
-**本项目实务建议：** 提前开始是为了留出 disclosure、independent advice 和 revision 时间，不代表存在全国统一“必须提前 X 天”的规则；具体要求回到本州律师与 statute。
+**本项目实务建议：** 提前开始是为了留出披露、独立意见和版本时间，不代表存在全国统一“必须提前 X 天”的规则；具体要求回到本州律师与成文法。
 
 ## 6. 分别获得独立法律意见
 
@@ -56,25 +56,25 @@
 
 讨论工资奖金、股权、退休资金、创业权益、房产、家庭照护、迁居和职业中断。把“若一方暂时减少工作或照顾家人，如何分担后果”写成具体问题交给律师，不只比较签约当天的余额。
 
-**本项目实务建议：** 把 future earnings、career interruption 与 care work 作为谈判维度，不代表任何州必然按某种方式执行；可约定范围与可执行性由各自律师确认。
+**本项目实务建议：** 把未来收入、职业中断与照护劳动作为谈判维度，不代表任何州必然按某种方式执行；可约定范围与可执行性由各自律师确认。
 
 ## 8. 父母出资先明确性质
 
 大额房款或其他支持要明确是赠与、借款还是投资，给谁、是否期待偿还、由谁持有。文件、转账记录、贷款申请和实际安排应一致；涉及跨境申报或税务的部分另请专业人士核对。
 
-**税务入口：** [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。是否需要申报取决于赠与人身份、金额、资产性质和年度。
+**税务入口：** [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：外国信托交易及特定外国赠与申报表（Form 3520）](https://www.irs.gov/forms-pubs/about-form-3520)。是否需要申报取决于赠与人身份、金额、资产性质和年度。
 
 ## 9. 房屋产权与贷款责任分别判断
 
 房契上的所有人、贷款借款人、首付来源、日常还款和身故后的归属需分别说明。不要为了贷款办理方便就默认某种产权形式适合双方。详见[买房与交割](36-买房Mortgage-Closing与HOA.md)，签署前请当地律师解释。
 
-**买房 / 法律入口：** [CFPB：购房与持有住房](https://www.consumerfinance.gov/owning-a-home/) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。deed title 与 mortgage liability 是不同问题。
+**买房 / 法律入口：** [CFPB：购房与持有住房](https://www.consumerfinance.gov/owning-a-home/) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。房产登记持有形式与房贷债务责任是不同问题。
 
 ## 10. 退休受益人不是只看婚前协议
 
 结婚后向计划管理人更新婚姻状态，逐个核对受益人和配偶同意要求。IRS 退休受益人说明列出不同计划的配偶保护。不要假定婚前协议中的一般放弃条款已满足退休计划的手续，也不要把 401(k) 规则直接套到个人退休账户（IRA）。
 
-**继续看：** [DOL：退休计划与雇员保障法常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。最终以 plan administrator 提供的 beneficiary / spousal-consent 表格为准。
+**继续看：** [DOL：退休计划与雇员保障法常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。最终以计划管理人提供的受益人 / 配偶同意表格为准。
 
 ## 11. 医疗与财务授权仍需主动安排
 
@@ -86,31 +86,31 @@
 
 双方不必处理完全相同的事务，但应知道主要账单、保险、税务、住房、照护和重要文件在哪里。用一次实际演练确认一方暂时不能处理时如何接手；不要直接共享所有密码来替代授权和安全恢复。
 
-**本项目实务建议：** household handoff 关注“知道入口 + 合法权限 + 恢复路径”，不是互相交出全部密码。数字安全见 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
+**本项目实务建议：** 家庭事务交接关注“知道入口 + 合法权限 + 恢复路径”，不是互相交出全部密码。数字安全见 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 13. 联名账户用于明确的共同目标
 
 可用于房租、房贷、日常账单或共同储备，先讨论供款、支出、透支和退出安排。个人账户可以保留。开户前了解机构规则，避免用合并全部资产证明信任。
 
-**本项目实务建议：** 联名账户适合承载明确共同用途，但其 ownership、survivorship、creditor 和 tax consequences 取决于州法与机构合同；开户时直接阅读 bank / brokerage account agreement。
+**本项目实务建议：** 联名账户适合承载明确共同用途，但其所有权、生存者承继安排、债权人和税务后果取决于州法与机构合同；开户时直接阅读银行或证券经纪账户协议。
 
 ## 14. 提前约定需要共同讨论的大事
 
 正常个人消费可有各自空间；大额购买、借款、投资、家庭资助和担保则约定讨论方式。金额门槛由实际预算决定，不给所有家庭套固定数字。规则应双方都能理解和使用，而不是单方审批。
 
-**本项目实务建议：** 这是家庭治理规则，不是法律阈值；threshold 应与 household cash flow、risk capacity 和双方接受度匹配。
+**本项目实务建议：** 这是家庭治理规则，不是法律阈值；门槛应与家庭现金流、风险承受能力和双方接受度匹配。
 
 ## 15. 父母支持单独列入预算
 
 讨论平时支持范围、紧急例外、与兄弟姐妹如何协调及信息如何共享。双方家庭的需要可能不同，不必机械对半；先明确可承受范围和决策流程，减少突发事件中反复争论。
 
-**本项目实务建议：** parent support 属于家庭预算与关系安排；涉及跨境赠与 / 汇款时另按 [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) 和对应国家税务 / 外汇规则核对。
+**本项目实务建议：** 父母资助属于家庭预算与关系安排；涉及跨境赠与 / 汇款时另按 [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) 和对应国家税务 / 外汇规则核对。
 
 ## 16. 赠与与继承保持记录并核对处理
 
 保存来源、时间、受赠或继承文件，以及之后如何使用的记录。是否保留个人财产性质、混用资金有什么后果，依适用法律与事实判断；不要仅凭转入个人账户就作确定结论。
 
-**税务 / 法律入口：** [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。marital-property classification 仍按州法。
+**税务 / 法律入口：** [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。婚姻财产分类仍按州法。
 
 ## 17. 税务预测同时看金额和责任
 
@@ -124,7 +124,7 @@
 
 比较保费、网络、免赔额、自付上限、常用药物、预计治疗、配偶附加费与雇主供款。另核对健康储蓄账户（HSA）和灵活支出账户（FSA）的资格互动，记录特别参保期限。不要只比较月保费，详见[员工福利](22-工作失业与Employee-Benefits.md)。
 
-**参保 / 资格入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf) · [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa)。结婚后 employer plan 与 Marketplace 的 enrollment window 不同；第1节已列当前 30 / 60-day 框架。
+**参保 / 资格入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf) · [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa)。结婚后雇主计划与医保市场（Marketplace） 的参保窗口不同；第1节已列当前 30天或60天 框架。
 
 ## 19. 同时考虑失能和身故场景
 
@@ -136,13 +136,13 @@
 
 搬州或跨国长期居住前，向相关地区律师说明既有协议、资产所在地和未来安排，核对是否需要更新。合同写了适用法律，也不能自行假定所有事项都只受该地法律控制。
 
-**找当地法律入口：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。跨境文件另见第 19 章的 apostille / authentication 入口。
+**找当地法律入口：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。跨境文件另见第 19 章的附加证明书或领事认证入口。
 
 ## 21. 共同管理不等于失去隐私
 
 可以共享家庭必须知道的信息，同时保留个人沟通、账户与独立咨询空间。若存在控制、威胁或财务胁迫，不能用“更透明”要求受影响的一方交出全部安全与资金控制；应通过安全渠道取得当地专业支持。
 
-**安全入口：** [USA.gov：Domestic Violence Help](https://www.usa.gov/report-crime) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。这不是要求普通夫妻隐藏信息，而是强调 household transparency 不能取消个人安全边界。
+**安全入口：** [USA.gov：家庭暴力与犯罪求助入口](https://www.usa.gov/report-crime) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。这不是要求普通夫妻隐藏信息，而是强调家庭信息透明不能取消个人安全边界。
 
 ## 22. 应急资金要依法可用
 
@@ -158,7 +158,7 @@
 
 在没有迫近安全风险或法律期限时，可以暂停重大决定、汇总资料，再安排独立咨询或双方愿意的调解。不要因冲突而擅自转空账户、隐匿财产或签署不理解的文件；已有诉讼或法院命令时尤其要先核对限制。
 
-**找帮助：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [ABA Dispute Resolution](https://www.americanbar.org/groups/dispute_resolution/)。调解是否适合取决于安全、程序和双方自愿程度。
+**找帮助：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [美国律师协会：争议解决](https://www.americanbar.org/groups/dispute_resolution/)。调解是否适合取决于安全、程序和双方自愿程度。
 
 ## 24. 婚前协议与遗产规划互相核对
 
@@ -174,15 +174,15 @@
 
 ## 26. 关系破裂时先区分普通分居与安全风险
 
-普通关系争议可以讨论财务、住房、孩子和法律安排；但如果存在暴力、威胁、跟踪、强制控制或技术监控，不应把“双方坐下来协商”当作默认第一步。立即危险时使用应急服务；其他情况下可在安全设备上联系 domestic-violence advocate，制定住房、孩子、宠物、证件、交通和数字安全计划。
+普通关系争议可以讨论财务、住房、孩子和法律安排；但如果存在暴力、威胁、跟踪、强制控制或技术监控，不应把“双方坐下来协商”当作默认第一步。立即危险时使用应急服务；其他情况下可在安全设备上联系家庭暴力受害者支持人员，制定住房、孩子、宠物、证件、交通和数字安全计划。
 
-**安全资源：** [DOJ Office on Violence Against Women：Resources for Victims and Survivors](https://www.justice.gov/ovw/resources-victims-and-survivors) · [National Domestic Violence Hotline：Plan for Safety](https://www.thehotline.org/plan-for-safety/)。
+**安全资源：** [DOJ Office on Violence Against Women：暴力受害者支持资源](https://www.justice.gov/ovw/resources-victims-and-survivors) · [National Domestic Violence Hotline：制定家庭暴力安全计划](https://www.thehotline.org/plan-for-safety/)。
 
 ## 27. 分居／离婚前先保存事实并维持基本生活
 
-不存在立即安全风险时，合法保存自己有权取得的婚姻协议、税表、工资、银行／证券／退休账户、房屋／租约／贷款、保险、债务和孩子资料。尽早向所在地 family-law lawyer 询问 jurisdiction、临时 support / custody、住房、资产、保险和跨州／跨境移动的影响。
+不存在立即安全风险时，合法保存自己有权取得的婚姻协议、税表、工资、银行／证券／退休账户、房屋／租约／贷款、保险、债务和孩子资料。尽早向所在地家庭法律师询问管辖权、临时抚养支持或监护、住房、资产、保险和跨州／跨境移动的影响。
 
-不要把清空联名账户、取消必要保险、删除记录、私自转移重大资产或搬走孩子当成通用“先保护自己”的动作；这些决定可能产生法律后果。安全事件例外，按 advocate / lawyer 的个案计划处理。
+不要把清空联名账户、取消必要保险、删除记录、私自转移重大资产或搬走孩子当成通用“先保护自己”的动作；这些决定可能产生法律后果。安全事件例外，按支持人员或律师的个案计划处理。
 
 **完整分流：** [分居、离婚与家庭安全清单](../checklists/separation-family-safety.md)。
 
@@ -195,4 +195,4 @@
 
 **入口汇总：** [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 marriage health-plan special enrollment：job-based HIPAA plan 对 marriage / birth / adoption / placement 通常至少给 30-day request window；Medicaid / CHIP loss 或 premium-assistance group-plan SEP 通常为 60 days；Marketplace marriage SEP 通常为 60 days，并存在 CMS 当前的 prior-coverage requirement 与例外。另核对 IRS withholding / joint-liability / gift / foreign-gift、DOL 退休计划配偶权益、NIA / CFPB 医疗与财务代理，以及 ABA 州律师转介入口。纽约州第 236 条继续仅作州法示例；婚前协议的签署、披露、婚姻财产分类、跨州 / 跨国效力和具体条款必须按适用地区与事实由各自律师审查。
+最后编辑与来源核验：2026-09-21。第三轮核对结婚等事件的特别参保窗口、生效日，以及医保市场要求的先前保障与例外，具体三十天或六十天的分支见正文。另核对国税局预扣税、联合税务责任、赠与及外国赠与规则，退休计划配偶权益、医疗与财务代理和州律师入口。纽约州第236条仅作州法示例；婚前协议签署、披露、婚姻财产分类、跨州或跨国效力和条款须按适用地区与事实由各自律师审查。

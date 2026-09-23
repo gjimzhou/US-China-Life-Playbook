@@ -13,7 +13,7 @@
 
 向航空公司或出票代理问清替代行程、退款和代金券的区别。接受替代运输或代金券前确认影响、有效期和限制，不把“先收下再说”当作无后果。
 
-美国适用航程的退款条件与期限统一见[第29章](../book/29-旅行长期停留与全球Mobility.md#15-旅行保障逐项比较)及[DOT退款说明](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds)。不要把自行买的更贵机票、酒店或餐费当作一定可以全额报销。
+美国适用航程的退款条件与期限统一见[第29章](../book/29-旅行长期停留与全球Mobility.md#15-旅行保障逐项比较)及[DOT：航空退款现行消费者规则](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds)。不要把自行买的更贵机票、酒店或餐费当作一定可以全额报销。
 
 ## 柜台排不到或今晚走不了
 

@@ -20,7 +20,7 @@
 
 以目的地移民部门、使领馆的现行要求为主，核对护照签发国、签证或豁免资格、访问目的和离境材料。航空公司登机查验另行确认。[美国国务院旅行准备入口](https://travel.state.gov/en/international-travel/planning/checklist.html)主要面向美国公民，不能直接替代其他护照持有人的规则。
 
-**美国公民查目的地：** [国务院：Travel Advisories / destination guidance](https://travel.state.gov/en/international-travel/planning.html)。页面会继续链接目的地的 entry / exit / visa、passport validity、使领馆、当地法律和健康信息。
+**美国公民查目的地：** [国务院：Travel Advisories / destination guidance](https://travel.state.gov/en/international-travel/planning.html)。页面会继续链接目的地的入境、出境及签证、护照有效期、使领馆、当地法律和健康信息。
 
 ## 3. 护照有效期不是统一的六个月
 
@@ -32,7 +32,7 @@
 
 分开出票、换机场、重新托运行李、过夜或航班取消，可能改变是否需要入境的判断。按实际机场和航班组合核对过境要求；留一个无法登机或改签后的联系入口。
 
-**核对顺序：** 先查转机国家 / 地区的官方 immigration / embassy 页面，再查 operating airline 的 transit / baggage 说明；不要只依赖第三方签证数据库。美国公民也可从[国务院目的地旅行信息](https://travel.state.gov/en/international-travel/planning.html)进入对应国家页面。
+**核对顺序：** 先查转机国家 / 地区的官方移民部门或使领馆页面，再查实际承运航空公司的转机及行李说明；不要只依赖第三方签证数据库。美国公民也可从[国务院目的地旅行信息](https://travel.state.gov/en/international-travel/planning.html)进入对应国家页面。
 
 ## 5. 境外医疗不能按美国境内体验推断
 
@@ -56,13 +56,13 @@
 
 按安检和运输规定安排证件、必要药物、钥匙、重要设备与充电用品。考虑随身包也可能遗失，把恢复资料与唯一设备分开保存。电池、液体和医疗器械的运输规定需向航空公司及机场核对。
 
-**美国安检入口：** [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [TSA：残障与医疗情况安检安排](https://www.tsa.gov/travel/tsa-cares/disabilities-and-medical-conditions)。国际航段还要看实际机场和 operating carrier。
+**美国安检入口：** [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [TSA：残障与医疗情况安检安排](https://www.tsa.gov/travel/tsa-cares/disabilities-and-medical-conditions)。国际航段还要看实际机场和实际承运航空公司。
 
 ## 9. 备用支付不要和主支付一起失效
 
 可准备分开放置的实体卡、不同机构的备用付款方式及适量当地可用资金，按费用和合法携带要求选择。手机钱包、验证码和银行卡若都依赖同一手机，就不算独立备用。出发前确认海外联系与挂失方式。
 
-**卡片遗失参考：** [FTC：Lost or Stolen Credit, ATM, and Debit Cards](https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards)。实际海外客服电话、freeze / replacement 与 cash-access 方案以自己的银行 / 发卡行官方渠道为准。
+**卡片遗失参考：** [FTC：信用卡、提款卡或借记卡丢失与被盗](https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards)。实际海外客服电话、冻结或补发与现金获取方案以自己的银行 / 发卡行官方渠道为准。
 
 ## 10. 实测丢手机后的恢复路径
 
@@ -74,7 +74,7 @@
 
 优先使用自己的已更新设备，核对网址与连接，避免在共享电脑登录关键账户。蜂窝网络或私人网络不能防止钓鱼网站；验证码、恢复码和远程控制权限都不应交给陌生“客服”。
 
-**继续看：** [FTC：Public Wi‑Fi](https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-know) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
+**继续看：** [FTC：公共无线网络安全](https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-know) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 12. 离家安排包括重要纸质通知
 
@@ -92,7 +92,7 @@
 
 让可信联系人知道必要行程与联系方法；公开发布时避免暴露实时位置、空置住房及随身贵重物品。私下分享同样应控制接收者和访问期限。
 
-**本项目实务建议：** 行程共享遵循“need to know + 可撤销访问”；账户与文件共享安全参考 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
+**本项目实务建议：** 行程共享遵循“按需知悉 + 可撤销访问”；账户与文件共享安全参考 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 15. 旅行保障逐项比较
 
@@ -105,22 +105,22 @@
 
 信用卡权益可能只覆盖部分项目。把支付方式、报案期限和实际受保对象写下来，不只比较最高金额。
 
-对适用美国 DOT 退款规则的 flights to, from, or within the United States，当前几个最实用的硬规则是：
+对适用美国 DOT 退款规则的飞往美国、从美国出发或美国境内航班，当前几个最实用的硬规则是：
 
-- **Flight cancelled / significantly changed：** 如果 passenger 不接受继续旅行、rebooking、voucher 或其他替代补偿，可以进入 cash / original-form-of-payment refund 路径。DOT 当前把 significant schedule change 的时间阈值定义为：domestic itinerary 提前出发或延迟到达 **3 小时或以上**；international itinerary **6 小时或以上**。改变 origin / destination airport、增加 connection、involuntary downgrade 等也可能构成 significant change。
-- **Refund timing：** refund 成为应付后，credit-card purchase 通常应在 **7 个营业日**内退；cash、check、debit card 等其他支付方式通常在 **20 个日历日**内退。DOT 某些 consumer FAQ 文案曾出现 “20 business days” 的不一致措辞，但 14 CFR / final rule 对“prompt refund”的正式定义是 **20 calendar days** for non-credit-card payments。
-- **Checked baggage fee：** 先向 airline 提交 mishandled baggage report（MBR）。如果 checked bag 未在 domestic arrival 后 **12 小时**内交付，或 international flight segment ≤12h 时在 **15 小时**内、>12h 时在 **30 小时**内交付，DOT 当前把它视为 significantly delayed，符合条件的 checked-bag fee 应自动退款；这不等于 bag 已被正式 declare lost，也不代替 delayed-baggage expense claim。
-- **Ancillary service：** 已付费但未实际提供的适用 ancillary service（例如某些 seat selection、Wi‑Fi 等）也可能触发 fee refund。
+- **航班取消或发生重大变更：** 如果旅客不接受继续旅行、改签、代金券或其他替代补偿，可以进入现金或按原支付方式退款路径。DOT 当前把重大时刻变更的时间阈值定义为：美国境内行程提前出发或延迟到达 **3 小时或以上**；国际行程 **6 小时或以上**。改变出发或到达机场、增加转机、非自愿降舱等也可能构成重大变更。
+- **退款时限：** 退款成为应付后，信用卡付款通常应在 **7 个营业日**内退；现金、支票或借记卡等其他支付方式通常在 **20 个日历日**内退。DOT 某些消费者常见问题文案曾出现 “二十个营业日” 的不一致措辞，但 14 CFR / 最终规则对“及时退款”的正式定义是 **二十个自然日** 适用于非信用卡付款。
+- **托运行李费：** 先向航空公司提交行李异常报告（MBR）。如果托运行李未在境内航班到达后 **12 小时**内交付，或国际航段 ≤12h 时在 **15 小时**内、>12h 时在 **30 小时**内交付，DOT 当前把它视为严重延误，符合条件的托运行李费应自动退款；这不等于行李已被正式宣布丢失，也不代替行李延误费用索赔。
+- **附加服务：** 已付费但未实际提供的适用附加服务（例如某些 seat selection、Wi‑Fi 等）也可能触发退还费用。
 
-**2026 特殊动态：** DOT 于 2026-07-08 延长一项 enforcement discretion 至 **2027-07-07**：如果只是 airline renumbered a flight，但 passenger 已被重新订到新 flight number，且实际运行没有其他 significant change / delay，DOT 暂不因“单纯 flight-number change”而执行原规则下的 automatic-refund requirement。不要把这项窄例外理解为普遍取消退款规则。
+**2026 特殊动态：** DOT 于 2026-07-08 延长一项执法酌处安排至 **2027-07-07**：如果只是航空公司更改航班编号，但旅客已被重新订到新航班编号，且实际运行没有其他重大变更或延误，DOT 暂不因“单纯航班编号变更”而执行原规则下的自动退款要求。不要把这项窄例外理解为普遍取消退款规则。
 
-**航空纠纷入口：** [DOT：Refunds — current consumer rules](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds) · [DOT：Ticket Refunds — rules / 2026 guidance index](https://www.transportation.gov/airconsumer/ticket-refunds) · [DOT：Lost, Delayed, or Damaged Baggage](https://www.transportation.gov/lost-delayed-or-damaged-baggage) · [DOT：Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。其他国家另查当地监管制度。
+**航空纠纷入口：** [DOT：航空退款现行消费者规则](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds) · [DOT：机票退款规则与2026年指引](https://www.transportation.gov/airconsumer/ticket-refunds) · [DOT：行李丢失、延误或损坏](https://www.transportation.gov/lost-delayed-or-damaged-baggage) · [DOT：Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。其他国家另查当地监管制度。
 
 ## 16. 租车车损与对他人责任分开
 
 分别核对车辆损坏或盗抢、第三方责任、人身医疗与随身物品。自己的车险、信用卡权益、旅行险和租车产品可能分担不同风险；同一张卡在不同国家、车型或租期的条件也可能不同。拿到具体条款再决定是否购买柜台产品。
 
-**继续看：** [FTC：租车须知](https://consumer.ftc.gov/articles/renting-car) · [NAIC：旅行保险](https://content.naic.org/consumer/travel-insurance)。信用卡 rental coverage 必须看本人当前 Guide to Benefits。
+**继续看：** [FTC：租车须知](https://consumer.ftc.gov/articles/renting-car) · [NAIC：旅行保险](https://content.naic.org/consumer/travel-insurance)。信用卡租车保障必须看本人当前权益指南。
 
 ## 17. 工作与长期停留在出发前审查
 
@@ -174,7 +174,7 @@
 
 检查异常交易、设备登录、遗失物、医疗后续和保险索赔期限。报案或提交材料后记录回执与下一步；退款、赔款或账户恢复需确认实际完成，再清理不再需要的共享权限。
 
-**返程检查入口：** [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [DOT Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。保险 / 医疗事项仍按实际 claim 和 provider 跟进。
+**返程检查入口：** [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [DOT Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。保险 / 医疗事项仍按实际理赔请求和服务提供方跟进。
 
 ## 26. 最小执行集
 
@@ -184,6 +184,6 @@
 - [ ] 住房、重要邮件与适用照护事项有人接手。
 - [ ] 实际境外工作与长期停留已做额外核对。
 
-**入口汇总：** [State Department Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC：旅行健康](https://wwwnc.cdc.gov/travel/) · [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [智慧旅客登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [DOT Air Consumer](https://www.transportation.gov/airconsumer)。详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
+**入口汇总：** [美国国务院：旅行准备清单](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC：旅行健康](https://wwwnc.cdc.gov/travel/) · [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [智慧旅客登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [美国交通部：航空消费者保护](https://www.transportation.gov/airconsumer)。详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 DOT 当前退款规则：适用航班 significant schedule change 的核心时间阈值仍为 domestic 3h / international 6h；prompt refund 正式规则为 credit-card 7 business days、other payment methods 20 calendar days；checked-bag fee 的 significant-delay thresholds 为 domestic 12h、international 15h（≤12h flight segment）/ 30h（>12h）。同时记录 DOT 2026-07-08 至 2027-07-07 的 narrow enforcement discretion：单纯 renumbered flight、已 rebook 且无其他 significant change / delay 时暂不执行该自动退款要求。另核对国务院 International Travel Checklist / STEP / lost-passport / driving / insurance / health-abroad、CDC Travelers’ Health 与携药、TSA 携带物品 / 医疗安检。具体目的地入境、过境、药品、工作许可、保险合同、航空公司自愿服务和当地交通法规仍须按实际国籍、日期与行程逐项核验。
+最后编辑与来源核验：2026-09-21。第三轮核对美国交通部航班重大变更退款、退款方式及时间、托运行李延误退费阈值，具体小时数和营业日或自然日区别见正文。同时记录2026-07-08至2027-07-07针对单纯航班编号变更的有限执法酌处安排，不能据此推断普遍取消退款规则。另核对国务院旅行准备、旅客登记、护照丢失、境外驾驶、保险及健康资料，以及疾控中心旅行健康与携药、机场安检物品和医疗协助入口。目的地入境、过境、药品、工作许可、保险合同、航空公司自愿服务和交通法规须按国籍、日期与行程逐项核验。

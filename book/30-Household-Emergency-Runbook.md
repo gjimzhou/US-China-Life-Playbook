@@ -20,7 +20,7 @@
 
 **继续跟进：** 指定记录人，记录治疗团队、待决事项与下一次沟通。重大治疗决定如需第二意见，先确认安全时间窗口。详见[紧急情况与急救](03-紧急情况与急救.md)。
 
-**直接学习 / 求助：** [AHA：仅胸外按压心肺复苏](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr) · [American Red Cross：First Aid](https://www.redcross.org/take-a-class/first-aid) · [中毒咨询中心（Poison Control）](https://www.poison.org/)。
+**直接学习 / 求助：** [AHA：仅胸外按压心肺复苏](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr) · [American Red Cross：急救培训](https://www.redcross.org/take-a-class/first-aid) · [中毒咨询中心（Poison Control）](https://www.poison.org/)。
 
 ## 3. 漏水与房屋损坏
 
@@ -62,7 +62,7 @@
 
 **确认完成：** 旧设备或会话已妥善处理，号码、登录与支付已恢复，并检查异常交易。详见[网络安全](15-网络安全与身份盗窃.md)。
 
-**设备入口：** [Apple：iPhone / iPad lost or stolen](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491) · [FTC：手机卡转移诈骗](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
+**设备入口：** [苹果：手机或平板丢失与被盗](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491) · [FTC：手机卡转移诈骗](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
 
 ## 7. 身份盗用、账户接管或被骗转账
 
@@ -98,7 +98,7 @@
 
 比较医保衔接方案，核对失业福利入口与预算，再处理退休账户、求职和长期安排。不急于签署不理解的豁免协议。详见[员工福利](22-工作失业与Employee-Benefits.md)及[失业清单](../checklists/job-loss.md)。
 
-**直接查询：** [U.S. Department of Labor：COBRA](https://www.dol.gov/general/topic/health-plans/cobra) · [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits)。
+**直接查询：** [U.S. Department of Labor：医保延续保障（COBRA）](https://www.dol.gov/general/topic/health-plans/cobra) · [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits)。
 
 ## 11. 律师函、索赔或诉讼文件
 
@@ -122,7 +122,7 @@
 
 证件副本可帮助提供信息，但不是替代证件。流程入口与限制见[旅行准备](29-旅行长期停留与全球Mobility.md)。
 
-**美国护照遗失：** [U.S. State Department：Lost or Stolen Passport](https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html) · [美国使领馆目录](https://www.usembassy.gov/)。其他国籍使用相应签发国使领馆。
+**美国护照遗失：** [U.S. State Department：护照丢失或被盗](https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html) · [美国使领馆目录](https://www.usembassy.gov/)。其他国籍使用相应签发国使领馆。
 
 ## 14. 中国手机号或银行访问失败
 
@@ -170,19 +170,19 @@
 
 ## 19. 区域灾害、停电停水或暂时不能回家
 
-先判断住宅是否仍安全，而不是先考虑舒适度。查看当地 emergency management、utility 与楼宇正式通知；火灾、燃气、一氧化碳、结构危险、快速洪水或官方撤离时先离开危险区域。
+先判断住宅是否仍安全，而不是先考虑舒适度。查看当地应急管理部门、公共事业公司与楼宇正式通知；火灾、燃气、一氧化碳、结构危险、快速洪水或官方撤离时先离开危险区域。
 
-大面积停电、停水或几天无法回家时，把问题拆成短期生活连续性：药物和医疗设备、宠物、孩子／父母、临时住所、通信与充电、支付、工作设备、房屋／车辆保险和 building access。极端温度、电梯、医疗设备、空气质量等都可能改变是否适合继续留在家中。
+大面积停电、停水或几天无法回家时，把问题拆成短期生活连续性：药物和医疗设备、宠物、孩子／父母、临时住所、通信与充电、支付、工作设备、房屋／车辆保险和楼宇进出权限。极端温度、电梯、医疗设备、空气质量等都可能改变是否适合继续留在家中。
 
 **执行清单：** [区域灾害、停电停水与暂时不能回家](../checklists/disaster-utility-outage.md) · [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · [Ready.gov：宠物应急准备](https://www.ready.gov/pets)。
 
 ## 20. 盗窃、入室、袭击或家人失踪
 
-危险仍在发生时先离开危险区域并联系 911；不要为了追回财物、拍照或“保护现场”重新进入可能有人的住宅。事件结束后再处理 police report、证据、保险、被盗设备／证件和 victim services。
+危险仍在发生时先离开危险区域并联系 911；不要为了追回财物、拍照或“保护现场”重新进入可能有人的住宅。事件结束后再处理警方报告、证据、保险、被盗设备／证件和受害者服务。
 
-孩子失踪时不要等待 24 小时。NCMEC 当前要求家长立即联系 local law enforcement，报案后再联系 NCMEC；成人失踪则应把受伤、自杀风险、认知障碍、暴力、异常失联或灾害等具体风险事实告诉警方。
+孩子失踪时不要等待 24 小时。NCMEC 当前要求家长立即联系当地执法部门，报案后再联系 NCMEC；成人失踪则应把受伤、自杀风险、认知障碍、暴力、异常失联或灾害等具体风险事实告诉警方。
 
-**完整清单：** [遭遇犯罪或家人失踪](../checklists/crime-victim.md) · [USA.gov：Report crime / victim support](https://www.usa.gov/crime) · [NCMEC：Is Your Child Missing?](https://us.missingkids.org/MissingChild)。
+**完整清单：** [遭遇犯罪或家人失踪](../checklists/crime-victim.md) · [USA.gov：报案与受害者支持](https://www.usa.gov/crime) · [NCMEC：儿童失踪后的求助](https://us.missingkids.org/MissingChild)。
 
 ## 21. 只保留适用的最小执行集
 
@@ -194,4 +194,4 @@
 
 **入口汇总：** [美国911应急服务](https://www.911.gov/calling-911/) · [美国灾害应急准备资料（Ready.gov）](https://www.ready.gov/) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [国家政务服务平台](https://gjzwfw.www.gov.cn/)。
 
-最后编辑与来源核验：2026-09-21。本章已从内部索引升级为直接 action portal：911 / Ready.gov、AHA / Red Cross / Poison Control、USFA、NAIC / NHTSA、Apple / Google、IdentityTheft.gov / IC3、ASPCA、国家卫健委 / 医保、DOL / USA.gov unemployment、ABA、IRS / USCIS、国务院护照、CFPB / HHS 与 FEMA 均有对应入口。不同事件的实际法律期限、承保、医疗处置和地方流程仍以现场专业指示与主管机构为准。
+最后编辑与来源核验：2026-09-21。本章提供应急、安全、事故理赔、设备与身份盗用、宠物、医疗、失业、法律、税务、移民、护照、授权及灾害等直接办理入口。不同事件的法律期限、承保、医疗处置和地方流程仍以现场专业指示与主管机构为准。

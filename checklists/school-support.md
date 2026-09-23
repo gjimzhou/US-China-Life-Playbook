@@ -35,7 +35,7 @@
 
 **诊断要求：** [教育部：医疗诊断不是学校认定残障和评估需要的必备前提](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination)。
 
-**官方解释：** [美国教育部：第504节免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
+**官方解释：** [U.S. Department of Education：第504条免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
 
 ## 对学校评估不同意时
 

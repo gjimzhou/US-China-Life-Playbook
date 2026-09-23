@@ -146,13 +146,13 @@ IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得�
 
 IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能不属于普通所得，并不等于没有信息申报。保存赠与人、关系、资金性质与凭证，按年度条件核对，不将借款假写成赠与。
 
-**继续看 / 表格：** [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。
+**继续看 / 表格：** [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：外国信托交易及特定外国赠与申报表（Form 3520）](https://www.irs.gov/forms-pubs/about-form-3520)。
 
 ## 16. 继承要同时看受理与税务
 
 区分来自外国个人遗产、信托或其他实体的财产，确认接收、申报、成本记录和账户安排。国内继承手续办完不代表美国报告完成；取得资料后再作大额转移或出售决定。
 
-**继续看：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。
+**继续看：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [IRS：外国信托交易及特定外国赠与申报表（Form 3520）](https://www.irs.gov/forms-pubs/about-form-3520)。
 
 ## 17. 币种不决定账户所在地
 

@@ -14,7 +14,7 @@
 - [ ] 不要为了“保存证据”而把自己置于更大危险；让支持人员／律师帮助安排安全的记录方式。
 - [ ] 宠物也纳入安全计划，不要假设离开住所后自动能带走或安全寄养。
 
-**求助入口：** [美国司法部打击对妇女暴力办公室：受害者与幸存者资源](https://www.justice.gov/ovw/resources-victims-and-survivors) · [全国家暴热线：制定安全计划](https://www.thehotline.org/plan-for-safety/)。司法部页面列有全国及各州／地区资源；全国家暴热线提供安全计划制定，包括儿童、宠物和技术安全。
+**求助入口：** [DOJ Office on Violence Against Women：暴力受害者支持资源](https://www.justice.gov/ovw/resources-victims-and-survivors) · [National Domestic Violence Hotline：制定家庭暴力安全计划](https://www.thehotline.org/plan-for-safety/)。司法部页面列有全国及各州／地区资源；全国家暴热线提供安全计划制定，包括儿童、宠物和技术安全。
 
 ## 如果不存在立即安全风险，先建立事实快照
 

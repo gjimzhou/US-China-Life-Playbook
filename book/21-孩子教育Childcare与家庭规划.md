@@ -8,13 +8,13 @@
 
 先确定每日需要覆盖的时段、通勤和特殊照护需求，再比较方案，不把一种选择视为所有家庭的最优解。
 
-**找托育入口：** [ChildCare.gov：Getting Started — Finding and Choosing Child Care](https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care/simple-steps-for-finding-and-choosing-child-care)；从页面进入本人州 / territory 的 provider search、consumer education 与 licensing 资源。
+**找托育入口：** [ChildCare.gov：选择托育服务的步骤](https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care/simple-steps-for-finding-and-choosing-child-care)；从页面进入本人州 / 美国属地的服务机构查询、消费者教育与许可管理资源。
 
 ## 2. 执照与实际质量分别核对
 
 向州或地方托育主管机构查询该类服务是否需要许可、注册或符合豁免，以及具体经营者的状态。不要仅凭机构展示的证书照片判断仍有效。
 
-**直接查询：** [ChildCare.gov：儿童照护机构许可](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing) · [ChildCare.gov：How Child Care Is Regulated](https://www.childcare.gov/consumer-education/regulated-child-care)。页面现可读取；它说明 licensing 是最低健康与安全监管框架，但具体 license-exempt 类别和主管机构仍由州 / territory 决定。
+**直接查询：** [ChildCare.gov：儿童照护机构许可](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing) · [ChildCare.gov：托育服务如何监管](https://www.childcare.gov/consumer-education/regulated-child-care)。页面现可读取；它说明许可管理是最低健康与安全监管框架，但具体豁免许可的类别和主管机构仍由州 / 美国属地决定。
 
 ## 3. 背景审查问清覆盖范围
 
@@ -22,7 +22,7 @@
 
 对直接雇佣的保姆，还需核实工作推荐、照护技能和适用雇佣要求；收集个人信息及背景调查也应依法进行。
 
-**继续看：** [ChildCare.gov：Staff Background Checks](https://childcare.gov/consumer-education/regulated-child-care/staff-background-checks)；直接雇保姆不等于 licensed child-care program，家庭雇佣的税务与劳动规则另见第 39 章。
+**继续看：** [ChildCare.gov：托育人员背景调查](https://childcare.gov/consumer-education/regulated-child-care/staff-background-checks)；直接雇保姆不等于持牌儿童照护机构，家庭雇佣的税务与劳动规则另见第 39 章。
 
 ## 4. 看检查与整改记录
 
@@ -30,7 +30,7 @@
 
 不同地区公开记录的范围不同，未查到记录不一定代表从未出过问题。
 
-**查检查记录：** [ChildCare.gov：Monitoring and Inspections](https://childcare.gov/consumer-education/regulated-child-care/monitoring-and-inspections)。该页说明各州 / territory 应在线提供 licensed programs 的 monitoring / inspection 结果，并从州资源页进入实际记录。
+**查检查记录：** [ChildCare.gov：托育监管与检查记录](https://childcare.gov/consumer-education/regulated-child-care/monitoring-and-inspections)。该页说明各州 / 美国属地应在线提供持牌机构的监管或检查结果，并从州资源页进入实际记录。
 
 ## 5. 参观时问日常操作
 
@@ -38,7 +38,7 @@
 
 关注自己的孩子是否适应，包括语言、残障或特殊医疗需求。不要把课程名词当作安全管理的替代品。
 
-**参观前可用：** [ChildCare.gov：Simple Steps for Finding and Choosing Child Care](https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care/simple-steps-for-finding-and-choosing-child-care)，里面把 licensing status、inspection reports、quality ratings、hours、cost 与现场访问放在同一流程中。
+**参观前可用：** [ChildCare.gov：选择托育服务的步骤](https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care/simple-steps-for-finding-and-choosing-child-care)，里面把许可状态、检查报告、质量评级、小时、费用与现场访问放在同一流程中。
 
 ## 6. 准备备用照护
 
@@ -46,7 +46,7 @@
 
 可以是家长分工、亲友或合适服务，但必须先征得对方同意；备用安排不能突破孩子的安全和照护需要。
 
-**找备用照护：** [ChildCare.gov：寻找儿童照护服务](https://childcare.gov/state-resource-type/child-care-search) · [ChildCare.gov：儿童照护机构许可](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing)。临时 / backup care 是否接病童、是否 licensed、能否 same-day 仍直接问实际 provider。
+**找备用照护：** [ChildCare.gov：寻找儿童照护服务](https://childcare.gov/state-resource-type/child-care-search) · [ChildCare.gov：儿童照护机构许可](https://www.childcare.gov/consumer-education/regulated-child-care/child-care-licensing)。临时 / 备用照护是否接病童、是否持有许可、能否当天安排仍直接问实际服务提供方。
 
 ## 7. 雇保姆也是雇佣问题
 
@@ -54,7 +54,7 @@
 
 联邦税务框架和表格入口列在下方，细节见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。先明确工作范围、休假、替班和付款记录。
 
-**表格入口：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [就业资格核验表I-9办理资料](https://www.uscis.gov/i-9-central)。
+**表格入口：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [就业资格核验表I-9办理资料](https://www.uscis.gov/i-9-central)。
 
 ## 8. 育儿休假分清保障来源
 
@@ -70,21 +70,21 @@
 
 雇主的口头简介不能替代实际计划文件。两位家长的安排应放在一起比较。
 
-**工作场所哺乳支持：** [DOL：Pump at Work](https://www.dol.gov/agencies/whd/pump-at-work) · [Fact Sheet #73](https://www.dol.gov/agencies/whd/fact-sheets/73-flsa-break-time-nursing-mothers)。州法和雇主福利可能提供更高保护。
+**工作场所哺乳支持：** [DOL：工作场所吸乳安排](https://www.dol.gov/agencies/whd/pump-at-work) · [工作场所吸乳规则说明（资料页73）](https://www.dol.gov/agencies/whd/fact-sheets/73-flsa-break-time-nursing-mothers)。州法和雇主福利可能提供更高保护。
 
 ## 10. 新生儿参保主动办理
 
-出生、adoption 或 placement for adoption 都可能触发特别参保，但 **job-based plan 与 Marketplace 的 deadline 不一样**；不要假设医院登记出生后就自动完成保险手续。
+出生、收养或收养安置都可能触发特别参保，但 **雇主医保计划与医保市场（Marketplace） 的截止日期不一样**；不要假设医院登记出生后就自动完成保险手续。
 
 截至 2026-09-21：
 
-- **Job-based group health plan / HIPAA：** 对 birth、adoption、placement for adoption，plan 必须至少提供 **30 天** special-enrollment request window。若在窗口内提出适用申请，coverage 最迟应从 **birth / adoption / placement 当天**生效；员工本人、配偶和新 child 在符合 plan eligibility 的情况下都可能有 special-enrollment rights。实际 plan 可以给更长窗口，所以仍看 SPD / benefits portal。
-- **Marketplace：** birth、adoption 或 placement for foster care 通常提供事件后 **60 天**的 SEP；即使到事件后才 enroll，coverage 可以从事件当天开始。HealthCare.gov 明确提醒 newborn 应尽快 report / enroll，不要把 60 天理解为“可以放心等两个月再处理”。
-- **Medicaid / CHIP：** 可以全年申请；如果 parent 在 birth 时已有 Medicaid，newborn 的具体自动 coverage / duration 按 state Medicaid rules 与当前 federal protections 核对。
+- **雇主团体医保计划 / HIPAA：** 对出生、收养、收养安置，计划必须至少提供 **30 天** 特别参保申请窗口。若在窗口内提出适用申请，保障最迟应从 **出生、收养或安置当天**生效；员工本人、配偶和新孩子在符合计划资格的情况下都可能有特别参保权利。实际计划可以给更长窗口，所以仍看 SPD / 福利网站。
+- **医保市场（Marketplace）：** 出生、收养或寄养安置通常提供事件后 **60 天**的 SEP；即使到事件后才参保，保障可以从事件当天开始。HealthCare.gov 明确提醒新生儿应尽快报告并登记参保，不要把 60 天理解为“可以放心等两个月再处理”。
+- **医疗补助计划与儿童健康保险计划（Medicaid / CHIP）：** 可以全年申请；如果父母在出生时已有医疗补助（Medicaid），新生儿的具体自动保障 / 时长按州医疗补助规则与当前联邦保障要求核对。
 
-把 hospital birth registration、Social Security、birth certificate 和 insurance enrollment 当作不同手续，分别确认完成凭证。
+把医院出生登记、社会安全福利、出生证明和保险登记当作不同手续，分别确认完成凭证。
 
-**参保入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25144) · [DOL：Newborns / New Parents — special enrollment](https://www.dol.gov/node/64683) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：Pregnant or Planning to Get Pregnant / recently gave birth](https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)。
+**参保入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25144) · [DOL：新生儿及新父母的特别参保](https://www.dol.gov/node/64683) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：怀孕、备孕及生产后的医保安排](https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)。
 
 ## 11. 提前了解儿科服务
 
@@ -92,7 +92,7 @@
 
 孩子急症的识别与处理由医护指导，不能以“等家庭儿科医生上班”替代及时求助。
 
-**找儿科医生 / 查资格：** [医保服务机构比较工具（Medicare Care Compare）](https://www.medicare.gov/care-compare/)可辅助查 clinician / facility，州医师执照从 [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/)核对；儿科保险网络仍以本人 plan directory 为准。
+**找儿科医生 / 查资格：** [医保服务机构比较工具（Medicare Care Compare）](https://www.medicare.gov/care-compare/)可辅助查医生或医疗机构，州医师执照从 [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/)核对；儿科保险网络仍以本人计划名录为准。
 
 ## 12. 安全座椅按身高体重和说明书使用
 
@@ -100,13 +100,13 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 年龄只是参考，还要看每辆车内安全带的贴合情况。
 
-**继续看 / 选座椅：** [CDC：Child Passenger Safety](https://www.cdc.gov/child-passenger-safety/prevention/index.html) · [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats)。州法最低要求与安全建议可能不同，两者都应核对。
+**继续看 / 选座椅：** [CDC：儿童乘车安全](https://www.cdc.gov/child-passenger-safety/prevention/index.html) · [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats)。州法最低要求与安全建议可能不同，两者都应核对。
 
 ## 13. 不确定安装时寻求检查
 
 按车辆和座椅说明书安装，查当地认证儿童乘车安全技术员（CPST）的检查服务、预约及费用。
 
-**安装检查入口：** [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NHTSA：Keep Kids Safe on the Road](https://www.nhtsa.gov/car-seats-and-booster-seats/keep-kids-safe-road)。NHTSA 页面可继续进入 inspection station / technician 查找工具。
+**安装检查入口：** [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NHTSA：儿童道路交通安全](https://www.nhtsa.gov/car-seats-and-booster-seats/keep-kids-safe-road)。NHTSA 页面可继续进入安装检查站或技师查找工具。
 
 接送人也要知道正确使用方式。临时换车、租车或祖父母接送时重新检查，不认为安装过一次就永远适用。
 
@@ -124,7 +124,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 跨国候选安排还要考虑孩子身份、旅行、学校和实际照护能力。
 
-**本项目实务建议：** “谁养育孩子”和“谁管理孩子资产”可以分别设计，但法律效力由州法院 / estate documents 决定；跨国候选再结合 [State Department：Children’s Issues](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html)与目的地身份 / 旅行要求专项核对。
+**本项目实务建议：** “谁养育孩子”和“谁管理孩子资产”可以分别设计，但法律效力由州法院 / 遗产规划文件决定；跨国候选再结合 [State Department：跨境儿童事务](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html)与目的地身份 / 旅行要求专项核对。
 
 ## 16. 祖父母协助也要有边界
 
@@ -140,13 +140,13 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 语言或发育有疑虑时咨询专业人士，不凭单次表现或其他孩子的进度作判断。
 
-**继续看：** [ASHA：Learning More Than One Language](https://www.asha.org/public/speech/development/learning-more-than-one-language/) · [CDC：Developmental Milestones](https://www.cdc.gov/act-early/milestones/index.html)。双语本身不应被简单当作发育问题；有疑虑时看整体发育并咨询儿科 / speech-language 专业人士。
+**继续看：** [ASHA：学习多种语言](https://www.asha.org/public/speech/development/learning-more-than-one-language/) · [CDC：Developmental Milestones](https://www.cdc.gov/act-early/milestones/index.html)。双语本身不应被简单当作发育问题；有疑虑时看整体发育并咨询儿科 / 言语语言专业人士。
 
 ## 18. 住房决定前确认学校分配
 
 向学区或招生机构核对具体地址、年级、入学资格、边界、交通与课后照护。邮政编码、房产广告和往届入学经历不能保证当前学位分配。
 
-**找官方学区入口：** [NCES：Search for Public School Districts](https://nces.ed.gov/ccd/districtsearch/)可用于找到 district；具体 address assignment、enrollment 和 boundary 仍以该学区当前官网为准。
+**找官方学区入口：** [NCES：查询公立学区](https://nces.ed.gov/ccd/districtsearch/)可用于找到学区；具体按地址划分学校、入学或参保登记和边界仍以该学区当前官网为准。
 
 保存官方答复，重大购房决定仍需了解边界或项目可能变化。
 
@@ -160,7 +160,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 问清额外费用、退出或退费条款及长期预算，避免只看第一年学费。
 
-**找学校 / 支持入口：** [NCES School Search](https://nces.ed.gov/globallocator/) · [U.S. Department of Education：IDEA](https://sites.ed.gov/idea/) · [Office for Civil Rights：Section 504](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination)。具体招生、support services 与费用以学校 / 学区材料为准。
+**找学校 / 支持入口：** [美国教育统计中心：学校查询](https://nces.ed.gov/globallocator/) · [U.S. Department of Education：残障儿童教育法（IDEA）](https://sites.ed.gov/idea/) · [Office for Civil Rights：第504条残障歧视保护](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination)。具体招生、支持服务与费用以学校 / 学区材料为准。
 
 ## 20. 托育预算算上间断与附加成本
 
@@ -168,19 +168,19 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 用可持续的安排覆盖实际工作时间，而不是默认家长能无限补上所有缺口。
 
-**2026 dependent-care tax rules 不要继续沿用旧的 $5,000 FSA 记忆。** 从 2026 tax year 起，雇主 dependent care assistance program（常见包括 dependent care FSA / DCFSA）的联邦 gross-income exclusion 上限提高到 **$7,500**；married filing separately 为 **$3,750**。雇主自己的 plan 可以设更低上限，而且 earned-income、nondiscrimination 与 highly-compensated-employee rules 仍可能限制最终可排除金额。
+**2026 受抚养人照护税务规则不要继续沿用旧的 $5,000 FSA 记忆。** 从 2026 税年起，雇主受抚养人照护援助计划（常见包括受抚养人照护灵活支出账户（DCFSA））的联邦不计入总收入的额度上限提高到 **$7,500**；夫妻分别报税为 **$3,750**。雇主自己的计划可以设更低上限，而且劳动所得、非歧视测试与高薪雇员规则仍可能限制最终可排除金额。
 
-Child and Dependent Care Credit 是另一套机制。2026 年可用于计算 credit 的 work-related expense dollar cap 仍为 **$3,000（1 位 qualifying person）/ $6,000（2 位或以上）**，但 maximum credit rate 从 35% 提高到 **50%**；实际 percentage 取决于 AGI 和其他资格。通过 DCFSA / employer dependent-care benefit 已经 tax-excluded / reimbursed 的同一费用，不能再简单重复拿去算 credit；最终用 Form 2441 协调两者。
+儿童及受抚养人照护税收抵免是另一套机制。2026 年可用于计算税收抵免的符合工作相关条件的费用金额上限仍为 **$3,000（1位符合条件的被照护人）/ $6,000（2 位或以上）**，但最高抵免比例从 35% 提高到 **50%**；实际比例取决于 AGI 和其他资格。通过 DCFSA / 雇主照护福利已经免税或报销的同一费用，不能再简单重复拿去算税收抵免；最终用 Form 2441 协调两者。
 
-**费用 / 税务入口：** [ChildCare.gov：State Resources](https://childcare.gov/state-resources-home) · [雇主附加福利税务指南（2026年，IRS Publication 15-B）](https://www.irs.gov/publications/p15b) · [IRS：2026 W-2 instructions correction — dependent-care exclusion raised to $7,500](https://www.irs.gov/forms-pubs/correction-to-the-dependent-care-benefits-exclusion-amount-in-the-2026-general-instructions-for-forms-w-2-and-w-3) · [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS：Form 2441](https://www.irs.gov/forms-pubs/about-form-2441) · [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926)（直接雇家庭雇员时）。
+**费用 / 税务入口：** [ChildCare.gov：各州儿童照护资源](https://childcare.gov/state-resources-home) · [雇主附加福利税务指南（2026年，IRS Publication 15-B）](https://www.irs.gov/publications/p15b) · [IRS：2026年工资税表说明更正：照护福利免计入收入额度](https://www.irs.gov/forms-pubs/correction-to-the-dependent-care-benefits-exclusion-amount-in-the-2026-general-instructions-for-forms-w-2-and-w-3) · [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS：儿童及受抚养人照护费用税表（Form 2441）](https://www.irs.gov/forms-pubs/about-form-2441) · [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926)（直接雇家庭雇员时）。
 
-截至 2026-09-21，[Publication 503](https://www.irs.gov/publications/p503) 当前正文仍是 **2025 revision**，其中 $5,000 / $2,500 dependent-care benefit exclusion 是 2025 数字，不应用来覆盖上述 2026 新上限。
+截至 2026-09-21，[儿童及受抚养人照护费用指南（Publication 503）](https://www.irs.gov/publications/p503) 当前正文仍是 **2025 版本**，其中 $5,000 / $2,500 照护福利免计入收入额度是 2025 数字，不应用来覆盖上述 2026 新上限。
 
 ## 21. 共享日历记录共同责任
 
 放入学校关闭、接送、医疗、照护排班、家长出差和关键报名期限。为每项注明负责人和替补，不把所有提醒默认发给同一个人。
 
-**本项目实务建议：** 共享日历只记录共同执行需要，不要求把私人医疗或账户细节全部放进去；重点是 owner + backup + deadline。
+**本项目实务建议：** 共享日历只记录共同执行需要，不要求把私人医疗或账户细节全部放进去；重点是负责人、备用安排与截止日期。
 
 ## 22. 儿童应急表与接送授权分开核对
 
@@ -188,7 +188,7 @@ Child and Dependent Care Credit 是另一套机制。2026 年可用于计算 cre
 
 应急表不自动赋予医疗或监护权，正式授权按当地规则完成。
 
-**应急参考：** [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · [中毒咨询中心（Poison Control）](https://www.poison.org/)；接送与医疗同意的法律效力按学校 / childcare policy 与所在地规则确认。
+**应急参考：** [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · [中毒咨询中心（Poison Control）](https://www.poison.org/)；接送与医疗同意的法律效力按学校 / 托育政策与所在地规则确认。
 
 ## 23. 从小保护孩子隐私
 
@@ -196,29 +196,29 @@ Child and Dependent Care Credit 是另一套机制。2026 年可用于计算 cre
 
 向服务机构提供所需资料时，核对收集目的和安全渠道；随着孩子成长让其参与隐私决定。
 
-**隐私参考：** [FTC：Protecting Kids Online](https://consumer.ftc.gov/identity-theft-and-online-security/protecting-kids-online) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
+**隐私参考：** [FTC：儿童上网安全](https://consumer.ftc.gov/identity-theft-and-online-security/protecting-kids-online) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 24. 学龄期问题从“具体事实 + 书面下一步”开始
 
-孩子出现持续学习、行为、出勤或适应问题时，先收集课程、时间、作业／考试、teacher observations、家庭观察和已尝试支持，再向 teacher / counselor / student-services 书面说明担忧。会议后留下简短纪要：讨论了什么、谁负责下一步、何时复盘。
+孩子出现持续学习、行为、出勤或适应问题时，先收集课程、时间、作业／考试、教师观察、家庭观察和已尝试支持，再向教师、辅导员或学生服务部门书面说明担忧。会议后留下简短纪要：讨论了什么、谁负责下一步、何时复盘。
 
-入学或转学时不要只转成绩单；已有 IEP、504 plan、evaluation、therapy / medical records 和重要沟通也应按需要交接，并确认新学校实际收到。完整路径见[学龄期教育与支持清单](../checklists/school-support.md)。
+入学或转学时不要只转成绩单；已有 IEP、第504条支持计划、评估、治疗或病历资料和重要沟通也应按需要交接，并确认新学校实际收到。完整路径见[学龄期教育与支持清单](../checklists/school-support.md)。
 
 ## 25. IDEA 与 Section 504 是两条不同路径
 
-在 IDEA 下，家长或 public agency 都可以发起 initial evaluation 请求。联邦规则通常要求在取得 parental consent 后 **60 天内**完成 initial evaluation；如果州另有自己的时间表，则按州时间表，并存在规则列出的例外。initial referral 或 parent request for evaluation 等情形还会触发 procedural safeguards notice。
+在 IDEA 下，家长或公共机构都可以发起初次评估请求。联邦规则通常要求在取得家长同意后 **60 天内**完成初次评估；如果州另有自己的时间表，则按州时间表，并存在规则列出的例外。首次转介或家长评估申请等情形还会触发程序保障通知。
 
-Section 504 不是“轻量版 IEP”。美国教育部说明，学校应基于个体 evaluation 和多种信息来源判断 disability 与需要；不应只凭一个诊断名称或刻板假设决定服务。
+第504条不是“轻量版 IEP”。美国教育部说明，学校应基于个体评估和多种信息来源判断残障与需要；不应只凭一个诊断名称或刻板假设决定服务。
 
-**官方原文：** [IDEA §300.301](https://sites.ed.gov/idea/regs/b/d/300.301) · [IDEA §300.504](https://sites.ed.gov/idea/regs/b/e/300.504) · [IDEA §300.502](https://sites.ed.gov/idea/regs/b/e/300.502) · [U.S. Department of Education：Section 504 FAPE FAQ](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
+**官方原文：** [残障儿童初次评估规则（IDEA §300.301）](https://sites.ed.gov/idea/regs/b/d/300.301) · [程序保障通知规则（IDEA §300.504）](https://sites.ed.gov/idea/regs/b/e/300.504) · [独立教育评估规则（IDEA §300.502）](https://sites.ed.gov/idea/regs/b/e/300.502) · [U.S. Department of Education：第504条免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
 
 ## 26. 家庭规划也包括怀孕、妊娠丢失和生产
 
-验孕阳性后要尽快建立产科入口、核对长期用药、保险 network / delivery facility 和工作福利；孕期或生产后一年内出现严重或异常症状时，要主动告诉医疗人员“正在怀孕／过去一年内怀孕过”。
+验孕阳性后要尽快建立产科入口、核对长期用药、保险医疗网络与分娩机构和工作福利；孕期或生产后一年内出现严重或异常症状时，要主动告诉医疗人员“正在怀孕／过去一年内怀孕过”。
 
-怀疑 miscarriage 时，出血、腹痛或组织排出需要由产科判断；不能靠一次家庭验孕或症状自行确认是否已经流产。生产后也不能只关注婴儿，母体的出血、呼吸、血压、感染和心理状态仍需要持续 follow-up。
+怀疑流产时，出血、腹痛或组织排出需要由产科判断；不能靠一次家庭验孕或症状自行确认是否已经流产。生产后也不能只关注婴儿，母体的出血、呼吸、血压、感染和心理状态仍需要持续后续跟进。
 
-**完整清单：** [怀孕、妊娠丢失与生产](../checklists/pregnancy-birth-loss.md) · [CDC Hear Her：Urgent Maternal Warning Signs](https://www.cdc.gov/hearher/maternal-warning-signs/index.html) · [ACOG：Early Pregnancy Loss](https://www.acog.org/womens-health/faqs/early-pregnancy-loss)。
+**完整清单：** [怀孕、妊娠丢失与生产](../checklists/pregnancy-birth-loss.md) · [CDC Hear Her：孕产妇紧急警示症状](https://www.cdc.gov/hearher/maternal-warning-signs/index.html) · [ACOG：早期妊娠丢失](https://www.acog.org/womens-health/faqs/early-pregnancy-loss)。
 
 ## 27. 最小执行集与核验范围
 
@@ -228,6 +228,6 @@ Section 504 不是“轻量版 IEP”。美国教育部说明，学校应基于�
 - [ ] 儿科、安全座椅、监护与财务安排已讨论。
 - [ ] 学校、预算、共享日历与儿童隐私相互配合。
 
-**入口汇总：** [ChildCare.gov](https://www.childcare.gov/) · [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NCES](https://nces.ed.gov/) · [CDC Developmental Milestones](https://www.cdc.gov/act-early/milestones/index.html)。
+**入口汇总：** [美国政府托育服务资料（ChildCare.gov）](https://www.childcare.gov/) · [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [美国教育统计中心（NCES）](https://nces.ed.gov/) · [美国疾控中心：儿童发育里程碑](https://www.cdc.gov/act-early/milestones/index.html)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 2026 dependent-care tax changes：DCAP / dependent-care FSA federal exclusion 已提高到 $7,500（MFS $3,750）；Child and Dependent Care Credit 的 qualifying-expense cap 仍为 $3,000 / $6,000，但 2026 maximum credit rate 提高到 50%。同时重新核对 newborn / adoption health-plan special enrollment：job-based HIPAA plans 至少 30-day request window，coverage 可自 birth / adoption / placement date 生效；Marketplace 通常 60-day SEP，也可从 event date 起 coverage。IRS 当前 Publication 503 仍是 2025 revision，正文已明确不能拿其中 $5,000 上限覆盖 2026。另核对 ChildCare.gov licensing / background checks / monitoring / inspections / provider-selection、CDC / NHTSA 乘车安全、DOL FMLA / Pump at Work、IRS household employer 与 NCES 学区入口。托育豁免、师生比、工资劳动法、学区边界和具体福利仍须按州、机构、雇主与地址核验。
+最后编辑与来源核验：2026-09-21。第三轮核对2026年受抚养人照护税务变化：照护福利免计入收入额度、费用上限与最高抵免比例，以及出生或收养后的雇主医保、医保市场特别参保窗口，均保留在正文。国税局Publication 503当时仍为2025版，不能用其中旧金额覆盖2026年新规则。另核对托育许可、背景调查、检查记录、机构选择、儿童乘车安全、家庭与医疗休假、工作场所哺乳安排、家庭雇员税务和学区入口。托育豁免、师生比、劳动法、学区边界和福利须按州、机构、雇主与地址核验。

@@ -34,7 +34,7 @@
 
 请服务商列出适用的雇主识别号码（EIN）、州雇主登记、工作资格核验、工资记录、工资税申报和年度表格。确认工资与扣缴凭证（W-2）以及家庭雇佣税附表（Schedule H）由谁准备、谁提交、谁保存回执。不要等到报个人所得税时才第一次整理全年付款。
 
-**直接办理：** [IRS：Get an Employer Identification Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA：Business Services Online / W-2 filing](https://www.ssa.gov/bso/bsowelcome.htm) · [就业资格核验表I-9办理资料](https://www.uscis.gov/i-9-central)。
+**直接办理：** [IRS：Get an Employer Identification Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA：Business Services Online / W-2 filing](https://www.ssa.gov/bso/bsowelcome.htm) · [就业资格核验表I-9办理资料](https://www.uscis.gov/i-9-central)。
 
 ---
 
@@ -46,7 +46,7 @@ FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名 household
 
 雇主预算还应包含州 unemployment、workers’ compensation、最低工资 / overtime、保险、报销和 payroll service fee。合同明确报出的时薪是税前工资（Gross Pay）还是约定到手金额，后者须先请服务商计算。联邦所得税预扣与上述工资税不同，家庭雇佣并非一律必须预扣。
 
-**计算依据：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [IRS：Publication 15-T — Federal Income Tax Withholding Methods](https://www.irs.gov/publications/p15t)。
+**计算依据：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [IRS：Publication 15-T — Federal Income Tax Withholding Methods](https://www.irs.gov/publications/p15t)。
 
 ---
 
@@ -163,7 +163,7 @@ FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名 household
 
 州 unemployment、paid leave、workers’ compensation、state wage statements 和 local payroll deadlines 可能完全不同，应在 payroll calendar 里单独列出，不能只做联邦 W-2 / Schedule H。
 
-**自己核对：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：Schedule H](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA Business Services Online](https://www.ssa.gov/bso/bsowelcome.htm) · [IRS：缴纳税款](https://www.irs.gov/payments)。州 payroll / unemployment portal 另从州政府官网进入。
+**自己核对：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [SSA Business Services Online](https://www.ssa.gov/bso/bsowelcome.htm) · [IRS：缴纳税款](https://www.irs.gov/payments)。州 payroll / unemployment portal 另从州政府官网进入。
 
 ---
 
