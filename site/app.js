@@ -26,7 +26,7 @@ function safeMarkdown(text,path){
   }
  }
  const modes={'指南解读':'guidance','决策框架':'decision','管理建议':'practice','经验建议':'practice','专业咨询准备':'consultation','规则说明':'rule'};
- for(const note of template.content.querySelectorAll('blockquote')){const mode=note.textContent.trim().match(/^内容性质：([^\n]+)/)?.[1]?.trim();if(modes[mode]){note.classList.add('content-nature','nature-'+modes[mode]);note.setAttribute('role','note');note.setAttribute('aria-label','内容性质：'+mode)}}
+ for(const note of template.content.querySelectorAll('blockquote')){const mode=note.querySelector('strong')?.textContent.trim().match(/^内容性质：(.+?)[。；]?$/)?.[1];if(mode){note.classList.add('content-nature','nature-'+(modes[mode]||'mixed'));note.setAttribute('role','note');note.setAttribute('aria-label','内容性质：'+mode)}}
  for(const input of template.content.querySelectorAll('input[type="checkbox"]'))input.closest('li')?.classList.add('task-item');
  const referenceLabel=/(入口|办理|核验|查询|工具|求助|报案|投诉|参考|继续看|官方|去办|查资格|查风险|查州|找专业|找本地|外部|第一站|一键|直接|培训|学习|规则说明)/;
  for(const p of template.content.querySelectorAll('p')){
@@ -46,6 +46,16 @@ function directory(){
   else appendLinks(group,docs.filter(d=>d.kind===kind));container.append(group);
  }
 }
+const eventQueries=[
+ {phrases:['宠物死了','狗死了','猫死了','宠物去世'],path:'checklists/pet-loss.md'},
+ {phrases:['狗丢了','猫丢了','宠物走失'],path:'checklists/lost-pet.md'},
+ {phrases:['钱包丢了','工卡丢了','护照丢了'],path:'checklists/lost-wallet-documents.md'},
+ {phrases:['药没了','药拿不到','药店没药'],path:'checklists/medication-access-problem.md'},
+ {phrases:['学校不给评估','学校评估','孩子转学'],path:'checklists/school-support.md'},
+ {phrases:['刚出院','医院出院'],path:'checklists/hospital-discharge-major-diagnosis.md'},
+ {phrases:['车被拖了','车不见了','车抛锚'],path:'checklists/vehicle-roadside-ticket-tow.md'},
+ {phrases:['被裁员','失业了'],path:'checklists/job-loss.md'}
+];
 const aliases=[['医保','医疗保险','health insurance','health plan'],['信用冻结','credit freeze'],['遗嘱','will'],['家庭雇员','保姆','nanny','household employee'],['附加证明书','apostille'],['失业','裁员','layoff','job loss'],['搬家','迁居','move'],['保险理赔说明','eob','explanation of benefits'],['网络内','in-network','in network'],['预缴税','预估税','estimated tax'],['通行密钥','passkey']];
 function searchTerms(query){const exact=aliases.find(g=>g.includes(query));return exact?[exact]:query.split(/\s+/).filter(Boolean).map(t=>aliases.find(g=>g.includes(t))||[t])}
 function syncSearch(){
@@ -60,9 +70,13 @@ function render(){
  document.querySelector('.intro').hidden=current!=='HOME.md'||Boolean(query||priority||evidence);
  if(query||priority||evidence){
   lastSearch=location.hash;const terms=searchTerms(query),results=[];
-  for(const d of docs)for(const s of d.sections){const hay=(d.title+' '+s.markdown).toLowerCase();if(terms.every(group=>group.some(t=>hay.includes(t)))&&(!(priority||evidence)||s.tags.some(t=>(!priority||t.priorities.includes(priority))&&(!evidence||t.evidence.includes(evidence)))))results.push([d,s])}
+  const suggested=eventQueries.filter(e=>query&&e.phrases.some(p=>query.includes(p))).map(e=>docs.find(d=>d.path===e.path)).filter(Boolean);
+  if(suggested.length){const box=el('nav',undefined,'event-suggestions');box.setAttribute('aria-label','相关事件入口');box.append(el('p','先看相关事件清单（不受高级筛选限制）'));for(const d of suggested){const a=el('a',d.title);a.href=route(d.path);box.append(a)}out.append(box)}
+  let unfiltered=0;
+  for(const d of docs)for(const s of d.sections){const hay=(d.title+' '+s.markdown).toLowerCase();const matched=terms.every(group=>group.some(t=>hay.includes(t)));if(matched)unfiltered++;if(matched&&(!(priority||evidence)||s.tags.some(t=>(!priority||t.priorities.includes(priority))&&(!evidence||t.evidence.includes(evidence)))))results.push([d,s])}
   results.sort((a,b)=>{const score=([d,s])=>(query&&s.title.toLowerCase().includes(query)?4:0)+(query&&d.title.toLowerCase().includes(query)?2:0);return score(b)-score(a)});
   $('status').textContent=`全书搜索 · ${results.length} 个匹配段落`;document.title='搜索 · 中美双栖人生指南';
+  if(priority||evidence)out.append(el('p',`高级筛选隐藏了 ${unfiltered-results.length} 个关键词匹配段落，可能只是没有相应标注。准备顺序不是紧急程度；法定期限另看正文。`,'hint'));
   if(!results.length)out.append(el('p','没有匹配结果。试试其他关键词，或清除优先级与证据筛选。','empty'));
   for(const [d,s] of results){const card=el('section',undefined,'result');card.append(el('span',d.kind+' · '+d.title,'source'));if(d.readingMode)card.append(el('span','阅读定位：'+d.readingMode,'reading-mode'));const h=el('h2');const a=el('a',s.title==='概览'?d.title:s.title);a.href=route(d.path,s.id);h.append(a);card.append(h);for(const b of [...s.priorities,...s.evidence.map(e=>'证据 '+e)])card.append(el('span',b,'badge'));const text=plain(s.markdown);const at=query?text.toLowerCase().indexOf(query):-1;card.append(el('p',(at>50?'…':'')+text.slice(Math.max(0,at-45),Math.max(0,at-45)+210)+'…'));out.append(card)}return;
  }
@@ -79,5 +93,5 @@ $('reset').onclick=()=>{for(const id of ['search','priority','evidence'])$(id).v
 $('menu').onclick=()=>{$('menu').setAttribute('aria-expanded',String($('sidebar').classList.toggle('open')))};
 $('print').onclick=()=>window.print();window.addEventListener('hashchange',navigate);
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){e.preventDefault();$('sidebar').classList.add('open');$('menu').setAttribute('aria-expanded','true');$('search').focus()}});
-fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(data=>{docs=data;directory();navigate()}).catch(()=>{$('status').textContent='正文暂时无法载入';const a=el('a','打开 GitHub 完整目录');a.href='https://github.com/gjimzhou/US-China-Life-Playbook#readme';$('reading').append(a)});
+fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(data=>{docs=data;const all=docs.flatMap(d=>d.sections);$('filter-coverage').textContent=`${all.length} 个段落中，${all.filter(s=>s.tags.length).length} 个有筛选标注。这不是事实审定率。`;directory();navigate()}).catch(()=>{$('status').textContent='正文暂时无法载入';const a=el('a','打开 GitHub 完整目录');a.href='https://github.com/gjimzhou/US-China-Life-Playbook#readme';$('reading').append(a)});
 document.addEventListener('click',e=>{const a=e.target.closest('a');if(a&&a.hash===location.hash&&a.hash.startsWith('#doc=')){e.preventDefault();navigate()}});

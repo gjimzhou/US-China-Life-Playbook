@@ -1,6 +1,7 @@
 """Build an allowlisted, dependency-free GitHub Pages artifact."""
 from pathlib import Path
 import json,re,shutil,hashlib,unicodedata
+from legacy_routes import legacy_routes
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'_site'
 if OUT.exists():shutil.rmtree(OUT)
@@ -27,9 +28,6 @@ for p in paths:
   duplicate=seen.get(slug,0);seen[slug]=duplicate+1
   anchor=slug+(f'-{duplicate}' if duplicate else '')
   aliases=[]
-  if i==0: aliases=['s0']
-  elif level==2:
-   legacy+=1;aliases=[f's{legacy}']
   tags=[]
   for block in re.split(r'\n\s*\n',part):
    if block.lstrip().startswith('>'):continue  # quoted field templates are not ratings
@@ -45,6 +43,12 @@ for p in paths:
   if new not in by_id or old in occupied:
    raise ValueError(f'Invalid or conflicting historical anchor: {path}#{old} -> {new}')
   by_id[new]['aliases'].append(old);occupied.add(old)
+ # Old ordinal links resolve against a fixed audited version, never current order.
+ for old,target in legacy_routes(ROOT,path).items():
+  target=historical_aliases.get(path,{}).get(target,target)
+  if target in by_id:
+   if old in occupied: raise ValueError(f'Conflicting legacy route: {path}#{old}')
+   by_id[target]['aliases'].append(old);occupied.add(old)
  reading_mode=re.search(r'^> \*\*内容性质：([^*]+)\*\*',parts[0],re.M)
  docs.append({'path':path,'title':title,'kind':kind,'readingMode':reading_mode[1] if reading_mode else '', 'sections':sections})
  dest=OUT/path;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(text)

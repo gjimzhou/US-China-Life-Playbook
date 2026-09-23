@@ -22,3 +22,5 @@ article .nature-practice{border-left-style:dashed;border-left-color:#95723b}arti
 :root[data-theme="dark"] article .nature-practice{border-left-color:#d2ad70}:root[data-theme="dark"] article .nature-decision{border-left-color:#8bb8a0}:root[data-theme="dark"] article .nature-consultation{border-left-color:#bea4d4}
 
 article .practice-advice{border-left:3px dashed #95723b;padding:8px 14px;background:var(--wash);font-size:15px}:root[data-theme="dark"] article .practice-advice{border-left-color:#d2ad70}
+
+.advanced-filters{margin:1rem 0}.advanced-filters summary{cursor:pointer}.event-suggestions{padding:1rem;border:1px solid currentColor;margin-bottom:1rem}.event-suggestions a{display:block;margin:.6rem 0}

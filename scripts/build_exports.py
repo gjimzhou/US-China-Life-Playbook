@@ -11,6 +11,8 @@ import shutil
 import subprocess
 import zipfile
 
+from legacy_routes import legacy_routes
+
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site" / "downloads"
 WORK = ROOT / "_export"
@@ -84,6 +86,10 @@ def build_anchor_maps(paths: list[str]):
         for old, new in historical.get(path, {}).items():
             if new in local_to_global:
                 local_to_global[old] = local_to_global[new]
+        for old, target in legacy_routes(ROOT, path).items():
+            target = historical.get(path, {}).get(target, target)
+            if target in local_to_global:
+                local_to_global[old] = local_to_global[target]
         maps[path] = local_to_global
     return maps
 
@@ -91,7 +97,7 @@ def build_anchor_maps(paths: list[str]):
 def resolve_internal(current: str, href: str, paths: set[str], maps: dict[str, dict[str, str]]) -> str:
     if href.startswith("#"):
         frag = unquote(href[1:])
-        return "#" + maps.get(current, {}).get(frag, doc_anchor(current))
+        return "#" + maps[current][frag]
     if re.match(r"^[a-z][a-z0-9+.-]*:", href, re.I) or href.startswith("//"):
         return href
     path_part, sep, frag = href.partition("#")
@@ -100,7 +106,7 @@ def resolve_internal(current: str, href: str, paths: set[str], maps: dict[str, d
     target = posixpath.normpath(posixpath.join(posixpath.dirname(current), unquote(path_part)))
     if target in paths:
         if sep and frag:
-            dest = maps.get(target, {}).get(unquote(frag), doc_anchor(target))
+            dest = maps[target][unquote(frag)]
         else:
             dest = doc_anchor(target)
         return "#" + dest

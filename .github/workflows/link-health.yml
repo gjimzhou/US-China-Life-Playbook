@@ -1,4 +1,4 @@
-name: External link health
+name: External link report
 
 on:
   workflow_dispatch:
@@ -11,6 +11,7 @@ on:
       - 'references/**/*.md'
       - 'README.md'
       - 'HOME.md'
+      - 'DOWNLOADS.md'
       - 'DISCLAIMER.md'
       - 'METHODOLOGY.md'
       - 'STYLE.md'
@@ -36,7 +37,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Check external links
-        run: python scripts/check_external_links.py --report link-health-report.md
+        run: python scripts/check_external_links.py --report link-health-report.md --fail-on-broken
       - name: Add report to job summary
         if: always()
         run: cat link-health-report.md >> "$GITHUB_STEP_SUMMARY"

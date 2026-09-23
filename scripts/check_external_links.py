@@ -40,6 +40,7 @@ def source_files() -> list[Path]:
     files += [
         ROOT / "README.md",
         ROOT / "HOME.md",
+        ROOT / "DOWNLOADS.md",
         ROOT / "DISCLAIMER.md",
         ROOT / "METHODOLOGY.md",
         ROOT / "STYLE.md",
