@@ -156,7 +156,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 约定常规回复时间和紧急联系方式。期限临近而联系不上，向负责人或机构升级，同时寻找替代咨询，不因已发邮件就认为期限暂停。更换服务前确认资料、费用和未完成事项如何交接；法律程序中的退出或替换要求需另查。
 
-**本项目实务建议：** “已发邮件”不等于延期。律师替换按法院 / 律师协会规则，税务 / 医疗 / 保险则按实际机构交接流程；候选入口可从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) / [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) / [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) / [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)重新寻找。
+**本项目实务建议：** 律师替换按法院 / 律师协会规则，税务 / 医疗 / 保险则按实际机构交接流程；候选入口可从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) / [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) / [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) / [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)重新寻找。
 
 ## 23. 敏感材料通过核实的渠道传递
 
