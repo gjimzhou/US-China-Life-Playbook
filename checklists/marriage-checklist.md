@@ -28,12 +28,12 @@
 
 ## 婚后按实际期限办理
 
-- [ ] **Job-based health plan：** marriage 后立即查 benefits portal / SPD；HIPAA 要求适用 group health plan 至少给 **30 天** special-enrollment request window。不要等到第 30 天才第一次找材料。
-- [ ] **Marketplace：** marriage SEP 通常为事件后 **60 天**；核对 CMS prior-coverage requirement——通常至少一方在婚前 60 天内有过 1 天 qualifying coverage，除非符合境外居住、tribal / ANCSA 或其他当前例外。
-- [ ] 若涉及失去 Medicaid / CHIP 或获得 premium assistance eligibility 后加入 employer plan，单独核对通常 **60 天**的 group-plan special-enrollment window。
-- [ ] 向雇主核对 coverage effective date、所需 marriage certificate / proof、牙科视力等选择；job-based marriage coverage 最迟通常在 plan 收到完整 enrollment request 后的下一个 calendar month 第 1 天生效。
+- [ ] **雇主医保：** 结婚后立即查员工福利系统和计划摘要（SPD）；《健康保险流通与责任法》（HIPAA）要求适用的团体医保计划至少给**30天**的特别参保申请窗口。不要等到第30天才第一次找材料。
+- [ ] **医保市场（Marketplace）：** 结婚特别参保期（SEP）通常为事件后**60天**；核对原有保险要求——通常至少一方在婚前60天内有过1天符合条件的保障，除非符合境外居住、部落成员／阿拉斯加原住民索赔解决法（ANCSA）或其他当前例外。
+- [ ] 若涉及失去医疗补助／儿童健康保险（Medicaid／CHIP）或获得保费补助资格后加入雇主计划，单独核对通常**60天**的团体医保特别参保窗口。
+- [ ] 向雇主核对保障生效日期、所需结婚证或证明、牙科与视力等选择；雇主医保的结婚参保保障通常最迟在计划收到完整参保申请后的下一个自然月第1天生效。
 - [ ] 更新紧急联系人、婚姻信息及适用预扣税安排。
-- [ ] 核对每个退休 / insurance plan 的受益人指定和配偶同意要求；**30 天只是在特定 employer health-plan SEP 中常见的联邦最低窗口，不是所有婚后事项的统一 deadline。**
+- [ ] 核对每个退休或保险计划的受益人指定和配偶同意要求；**30天只是在特定雇主医保特别参保期中常见的联邦最低窗口，不是所有婚后事项的统一截止日期。**
 
 **医保期限核验：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
 

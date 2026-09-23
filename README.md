@@ -31,7 +31,7 @@
 
 [打开阅读网站](https://gjimzhou.github.io/US-China-Life-Playbook/) · [下载 EPUB / PDF / DOCX 等离线版](DOWNLOADS.md) · [查看发布状态](https://github.com/gjimzhou/US-China-Life-Playbook/actions/workflows/pages.yml)
 
-网页版提供全文搜索、章节目录、优先级与证据筛选，以及打印阅读。发布流程同时自动生成 EPUB、PDF、DOCX、单文件 HTML、单文件 Markdown 和 source ZIP；正文更新后这些离线版本与网站一起重建。
+网页版提供全文搜索、章节目录、优先级与证据筛选，以及打印阅读。发布流程同时自动生成 EPUB、PDF、DOCX、单文件 HTML、单文件 Markdown 和 源文件压缩包；正文更新后这些离线版本与网站一起重建。
 
 内容校订范围见[编辑审查进度](references/editorial-status.md)。上线不代表全书事实均已审定。
 
@@ -140,13 +140,13 @@
 | 怀孕／流产／生产／产后异常 | [怀孕、妊娠丢失与生产清单](checklists/pregnancy-birth-loss.md) |
 | 重大诊断／住院／出院 | [重大诊断、住院与出院清单](checklists/hospital-discharge-major-diagnosis.md) |
 | 钱包／证件丢失或被盗 | [钱包与重要证件丢失清单](checklists/lost-wallet-documents.md) |
-| 车辆抛锚／被拖／boot／罚单 | [车辆抛锚、拖车与罚单清单](checklists/vehicle-roadside-ticket-tow.md) |
+| 车辆抛锚／被拖／车轮被锁／罚单 | [车辆抛锚、拖车与罚单清单](checklists/vehicle-roadside-ticket-tow.md) |
 | 宠物走失 | [宠物走失清单](checklists/lost-pet.md) |
 | 盗窃／入室／袭击／家人失踪 | [犯罪受害与失踪处理清单](checklists/crime-victim.md) |
 | 工伤／职业病／突然无法工作 | [工伤与请假清单](checklists/workplace-injury-leave.md) |
-| 药品缺货／refill／PA／旅行丢药 | [药物获取失败清单](checklists/medication-access-problem.md) |
-| Jury summons／subpoena／法院通知 | [Jury 与法院通知清单](checklists/jury-court-summons.md) |
-| USCIS RFE／biometrics／interview／NOID | [USCIS Notice 处理清单](checklists/immigration-notice-rfe.md) |
+| 药品缺货／续配次数用完／事先授权／旅行丢药 | [药物获取失败清单](checklists/medication-access-problem.md) |
+| 陪审传唤／证人传票／法院通知 | [陪审与法院通知清单](checklists/jury-court-summons.md) |
+| 移民局补件／生物信息采集／面试／拟拒绝通知 | [移民局通知处理清单](checklists/immigration-notice-rfe.md) |
 | 建立家庭基础设施 | [前 30 天](checklists/first-30-days.md) |
 | 定期复查 | [家庭年度复查](checklists/annual-review.md) |
 | 紧急联络与资料 | [家庭紧急信息表](checklists/emergency-sheet.md) |
@@ -215,11 +215,11 @@
 
 ## 项目状态
 
-**v0.4：reader-facing reference pass 与 section-level boundary pass 已完成，进入第三轮动态事实 / link-health 质量审计。**
+**v0.4：实用参考链接审查与逐节适用边界审查 已完成，进入第三轮动态事实与链接有效性审查。**
 
 目前有40章正文、40份清单目录页面（含生活事件索引），以及方法论、来源原则、术语表和贡献规范。**原有40 / 40章 + 11 / 11清单已完成既定首轮实用来源补充；后续新增的18份事件型清单已完成本轮中文校订、结构审阅与指定关键事实核验；未决事项见编辑审查进度**：高后果事项优先直达政府 / 监管 / 专业机构的解释、表格、计算器、查询、投诉或办理入口；社交和家庭运营类内容则明确保留为情境化实践建议，不强行包装成统一规则。
 
-当前维护重点从“补链接”转为**验证链接是否仍有效、动态规则是否仍当前、同类入口是否重复或漂移，以及地方 / 州别 / 个案边界是否表达清楚**。第三轮已开始逐项替换旧 deep-link、历史宣传页和年份写死的附件路径，并重新核对会随年度变化的税务、移民、疫苗、托育和跨境规则。各章末尾继续保留事实核验范围；“首轮完成”不等于全书医学、法律、税务或保险个案已获专业审定。
+当前维护重点从“补链接”转为**验证链接是否仍有效、动态规则是否仍当前、同类入口是否重复或漂移，以及地方 / 州别 / 个案边界是否表达清楚**。第三轮已开始逐项替换旧页面直达链接、历史宣传页和年份写死的附件路径，并重新核对会随年度变化的税务、移民、疫苗、托育和跨境规则。各章末尾继续保留事实核验范围；“首轮完成”不等于全书医学、法律、税务或保险个案已获专业审定。
 
 更新记录见[变更日志](CHANGELOG.md)。
 

@@ -18,9 +18,9 @@
 
 - [ ] 主要邮箱和金融账户的多因素认证可用；优先评估通行密钥或安全密钥等抗钓鱼方式。
 - [ ] 安全保管恢复码，确认备用恢复不完全依赖同一手机或邮箱。
-- [ ] 按家庭选择核对信用冻结；通过 AnnualCreditReport.com 查看三家信用报告并处理异常。当前每家 bureau 的免费 report 最多可每周取得一次；年度复查不要求每周都查，但应知道该入口随时可用。
-- [ ] 核对国税局账户与当年 IP PIN：continuous enrollment 每年取得新 PIN；one-time enrollment 年末自动退出，下一年需要时重新加入。当前 calendar year 提交 prior-year / amended federal return 也使用该年 current IP PIN。
-- [ ] 核对 my Social Security 的上一年 earnings record。发现漏记或错误尽早更正；普通情况下不要拖过该税年结束后 **3 年、3 个月、15 天**的 correction window，超过后只剩法定例外。
+- [ ] 按家庭选择核对信用冻结；通过AnnualCreditReport.com查看三家信用报告并处理异常。当前每家信用机构的免费报告最多可每周取得一次；年度复查不要求每周都查，但应知道该入口随时可用。
+- [ ] 核对国税局账户与当年身份保护识别码（IP PIN）：持续加入者每年取得新码；一次性加入者年末自动退出，下一年需要时重新加入。当年提交往年或修正联邦税表，也使用提交当年的有效识别码。
+- [ ] 核对社会安全个人账户（my Social Security）的上一年收入记录。发现漏记或错误尽早更正；普通情况下不要拖过该税年结束后**3年、3个月、15天**的更正期限，超过后只剩法定例外。
 - [ ] 检查密码管理器的合法应急访问安排与已授权设备。
 
 **一键核验：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [IRS：申请身份保护码](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：身份保护码常见问题](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin) · [SSA：核对收入记录](https://www.ssa.gov/prepare/review-record-earnings) · [SSA：更正收入记录](https://www.ssa.gov/faqs/en/questions/KA-02603.html)。
@@ -47,8 +47,8 @@
 - [ ] 归档报税表和支持材料，更新当年预扣与预缴估算。
 - [ ] 按账户所有权类别核对存款保障，检查遗忘账户、旧雇主资产和重复费用。
 - [ ] 复查退休、健康储蓄账户及雇主福利选择，确认专业联系人。
-- [ ] 家庭成员接近 RMD applicable age、当年退休，或持有 inherited IRA / inherited retirement plan 时，逐账户核对当年 RMD / beneficiary-distribution deadline；不要只等 custodian 自动提醒。
-- [ ] 如果这是 first-RMD year，明确是当年 12/31 先取，还是延到次年 4/1；后者会与次年 12/31 的第二笔 RMD 落在同一个 calendar year。
+- [ ] 家庭成员接近最低提取要求（RMD）的适用年龄、当年退休，或持有继承IRA或继承退休计划时，逐账户核对当年最低提取或受益人分配的截止日期；不要只等账户托管机构自动提醒。
+- [ ] 如果这是首次最低提取年度，明确是当年12月31日前先取，还是延到次年4月1日；后者会与次年12月31日到期的第二笔最低提取落在同一个自然年。
 - [ ] 对照付款确认、机构入账和报税表，不只看银行已扣款。
 
 **一键核验：** [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：获取税务记录](https://www.irs.gov/individuals/get-transcript) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：最低提取要求](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [存款保险估算工具（FDIC EDIE）](https://edie.fdic.gov/)。
@@ -73,7 +73,7 @@
 - [ ] 按年龄与风险和医生讨论预防照护，不把检查数量当作质量。
 - [ ] 更新用药、过敏、疫苗及关键病历，确认跨机构取得资料的办法。
 - [ ] 确认附近急诊与紧急门诊入口；危急时不等待网络核验。
-- [ ] 家庭成员接近 65 岁时，提前检查 Medicare Initial Enrollment Period、现有 employer coverage 与是否可用 Special Enrollment Period；不要等生日后才第一次研究。
+- [ ] 家庭成员接近65岁时，提前检查Medicare首次参保期、现有雇主保障与是否可用特别参保期；不要等生日后才第一次研究。
 
 **一键核验：** [USPSTF：A与B等级的预防服务建议](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：成人疫苗接种安排](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [Medicare：医保保障何时生效](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start)。
 
@@ -88,7 +88,7 @@
 
 - [ ] 确认国税局、社会安全局和州车辆管理机构账户可用。
 - [ ] 检查护照、驾照、移民身份及工作文件期限和待办。
-- [ ] 如果会乘美国境内商业航班，确认常用州驾照 / ID 是否 REAL ID-compliant；否则确认仍持有有效 passport、passport card、Global Entry 等 TSA 可接受替代证件。
+- [ ] 如果会乘美国境内商业航班，确认常用州驾照或身份证件是否符合REAL ID标准；否则确认仍持有有效护照、护照卡、全球入境计划（Global Entry）证件等运输安全管理局（TSA）可接受的替代证件。
 - [ ] 地址变化分别核对各机构要求，不能只做邮政转寄。
 
 **一键核验：** [美国政府办事入口（USA.gov）](https://www.usa.gov/) · [社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/) · [移民局在线账户（myUSCIS）](https://my.uscis.gov/) · [美国护照办理](https://travel.state.gov/content/travel/en/passports.html) · [TSA：机场安检身份证件标准（REAL ID）](https://www.tsa.gov/real-id) · [TSA：机场安检可接受证件](https://www.tsa.gov/travel/security-screening/identification)。

@@ -23,13 +23,13 @@
 
 ## 医保衔接
 
-失去 job-based coverage 后，**不要只盯 COBRA 的 60 天窗口**。几条路的 deadline 是并行的，最短的往往是配偶 / 其他 employer plan 的 HIPAA special enrollment：
+失去雇主医保后，**不要只盯医保延续保障（COBRA）的60天窗口**。几条路的截止日期是并行的，最短的往往是配偶或其他雇主医保的特别参保期：
 
-- [ ] **Spouse / other job-based group plan：** 如果因失去原 coverage 而符合 HIPAA special enrollment，group health plan 通常至少给 **30 天** request window。立即向 spouse employer / plan administrator 询问 coverage end date、所需证明、生效日和是否保留已累计 deductible / OOP。
-- [ ] **Marketplace：** qualifying job-based coverage 将结束时，通常可在结束前 **60 天**开始 SEP；若已失去 coverage，通常须在结束后 **60 天**内选 plan。若 Marketplace 要求 SEP verification documents，一般在选 plan 后 **30 天**内提交。loss-of-coverage plan 通常可从旧 coverage 结束后的下月 1 日衔接，具体按 eligibility result / plan selection date 核对。
-- [ ] **COBRA：** 一般从 coverage ends 或 COBRA election notice 提供 / 寄出二者较晚者起有 **60 天** election period；elect 后通常有 **45 天**付 initial premium。之后 plan 必须允许 monthly payments，并至少给 **30 天** ongoing-payment grace period。不要等 monthly bill——plan 不一定必须每月寄账单。
-- [ ] **不要因为先选 COBRA 就忘记 Marketplace 规则：** 自愿提前终止 COBRA 通常不会单独产生新的 Marketplace SEP；COBRA 正常耗尽或发生其他 qualifying event 则另行判断。
-- [ ] 逐项比较网络、premium、deductible / OOP accumulation、retroactive coverage、首期付款和 family coverage；确认选择已受理且实际生效，不只保留申请截图。
+- [ ] **配偶或其他雇主团体医保：** 如果因失去原保障而符合HIPAA特别参保条件，团体医保计划通常至少给**30天**申请窗口。立即向配偶雇主或计划管理人询问原保障结束日期、所需证明、生效日，以及是否保留已累计的自付额和年度自付上限金额。
+- [ ] **医保市场（Marketplace）：** 符合条件的雇主保障将结束时，通常可在结束前**60天**开始特别参保；若已失去保障，通常须在结束后**60天**内选定计划。若医保市场要求特别参保证明，一般在选定计划后**30天**内提交。因失去保障而参保的计划通常可从旧保障结束后的下月1日衔接，具体按资格结果和选定日期核对。
+- [ ] **COBRA：** 一般从保障结束或参保选择通知提供／寄出二者较晚者起有**60天**选择期；选择后通常有**45天**付首期保费。之后计划必须允许按月付款，并至少给**30天**续期付款宽限期。不要等每月账单——计划不一定必须每月寄账单。
+- [ ] **不要因为先选COBRA就忘记医保市场规则：** 自愿提前终止COBRA通常不会单独产生新的医保市场特别参保期；COBRA正常耗尽或发生其他合格事件则另行判断。
+- [ ] 逐项比较服务网络、保费、自付额与年度自付上限累计、追溯保障、首期付款和家庭保障；确认选择已受理且实际生效，不只保留申请截图。
 
 **医保入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：失去雇主医保后的选择](https://www.healthcare.gov/have-job-based-coverage/if-you-lose-job-based-coverage/) · [HealthCare.gov：特别参保期证明与60天申请窗口](https://www.healthcare.gov/coverage-outside-open-enrollment/confirm-special-enrollment-period/) · [DOL：雇员医保延续保障常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
 
@@ -53,10 +53,10 @@
 
 - [ ] 查询适用失业保险和州福利，记录受理状态及补件要求。
 - [ ] 核对健康储蓄／灵活支出账户、退休账户、寿险及失能保障后续选择。
-- [ ] 退休账户不要因离职当天焦虑而直接 cash out；先确认 old plan 是否可保留、new plan 是否接收 rollover、IRA 是否合适，以及 fees / investments / creditor protection / loan / RMD consequences。
-- [ ] 如决定移动退休账户，优先询问 **direct rollover / trustee-to-trustee transfer**；若 distribution 已先付给本人，立即记录**收到日期**，因为适用 rollover 通常进入 **60-day** deadline。
-- [ ] Employer retirement plan eligible rollover distribution 若直接付给本人，一般会 mandatory withhold **20%** federal tax；若想 full rollover，须准备其他资金补齐 withholding，不要只把 net check 存入新账户就认为已全额 rollover。
-- [ ] 若是 IRA-to-IRA rollover，先确认过去 12 个月是否已做过另一笔 **60-day IRA rollover**；trustee-to-trustee transfer 通常不受 one-rollover-per-year rule 限制。
+- [ ] 退休账户不要因离职当天焦虑而直接取现；先确认旧计划是否可保留、新计划是否接收转存、IRA是否合适，以及费用、投资选择、债权人保护、账户贷款和最低提取要求的后果。
+- [ ] 如决定移动退休账户，优先询问**直接转存（Direct Rollover）或受托人之间直接转移（Trustee-to-Trustee Transfer）**；若款项已先付给本人，立即记录**收到日期**，因为适用的转存通常有**60天**期限。
+- [ ] 雇主退休计划符合转存条件的分配若直接付给本人，一般会强制预扣**20%**联邦税；若想全额转存，须准备其他资金补齐预扣款，不要只把净额支票存入新账户就认为已全额转存。
+- [ ] 若是IRA之间转存，先确认过去12个月是否已做过另一笔**60天内完成的IRA转存**；受托人之间直接转移通常不受一年一次转存规则限制。
 - [ ] 确认股权、报销和其他福利的实际到账或失效情况。
 
 **政府 / 福利入口：** [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [IRS：退休资金转存规则](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [退休账户提前提取税务说明（IRS Topic 413）](https://www.irs.gov/taxtopics/tc413) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。
@@ -85,4 +85,4 @@
 
 
 
-模板校订与医保 / rollover 期限复核：2026-09-21
+模板校订与医保／退休账户转存期限复核：2026-09-21

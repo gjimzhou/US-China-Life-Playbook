@@ -33,13 +33,13 @@
 ## 信用与身份盗用
 
 - [ ] 通过[身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/)制定恢复步骤。
-- [ ] 分别处理三家信用机构的信用冻结；online / phone 申请时，记录提交时间并确认 bureau 是否在通常的 **1 个营业日内 place freeze**。
-- [ ] 需要临时解冻时，只对实际会查报告的 bureau 操作；online / phone lift 通常应在 **1 小时内**生效，办完后重新冻结。
-- [ ] 如怀疑身份盗用，可另加 initial fraud alert（通常 **1 年**）；已有 identity-theft report 的受害者可评估 extended fraud alert（通常 **7 年**）。
-- [ ] 通过 AnnualCreditReport.com 核对三家 nationwide bureaus 的信用报告并争议冒名账户；当前每家 report 最多可**每周免费取得一次**。Credit report 不等于 credit score，不需要购买付费 monitoring 才能取得法定免费报告。
-- [ ] 报告错误同时向对应 CRA 和 furnisher 提交具体 dispute 并保存证据。CRA 一般 **30 天**调查，特定情形可到 **45 天**，完成后通常 **5 个营业日**内通知结果；不要因为正在等 furnisher 回信就错过 CRA dispute。
-- [ ] 如果准备向 CFPB 投诉“credit report 不准确 / 不完整”，先确认已经直接向 CRA dispute；通常等 dispute 不再 pending 或已经过去 **45 天**再走该投诉入口。
-- [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排；如已加入，使用**提交当年**的 current IP PIN，包括当年提交的 prior-year / amended federal return。Continuous enrollment 每年取得新 PIN；one-time enrollment 年末自动退出。
+- [ ] 分别处理三家信用机构的信用冻结；在线或电话申请时，记录提交时间，并确认信用机构是否在通常的**1个营业日内**完成冻结。
+- [ ] 需要临时解冻时，只对实际会查报告的信用机构操作；在线或电话解冻通常应在**1小时内**生效，办完后重新冻结。
+- [ ] 如怀疑身份盗用，可另加初始欺诈警报（Initial Fraud Alert，通常**1年**）；已有身份盗用报告的受害者可评估延长欺诈警报（Extended Fraud Alert，通常**7年**）。
+- [ ] 通过AnnualCreditReport.com核对三家全国性信用机构的报告，并对冒名账户提出异议；当前每家报告最多可**每周免费取得一次**。信用报告不等于信用分数，不需要购买付费监测才能取得法定免费报告。
+- [ ] 报告错误同时向信用报告机构（CRA）和信息提供方提交具体异议并保存证据。信用报告机构一般**30天**调查，特定情形可到**45天**，完成后通常**5个营业日**内通知结果；不要因为正在等信息提供方回信就错过向信用报告机构提出异议。
+- [ ] 如果准备向消费者金融保护局（CFPB）投诉“信用报告不准确或不完整”，先确认已经直接向信用报告机构提出异议；通常等异议处理结束或已经过去**45天**再走该投诉入口。
+- [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排；如已加入，使用**提交当年**的有效识别码，包括当年提交的往年或修正联邦税表。持续加入者每年取得新码；一次性加入者年末自动退出。
 - [ ] 保存每家机构的案件号、材料清单与截止日。
 
 **直接入口：** [FTC：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [FTC：信用冻结与解除的时限](https://consumer.ftc.gov/articles/understanding-your-credit) · [Equifax：信用冻结](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian：信用冻结](https://www.experian.com/freeze/center.html) · [TransUnion：信用冻结](https://www.transunion.com/credit-freeze) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [CFPB：信用报告错误的争议处理（2026年9月2日复核）](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/) · [CFPB：信用报告投诉的前置条件](https://www.consumerfinance.gov/complaint/credit-and-consumer-reporting-complaint-notice-2/) · [IRS：申请身份保护码](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：身份保护码常见问题](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin)。

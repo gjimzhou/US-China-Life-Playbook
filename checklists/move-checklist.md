@@ -32,9 +32,9 @@
 ## 医疗与照护衔接
 
 - [ ] 更新医保地址并核对网络，按需要寻找医生、牙医、药房与兽医。
-- [ ] **Marketplace coverage：** 如果搬到新的 ZIP code / county、跨州，或符合其他 Marketplace “change in primary place of living” 情形，立即检查是否触发 SEP。Federal Marketplace 当前通常要求在 move 前 60 天内至少有 **1 天 qualifying health coverage**；从外国或 U.S. territory 搬入、federally recognized tribe / ANCSA 等有当前例外。只为医疗治疗搬家或 vacation stay 不算 qualifying move。
-- [ ] qualifying move 后通常应在 **60 天内**完成 Marketplace plan selection；若要求 verification，准备旧 / 新地址和 prior coverage 证明。不要把“改了 HealthCare.gov profile 地址”当成已经选好新 plan。
-- [ ] **跨州 Marketplace：** 进入新州后通常需要按新州创建 / 提交新的 Marketplace application，而不是把旧州 plan 直接改地址继续使用。确认旧 coverage end date、新 coverage effective date 和 first premium，避免 gap / overlap。
+- [ ] **医保市场保障：** 如果搬到新的邮编区／县、跨州，或符合其他主要居住地变更情形，立即检查是否触发特别参保期。联邦医保市场当前通常要求搬家前60天内至少有**1天符合条件的医保保障**；从外国或美国领地搬入、联邦认可部落成员／阿拉斯加原住民索赔解决法（ANCSA）等有当前例外。只为治疗搬家或度假停留不算符合条件的搬家。
+- [ ] 符合条件的搬家后通常应在**60天内**完成医保市场计划选择；若要求核验，准备旧／新地址和原有保障证明。不要把“改了HealthCare.gov个人资料地址”当成已经选好新计划。
+- [ ] **跨州医保市场：** 进入新州后通常需要按新州创建或提交新的医保市场申请，而不是把旧州计划直接改地址继续使用。确认旧保障结束日期、新保障生效日期和首期保费，避免断保或重叠。
 - [ ] 转移必要病历、处方与预约，避免搬家造成关键用药中断。
 
 **Marketplace 搬家入口：** [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：向医保市场报告搬家](https://www.healthcare.gov/reporting-changes/when-you-move/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。

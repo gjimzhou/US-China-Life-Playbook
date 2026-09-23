@@ -75,18 +75,18 @@
 
 ## Social Security / SSI 代理安排（如适用）
 
-- [ ] 父母仍具备管理能力时，确认是否希望在 my Social Security / SSA 预先指定最多 3 名 future representative-payee candidates。
-- [ ] 已有 financial POA 时，也不要假设 agent 可以直接接收或管理 Social Security / SSI benefits。
-- [ ] 如果父母已无法管理 benefits，由家属联系 SSA 申请 representative payee；记录 SSA appointment / application 状态，不通过共享密码绕过程序。
-- [ ] 真正被 appoint 为 payee 后，单独保存 benefit 收支记录，并区分这项权限与其他银行、投资、医疗和税务权限。
+- [ ] 父母仍具备管理能力时，确认是否希望在社会安全个人账户（my Social Security）或通过社会安全局预先指定最多3名未来福利代收人候选人。
+- [ ] 已有财务授权委托书时，也不要假设代理人可以直接接收或管理社会安全或补充保障收入（SSI）福利。
+- [ ] 如果父母已无法管理福利，由家属联系社会安全局申请福利代收人；记录预约和申请状态，不通过共享密码绕过程序。
+- [ ] 真正被指定为福利代收人后，单独保存福利收支记录，并区分这项权限与其他银行、投资、医疗和税务权限。
 
 **直接入口：** [SSA：福利款项代表收款制度](https://www.ssa.gov/payee/) · [SSA：代表收款人常见问题](https://www.ssa.gov/payee/faqrep.htm) · [SSA：预先指定未来代表收款人](https://www.ssa.gov/payee/advance_designation.htm)。
 
 ## 美国 Medicare / 长期照护分流（如适用）
 
-- [ ] 接近 65 岁时已记录 Medicare Initial Enrollment Period，以及是否因本人 / 配偶 current-employment coverage 可延后 Part B。
-- [ ] 如发生住院后 rehab，确认是否符合 Medicare skilled nursing facility（SNF）条件、benefit period 和剩余 covered days。
-- [ ] 不把 Medicare SNF benefit 当成长期养老院保障；如预计长期需要 ADL / custodial care，单独确认 private pay、long-term care insurance、Medicaid 或其他实际付款来源。
+- [ ] 接近65岁时已记录联邦医疗保险（Medicare）首次参保期，以及是否因本人或配偶当前就业提供的保障而可延后B部分参保。
+- [ ] 如发生住院后康复，确认是否符合Medicare专业护理机构（SNF）保障条件、福利期和剩余承保天数。
+- [ ] 不把Medicare的专业护理机构福利当成长期养老院保障；如预计长期需要日常生活活动协助或生活照料，单独确认自费、长期护理保险、医疗补助（Medicaid）或其他实际付款来源。
 - [ ] 跨境长期居住时，不假定 Medicare 会报销中国医疗或长期照护。
 
 **直接核对：** [Medicare：医保保障何时生效](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [Medicare：专业护理机构照护与2026年费用](https://www.medicare.gov/coverage/skilled-nursing-facility-care) · [Medicare：长期日常照护不在通常保障内](https://www.medicare.gov/coverage/long-term-care) · [Medicare：美国境外医疗保障](https://www.medicare.gov/coverage/travel-outside-the-u.s.) · [Medicaid：护理机构](https://www.medicaid.gov/medicaid/long-term-services-supports/institutional-long-term-care/nursing-facilities)。

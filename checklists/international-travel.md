@@ -30,9 +30,9 @@
 ## 出发前再次确认
 
 - [ ] 机票姓名与证件一致，确认行李、接送和住宿地址。
-- [ ] Lawful permanent resident（绿卡持有人）如计划长期离境，分别确认：返美 travel document、是否需要 reentry permit、abandonment 风险、naturalization continuous-residence / physical-presence 影响；不要用“每 6 个月回来一次”替代分析。
-- [ ] 如果预计连续离美超过 1 年，出发前核对 Form I-131 / reentry permit；不要假设人在国外后还能补办同样的申请流程。
-- [ ] 如未来计划 naturalization，任何单次 >6 months absence 都应记录支持 continuous residence 的真实事实；≥1 year absence 另核对是否打断 continuous residence，以及本人是否属于可用 Form N-470 的特殊情形。
+- [ ] 合法永久居民（绿卡持有人）如计划长期离境，分别确认：返美旅行证件、是否需要回美证、放弃永久居民身份的风险，以及对入籍连续居住和实际在美停留要求的影响；不要用“每6个月回来一次”替代分析。
+- [ ] 如果预计连续离美超过1年，出发前核对旅行文件申请（Form I-131）及回美证要求；不要假设人在国外后还能补办同样的申请流程。
+- [ ] 如未来计划入籍，任何单次超过6个月的离境都应记录支持连续居住的真实事实；离境1年或以上，另核对是否打断连续居住，以及本人是否属于可用Form N-470的特殊情形。
 - [ ] 核对天气与安全通知，保存必要离线路线。
 - [ ] 测试漫游或电话卡、账户认证及恢复在境外是否可用。
 - [ ] 安排住所、邮件、宠物及家人照护，确定谁能处理限期通知。
@@ -82,7 +82,7 @@
 - [ ] 检查交易异常、漫游续费和药物补充。
 - [ ] 把实际出现的问题写回私人清单。
 
-**返程后若有异常：** 身份盗用用 [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/)；航空 / 旅行文件问题回到 operating carrier 与对应政府机关；医疗理赔按 insurer 的 official claim instructions。
+**返程后若有异常：** 身份盗用用 [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/)；航空或旅行文件问题回到实际承运航空公司与对应政府机关；医疗理赔按保险公司的官方理赔说明办理。
 
 
 
