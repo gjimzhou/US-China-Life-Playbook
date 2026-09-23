@@ -91,7 +91,7 @@
 - [ ] 如果会乘美国境内商业航班，确认常用州驾照 / ID 是否 REAL ID-compliant；否则确认仍持有有效 passport、passport card、Global Entry 等 TSA 可接受替代证件。
 - [ ] 地址变化分别核对各机构要求，不能只做邮政转寄。
 
-**一键核验：** [美国政府办事入口（USA.gov）](https://www.usa.gov/) · [社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/) · [移民局在线账户（myUSCIS）](https://my.uscis.gov/) · [美国护照办理](https://travel.state.gov/content/travel/en/passports.html) · [TSA：REAL ID](https://www.tsa.gov/real-id) · [TSA：Acceptable IDs](https://www.tsa.gov/travel/security-screening/identification)。
+**一键核验：** [美国政府办事入口（USA.gov）](https://www.usa.gov/) · [社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/) · [移民局在线账户（myUSCIS）](https://my.uscis.gov/) · [美国护照办理](https://travel.state.gov/content/travel/en/passports.html) · [TSA：机场安检身份证件标准（REAL ID）](https://www.tsa.gov/real-id) · [TSA：机场安检可接受证件](https://www.tsa.gov/travel/security-screening/identification)。
 
 ## 中国与跨境生活
 

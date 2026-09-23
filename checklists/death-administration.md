@@ -27,7 +27,7 @@
 - [ ] 按机构要求估计所需份数，安全保存扫描件。
 - [ ] 记录向谁提交了哪份文件、是否退回及后续要求。
 
-**办理入口：** [USA.gov：Get a Certified Copy of a Death Certificate](https://www.usa.gov/death-certificate)。跨境使用前再按接收机构要求核对 apostille / translation。
+**办理入口：** [USA.gov：死亡证明](https://www.usa.gov/death-certificate)。跨境使用前再按接收机构要求核对 apostille / translation。
 
 ## 政府手续
 

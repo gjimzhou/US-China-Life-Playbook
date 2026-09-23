@@ -32,7 +32,7 @@
 
 向登记机构或协助办理的殡葬方询问认证副本（Certified copy）的申请。先列出各机构需要原件、认证副本、普通副本还是上传件，再决定份数；同时核对姓名等信息是否正确。
 
-**申请入口：** [USA.gov：How to get a certified copy of a death certificate](https://www.usa.gov/death-certificate)。实际签发机关通常是州、县或当地 vital records office。
+**申请入口：** [USA.gov：死亡证明](https://www.usa.gov/death-certificate)。实际签发机关通常是州、县或当地 vital records office。
 
 ## 5. 确认社会保障署已收到死亡报告
 

@@ -10,7 +10,7 @@
 
 呼吸困难、严重创伤、持续或反复抽搐、疑似中毒等情况应立即联系兽医急诊判断。受惊或疼痛动物可能咬伤人，搬动和急救按专业指示操作。
 
-**找急诊 / 医院：** [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [AAHA：Is This a Pet Emergency?](https://www.aaha.org/resources/help-is-this-a-pet-emergency/)。具体是否接诊、是否 24/7 和物种范围仍要直接打电话确认。
+**找急诊 / 医院：** [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [AAHA：如何识别宠物急症](https://www.aaha.org/resources/help-is-this-a-pet-emergency/)。具体是否接诊、是否 24/7 和物种范围仍要直接打电话确认。
 
 ## 2. 预防照护按动物与风险制定
 
@@ -18,7 +18,7 @@
 
 把下次复查和续药时间写入日历，并在搬家或旅行前重新评估暴露风险。
 
-**继续看：** [AAHA：Preventive Healthcare Guidelines](https://www.aaha.org/resources/2011-aaha-avma-preventive-healthcare-guidelines/) · [AAHA：Annual Pet Checkup / individualized preventive care](https://www.aaha.org/resources/why-are-regular-veterinary-visits-important/)。疫苗、寄生虫和筛查仍应按物种、年龄、生活方式与当地风险由兽医制定。
+**继续看：** [AAHA：宠物预防保健指引](https://www.aaha.org/resources/2011-aaha-avma-preventive-healthcare-guidelines/) · [AAHA：宠物年度检查与个体化预防照护](https://www.aaha.org/resources/why-are-regular-veterinary-visits-important/)。疫苗、寄生虫和筛查仍应按物种、年龄、生活方式与当地风险由兽医制定。
 
 ## 3. 药物清单写清浓度与用法
 
@@ -50,7 +50,7 @@
 
 预算和紧急决策权限应结合家庭能力与动物福利讨论，不能把一个口头金额上限当成所有情形都足够的安排。
 
-**实务动作：** 向自己的兽医和急诊医院索取其 third-party treatment authorization / caregiver authorization 要求；不同医院流程不同，不用网上通用模板假定必然有效。医院候选可从 [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)开始。
+**实务动作：** 向自己的兽医和急诊医院索取其第三方治疗授权或照护人授权要求；不同医院流程不同，不用网上通用模板假定必然有效。医院候选可从 [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)开始。
 
 ## 7. 宠物保险看条款
 
@@ -74,7 +74,7 @@
 
 芯片不能替代日常防走失措施；是否登记、如何更新和跨境规格，均应向实际服务机构确认。
 
-**继续看：** [AAHA / AVMA preventive-care guidance：Check the chip](https://www.aaha.org/resources/preventive-healthcare-for-pets/)；国际旅行时同时按 [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)核对目的地是否要求特定 microchip 标准和植入 / 疫苗顺序。
+**继续看：** [AAHA / AVMA preventive-care guidance：检查宠物身份芯片](https://www.aaha.org/resources/preventive-healthcare-for-pets/)；国际旅行时同时按 [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)核对目的地是否要求特定身份芯片标准和植入 / 疫苗顺序。
 
 ## 10. 运输工具放在能取到的地方
 
@@ -88,7 +88,7 @@
 
 把药物、清洁剂、杀虫剂及可能有毒的植物或食物放到动物无法接触处。不同物种的毒性不同，不能把猫狗或人类经验互相套用。
 
-美国可联系 ASPCA Animal Poison Control，电话 **888-426-4435**，提供全天服务，可能收费。准备动物体重、接触物、时间、可能剂量和包装；同时按需要联系急诊兽医，不自行催吐或用偏方。
+美国可联系 美国防止虐待动物协会中毒咨询中心（ASPCA Animal Poison Control），电话 **888-426-4435**，提供全天服务，可能收费。准备动物体重、接触物、时间、可能剂量和包装；同时按需要联系急诊兽医，不自行催吐或用偏方。
 
 **直接入口：** [美国防止虐待动物协会中毒咨询（ASPCA）](https://www.aspca.org/pet-care/animal-poison-control)。
 
@@ -98,7 +98,7 @@
 
 是否适合寄养、团体活动或长途移动，可先与兽医讨论动物的健康和行为需要。
 
-**本项目实务建议：** trial run 不是官方要求，而是降低首次长时间分离失败风险的做法；健康 / 行为适配仍由本人兽医判断。
+**本项目实务建议：** 试住不是官方要求，而是降低首次长时间分离失败风险的做法；健康 / 行为适配仍由本人兽医判断。
 
 ## 13. 寄养机构问具体应急流程
 
@@ -106,19 +106,19 @@
 
 核对疫苗材料、接送时间、取消条款和发生紧急事件后的记录提供方式。
 
-**本项目实务建议：** 寄养监管和许可高度地方化；先查所在地政府 / animal-services 规则，再用机构书面 policy 核对 overnight staffing、medication、emergency transport 与 cancellation。
+**本项目实务建议：** 寄养监管和许可高度地方化；先查所在地政府 / 动物管理服务规则，再用机构书面政策核对夜间值守、给药、紧急转运与取消预订。
 
 ## 14. 国际移动先查目的地要求
 
 美国农业部动植物卫生检验局（USDA APHIS）提醒，准备可能需要数周到数月。按物种、出发地、目的地和过境地确认芯片、疫苗、检测、处理、许可及健康证明要求。
 
-**办理入口：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel) · [APHIS：Pet Travel Process Overview](https://www.aphis.usda.gov/pet-travel/pet-travel-process-overview) · [APHIS：从美国前往另一国家](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export)。先核对程序先后顺序和有效时间窗，再订无法更改的行程。
+**办理入口：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel) · [APHIS：宠物旅行办理流程](https://www.aphis.usda.gov/pet-travel/pet-travel-process-overview) · [APHIS：从美国前往另一国家](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export)。先核对程序先后顺序和有效时间窗，再订无法更改的行程。
 
 ## 15. 不存在美国签发的全球通用宠物护照
 
 不同国家要求不同健康证明。目的地要求 APHIS 签注时，出具证明的兽医须有相应 USDA 认可资格；普通疫苗记录不能自动替代旅行证明。
 
-**继续看 / 找合资格兽医：** [APHIS：Pet Travel FAQ](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/frequently-asked-questions-about-traveling-your-pet) · [APHIS：Find a USDA-Accredited Veterinarian](https://vsapps.aphis.usda.gov/vsps/public/VetSearch.do) · [APHIS VEHCS](https://www.aphis.usda.gov/pet-travel/vehcs)。美国兽医或 APHIS 不能自行豁免另一国家的入境要求。
+**继续看 / 找合资格兽医：** [APHIS：宠物旅行常见问题](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/frequently-asked-questions-about-traveling-your-pet) · [APHIS：查找美国农业部认可的兽医](https://vsapps.aphis.usda.gov/vsps/public/VetSearch.do) · [兽医健康证书电子签注系统（APHIS VEHCS）](https://www.aphis.usda.gov/pet-travel/vehcs)。美国兽医或 APHIS 不能自行豁免另一国家的入境要求。
 
 ## 16. 航空公司规则是另一层
 
@@ -126,26 +126,26 @@
 
 取得预订确认也不等于完成政府入境要求；反过来，证明齐全也不代表航空公司必须承运。是否适合飞行由兽医评估，不自行给镇静药。
 
-**政府层面：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；航司层面必须再查实际 operating carrier 的 pet policy，尤其是 cabin / cargo、温度、品种与联程限制。
+**政府层面：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；航司层面必须再查实际实际承运航空公司的宠物运输政策，尤其是客舱或货运、温度、品种与联程限制。
 
 ## 17. 出发前就检查回程
 
-入境美国的犬只规则取决于入境前 **6 个月**去过哪些国家 / 地区、犬只在哪里接种狂犬病疫苗，以及 microchip 与文件情况；还可能涉及 USDA 和目的州要求。不要把犬只规则直接套用猫或其他动物。
+入境美国的犬只规则取决于入境前 **6 个月**去过哪些国家 / 地区、犬只在哪里接种狂犬病疫苗，以及身份芯片与文件情况；还可能涉及 USDA 和目的州要求。不要把犬只规则直接套用猫或其他动物。
 
 截至 2026-09-21，CDC 对**所有进入或返回美国的犬只**有几个共同底线：
 
-- 每只狗都需要 **CDC Dog Import Form receipt**；
+- 每只狗都需要 **美国疾控中心犬只入境表回执（CDC Dog Import Form）**；
 - 到达时必须看起来健康；
 - 入境时至少 **6 个月大**；
-- 必须有能被 universal scanner 读取的 microchip。
+- 必须有能被通用扫描仪读取的身份芯片。
 
-如果过去 6 个月**只在 dog-rabies-free / low-risk 国家或地区**，CDC 当前规则通常只要求上述 Dog Import Form receipt 加共同底线；receipt 通常自提交日起可用 6 个月，但 departure country 改变、去过 high-risk country 等会改变可用性。
+如果过去 6 个月**只在犬狂犬病无疫或低风险国家或地区**，CDC 当前规则通常只要求上述犬只入境表回执加共同底线；回执通常自提交日起可用 6 个月，但出发国家改变、去过高风险国家等会改变可用性。
 
-如果过去 6 个月去过任何 **high-risk dog-rabies country**，则需要额外文件。对于 **U.S.-vaccinated dog**，CDC 当前要求 Dog Import Form receipt + USDA-endorsed **Certification of U.S.-issued Rabies Vaccination**。这个 certification 必须由 USDA-accredited veterinarian **在犬只离开美国前**完成，不能事后补做。旧的 USDA-endorsed export health certificate 只有在 **2025-07-31 或之前签发**且满足 CDC 条件时，才可能继续代替这张 certification；**2025-07-31 之后签发的 export health certificate 不能再用于这种返美替代。**
+如果过去 6 个月去过任何 **犬狂犬病高风险国家**，则需要额外文件。对于 **在美国接种狂犬病疫苗的犬只**，CDC 当前要求犬只入境表回执 + 经美国农业部签注的 **美国签发的狂犬病疫苗接种证明（Certification of U.S.-issued Rabies Vaccination）**。这个证明必须由美国农业部认可的兽医 **在犬只离开美国前**完成，不能事后补做。旧的经美国农业部签注的出境健康证明只有在 **2025-07-31 或之前签发**且满足 CDC 条件时，才可能继续代替这张证明；**2025-07-31 之后签发的出境健康证明不能再用于这种返美替代。**
 
-对于 **foreign-vaccinated dog + high-risk country exposure**，要求更严格，通常涉及 foreign rabies vaccination / microchip certification、rabies serology、CDC-registered animal care facility reservation 和指定机场；没有有效 titer 时还可能涉及 28-day quarantine。不要仅凭普通疫苗本或“以前这样入境过”行动。
+对于 **在境外接种狂犬病疫苗的犬只 + 高风险国家停留经历**，要求更严格，通常涉及境外狂犬病疫苗及身份芯片证明、狂犬病抗体检测、美国疾控中心注册动物照护设施的预约和指定机场；没有有效抗体滴度结果时还可能涉及二十八天隔离。不要仅凭普通疫苗本或“以前这样入境过”行动。
 
-**回美国前重新核对：** [CDC：Dogs Entering the United States / Navigator](https://www.cdc.gov/importation/dogs/index.html) · [CDC：Dog Import Form and Instructions — 2026-04-28](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html) · [CDC：High-Risk Countries for Dog Rabies](https://www.cdc.gov/importation/dogs/high-risk-countries.html) · [CDC：U.S.-Vaccinated Dogs from High-Risk Countries](https://www.cdc.gov/importation/dogs/us-vaccinated-high-risk-countries.html) · [USDA APHIS：Bring a Pet Into the U.S.](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import) · [APHIS：State-to-State Pet Travel](https://www.aphis.usda.gov/pet-travel/state-to-state)。
+**回美国前重新核对：** [CDC：犬只入境美国要求查询](https://www.cdc.gov/importation/dogs/index.html) · [CDC：犬只入境表与说明（2026年4月28日）](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html) · [CDC：犬狂犬病高风险国家清单](https://www.cdc.gov/importation/dogs/high-risk-countries.html) · [CDC：在美国接种疫苗且去过高风险国家的犬只](https://www.cdc.gov/importation/dogs/us-vaccinated-high-risk-countries.html) · [USDA APHIS：携宠物入境美国](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import) · [APHIS：美国跨州携宠物旅行](https://www.aphis.usda.gov/pet-travel/state-to-state)。
 
 中国入境、过境及隔离要求须按当次行程向目的地主管机构核对。本章未给出可替代官方核验的中美往返材料清单。
 
@@ -155,7 +155,7 @@
 
 兽医或寄养机构变更后，确认对方已收到必要病史。不能只给一串旧医院名称让新机构自行猜测。
 
-**旅行文件入口：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；医疗病历转移则向原兽医和新兽医确认 record-transfer 流程。
+**旅行文件入口：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；医疗病历转移则向原兽医和新兽医确认病历转移流程。
 
 ## 19. 重大疾病时讨论照护目标
 
@@ -163,29 +163,29 @@
 
 把主人无法联系时的决策权限说清楚。费用只是因素之一；不以固定年龄或单一网络评分代替个体评估。
 
-**本项目实务建议：** end-of-life decision 应由 veterinarian-client-patient relationship 下结合具体病情讨论，不使用单一年龄或网络评分替代临床判断。
+**本项目实务建议：** 临终医疗决定应由兽医、宠物主人及患病动物之间的诊疗关系下结合具体病情讨论，不使用单一年龄或网络评分替代临床判断。
 
 ## 20. 宠物去世后，先确认医学与遗体处理问题
 
 如果宠物在家中死亡、死亡原因不明，或存在中毒、外伤、传染病等疑虑，先联系日常兽医或急诊医院，确认是否需要送院、是否建议病理解剖（necropsy），以及遗体在决定下一步前应怎样保存与运输。
 
-如果是计划安乐死，提前讨论地点、谁在场、是否需要镇静、费用与 aftercare；想保留爪印、鼻印、毛发或其他纪念物，也应在操作前告诉医院。
+如果是计划安乐死，提前讨论地点、谁在场、是否需要镇静、费用与身后处理；想保留爪印、鼻印、毛发或其他纪念物，也应在操作前告诉医院。
 
-**直接使用：** [宠物去世、临终与身后处理清单](../checklists/pet-loss.md) · [AAHA：End-of-Life Care for Pets](https://www.aaha.org/resources/end-of-life-care-for-pets/)。
+**直接使用：** [宠物去世、临终与身后处理清单](../checklists/pet-loss.md) · [AAHA：宠物临终照护](https://www.aaha.org/resources/end-of-life-care-for-pets/)。
 
 ## 21. 火化、土葬和骨灰不是“医院自然会替你决定”
 
-兽医团队通常可以说明或代办 burial、cremation、necropsy 等选择，但服务名称、是否单独火化、骨灰如何识别与返还、运输和费用都应向实际 provider 确认。
+兽医团队通常可以说明或代办土葬、火化、病理解剖等选择，但服务名称、是否单独火化、骨灰如何识别与返还、运输和费用都应向实际服务提供方确认。
 
-如果考虑在私人土地土葬、将遗体／骨灰运往另一州或国家，先查所在地、目的地、住房或土地规则；人的 funeral / remains 规则不能直接套给宠物。
+如果考虑在私人土地土葬、将遗体／骨灰运往另一州或国家，先查所在地、目的地、住房或土地规则；人的殡葬或遗体处理规则不能直接套给宠物。
 
-**实务动作：** 要求书面确认“做什么、多少钱、最终返还什么、什么时候返还”，不要只记住口头的 private / communal 等服务名称。
+**实务动作：** 要求书面确认“做什么、多少钱、最终返还什么、什么时候返还”，不要只记住口头的单独或集体火化等服务名称。
 
 ## 22. 保险、芯片、许可证和订阅需要主动收尾
 
 及时通知保险公司宠物已去世，分别确认最终医疗费用的理赔期限、所需材料、保单终止与退款，以及终止后是否仍可提交既往费用；不要把等理赔完成作为通知或终止保单的统一前提。预付护理套餐、处方自动续订、寄养及遛狗服务分别联系并保存取消确认。
 
-Microchip registry 可按登记机构流程将宠物标记为 deceased；有 municipal pet license / registration 的地区，再向当地机关确认是否需要注销。
+身份芯片登记机构可按登记机构流程将宠物标记为已去世；有市政宠物许可或登记的地区，再向当地机关确认是否需要注销。
 
 ## 23. 家里还有其他宠物时，继续观察真实健康变化
 
@@ -193,17 +193,17 @@ Microchip registry 可按登记机构流程将宠物标记为 deceased；有 mun
 
 ## 24. 主人的悲伤也属于需要照顾的生活事件
 
-宠物死亡后的 grief 可能非常强烈。可以向兽医、自己的医生、治疗师或支持团体询问 resources；若演变为危机、自伤想法或无法保证安全，美国可拨打或短信 988，立即危险时联系 911 或所在地应急服务。
+宠物死亡后的悲伤可能非常强烈。可以向兽医、自己的医生、治疗师或支持团体询问支持资源；若演变为危机、自伤想法或无法保证安全，美国可拨打或短信 988，立即危险时联系 911 或所在地应急服务。
 
-**心理支持入口：** [SAMHSA：Find Help & Support](https://www.samhsa.gov/find-help) · [非紧急心理健康服务清单](../checklists/mental-health-care.md)。
+**心理支持入口：** [SAMHSA：查找心理健康支持](https://www.samhsa.gov/find-help) · [非紧急心理健康服务清单](../checklists/mental-health-care.md)。
 
 ## 25. 宠物走失后的前几小时要有固定流程
 
-先确认最后出现时间、可能逃逸路径和住宅／楼宇内的藏身点；同时核对 microchip registry 联系方式，通知 local animal control / shelters、兽医和必要的 building / neighborhood contacts。不要只发社交媒体而不报 shelter / animal control。
+先确认最后出现时间、可能逃逸路径和住宅／楼宇内的藏身点；同时核对身份芯片登记机构联系方式，通知当地动物管理部门或收容所、兽医和必要的楼宇或邻里联系人。不要只发社交媒体而不报收容所或动物管理部门。
 
-如果只知道 microchip number、不知道登记在哪家 registry，可用 AAHA Microchip Registry Lookup 查 registry；该工具本身不会公开 owner information，也不能替代真正更新 registry。
+如果只知道身份芯片号码、不知道登记在哪家登记机构，可用美国动物医院协会身份芯片登记查询工具查登记机构；该工具本身不会公开主人信息，也不能替代真正更新登记机构。
 
-**完整清单：** [宠物走失：前几小时怎么做](../checklists/lost-pet.md) · [AAHA Microchip Registry Lookup](https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/)。
+**完整清单：** [宠物走失：前几小时怎么做](../checklists/lost-pet.md) · [美国动物医院协会身份芯片登记查询工具](https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/)。
 
 ## 26. 最小执行集与核验范围
 
@@ -216,4 +216,4 @@ Microchip registry 可按登记机构流程将宠物标记为 deceased；有 mun
 
 **入口汇总：** [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [美国防止虐待动物协会中毒咨询（ASPCA）](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC：宠物保险](https://content.naic.org/consumer/pet-insurance) · [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel) · [Ready.gov：宠物应急准备](https://www.ready.gov/pets)。
 
-最后编辑与来源核验：2026-09-21。新增宠物临终／去世后的可执行路径与独立清单；第三轮重新核对 CDC 2026-08-27 dog-import FAQ、2026-04-28 Dog Import Form / high-risk-country 页面及 USDA APHIS：所有返美犬只的 CDC Dog Import Form、健康、≥6个月、microchip 底线已写入；low-risk-only 与 high-risk 路径分开；U.S.-vaccinated dog 去过 high-risk country 时所需 Certification of U.S.-issued Rabies Vaccination 必须在离美前由 USDA-accredited veterinarian 完成，并明确 2025-07-31 后签发的普通 USDA export health certificate 不再能作为该返美文件的替代。另核对 AAHA 2026 常规照护 / 急症、ASPCA 毒物咨询和 NAIC pet insurance。航司、中国入境、州级要求、保险与寄养规则须按当次服务和行程重新确认。
+最后编辑与来源核验：2026-09-21。新增宠物临终及去世后的处理路径与独立清单；第三轮重新核对美国疾控中心2026-08-27犬只入境常见问题、2026-04-28犬只入境表及高风险国家页面，以及美国农业部动植物卫生检验局资料。正文区分低风险与高风险路径，保留年龄、健康、芯片、疫苗证明、离美前办理要求及2025-07-31后的旧文件替代限制。另核对动物医院认证机构2026年常规照护与急症资料、中毒咨询和宠物保险。航司、中国入境、州级要求、保险与寄养规则须按当次服务和行程重新确认。

@@ -10,7 +10,7 @@
 
 若 2025 年调整后总收入（AGI）超过 15 万美元，或 2026 年夫妻分别申报者超过 7.5 万美元，上年比例通常改为 110%。农业、渔业等有特别规则。这些不是最终税额计算公式，也不能忽略各期付款期限。
 
-**继续看：** [IRS：预估税](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS 表格：Form 1040-ES — 计算并缴纳个人预估税](https://www.irs.gov/forms-pubs/about-form-1040-es)。适用于其他年度时重新查看该年资料。
+**继续看：** [IRS：预估税](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS：个人预估税表（Form 1040-ES）](https://www.irs.gov/forms-pubs/about-form-1040-es)。适用于其他年度时重新查看该年资料。
 
 ## 2. 罚金安全港不等于不用补税
 
@@ -18,7 +18,7 @@
 
 如果收入集中在后半年，收入年化分期法可能有帮助，但需要相应计算和表格。不能只把全年已缴金额相加，就认定所有期间都没有罚金。
 
-**继续看：** [IRS 官方：Tax Topic 306 — 预缴不足罚金](https://www.irs.gov/taxtopics/tc306) · [IRS：Form 2210 Instructions — 如何计算预缴不足](https://www.irs.gov/instructions/i2210)。截至 2026-09-21，该 `i2210` 页面仍是 **2025 Form 2210 instructions**；本章只用它说明 penalty / annualized-income 的计算机制，不从中读取 2026 safe-harbor 年度数字。2026 年门槛与比例以 2026 Publication 505 为准。
+**继续看：** [IRS 官方：Tax Topic 306 — 预缴不足罚金](https://www.irs.gov/taxtopics/tc306) · [IRS：预缴不足罚金计算说明（Form 2210）](https://www.irs.gov/instructions/i2210)。截至 2026-09-21，该 `i2210` 页面仍是 **2025 Form 2210 说明**；本章只用它说明罚金 / 收入年化的计算机制，不从中读取 2026 安全港年度数字。2026 年门槛与比例以 2026 Publication 505 为准。
 
 ## 3. 奖金预扣率不等于最终税率
 
@@ -32,7 +32,7 @@
 
 在联邦预缴不足计算中，预扣税通常可按规则分配到各期；直接预估税缴款则须考虑付款时间。使用实际预扣日期等选择也有相应条件。
 
-**官方原文：** [IRS：Form 2210 Instructions — Underpayment of Estimated Tax](https://www.irs.gov/instructions/i2210)。截至 2026-09-21，IRS 此入口仍展示 2025 instructions；计算 2026 实际 penalty 时，应等待 / 使用 IRS 发布的 2026 最终表格与说明，当前年度预缴规划优先参考 [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505)。
+**官方原文：** [IRS：预缴不足罚金计算说明（Form 2210）](https://www.irs.gov/instructions/i2210)。截至 2026-09-21，IRS 此入口仍展示 2025 说明；计算 2026 实际罚金时，应等待 / 使用 IRS 发布的 2026 最终表格与说明，当前年度预缴规划优先参考 [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505)。
 
 年末调整前先核对工资处理截止和实际可预扣金额，不能假设次年一次补款消除此前所有罚金。
 
@@ -72,7 +72,7 @@
 
 移居前请税务专业人士确认所需资料、居民身份切换日期、收入分配及涉及的申报表；不要等收到审查通知才补回忆。
 
-**州税入口：** [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。具体 domicile / statutory residency / part-year rules 按迁出和迁入州分别核对。
+**州税入口：** [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。具体法律意义上的住所（domicile） / 法定居民身份 / 部分年度居民规则按迁出和迁入州分别核对。
 
 ## 10. 停留日与工作日分开记录
 
@@ -80,7 +80,7 @@
 
 保留机票、交通和工作记录等支持材料。请假标签不能替代实际工作事实，也不要为了税务结果改写记录。
 
-**本项目实务建议：** residence-day log 与 actual-workday log 分开保存；联邦国际计日可参考 [IRS：实质居留测试](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test)，州规则另查对应州。
+**本项目实务建议：** 居留日期记录与实际工作日期记录分开保存；联邦国际计日可参考 [IRS：实质居留测试](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test)，州规则另查对应州。
 
 ## 11. 市和地方税单独检查
 
@@ -94,7 +94,7 @@
 
 修改联邦预扣表（Form W-4）不等于州表和工作地点代码会自动正确更新。
 
-**联邦入口：** [工资预扣税设置表（Form W-4）](https://www.irs.gov/forms-pubs/about-form-w-4) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator)。州与地方预扣表应另查对应税务部门和雇主 payroll 系统。
+**联邦入口：** [工资预扣税设置表（Form W-4）](https://www.irs.gov/forms-pubs/about-form-w-4) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator)。州与地方预扣表应另查对应税务部门和雇主薪资管理系统。
 
 ## 13. 大额资产交易之前评估州税
 
@@ -102,7 +102,7 @@
 
 股权薪酬还可能涉及服务期间分配，不能只看支付当天在哪个州。具体计算交给熟悉相关州和收入类型的专业人士。
 
-**州税入口：** [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)用于进入相关州税务机关；资产和 equity-comp sourcing 必须按具体州与收入类型核对。
+**州税入口：** [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)用于进入相关州税务机关；资产和股权薪酬的收入来源判定必须按具体州与收入类型核对。
 
 ## 14. 工资税表是记录，不是最终法律结论
 
@@ -110,7 +110,7 @@
 
 先让薪资部门解释或更正，再由报税人确定正确申报与抵免方法；保留原表、更正表和往来说明。
 
-**表格入口：** [IRS：About Form W-2](https://www.irs.gov/forms-pubs/about-form-w-2) · [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。W-2 是信息记录，不自行决定最终州税法律结论。
+**表格入口：** [IRS：工资与税款凭证（Form W-2）](https://www.irs.gov/forms-pubs/about-form-w-2) · [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。W-2 是信息记录，不自行决定最终州税法律结论。
 
 ## 15. 收到税务通知，先保护期限
 
@@ -118,21 +118,21 @@
 
 纸质通知未显示在网上，不足以判定其无效。争议金额大、涉及处罚或诉讼期限时，请合适的税务专业人士及时介入。
 
-如果要让 CPA、律师、Enrolled Agent（EA）或家人持续与 IRS 沟通，**不要只把财务 POA、报税软件授权或 IRS Online Account 密码交给对方。IRS 有自己的第三方授权体系：**
+如果要让 CPA、律师、注册税务代理人（EA）或家人持续与 IRS 沟通，**不要只把财务 POA、报税软件授权或 IRS 在线账户密码交给对方。IRS 有自己的第三方授权体系：**
 
 | 需要 | 常用 IRS 授权 | 能做什么 | 不能误解成什么 |
 |---|---|---|---|
-| 让合资格专业人士代表本人处理指定税务事项 | **Form 2848 — Power of Attorney and Declaration of Representative** | 代表 taxpayer 与 IRS 交涉，并查看 / 接收列明事项和年度的 confidential tax information | 不是“任何家人都可凭普通 POA 自动代理”；named representative 一般须属于可在 IRS 执业的合资格类别 |
-| 只让第三方查看 / 收取指定税务信息 | **Form 8821 — Tax Information Authorization** | 指定任何符合要求的个人 / entity 查阅或接收列明税种、年度的信息 | **不能**替 taxpayer advocacy、谈判、签 agreement 或代表本人处理税务争议 |
-| 只在当次电话 / meeting 让旁人在场协助 | **Oral authorization** | IRS 完成身份核验后，可在那次 interaction 中讨论被允许的具体事项 | 通常只对该次 conversation 有效，不是长期 POA / TIA |
+| 让合资格专业人士代表本人处理指定税务事项 | **Form 2848 — 授权委托书及代理人声明** | 代表纳税人与 IRS 交涉，并查看 / 接收列明事项和年度的保密税务信息 | 不是“任何家人都可凭普通 POA 自动代理”；列明的代理人一般须属于可在 IRS 执业的合资格类别 |
+| 只让第三方查看 / 收取指定税务信息 | **Form 8821 — 税务信息授权** | 指定任何符合要求的个人或实体 查阅或接收列明税种、年度的信息 | **不能**代纳税人主张权利、谈判、签署协议 或代表本人处理税务争议 |
+| 只在当次电话 / 会议让旁人在场协助 | **口头授权** | IRS 完成身份核验后，可在那次沟通中讨论被允许的具体事项 | 通常只对该次沟通有效，不是长期 POA / TIA |
 
-**Joint return 也不是一张 2848 夫妻共用。** IRS 当前 Form 2848 instructions 明确：即使夫妻为同一 joint return、授权同一个 representative，也应**每位 spouse 单独提交 Form 2848**。
+**夫妻联合申报税表也不是一张 2848 夫妻共用。** IRS 当前 Form 2848 说明明确：即使夫妻为同一夫妻联合申报税表、授权同一个代理人，也应**每位配偶单独提交 Form 2848**。
 
-提交方式也不只剩 fax / mail。符合条件的个人和 tax professional 可以用 **Tax Pro Account**做 limited matters / periods 的 all-digital authorization；Forms 2848 / 8821 也可通过 IRS secure online submission 上传。不要把本人 IRS username、password 或 MFA code 直接交给 preparer 代登录。
+提交方式也不只剩传真或邮寄。符合条件的个人和税务专业人士可以用 **税务专业人士账户（Tax Pro Account）**做限定事项及税期 的全程电子授权；Forms 2848 / 8821 也可通过 IRS 安全在线提交上传。不要把本人 IRS 用户名、密码或多因素认证码直接交给报税人员代登录。
 
-真正操作时，把 notice number、tax form、tax period / year 和需要代理的事项写清，不要为了“以后省事”无边界授权所有税务年度。旧授权需要保留还是 revoke，也在提交前确认。
+真正操作时，把通知编号、税表、税期或税年 和需要代理的事项写清，不要为了“以后省事”无边界授权所有税务年度。旧授权需要保留还是撤销，也在提交前确认。
 
-**办事 / 授权入口：** [IRS：理解国税局通知与信件](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：About Form 2848](https://www.irs.gov/forms-pubs/about-form-2848) · [IRS：Form 8821 / disclosure authorization overview](https://www.irs.gov/taxtopics/tc312) · [IRS：Submit POA / Tax Information Authorizations](https://www.irs.gov/submit-power-of-attorney-and-tax-information-authorizations) · [IRS：Submit Forms 2848 and 8821 Online](https://www.irs.gov/tax-professionals/submit-forms-2848-and-8821-online)。
+**办事 / 授权入口：** [IRS：理解国税局通知与信件](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：税务代理授权表（Form 2848）](https://www.irs.gov/forms-pubs/about-form-2848) · [IRS：税务信息查阅授权（Form 8821）](https://www.irs.gov/taxtopics/tc312) · [IRS：提交税务代理与信息授权](https://www.irs.gov/submit-power-of-attorney-and-tax-information-authorizations) · [IRS：在线提交税务代理与信息授权表](https://www.irs.gov/tax-professionals/submit-forms-2848-and-8821-online)。
 
 ## 16. 两州申报不等于一定重复付完整税款
 
@@ -148,13 +148,13 @@
 
 出行前如实向雇主确认允许的地点与安排，再由合适的专业人士评估个人和雇主事项。详见[第 38 章](38-中美跨境税与Work-from-Abroad.md)。
 
-**国际税入口：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)。工作许可、当地 payroll 和 corporate presence 仍由目的地与雇主合规团队另行判断。
+**国际税入口：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)。工作许可、当地薪资管理和企业在当地经营的认定仍由目的地与雇主合规团队另行判断。
 
 ## 18. 境外账户申报与所得税不是同一件事
 
 美国财政部金融犯罪执法网络（FinCEN）规定，符合定义的美国人对境外金融账户有财务利益或签字权，且合计价值在日历年任一时点超过 1 万美元时，一般须考虑境外银行及金融账户报告（FBAR），具体豁免按说明判断。不是每个账户各看 1 万，也不是只看年底余额。
 
-**继续看 / 办理：** [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN：BSA E-Filing 在线提交入口](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html) · [IRS：Form 8938 官方入口](https://www.irs.gov/forms-pubs/about-form-8938) · [IRS FAQ：Form 8938 常见资产与例子](https://www.irs.gov/businesses/corporations/basic-questions-and-answers-on-form-8938)。FBAR、Form 8938 及其他实体、赠与或基金相关表格的定义和门槛不能互相替代；应把完整资产与权限清单交给跨境税务专业人士逐项判断。
+**继续看 / 办理：** [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN：BSA E-Filing 在线提交入口](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html) · [IRS：特定境外金融资产申报表（Form 8938）](https://www.irs.gov/forms-pubs/about-form-8938) · [IRS FAQ：Form 8938 常见资产与例子](https://www.irs.gov/businesses/corporations/basic-questions-and-answers-on-form-8938)。FBAR、Form 8938 及其他实体、赠与或基金相关表格的定义和门槛不能互相替代；应把完整资产与权限清单交给跨境税务专业人士逐项判断。
 
 ## 19. 把税务安排进全年日历
 
@@ -177,8 +177,8 @@
 - [ ] 居住日、工作地及搬家记录可追溯。
 - [ ] 境外账户、权益和签字权限已完整告知报税专业人士。
 - [ ] 重大交易与境外工作提前评估，税务通知有负责人和期限。
-- [ ] 需要第三方持续与 IRS 沟通时，已区分 Form 2848（representation）与 Form 8821（information only），没有共享 IRS 登录密码。
+- [ ] 需要第三方持续与 IRS 沟通时，已区分 Form 2848（税务代理）与 Form 8821（仅查阅信息），没有共享 IRS 登录密码。
 
 **入口汇总：** [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 Publication 505：2026 estimated-tax 一般 due dates 为 4/15、6/15、9/15、2027/1/15，safe-harbor 仍按 90% current-year / 100% prior-year（高收入者通常 110% prior-year）框架。IRS 当前 Form 2210 instructions 页面仍为 2025 版，因此正文明确只借其 penalty / annualized-income 机制，不把它当 2026 数字来源。新增 IRS third-party authorization：Form 2848 用于合资格 representative 的税务代理，Form 8821 只授权 inspect / receive tax information，oral authorization 通常仅限当次 interaction；joint-return spouses 即使授权同一代表也各自提交 Form 2848。另核对 IRS online submission / Tax Pro Account、纽约州居民定义与远程工作资料，以及 FinCEN FBAR 入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
+最后编辑与来源核验：2026-09-21。第三轮核对国税局2026年《预扣税与预估税指南》（Publication 505）的预缴到期日与安全港规则。Form 2210说明入口当时仍为2025版，正文仅借其解释罚金与收入年化机制，不把它当作2026年数字来源。另核对第三方税务代理、信息查阅、当次口头授权及夫妻分别提交授权的要求，在线提交入口、纽约州居民定义与远程工作资料，以及境外金融账户申报入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。

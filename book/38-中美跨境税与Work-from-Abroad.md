@@ -134,7 +134,7 @@ IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得�
 
 **Form 8938 的 filing timing 与 FBAR 不同。** 它通常附在相应 federal income-tax return 上，并按该 return 的 due date（**including extensions**）提交；不是另有一个固定 4/15 → 10/15 的独立电子申报系统。如果本来不需要提交该 income-tax return，Form 8938 是否仍需提交还要按 Form 8938 rules 判断。
 
-**直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：Form 8938 Instructions — When and How to File](https://www.irs.gov/instructions/i8938) · [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+**直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：Form 8938 Instructions — When and How to File](https://www.irs.gov/instructions/i8938) · [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：特定境外金融资产申报表（Form 8938）](https://www.irs.gov/forms-pubs/about-form-8938) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 ## 14. 购买国内投资产品前先识别法律结构
 
@@ -242,7 +242,7 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 - [ ] 雇主批准与个人税务分析分别完成。
 - [ ] 税款入账、申报与抵免可对账，未决事项有负责人。
 
-**核验入口汇总：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [国家税务总局](https://www.chinatax.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/)。
+**核验入口汇总：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS：特定境外金融资产申报表（Form 8938）](https://www.irs.gov/forms-pubs/about-form-8938) · [国家税务总局](https://www.chinatax.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/)。
 
 ## 30. 把结论写成有条件的结论
 
