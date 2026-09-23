@@ -6,7 +6,7 @@
 
 分别检查房屋状态、合同与产权、贷款条件、保险，以及入住后费用与维护。列出每一类负责人与未解决问题。经纪、律师、检查员、估价师、贷款方和交割机构的职责不同，委托前确认书面范围与利益关系。
 
-**总入口：** [CFPB：Buying a House / Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home)。
+**总入口：** [CFPB：购房与持有住房](https://www.consumerfinance.gov/owning-a-home/) · [HUD：购房指南](https://www.hud.gov/topics/buying_a_home)。
 
 ## 2. 预批准不等于最终贷款承诺
 
@@ -24,7 +24,7 @@
 
 比较相同贷款类型、期限和锁定条件下的利率、年化综合成本（APR）、点数、贷款方补贴与费用。估算表不是最终批准，参见[表格用途说明](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/)。
 
-**比较工具：** [CFPB：Explore Interest Rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/) · [CFPB：Loan Estimate / Closing Disclosure 官方样表](https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/tila-respa-integrated-disclosures/forms-samples/)。
+**比较工具：** [CFPB：比较住房贷款利率](https://www.consumerfinance.gov/owning-a-home/explore-rates/) · [CFPB：Loan Estimate / Closing Disclosure 官方样表](https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/tila-respa-integrated-disclosures/forms-samples/)。
 
 ## 4. 交割披露要留足收到后的审阅时间
 
@@ -57,13 +57,13 @@
 
 提前通过可信渠道保存交割方联系方式；收到付款指令后用该渠道核实账户与金额，不拨新邮件提供的陌生号码。临时更改指令先暂停，付款后确认实际到账。
 
-**继续看：** [CFPB：Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/) · [FBI IC3：Business Email Compromise](https://www.ic3.gov/CrimeInfo/BEC)。
+**继续看：** [CFPB：房贷交割诈骗](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/) · [FBI IC3：商业邮件诈骗](https://www.ic3.gov/CrimeInfo/BEC)。
 
 ## 8. 发现汇错立即联系银行
 
 立即联系汇出银行或转账机构，请求评估拦截或追回，并按情况向 FBI 网络犯罪投诉中心等入口报告。保存交易与指令，不等待内部讨论结束才行动；追回并无保证。
 
-**报告入口：** [FBI IC3：提交网络犯罪投诉](https://www.ic3.gov/) · [FTC：ReportFraud](https://reportfraud.ftc.gov/)。
+**报告入口：** [联邦调查局网络犯罪举报（FBI IC3）](https://www.ic3.gov/) · [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/)。
 
 ## 9. 房屋检查与估价分开
 
@@ -73,7 +73,7 @@
 
 Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 waiver，copy 仍须在 closing / account opening 时或之前提供；某些 higher-priced mortgage 又有不能 waiver 的额外规则。不要把“我没主动问”理解成 lender 可以完全不提供 valuation copy。
 
-**继续看：** [HUD：Buying a Home — Home Inspection](https://www.hud.gov/topics/buying_a_home) · [CFPB：What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/) · [CFPB Regulation B §1002.14 — appraisal / valuation copies](https://www.consumerfinance.gov/rules-policy/regulations/1002/14/)。
+**继续看：** [HUD：购房指南](https://www.hud.gov/topics/buying_a_home) · [CFPB：What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/) · [CFPB Regulation B §1002.14 — appraisal / valuation copies](https://www.consumerfinance.gov/rules-policy/regulations/1002/14/)。
 
 ## 10. 检查报告要读未覆盖部分
 
@@ -103,13 +103,13 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 核对业主协会或公寓组织的预算、储备、重大维修、特别征费、诉讼、保险、会议记录与规则。能取得哪些材料、如何审查及退出权依合同与当地规定，不假定所有地区流程一致。
 
-**贷款方视角可参考：** [Fannie Mae：Condo, Co-op and PUD Eligibility](https://selling-guide.fanniemae.com/sel/b4-2/project-standards)；买方的文件取得权、审查期和 rescission 权仍以当地法律与合同为准。
+**贷款方视角可参考：** [Fannie Mae：公寓、合作住宅及规划社区的贷款资格](https://selling-guide.fanniemae.com/sel/b4-2/project-standards)；买方的文件取得权、审查期和 rescission 权仍以当地法律与合同为准。
 
 ## 13. 协会费用同时看支出与储备
 
 低月费可能对应较少服务，也可能有递延维修或储备不足；高月费也不保证管理良好。对照楼况、服务与财务资料，询问已知缺口和资金计划。
 
-**贷款方视角参考：** [Fannie Mae：Condo, Co-op and PUD Eligibility](https://selling-guide.fanniemae.com/sel/b4-2/project-standards)。买方应另外阅读本项目预算、储备、保险、会议记录和特别征费资料。
+**贷款方视角参考：** [Fannie Mae：公寓、合作住宅及规划社区的贷款资格](https://selling-guide.fanniemae.com/sel/b4-2/project-standards)。买方应另外阅读本项目预算、储备、保险、会议记录和特别征费资料。
 
 ## 14. 特别征费要核对分摊规则
 
@@ -121,13 +121,13 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 请保险人士解释公共部分、室内装修、改善工程、总保单免赔额及损失分摊（Loss assessment）分别如何处理。业主单元保单（常见HO-6）不是自动填补所有缺口，需读实际条款。
 
-**保险入口：** [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance) · [State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。master policy 与 HO-6 的边界以两份实际 policy wording 为准。
+**保险入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。master policy 与 HO-6 的边界以两份实际 policy wording 为准。
 
 ## 16. 洪水与其他进水风险分别问
 
 查看官方或地方风险资料、历史进水和排水情况，向贷款及保险方确认要求与可用保障。地图上的风险分类不代表零风险；也不要把洪水、管道破裂和排水倒灌当成保单中的同一事故。
 
-**查风险：** [FEMA Flood Map Service Center — 按地址查看官方洪水图](https://msc.fema.gov/portal/home) · [FEMA：Flood Maps Products and Tools](https://www.fema.gov/flood-maps/products-tools) · [FloodSmart.gov：NFIP 消费者入口](https://www.floodsmart.gov/)。
+**查风险：** [洪水风险地图查询（FEMA）](https://msc.fema.gov/portal/home) · [FEMA：Flood Maps Products and Tools](https://www.fema.gov/flood-maps/products-tools) · [FloodSmart.gov：NFIP 消费者入口](https://www.floodsmart.gov/)。
 
 ## 17. 产权保险与住房保险用途不同
 
@@ -139,19 +139,19 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 共同购房者与当地律师讨论份额、生存者权利、遗产安排和既有婚姻协议。房契、借款人身份和出资比例分别确认，不让表格默认选项替代决定。
 
-**找当地律师：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。title form、survivorship 与 marital-property consequences 依州法。
+**找当地律师：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。title form、survivorship 与 marital-property consequences 依州法。
 
 ## 19. 首付款来源如实保留记录
 
 按贷款方要求保存对账单、大额入账、资产出售与转账链条，避免临近交割出现无法解释的资金。只提供真实资料，资料传递用已核实的安全渠道。
 
-**申请准备：** [CFPB：Prepare your mortgage application](https://www.consumerfinance.gov/owning-a-home/prepare/create-a-loan-application-packet/) · [Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。source-of-funds 文档范围以实际 lender underwriting request 为准。
+**申请准备：** [CFPB：Prepare your mortgage application](https://www.consumerfinance.gov/owning-a-home/prepare/create-a-loan-application-packet/) · [CFPB：房贷交割诈骗](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。source-of-funds 文档范围以实际 lender underwriting request 为准。
 
 ## 20. 父母资金先明确赠与或借款
 
 资金性质、收款对象、偿还义务与产权安排应一致，并由贷款方、律师及税务人士按需要核对。不能为了获批把实际借款写成无偿赠与。
 
-**税务入口：** [IRS：Gift Tax FAQ](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person)。贷款文件则按 lender 对 gift / loan source 的实际要求办理。
+**税务入口：** [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person)。贷款文件则按 lender 对 gift / loan source 的实际要求办理。
 
 ## 21. 锁定利率也有期限和条件
 
@@ -169,29 +169,29 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 浮动利率房贷（ARM）需看初始期间、调整指标、加点、频率和上限；固定利率也不固定房产税、保险和维护费用。测试收入下降或费用上升时能否承担，避免把未来再融资当成唯一退路。
 
-**继续看：** [CFPB：Adjustable-rate mortgages](https://www.consumerfinance.gov/ask-cfpb/what-is-an-adjustable-rate-mortgage-en-99/) · [CFPB：Explore Interest Rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/)。
+**继续看：** [CFPB：Adjustable-rate mortgages](https://www.consumerfinance.gov/ask-cfpb/what-is-an-adjustable-rate-mortgage-en-99/) · [CFPB：比较住房贷款利率](https://www.consumerfinance.gov/owning-a-home/explore-rates/)。
 
 ## 24. 预算包括入住后的全部现金支出
 
 列入本息、房产税、保险、协会费、水电、停车、维护、装修、交易成本和储备。还要在普通工作日实测通勤、采购、夜归与照护路线；房子本身合适不等于日常生活可持续。
 
-**预算工具：** [CFPB：Figure out how much you want to spend](https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/) · [CFPB：What costs come with taking out a mortgage?](https://www.consumerfinance.gov/ask-cfpb/what-costs-come-with-taking-out-a-mortgage-en-153/)。
+**预算工具：** [CFPB：确定购房预算](https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/) · [CFPB：What costs come with taking out a mortgage?](https://www.consumerfinance.gov/ask-cfpb/what-costs-come-with-taking-out-a-mortgage-en-153/)。
 
 ## 25. 交割后收齐最终文件
 
-保存最终披露、借据、担保文件、房契及适用登记确认；另保存合同、检查、产权、保险和协会资料。[CFPB交割后指南](https://www.consumerfinance.gov/owning-a-home/close/after-closing/)列出主要文件与后续事项。若尚待登记或出具正式保单，列入追踪。
+保存最终披露、借据、担保文件、房契及适用登记确认；另保存合同、检查、产权、保险和协会资料。[CFPB：购房交割后事项](https://www.consumerfinance.gov/owning-a-home/close/after-closing/)列出主要文件与后续事项。若尚待登记或出具正式保单，列入追踪。
 
 ## 26. 收到貌似官方的房贷邮件先核实
 
 购房相关公开记录可能被用于营销或诈骗。不要仅凭姓名、地址或贷款方标志付款；从已核实的服务机构入口确认。
 
-**继续看：** [CFPB：After Closing](https://www.consumerfinance.gov/owning-a-home/close/after-closing/) · [CFPB：Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。
+**继续看：** [CFPB：购房交割后事项](https://www.consumerfinance.gov/owning-a-home/close/after-closing/) · [CFPB：房贷交割诈骗](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。
 
 ## 27. 税费代管仍要对账
 
 贷款方代管账户（Escrow）处理税费和保险时，核对对账单、实际支付、余额不足与费用变化。自行付款则单独记录真实到期日。不能因月供已扣就默认地方税款必然无误。
 
-**继续看：** [CFPB：What is an escrow account?](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/) · [CFPB：Mortgage servicing and escrow complaints](https://www.consumerfinance.gov/complaint/)。
+**继续看：** [CFPB：What is an escrow account?](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/) · [CFPB：提交消费者投诉](https://www.consumerfinance.gov/complaint/)。
 
 ## 28. 维修储备按实际房屋估算
 
@@ -203,13 +203,13 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 确认必要保障已生效，房契与遗产安排一致，门锁、钥匙、设备和紧急维修资料已交接。搬家后的账户与地址变更另按机构办理。
 
-**入住入口：** [USA.gov：Change Your Address](https://www.usa.gov/change-address) · [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance) · [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。
+**入住入口：** [USA.gov：更新地址](https://www.usa.gov/change-address) · [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。
 
 ## 30. 比较自住价值与财务后果
 
 自住房提供居住与地点价值，也带来集中资产、借款与流动性风险。比较未来租买或还贷投资方案时，采用一致期间和假设，不把已花掉的交易成本当成继续持有的唯一理由。
 
-**预算工具：** [CFPB：Figure out how much you want to spend](https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/)。本节是决策框架，不给出买/租投资结论。
+**预算工具：** [CFPB：确定购房预算](https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/)。本节是决策框架，不给出买/租投资结论。
 
 ## 31. 分阶段完成与确认
 
@@ -217,6 +217,6 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 具体记录见[买房清单](../checklists/home-purchase.md)。提交申请不等于批准，签字不等于所有后续登记都已完成。
 
-**总流程：** [CFPB：Owning a Home](https://www.consumerfinance.gov/owning-a-home/) · [HUD：Buying a Home](https://www.hud.gov/topics/buying_a_home)。
+**总流程：** [CFPB：购房与持有住房](https://www.consumerfinance.gov/owning-a-home/) · [HUD：购房指南](https://www.hud.gov/topics/buying_a_home)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对 CFPB TRID / Regulation Z / Regulation B：适用贷款提交六项 application 信息后，Loan Estimate 通常应在 3 个营业日内发送，lender 不能要求先交额外 verification documents；消费者收到 Loan Estimate 后还应注意通常的 10-business-day intent-to-proceed window。Closing Disclosure 对适用 purchase mortgage 仍要求至少在 closing 前 3 个营业日收到，但这不是 closing 后 3-day cancellation right；purchase-money mortgage 没有一般联邦 rescission right，certain refinance / home-equity transactions 才可能有 3-business-day rescission。对 first-lien dwelling credit，appraisal / written valuation copies 一般须 promptly upon completion 或最迟 closing 前 3 个营业日提供（取较早者），waiver 和 higher-priced-mortgage 情形另有规则。新增 pre-1978 lead disclosure：大多数 covered housing 在 buyer 被约束前须提供 known-information disclosure / reports / pamphlet / warning statement，并给 buyer 10-day inspection opportunity（可书面改期或 waiver）。另核对 rate lock、title services、escrow、交割诈骗、FEMA Flood Map Service Center 与 HUD 购房入口。地方合同、产权持有方式、协会文件权利、lead rules、施工与保险条款仍须按州、合同和具体物业核验。

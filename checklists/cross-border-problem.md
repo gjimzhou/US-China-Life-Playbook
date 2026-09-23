@@ -70,8 +70,8 @@
 ## 常用官方入口
 
 - 美国州级附加证明书／认证：从文件签发地的指定主管机关进入，常见为州务卿办公室，具体以海牙国际私法会议主管机关目录及州官网为准；
-- 美国联邦文件认证：[美国国务院：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html)；
-- 《取消外国公文书认证要求的公约》：[海牙国际私法会议：附加证明书专区](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)；
+- 美国联邦文件认证：[U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html)；
+- 《取消外国公文书认证要求的公约》：[HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)；
 - 中国政务：[国家政务服务平台](https://gjzwfw.www.gov.cn/)；
 - 中国领事服务与附加证明书：[中国领事服务网](https://cs.mfa.gov.cn/)。
 

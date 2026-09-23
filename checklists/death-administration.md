@@ -11,7 +11,7 @@
 - [ ] 确认家属合法可用的日常资金，保存关键文件。
 - [ ] 按需要通知雇主，暂缓未经确认的账户转移或遗产分配。
 
-**第一站：** [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [SSA：What to do when someone dies](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：Deceased Person](https://www.irs.gov/individuals/deceased-person)。
+**第一站：** [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [SSA：亲人身故后的社保办理](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：身故者税务事项](https://www.irs.gov/individuals/deceased-person)。
 
 ## 文件与专业人士
 
@@ -19,7 +19,7 @@
 - [ ] 联系遗产律师和税务专业人士，确认谁有权办理、需要什么证明及期限。
 - [ ] 涉及中国资产时，协调中国当地专业人士和现场联系人。
 
-**找专业人士：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS：Choosing a Tax Professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [中国法律服务网 12348](https://www.12348.gov.cn/)。
+**找专业人士：** [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [中国法律服务网 12348](https://www.12348.gov.cn/)。
 
 ## 死亡证明
 
@@ -36,7 +36,7 @@
 - [ ] 按律师指导办理适用的法院、信托或其他遗产程序。
 - [ ] 涉及护照、领事或跨境事项时，核对对应机构要求。
 
-**政府 / 福利入口：** [SSA：Survivor Benefits](https://www.ssa.gov/survivor) · [SSA：Contact Social Security](https://www.ssa.gov/agency/contact/) · [U.S. State Department：Death Abroad](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
+**政府 / 福利入口：** [SSA：遗属福利](https://www.ssa.gov/survivor) · [SSA：联系社会安全局](https://www.ssa.gov/agency/contact/) · [U.S. State Department：Death Abroad](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
 
 ## 雇主及福利
 
@@ -48,7 +48,7 @@
 - [ ] 确认健康储蓄／灵活支出账户、股权及递延报酬处理。
 - [ ] 记录每项申请截止日与生效条件，依法归还公司财物。
 
-**退休账户直接核对：** [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [IRS：Required Minimum Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS Publication 590-B](https://www.irs.gov/publications/p590b)。
+**退休账户直接核对：** [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [IRS：最低提取要求](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [个人退休账户提取规则（IRS Publication 590-B）](https://www.irs.gov/publications/p590b)。
 
 ## 保险
 
@@ -56,7 +56,7 @@
 - [ ] 办理适用的人寿与雇主保险，核对所需认证文件。
 - [ ] 维持必要住房、汽车、责任与贵重物品保障；住所空置等变化告知保险人。
 
-**保险入口：** [NAIC：Life Insurance Policy Locator](https://eapps.naic.org/life-policy-locator/) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
+**保险入口：** [NAIC：人寿保险保单查找](https://eapps.naic.org/life-policy-locator/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ## 账户分类与访问
 
@@ -65,7 +65,7 @@
 - [ ] 不使用死者凭证绕过机构遗产处理程序。
 - [ ] 未确认债务性质及清偿顺序前，不自行以家属资金承担或分配遗产。
 
-**债务 / 遗漏资产：** [CFPB：Debts after death](https://www.consumerfinance.gov/ask-cfpb/does-a-persons-debt-go-away-when-they-die-en-1463/) · [USA.gov：Unclaimed Money](https://www.usa.gov/unclaimed-money)。
+**债务 / 遗漏资产：** [CFPB：Debts after death](https://www.consumerfinance.gov/ask-cfpb/does-a-persons-debt-go-away-when-they-die-en-1463/) · [USA.gov：无人认领资产查询](https://www.usa.gov/unclaimed-money)。
 
 ## 住所与日常账单
 
@@ -79,7 +79,7 @@
 - [ ] 分别评估遗产所得税、遗产转移税、州税及境外资产申报。
 - [ ] 整理收入、扣除、估值与付款凭证，不把某一金额门槛当作唯一申报条件。
 
-**税务入口：** [IRS：Final Income Tax Return of a Deceased Person](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person) · [IRS Publication 559](https://www.irs.gov/publications/p559) · [IRS：Form 1041](https://www.irs.gov/forms-pubs/about-form-1041)。
+**税务入口：** [IRS：Final Income Tax Return of a Deceased Person](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559) · [IRS：Form 1041](https://www.irs.gov/forms-pubs/about-form-1041)。
 
 ## 数字资料
 
@@ -95,7 +95,7 @@
 - [ ] 按接收机构要求办理死亡证明的附加证明书、翻译或其他文件手续。
 - [ ] 确定一名联络协调人，但不把协调角色当作法律代理权。
 
-**跨境文件入口：** [HCCH：Apostille Convention](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
+**跨境文件入口：** [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
 
 ## 持续跟进与暂缓事项
 

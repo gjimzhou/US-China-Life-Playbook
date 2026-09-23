@@ -38,7 +38,7 @@
 - [ ] 哪些症状打医生，哪些去非危重急诊诊所／医院急诊，哪些直接 911？
 - [ ] 谁能在夜间和周末回答问题？
 
-**官方工具：** [联邦医疗保险（Medicare）：出院计划清单](https://www.medicare.gov/publications/11376-your-discharge-planning-checklist.pdf) · [医疗保险和医疗补助服务中心（CMS）：患者参与照护](https://www.cms.gov/medicare/provider-enrollment-and-certification/qapi/consumer-engagement)。
+**官方工具：** [Medicare：出院准备清单](https://www.medicare.gov/publications/11376-your-discharge-planning-checklist.pdf) · [医疗保险和医疗补助服务中心（CMS）：患者参与照护](https://www.cms.gov/medicare/provider-enrollment-and-certification/qapi/consumer-engagement)。
 
 **如果认为出院太早或回家不安全：** 当场向主管医生、出院协调人员说明具体困难，索取书面出院计划与适用申诉通知，不只口头要求“再住几天”。
 

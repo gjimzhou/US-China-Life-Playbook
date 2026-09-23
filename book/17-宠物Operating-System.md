@@ -10,7 +10,7 @@
 
 呼吸困难、严重创伤、持续或反复抽搐、疑似中毒等情况应立即联系兽医急诊判断。受惊或疼痛动物可能咬伤人，搬动和急救按专业指示操作。
 
-**找急诊 / 医院：** [AAHA：Find an Accredited Animal Hospital](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [AAHA：Is This a Pet Emergency?](https://www.aaha.org/resources/help-is-this-a-pet-emergency/)。具体是否接诊、是否 24/7 和物种范围仍要直接打电话确认。
+**找急诊 / 医院：** [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [AAHA：Is This a Pet Emergency?](https://www.aaha.org/resources/help-is-this-a-pet-emergency/)。具体是否接诊、是否 24/7 和物种范围仍要直接打电话确认。
 
 ## 2. 预防照护按动物与风险制定
 
@@ -26,7 +26,7 @@
 
 照护人按兽医指示给药；漏服、呕吐或误服时联系兽医，不自行加倍。人用药不能按体重随意换算给宠物。
 
-**用药疑问：** 优先联系开药兽医或急诊；疑似误服 / 中毒可直接使用 [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control)。
+**用药疑问：** 优先联系开药兽医或急诊；疑似误服 / 中毒可直接使用 [美国防止虐待动物协会中毒咨询（ASPCA）](https://www.aspca.org/pet-care/animal-poison-control)。
 
 ## 4. 照护人需要备用安排
 
@@ -34,7 +34,7 @@
 
 钥匙、门禁和进入住宅权限也要落实。备用联系人不一定有能力独自照顾所有宠物。
 
-**准备参考：** [Ready.gov：Pets](https://www.ready.gov/pets) · [AAHA：Find an Accredited Animal Hospital](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)。备用人和寄养机构都应在真正需要前确认。
+**准备参考：** [Ready.gov：宠物应急准备](https://www.ready.gov/pets) · [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)。备用人和寄养机构都应在真正需要前确认。
 
 ## 5. 用一张私人说明表交接
 
@@ -42,7 +42,7 @@
 
 公共版本只保留空白字段；真实住址、门锁码和付款信息另行安全交付。
 
-**本项目实务建议：** 交接表只记录照护所需信息；账号密码、门锁码和完整支付资料不放在公共模板。宠物应急物资可参考 [Ready.gov Pets](https://www.ready.gov/pets)。
+**本项目实务建议：** 交接表只记录照护所需信息；账号密码、门锁码和完整支付资料不放在公共模板。宠物应急物资可参考 [Ready.gov：宠物应急准备](https://www.ready.gov/pets)。
 
 ## 6. 提前确认治疗与付款授权
 
@@ -50,7 +50,7 @@
 
 预算和紧急决策权限应结合家庭能力与动物福利讨论，不能把一个口头金额上限当成所有情形都足够的安排。
 
-**实务动作：** 向自己的兽医和急诊医院索取其 third-party treatment authorization / caregiver authorization 要求；不同医院流程不同，不用网上通用模板假定必然有效。医院候选可从 [AAHA Find a Hospital](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)开始。
+**实务动作：** 向自己的兽医和急诊医院索取其 third-party treatment authorization / caregiver authorization 要求；不同医院流程不同，不用网上通用模板假定必然有效。医院候选可从 [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/)开始。
 
 ## 7. 宠物保险看条款
 
@@ -58,7 +58,7 @@
 
 健康维护套餐与保险的功能可能不同；不要因为购买了“宠物计划”就默认大额急诊被覆盖。本章不推荐具体产品，实际合同须自行比较。
 
-**继续看：** [NAIC：Pet Insurance](https://content.naic.org/consumer/pet-insurance) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
+**继续看：** [NAIC：宠物保险](https://content.naic.org/consumer/pet-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ## 8. 自行承担费用也需要资金安排
 
@@ -66,7 +66,7 @@
 
 即使有保险，也应确认是否必须先向医院付款再申请报销，避免等保险处理时无法安排治疗。
 
-**保险入口：** [NAIC：Pet Insurance](https://content.naic.org/consumer/pet-insurance)。自费家庭则把“可立即付款的金额 + 备用付款方式”作为家庭资金安排，而不是引用网络平均急诊价格。
+**保险入口：** [NAIC：宠物保险](https://content.naic.org/consumer/pet-insurance)。自费家庭则把“可立即付款的金额 + 备用付款方式”作为家庭资金安排，而不是引用网络平均急诊价格。
 
 ## 9. 芯片登记与联系方式一起维护
 
@@ -74,7 +74,7 @@
 
 芯片不能替代日常防走失措施；是否登记、如何更新和跨境规格，均应向实际服务机构确认。
 
-**继续看：** [AAHA / AVMA preventive-care guidance：Check the chip](https://www.aaha.org/resources/preventive-healthcare-for-pets/)；国际旅行时同时按 [USDA APHIS Pet Travel](https://www.aphis.usda.gov/pet-travel)核对目的地是否要求特定 microchip 标准和植入 / 疫苗顺序。
+**继续看：** [AAHA / AVMA preventive-care guidance：Check the chip](https://www.aaha.org/resources/preventive-healthcare-for-pets/)；国际旅行时同时按 [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)核对目的地是否要求特定 microchip 标准和植入 / 疫苗顺序。
 
 ## 10. 运输工具放在能取到的地方
 
@@ -82,7 +82,7 @@
 
 讨论火灾或疏散时谁负责哪只动物、备用接收地点是否接受宠物。不得为寻找物品或宠物返回不安全区域，向救援人员说明情况。
 
-**应急参考：** [Ready.gov：Pets](https://www.ready.gov/pets) · [Ready.gov：Make a Plan](https://www.ready.gov/plan)。
+**应急参考：** [Ready.gov：宠物应急准备](https://www.ready.gov/pets) · [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)。
 
 ## 11. 疑似中毒直接求助
 
@@ -90,7 +90,7 @@
 
 美国可联系 ASPCA Animal Poison Control，电话 **888-426-4435**，提供全天服务，可能收费。准备动物体重、接触物、时间、可能剂量和包装；同时按需要联系急诊兽医，不自行催吐或用偏方。
 
-**直接入口：** [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)。
+**直接入口：** [美国防止虐待动物协会中毒咨询（ASPCA）](https://www.aspca.org/pet-care/animal-poison-control)。
 
 ## 12. 长期离家前试运行照护安排
 
@@ -112,7 +112,7 @@
 
 美国农业部动植物卫生检验局（USDA APHIS）提醒，准备可能需要数周到数月。按物种、出发地、目的地和过境地确认芯片、疫苗、检测、处理、许可及健康证明要求。
 
-**办理入口：** [USDA APHIS：Pet Travel](https://www.aphis.usda.gov/pet-travel) · [APHIS：Pet Travel Process Overview](https://www.aphis.usda.gov/pet-travel/pet-travel-process-overview) · [APHIS：从美国前往另一国家](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export)。先核对程序先后顺序和有效时间窗，再订无法更改的行程。
+**办理入口：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel) · [APHIS：Pet Travel Process Overview](https://www.aphis.usda.gov/pet-travel/pet-travel-process-overview) · [APHIS：从美国前往另一国家](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export)。先核对程序先后顺序和有效时间窗，再订无法更改的行程。
 
 ## 15. 不存在美国签发的全球通用宠物护照
 
@@ -126,7 +126,7 @@
 
 取得预订确认也不等于完成政府入境要求；反过来，证明齐全也不代表航空公司必须承运。是否适合飞行由兽医评估，不自行给镇静药。
 
-**政府层面：** [USDA APHIS Pet Travel](https://www.aphis.usda.gov/pet-travel)；航司层面必须再查实际 operating carrier 的 pet policy，尤其是 cabin / cargo、温度、品种与联程限制。
+**政府层面：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；航司层面必须再查实际 operating carrier 的 pet policy，尤其是 cabin / cargo、温度、品种与联程限制。
 
 ## 17. 出发前就检查回程
 
@@ -155,7 +155,7 @@
 
 兽医或寄养机构变更后，确认对方已收到必要病史。不能只给一串旧医院名称让新机构自行猜测。
 
-**旅行文件入口：** [USDA APHIS：Pet Travel](https://www.aphis.usda.gov/pet-travel)；医疗病历转移则向原兽医和新兽医确认 record-transfer 流程。
+**旅行文件入口：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；医疗病历转移则向原兽医和新兽医确认 record-transfer 流程。
 
 ## 19. 重大疾病时讨论照护目标
 
@@ -214,6 +214,6 @@ Microchip registry 可按登记机构流程将宠物标记为 deceased；有 mun
 - [ ] 出行、过境和回程要求在订票前开始核对。
 - [ ] 知道宠物临终／去世后联系谁，以及遗体、保险、芯片和服务如何收尾。
 
-**入口汇总：** [AAHA Hospital Finder](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC Pet Insurance](https://content.naic.org/consumer/pet-insurance) · [USDA APHIS Pet Travel](https://www.aphis.usda.gov/pet-travel) · [Ready.gov Pets](https://www.ready.gov/pets)。
+**入口汇总：** [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [美国防止虐待动物协会中毒咨询（ASPCA）](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC：宠物保险](https://content.naic.org/consumer/pet-insurance) · [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel) · [Ready.gov：宠物应急准备](https://www.ready.gov/pets)。
 
 最后编辑与来源核验：2026-09-21。新增宠物临终／去世后的可执行路径与独立清单；第三轮重新核对 CDC 2026-08-27 dog-import FAQ、2026-04-28 Dog Import Form / high-risk-country 页面及 USDA APHIS：所有返美犬只的 CDC Dog Import Form、健康、≥6个月、microchip 底线已写入；low-risk-only 与 high-risk 路径分开；U.S.-vaccinated dog 去过 high-risk country 时所需 Certification of U.S.-issued Rabies Vaccination 必须在离美前由 USDA-accredited veterinarian 完成，并明确 2025-07-31 后签发的普通 USDA export health certificate 不再能作为该返美文件的替代。另核对 AAHA 2026 常规照护 / 急症、ASPCA 毒物咨询和 NAIC pet insurance。航司、中国入境、州级要求、保险与寄养规则须按当次服务和行程重新确认。

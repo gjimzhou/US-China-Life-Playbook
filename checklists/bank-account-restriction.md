@@ -27,7 +27,7 @@
 
 ## 一线客服无法解决
 
-向银行正式投诉渠道提交事实、案件编号、损失与具体请求，保留确认。可从[CFPB投诉入口](https://www.consumerfinance.gov/complaint/)或[OCC银行问题入口](https://www.helpwithmybank.gov/)查适当监管渠道；OCC并不监管所有银行。涉及法院命令的同步处理法律程序，监管投诉不取代它。
+向银行正式投诉渠道提交事实、案件编号、损失与具体请求，保留确认。可从[CFPB：提交消费者投诉](https://www.consumerfinance.gov/complaint/)或[OCC银行问题入口](https://www.helpwithmybank.gov/)查适当监管渠道；OCC并不监管所有银行。涉及法院命令的同步处理法律程序，监管投诉不取代它。
 
 ## 完成标准
 

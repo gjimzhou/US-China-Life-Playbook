@@ -80,7 +80,7 @@
 - [ ] 如果父母已无法管理 benefits，由家属联系 SSA 申请 representative payee；记录 SSA appointment / application 状态，不通过共享密码绕过程序。
 - [ ] 真正被 appoint 为 payee 后，单独保存 benefit 收支记录，并区分这项权限与其他银行、投资、医疗和税务权限。
 
-**直接入口：** [SSA：Representative Payee Program](https://www.ssa.gov/payee/) · [SSA：Representative Payee FAQs](https://www.ssa.gov/payee/faqrep.htm) · [SSA：Advance Designation](https://www.ssa.gov/payee/advance_designation.htm)。
+**直接入口：** [SSA：福利款项代表收款制度](https://www.ssa.gov/payee/) · [SSA：代表收款人常见问题](https://www.ssa.gov/payee/faqrep.htm) · [SSA：预先指定未来代表收款人](https://www.ssa.gov/payee/advance_designation.htm)。
 
 ## 美国 Medicare / 长期照护分流（如适用）
 
@@ -89,7 +89,7 @@
 - [ ] 不把 Medicare SNF benefit 当成长期养老院保障；如预计长期需要 ADL / custodial care，单独确认 private pay、long-term care insurance、Medicaid 或其他实际付款来源。
 - [ ] 跨境长期居住时，不假定 Medicare 会报销中国医疗或长期照护。
 
-**直接核对：** [Medicare：When does coverage start?](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [Medicare：Skilled Nursing Facility care](https://www.medicare.gov/coverage/skilled-nursing-facility-care) · [Medicare：Long-term care](https://www.medicare.gov/coverage/long-term-care) · [Medicare：Travel outside the U.S.](https://www.medicare.gov/coverage/travel-outside-the-u.s.) · [Medicaid：Nursing Facilities](https://www.medicaid.gov/medicaid/long-term-services-supports/institutional-long-term-care/nursing-facilities)。
+**直接核对：** [Medicare：医保保障何时生效](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [Medicare：专业护理机构照护与2026年费用](https://www.medicare.gov/coverage/skilled-nursing-facility-care) · [Medicare：长期日常照护不在通常保障内](https://www.medicare.gov/coverage/long-term-care) · [Medicare：美国境外医疗保障](https://www.medicare.gov/coverage/travel-outside-the-u.s.) · [Medicaid：护理机构](https://www.medicaid.gov/medicaid/long-term-services-supports/institutional-long-term-care/nursing-facilities)。
 
 ## 海外子女返程
 

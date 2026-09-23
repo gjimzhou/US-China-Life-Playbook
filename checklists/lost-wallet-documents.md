@@ -33,7 +33,7 @@
 
 准备乘国际航班返美时，应先联系使领馆确认补发护照与承运要求，不要指望护照照片或报案证明能替代旅行证件。国务院当前说明，应联系最近的美国使领馆；如来不及签发普通护照，符合情况时可能签发有效期受限的紧急护照。
 
-**官方入口：** [境外护照遗失或被盗](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html)。
+**官方入口：** [国务院：境外护照丢失或被盗](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html)。
 
 ## 绿卡（永久居民卡）
 
@@ -58,7 +58,7 @@ I-90补卡不适用于所有“需要新卡”的情形；例如有条件居民�
 
 ## 防止身份盗窃
 
-如果钱包里有社会安全号码卡、税务资料、支票、多个身份证件，或者被盗而不是单纯遗失，按[第15章](../book/15-网络安全与身份盗窃.md)评估信用冻结、欺诈警报与 [身份盗窃报告与恢复入口](https://www.identitytheft.gov/)。
+如果钱包里有社会安全号码卡、税务资料、支票、多个身份证件，或者被盗而不是单纯遗失，按[第15章](../book/15-网络安全与身份盗窃.md)评估信用冻结、欺诈警报与 [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/)。
 
 ## 完成标准
 

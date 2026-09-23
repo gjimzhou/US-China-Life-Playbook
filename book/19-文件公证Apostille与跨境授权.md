@@ -17,7 +17,7 @@
 
 具体文件是否适用，还要看文件性质、公约对有关国家或地区的适用情况和接收要求，不应照搬十年前的“公证、州认证、使领馆认证”路线。
 
-**当前官方说明：** [中国领事服务网：领事认证（附加证明书）简介 — 2026-07](https://cs.mfa.gov.cn/zggmcgx/lsrz/jj/202607/t20260713_11981309.html) · [中国领事服务网：附加证明书专题](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [中国外交部：2023-11-07 生效说明](https://www.mfa.gov.cn/wjbxw_new/202310/t20231023_11165858.shtml) · [HCCH：Apostille Convention 专题](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。中国当前官方说明仍明确：与《公约》缔约国之间，适用公文书办理附加证明书后**无需再办理使领馆领事认证**；与非缔约国之间则继续沿用领事认证程序。
+**当前官方说明：** [中国领事服务网：领事认证（附加证明书）简介 — 2026-07](https://cs.mfa.gov.cn/zggmcgx/lsrz/jj/202607/t20260713_11981309.html) · [中国领事服务网：附加证明书专题](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [中国外交部：2023-11-07 生效说明](https://www.mfa.gov.cn/wjbxw_new/202310/t20231023_11165858.shtml) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。中国当前官方说明仍明确：与《公约》缔约国之间，适用公文书办理附加证明书后**无需再办理使领馆领事认证**；与非缔约国之间则继续沿用领事认证程序。
 
 ## 2. 认证形式不等于证明内容
 
@@ -25,7 +25,7 @@
 
 认证、文件实体效力与机构受理是不同问题。不要把获得附加证明书当成整个事项已经办妥。
 
-**继续看：** [美国国务院：Authentication certificate 只认证签字 / 印章，不验证文件内容](https://travel.state.gov/en/replace-certify/authenticate-documents/authentication-certification.html) · [HCCH：Apostille Convention](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+**继续看：** [美国国务院：Authentication certificate 只认证签字 / 印章，不验证文件内容](https://travel.state.gov/en/replace-certify/authenticate-documents/authentication-certification.html) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
 ## 3. 先向接收机构取得具体要求
 
@@ -48,7 +48,7 @@
 
 不要把所有文件都寄给美国国务院。先根据文件的签发机关和公证所在地查路线。
 
-**美国办理入口：** [国务院：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [国务院：Preparing a Document for an Apostille](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/apostille-requirements.html) · [国务院：Request Authentication Services / DS-4194](https://travel.state.gov/en/replace-certify/authenticate-documents/request-services.html)。州文件则从签发州的 Secretary of State 或相应 authority 开始。
+**美国办理入口：** [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [国务院：Preparing a Document for an Apostille](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/apostille-requirements.html) · [国务院：Request Authentication Services / DS-4194](https://travel.state.gov/en/replace-certify/authenticate-documents/request-services.html)。州文件则从签发州的 Secretary of State 或相应 authority 开始。
 
 ## 5. 出生及婚姻证明先确认副本要求
 
@@ -56,13 +56,13 @@
 
 申请时确认具体版本、签字及印章要求；不要先找人把普通复印件公证，就假定达到全部要求。
 
-**查美国生命事件记录：** [USA.gov：Birth certificates](https://www.usa.gov/birth-certificate) · [USA.gov：Marriage certificate](https://www.usa.gov/marriage-certificate) · [USA.gov：Death certificate](https://www.usa.gov/death-certificate)。实际认证路线仍由签发州决定。
+**查美国生命事件记录：** [USA.gov：Birth certificates](https://www.usa.gov/birth-certificate) · [USA.gov：结婚证明](https://www.usa.gov/marriage-certificate) · [USA.gov：Death certificate](https://www.usa.gov/death-certificate)。实际认证路线仍由签发州决定。
 
 ## 6. 美国公证员不等于律师
 
 美国公证员（notary public）的权限通常围绕身份核验、签名确认或宣誓等事项，具体由州法规定。他们不会仅因盖章就证明文件内容正确、代替律师判断法律效力，或保证外国机构接受。
 
-**查本州规则：** [USA.gov：State governments](https://www.usa.gov/state-governments)；进入本州 Secretary of State / commissioning authority 的 notary 页面核对权限、remote notarization 与 certificate wording。
+**查本州规则：** [USA.gov：州政府入口](https://www.usa.gov/state-governments)；进入本州 Secretary of State / commissioning authority 的 notary 页面核对权限、remote notarization 与 certificate wording。
 
 ## 7. 中美“公证”不能机械对应
 
@@ -70,7 +70,7 @@
 
 办理时说明所需证明的事实与用途，不要只把中文“公证”翻成英文后要求对方照办。
 
-**权威入口：** [U.S. State Department：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [HCCH Apostille Convention](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+**权威入口：** [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
 ## 8. 翻译是一项独立要求
 
@@ -78,7 +78,7 @@
 
 附加证明书不替代翻译；翻译完成也不意味着原始文件满足认证要求。
 
-**办理前看接收方原文：** 移民文件可查 [USCIS：Tips for Filing Forms by Mail](https://www.uscis.gov/forms/filing-guidance/tips-for-filing-forms-by-mail) 与具体 form instructions；领事 / 签证材料可查 [国务院：Visa Reciprocity and Civil Documents by Country](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html)。
+**办理前看接收方原文：** 移民文件可查 [USCIS：邮寄移民申请表的注意事项](https://www.uscis.gov/forms/filing-guidance/tips-for-filing-forms-by-mail) 与具体 form instructions；领事 / 签证材料可查 [国务院：Visa Reciprocity and Civil Documents by Country](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html)。
 
 ## 9. 跨境授权委托书逐机构确认
 
@@ -86,7 +86,7 @@
 
 先询问具体措辞、授权范围、见证或公证、附加证明书、翻译及原件留存要求，再请熟悉当地业务的律师或公证机构准备。
 
-**查路线：** 美国签发 / 公证的 POA 可从[国务院 document authentication 入口](https://travel.state.gov/en/replace-certify/authenticate-documents.html)和签发州 authority 开始；中国侧使用则同时核对[中国领事服务网附加证明书专题](https://cs.mfa.gov.cn/zggmcg/fjzms/)以及最终银行、法院或登记机构要求。
+**查路线：** 美国签发 / 公证的 POA 可从[U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html)和签发州 authority 开始；中国侧使用则同时核对[中国领事服务网附加证明书专题](https://cs.mfa.gov.cn/zggmcg/fjzms/)以及最终银行、法院或登记机构要求。
 
 ## 10. 授权越宽不一定越好
 
@@ -94,13 +94,13 @@
 
 让专业人士根据用途设计授权，并确认撤销、期限和原件管理方式。不要把网上模板当成跨境通用文件。
 
-**找法律帮助：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [中国法律服务网 12348](https://www.12348.gov.cn/)。最终 wording 仍先问接收机构。
+**找法律帮助：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [中国法律服务网 12348](https://www.12348.gov.cn/)。最终 wording 仍先问接收机构。
 
 ## 11. 婚姻文件考虑后续用途
 
 婚姻证明可能用于移民、配偶福利、户籍或房产、继承、银行以及姓名变更。根据需要申请适量认证副本，保存加密扫描件，并记录重新申领与认证的途径。
 
-**美国记录入口：** [USA.gov：Marriage certificate](https://www.usa.gov/marriage-certificate)；跨境使用时再走签发州 apostille / authentication 流程。
+**美国记录入口：** [USA.gov：结婚证明](https://www.usa.gov/marriage-certificate)；跨境使用时再走签发州 apostille / authentication 流程。
 
 不要为了“以后可能有用”无差别办理所有认证；先看预期用途。
 
@@ -118,7 +118,7 @@
 
 不要因为文件跨境就一律办理附加证明书。医疗整理步骤见[医疗记录与跨境连续性照护](06-医疗记录药物与跨境Continuity.md)。
 
-**医疗资料入口：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。医疗记录能否直接被境外机构使用，先问接诊机构格式与翻译要求。
+**医疗资料入口：** [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html)。医疗记录能否直接被境外机构使用，先问接诊机构格式与翻译要求。
 
 ## 14. 文件新旧可能影响受理
 
@@ -165,13 +165,13 @@
 
 公开仓库只保存空白模板。实际证件、姓名、账户和签名存入私人档案。
 
-**数字安全参考：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。索引记录文件位置和状态，不在公共项目集中真实证件。
+**数字安全参考：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。索引记录文件位置和状态，不在公共项目集中真实证件。
 
 ## 19. 从官方机关查当前要求
 
-美国文件先查签发州的主管机关或相关联邦机关；公约适用情况查[海牙国际私法会议的附加证明书专题](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+美国文件先查签发州的主管机关或相关联邦机关；公约适用情况查[HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
-**权威入口：** [HCCH：Apostille Convention authorities](https://www.hcch.net/en/instruments/conventions/authorities1/?cid=41) · [美国国务院：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
+**权威入口：** [HCCH：Apostille Convention authorities](https://www.hcch.net/en/instruments/conventions/authorities1/?cid=41) · [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
 
 中国文件查外交部、获授权的地方外事办公室及最终接收机构。办理前重新确认地址、费用、受理方式和材料要求，不能仅凭旧攻略寄送原件。
 
@@ -183,7 +183,7 @@
 
 同一个中文“公证”在不同机构可能指完全不同的程序。不要在要求未澄清时反复做更多认证，也不要自己制作“通用同一人证明”期待所有银行、法院或政府机关都接受。
 
-**排查模板：** [跨境办事失败排查清单](../checklists/cross-border-problem.md) · [U.S. Department of State：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html)。
+**排查模板：** [跨境办事失败排查清单](../checklists/cross-border-problem.md) · [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html)。
 
 ## 21. 最小执行集
 
@@ -196,6 +196,6 @@
 - [ ] 使用可追踪的交接与邮寄方式。
 - [ ] 真实文件只存私人系统。
 
-**入口汇总：** [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department Authentication](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [USA.gov Vital Records](https://www.usa.gov/request-documents)。
+**入口汇总：** [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [USA.gov Vital Records](https://www.usa.gov/request-documents)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对中国领事服务网 2026-07 当前说明：2023-11-07 起中国与 Apostille Convention 缔约国之间，适用公文书办理附加证明书后无需再办理使领馆领事认证；与非缔约国之间仍走领事认证。另核对中国附加证明书核验入口、美国国务院 2026 document-authentication / DS-4194 页面、HCCH authorities 与 USA.gov vital-records 入口。具体州级公证 / apostille 权限、翻译标准、文件实体效力与最终接收机构要求仍须按文件、州和用途逐项确认。

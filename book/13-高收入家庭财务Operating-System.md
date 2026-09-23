@@ -24,7 +24,7 @@
 
 预算解决收支安排，但不能替代后三层。先画出账户与用途，再决定是否需要新增产品。
 
-**基础核验入口：** [FDIC：BankFind Suite — 查银行是否受 FDIC 保险](https://banks.data.fdic.gov/bankfind-suite/bankfind) · [SIPC：List of Members](https://www.sipc.org/list-of-members) · [Investor.gov：Check Out Your Investment Professional](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
+**基础核验入口：** [受保存款机构查询（FDIC BankFind）](https://banks.data.fdic.gov/bankfind-suite/bankfind) · [证券投资者保护组织会员查询（SIPC Member Search）](https://www.sipc.org/list-of-members) · [Investor.gov：核查投资专业人士资质](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
 
 ## 2. 存款保险按银行和所有权类别计算
 
@@ -36,7 +36,7 @@
 
 奖金、售房款或购房首付款到账后，重新核对合计余额、利息和账户所有权；婚姻、信托、POD/TOD 或大额 sweep 改动后也重新跑一次计算。
 
-**直接计算 / 查询：** [FDIC EDIE：Electronic Deposit Insurance Estimator](https://edie.fdic.gov/) · [FDIC：Deposit Insurance at a Glance](https://www.fdic.gov/consumer-resource-center/deposit-insurance-glance) · [FDIC：Your Insured Deposits — 含 2024 trust-rule change](https://www.fdic.gov/resources/deposit-insurance/brochures/insured-deposits) · [FDIC：Trust Accounts](https://www.fdic.gov/financial-institution-employees-guide-deposit-insurance/trust-accounts) · [FDIC BankFind Suite](https://banks.data.fdic.gov/bankfind-suite/bankfind)。联名、retirement、trust、pass-through 与 sweep 结构复杂时不要只靠口算。
+**直接计算 / 查询：** [存款保险估算工具（FDIC EDIE）](https://edie.fdic.gov/) · [FDIC：存款保险概览](https://www.fdic.gov/consumer-resource-center/deposit-insurance-glance) · [FDIC：Your Insured Deposits — 含 2024 trust-rule change](https://www.fdic.gov/resources/deposit-insurance/brochures/insured-deposits) · [FDIC：信托账户存款保障](https://www.fdic.gov/financial-institution-employees-guide-deposit-insurance/trust-accounts) · [受保存款机构查询（FDIC BankFind）](https://banks.data.fdic.gov/bankfind-suite/bankfind)。联名、retirement、trust、pass-through 与 sweep 结构复杂时不要只靠口算。
 
 存款保险应对受保银行倒闭，并不是交易诈骗的通用赔偿机制。
 
@@ -60,7 +60,7 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 同一个 brokerage app 里写着“cash”，实际法律结构可能完全不同；还要比较 sweep rate、参与银行、是否可选择其他 core position 以及账户是否收 asset-based fee。
 
-**继续看 / 核验：** [Investor.gov：Cash Sweep Programs for Uninvested Cash — 2025-05-14](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/cash-sweep-programs-uninvested-cash-your-investment-accounts-investor-bulletin) · [Investor.gov / SIPC：SIPC Basics](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/investor-bulletin-sipc-protection-part-1-sipc-basics) · [FDIC：What Is Not Insured by the FDIC](https://www.fdic.gov/resources/deposit-insurance/financial-products-not-insured) · [SIPC：What SIPC Protects](https://www.sipc.org/for-investors/what-sipc-protects) · [SIPC：Member Search](https://www.sipc.org/list-of-members)。
+**继续看 / 核验：** [Investor.gov：闲置现金归集安排（2025年5月14日）](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/cash-sweep-programs-uninvested-cash-your-investment-accounts-investor-bulletin) · [Investor.gov / SIPC：证券投资者保护基础](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/investor-bulletin-sipc-protection-part-1-sipc-basics) · [FDIC：存款保险不保障哪些产品](https://www.fdic.gov/resources/deposit-insurance/financial-products-not-insured) · [SIPC：证券投资者保护的范围](https://www.sipc.org/for-investors/what-sipc-protects) · [证券投资者保护组织会员查询（SIPC Member Search）](https://www.sipc.org/list-of-members)。
 
 ## 4. 税款要在收入发生的年度安排
 
@@ -70,7 +70,7 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 预缴不足罚金有一般规则及例外，不等于年底一次补足即可。具体比例、适用条件与时间安排集中见[第 14 章](14-美国税务与State-Residency.md)，避免在多个地方各维护一套数字。
 
-**直接算 / 调整：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [IRS：Form 1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es)。
+**直接算 / 调整：** [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：预估税](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [IRS：Form 1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es)。
 
 ## 5. 工资预扣与直接缴税的时间处理不同
 
@@ -78,11 +78,11 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 是否调整工资预扣、采用收入年化计算或补缴，应在工资处理截止前确定。不能把“年底多扣一些”当成适用于所有人和所有州的补救方法。
 
-**继续看：** [IRS：Form W-4](https://www.irs.gov/forms-pubs/about-form-w-4) · [IRS：Form 2210 Instructions](https://www.irs.gov/instructions/i2210) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator)。
+**继续看：** [工资预扣税设置表（Form W-4）](https://www.irs.gov/forms-pubs/about-form-w-4) · [IRS：Form 2210 Instructions](https://www.irs.gov/instructions/i2210) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator)。
 
 ## 6. 延期申报与延期付款分开问
 
-**继续看 / 付款：** [IRS：Get an Extension to File](https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return) · [IRS：Payments](https://www.irs.gov/payments) · [IRS：Online Account](https://www.irs.gov/payments/online-account-for-individuals)。通常的申报延期不自动延长付款期限；特定 disaster relief 另看 IRS 当期公告。
+**继续看 / 付款：** [IRS：申请延长报税期限](https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return) · [IRS：缴纳税款](https://www.irs.gov/payments) · [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals)。通常的申报延期不自动延长付款期限；特定 disaster relief 另看 IRS 当期公告。
 
 即使材料未齐，也应估算并处理到期税款；州和地方安排单独核对。是否有利息或罚金，不能只看延期申请是否成功。
 
@@ -92,7 +92,7 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 明确谁负责回复、用什么渠道、何时提交，并保存送达或上传证明。打电话咨询后仍要确认是否需要书面回复。
 
-**通知入口：** [IRS：Understanding Your IRS Notice or Letter](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [IRS：Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [Taxpayer Advocate Service：Get Help](https://www.taxpayeradvocate.irs.gov/get-help/)。正式回复期限仍以实际 notice 为准。
+**通知入口：** [IRS：理解国税局通知与信件](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [Taxpayer Advocate Service：纳税人求助](https://www.taxpayeradvocate.irs.gov/get-help/)。正式回复期限仍以实际 notice 为准。
 
 ## 8. 政府账户作为复核入口
 
@@ -100,7 +100,7 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 
 不要将税务门户当成所有资料的唯一存档；部分文件未显示、更新延迟和身份验证失败都可能影响使用。
 
-**税务记录入口：** [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [IRS Get Transcript](https://www.irs.gov/individuals/get-transcript) · [IRS Payments](https://www.irs.gov/payments)。
+**税务记录入口：** [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：获取税务记录](https://www.irs.gov/individuals/get-transcript) · [IRS：缴纳税款](https://www.irs.gov/payments)。
 
 ## 9. 每个账户说明用途
 
@@ -124,7 +124,7 @@ FDIC 不承保共同基金等证券。证券投资者保护公司（SIPC）针�
 - Traditional + Roth IRA 的 2026 combined contribution limit 为 **$7,500**；age 50+ IRA catch-up 为 **$1,100**，所以一般合计 $8,600，仍不能超过适用 taxable compensation。Traditional IRA deduction 与 Roth IRA direct-contribution eligibility 另受 MAGI / workplace-plan 等规则影响。
 - SIMPLE、SEP、solo 401(k)、457(b) special catch-up、403(b) 15-year rule 以及同时参加多个 unrelated-employer plans 时有另外 aggregation / coordination rules，不要只拿上面一张表硬套。
 
-**退休 / HSA 继续看：** [IRS：2026 retirement plan limits — IR-2025-111](https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500) · [IRS：COLA limits by plan type](https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions) · [IRS：Catch-up contributions — 含 2026 Roth catch-up rule](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions) · [IRS：IRA contribution limits](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits) · [U.S. Department of Labor：Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Publication 969：HSA](https://www.irs.gov/publications/p969)。具体 plan 资格、供款来源与 employer rules 仍按当年 plan documents 核对。
+**退休 / HSA 继续看：** [IRS：2026年退休供款限额](https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500) · [IRS：各类退休计划通胀调整限额](https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions) · [IRS：Catch-up contributions — 含 2026 Roth catch-up rule](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions) · [IRS：个人退休账户供款限额](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969)。具体 plan 资格、供款来源与 employer rules 仍按当年 plan documents 核对。
 
 ### 退休账户还要维护 RMD 日历
 
@@ -152,7 +152,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 **漏拿 RMD 的代价：** 当前一般 excise tax 为 shortfall 的 **25%**；若在 correction window 内完成 corrective distribution 并按要求申报，可降为 **10%**。合理错误且正在纠正时还可能通过 Form 5329 请求 waiver，但不是自动免罚。发现漏拿时应尽快联系 custodian / tax professional，而不是等下一年“多拿一点”自行抵掉。
 
-**RMD 直接核对：** [IRS：Required Minimum Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：RMD FAQs](https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs) · [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [IRS Publication 590-B](https://www.irs.gov/publications/p590b) · [IRS Form 5329](https://www.irs.gov/forms-pubs/about-form-5329)。
+**RMD 直接核对：** [IRS：最低提取要求](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：最低提取要求常见问题](https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [个人退休账户提取规则（IRS Publication 590-B）](https://www.irs.gov/publications/p590b) · [退休及特定税惠账户附加税表（IRS Form 5329）](https://www.irs.gov/forms-pubs/about-form-5329)。
 
 ## 10. 联名账户不能替代遗产与失能规划
 
@@ -160,7 +160,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 把账户登记与遗嘱、信托、财务授权一起核对，见[第 10 章](10-Estate-Planning与失能.md)。
 
-**权限参考：** [CFPB：Power of Attorney](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [IRS：Retirement Beneficiaries](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。账户 title、POD/TOD 与州法效果仍向机构 / 律师确认。
+**权限参考：** [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。账户 title、POD/TOD 与州法效果仍向机构 / 律师确认。
 
 ## 11. 共同知情不要求所有资金联名
 
@@ -168,7 +168,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 共享密码不等于合法代理。失能或死亡后的操作，应按有效文件和机构流程办理。
 
-**继续看：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
+**继续看：** [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 12. 大额电汇独立核实
 
@@ -176,7 +176,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 转账前用事先已知、独立核实的电话联系收款方，确认户名、账号和付款用途。邮件线程里突然更改的收款信息，不能仅靠回复该邮件确认。
 
-**核验 / 报案：** [FBI IC3：Business Email Compromise](https://www.ic3.gov/CrimeInfo/BEC) · [FBI IC3：File a Complaint](https://www.ic3.gov/) · [FTC：ReportFraud](https://reportfraud.ftc.gov/)。若已转出可疑款项，立即联系金融机构询问止付或追回，并保存证据；不能保证一定追回。
+**核验 / 报案：** [FBI IC3：商业邮件诈骗](https://www.ic3.gov/CrimeInfo/BEC) · [联邦调查局网络犯罪举报（FBI IC3）](https://www.ic3.gov/) · [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/)。若已转出可疑款项，立即联系金融机构询问止付或追回，并保存证据；不能保证一定追回。
 
 ## 13. 自动还款后仍需看账单
 
@@ -184,7 +184,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 自动还款减少漏付风险，但不承担争议识别和及时通知发卡行的工作。
 
-**信用卡争议入口：** [CFPB：Dispute a Charge on Your Credit Card Bill](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/) · [CFPB：Submit a Complaint](https://www.consumerfinance.gov/complaint/)。
+**信用卡争议入口：** [CFPB：信用卡账单争议](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/) · [CFPB：提交消费者投诉](https://www.consumerfinance.gov/complaint/)。
 
 ## 14. 定期整理订阅与闲置账户
 
@@ -192,7 +192,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 关闭账户之前先迁移自动扣款、下载记录、检查退款或待处理事项。整理的目的是减少遗漏，不要求为了简化而关闭所有备用渠道。
 
-**消费者参考：** [FTC：Free Trials, Auto-Renewals and Negative Option Subscriptions](https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions)。金融账户关闭则以实际机构条款与待结算事项为准。
+**消费者参考：** [FTC：免费试用与自动续订](https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions)。金融账户关闭则以实际机构条款与待结算事项为准。
 
 ## 15. 收入中断也是财务问题
 
@@ -200,7 +200,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 未来收入有不确定性，不能把未获得的奖金当成随时可用现金。支出安排应能承受比预期更差的情形。
 
-**福利入口：** [DOL EBSA：Employee Benefits Security Administration](https://www.dol.gov/agencies/ebsa) · [DOL：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)；失业后的保险与退休账户选择仍应结合雇主计划文件。
+**福利入口：** [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)；失业后的保险与退休账户选择仍应结合雇主计划文件。
 
 ## 16. 做一页定期复查表
 
@@ -216,7 +216,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 比较产品时同时看费用、税务、保障和操作复杂度，不能仅按标示年化收益率排序。
 
-**核验产品与机构：** [FDIC BankFind](https://banks.data.fdic.gov/bankfind-suite/bankfind) · [SIPC Member Search](https://www.sipc.org/list-of-members) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [SEC IAPD](https://adviserinfo.sec.gov/)。
+**核验产品与机构：** [受保存款机构查询（FDIC BankFind）](https://banks.data.fdic.gov/bankfind-suite/bankfind) · [证券投资者保护组织会员查询（SIPC Member Search）](https://www.sipc.org/list-of-members) · [经纪人与券商资质查询（FINRA BrokerCheck）](https://brokercheck.finra.org/) · [投资顾问资质查询（SEC IAPD）](https://adviserinfo.sec.gov/)。
 
 ## 18. 中国侧资产与义务也纳入清单
 
@@ -224,7 +224,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 向跨境税务专业人士完整披露相关账户和权益，账户能否登录与是否需要申报是两回事。
 
-**跨境申报入口：** [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。
+**跨境申报入口：** [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)。
 
 ## 19. 跨境转账提前准备文件
 
@@ -232,7 +232,7 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 
 不要用借名、虚假用途或拆分来规避要求。保留原始合同、流水、汇款回执及必要的汇率记录。
 
-**继续看：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。银行自身的跨境汇款资料要求则以汇出行、收款行和实际交易性质为准。
+**继续看：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。银行自身的跨境汇款资料要求则以汇出行、收款行和实际交易性质为准。
 
 ## 20. 长期财务决策先写目标、期限和不能承受的结果
 
@@ -255,6 +255,6 @@ Inherited Roth IRA 也不是“继承后完全无 RMD”：beneficiary distribut
 - [ ] 自动还款、订阅和跨境资产定期复查。
 - [ ] 接近 RMD applicable age、退休或继承退休账户时，已建立逐账户 RMD / beneficiary-distribution 日历。
 
-**入口汇总：** [FDIC EDIE](https://edie.fdic.gov/) · [SIPC Member Search](https://www.sipc.org/list-of-members) · [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+**入口汇总：** [存款保险估算工具（FDIC EDIE）](https://edie.fdic.gov/) · [证券投资者保护组织会员查询（SIPC Member Search）](https://www.sipc.org/list-of-members) · [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [经纪人与券商资质查询（FINRA BrokerCheck）](https://brokercheck.finra.org/) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对 FDIC / SIPC、SEC cash-sweep 与 IRS 2026 retirement rules：FDIC standard amount $250,000 per depositor / insured bank / ownership category；2024-04-01 trust category 新规则通常每 owner × eligible beneficiary × $250,000，5+ beneficiary 时 capped at $1.25m / owner / bank；SIPC $500,000 per customer（其中 cash claim $250,000）。2026 401(k)/403(b)/governmental 457/TSP elective-deferral limit $24,500，一般 catch-up $8,000、age 60–63 $11,250；多数 applicable defined-contribution annual additions $72,000；IRA $7,500 + age-50 catch-up $1,100；prior-year sponsor wages >$150,000 的适用 2026 catch-up participant 需注意 Roth catch-up requirement。新增 RMD / beneficiary distribution audit：1951–1959 cohort applicable age 73、1960+ cohort 75；first RMD 可延到次年 4/1 但会与该年 12/31 RMD 重叠；original-owner Roth IRA / designated Roth account 无 lifetime RMD；多数 post-2019 non-eligible designated beneficiaries 受 10-year rule，但 owner 是否已到 required beginning date 会影响中间年度是否仍需 annual RMD；shortfall excise tax 一般 25%，timely correction 可降为 10%，reasonable-error waiver 另按 Form 5329。另核对 IRS withholding / estimated tax / payments / notices、Taxpayer Advocate、FBI IC3、CFPB、DOL EBSA、FINRA / SEC 及 FinCEN / Form 8938。账户分层、复查频率和流动性缓冲属于家庭管理建议；任何具体产品收益、个人保险范围、税务资格与投资适当性仍需按当期文件核验。

@@ -8,7 +8,7 @@
 
 把漏水、设备故障、门锁、公共区域及夜间紧急情况分别问清，并保留书面回复。不以“平时是谁来修”代替合同责任判断。
 
-**查本地主管入口：** [USA.gov：州与地方政府目录](https://www.usa.gov/state-local-governments) · [USA.gov：州消费者保护办公室](https://www.usa.gov/state-consumer)。租客权利、物业责任与 HOA 权限仍以当地法律、租约和管理文件为准。
+**查本地主管入口：** [USA.gov：州与地方政府入口](https://www.usa.gov/state-local-governments) · [USA.gov：州消费者保护机构](https://www.usa.gov/state-consumer)。租客权利、物业责任与 HOA 权限仍以当地法律、租约和管理文件为准。
 
 ## 2. 漏水先考虑人身与电气安全
 
@@ -18,13 +18,13 @@
 
 不要涉水接触电器、开关或配电箱，也不要为了查明责任而延误减损。无法判断安全时交给救援或合格专业人员。
 
-**安全参考：** [Ready.gov：Floods](https://www.ready.gov/floods) · [USFA：Electrical Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical/)。住宅漏水不是洪水灾害的同义词，但涉水与电气危险的安全原则可直接参考。
+**安全参考：** [Ready.gov：洪水防灾](https://www.ready.gov/floods) · [USFA：电气防火](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical/)。住宅漏水不是洪水灾害的同义词，但涉水与电气危险的安全原则可直接参考。
 
 ## 3. 知道阀门在哪里，不等于自行维修
 
 让物业或技师说明水阀、配电箱和适用设备的位置，以及哪些操作允许住户进行。闻到疑似燃气、发生烟火或一氧化碳报警时，先撤离并联系当地应急服务或燃气公司，不自行试验开关寻找来源。
 
-**安全入口：** [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/) · [Ready.gov：Home Fires](https://www.ready.gov/home-fires)。燃气泄漏的具体 emergency number 使用当地 utility / fire department 官方入口。
+**安全入口：** [USFA：一氧化碳安全](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/) · [Ready.gov：住宅火灾](https://www.ready.gov/home-fires)。燃气泄漏的具体急救号码使用当地公共事业公司 / 消防部门官方入口。
 
 ## 4. 保存常用服务入口
 
@@ -32,29 +32,29 @@
 
 不必预先签约所有服务，但至少知道如何核验身份和取得报价。
 
-**找人前先看：** [FTC：How To Avoid a Home Improvement Scam](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。FTC 建议核对执照与保险、取得多份书面估价，并在签约前查投诉记录。
+**找人前先看：** [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。FTC 建议核对执照与保险、取得多份书面估价，并在签约前查投诉记录。
 
 ## 5. 承包商资质与口碑分别核对
 
 询问项目所需执照或注册，并到州、市或县的官方渠道核实企业名称、状态和业务范围。推荐与评价可提供线索，不能替代资质和书面合同。
 
-**核验入口：** [FTC：Home Improvement Scam — license / insurance / complaint checklist](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：State Consumer Protection Offices](https://www.usa.gov/state-consumer) · [USA.gov：State and Local Governments](https://www.usa.gov/state-local-governments)。具体 license lookup 应从项目所在地政府官网进入。
+**核验入口：** [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：州消费者保护机构](https://www.usa.gov/state-consumer) · [USA.gov：州与地方政府入口](https://www.usa.gov/state-local-governments)。具体执照查询应从项目所在地政府官网进入。
 
 取得可比较的书面报价，确认是否包含相同范围。不同工种及地区的许可要求不同，不宣称全国存在统一“承包商牌照”。
 
-**1978 年以前住宅的 renovation 另加一层 lead-safe 核验。** EPA Renovation, Repair and Painting（RRP）Rule 对很多 pre-1978 homes / child-occupied facilities 的付费 renovation、repair、painting 工作适用。Plumber、electrician、HVAC、window installer、painter 等并不会因为“不是油漆工”就自动排除；关键在于 paid work 是否会 disturb covered painted surfaces。
+**1978 年以前住宅的装修另加一层含铅作业安全核验。** 美国环境保护署（EPA）的装修、维修与涂装规则（RRP） 对很多 1978年以前的住宅 / 儿童使用场所的付费装修、维修、涂装工作适用。水管工、电工、HVAC、窗户安装工、油漆工等并不会因为“不是油漆工”就自动排除；关键在于有偿作业是否会扰动适用的涂漆表面。
 
-当前 federal RRP baseline：
+当前联邦装修、维修与涂装规则的基本要求：
 
-- covered work 通常要求 firm 获得 EPA certification，并由 trained / certified renovator 负责适用 lead-safe practices；
-- “minor repair / maintenance”小面积豁免一般只到**每个房间 ≤6 sq ft 的 interior painted surface**或**总计 ≤20 sq ft exterior painted surface**；
-- 但 **window replacement、painted-surface demolition，以及 RRP 明确禁止的 work practices**不享受上述小面积豁免；
-- 如果受影响表面已有符合要求的 lead-free determination，可按规则排除相应组件；不要用“房子后来翻新过”“窗户看起来很新”自行推断没有 lead-based paint；
-- EPA 的 homeowner / contractor lead-safe renovation materials 已在 **2026-03** 更新，开工前应让 contractor 提供当前 required pamphlet / notices，并把 certification、test result、work area containment 与 cleanup 方式写进项目资料。
+- 受规则约束的作业通常要求施工企业获得 EPA 认证，并由受训 / 认证装修人员负责适用含铅作业安全措施；
+- “小范围维修 / 维护”小面积豁免一般只到**每个房间 ≤6 平方英尺的室内涂漆表面**或**总计 ≤20 平方英尺室外涂漆表面**；
+- 但 **更换窗户、涂漆表面拆除，以及 RRP 明确禁止的作业方法**不享受上述小面积豁免；
+- 如果受影响表面已有符合要求的无铅判定，可按规则排除相应组件；不要用“房子后来翻新过”“窗户看起来很新”自行推断没有含铅涂料；
+- EPA 的房屋业主 / 承包商含铅作业安全装修资料已在 **2026-03** 更新，开工前应让承包商提供当前规定宣传册 / 通知，并把认证、检测结果、作业区隔离与清理方式写进项目资料。
 
-这不是要求所有 pre-1978 home renovation 都做全面 lead abatement，而是要求先判断 RRP applicability；州、市还可能有更严格的 lead / contractor rules。
+这不是要求所有 1978年以前的住宅装修都做全面铅危害消除，而是要求先判断 RRP 适用性；州、市还可能有更严格的含铅作业和承包商规则。
 
-**Lead-safe 核验入口：** [EPA：RRP Program — Contractors](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) · [EPA：Steps to Lead-Safe Renovation, Repair and Painting — March 2026](https://www.epa.gov/lead/steps-lead-safe-renovation-repair-and-painting) · [EPA：Find a Lead-Safe Certified Firm](https://www.epa.gov/lead/i-am-planning-renovate-my-home-how-can-i-find-lead-safe-certified-firm) · [EPA：Lead FAQ / Renovation](https://www.epa.gov/lead/lead-renovation-repair-and-painting-program-rules)。
+**含铅作业安全核验入口：** [EPA：装修、维修与涂装规则：承包商要求](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) · [EPA：含铅材料装修安全步骤（2026年3月）](https://www.epa.gov/lead/steps-lead-safe-renovation-repair-and-painting) · [EPA：查找含铅作业安全认证企业](https://www.epa.gov/lead/i-am-planning-renovate-my-home-how-can-i-find-lead-safe-certified-firm) · [EPA：含铅材料与装修常见问题](https://www.epa.gov/lead/lead-renovation-repair-and-painting-program-rules)。
 
 ## 6. 估价要写明工程范围
 
@@ -62,7 +62,7 @@
 
 增加项目时用书面变更单（change order）记录价格与工期影响，避免开工后才发现原价只涵盖一部分。
 
-**继续看：** [FTC：Home Improvement Scam — written estimates and contracts](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。FTC 的消费者清单建议书面估价至少写明工作内容、材料、预计完成日期和价格，并把谈判承诺写进合同。
+**继续看：** [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。FTC 的消费者清单建议书面估价至少写明工作内容、材料、预计完成日期和价格，并把谈判承诺写进合同。
 
 ## 7. 付款与可核验进度挂钩
 
@@ -70,7 +70,7 @@
 
 具体订金上限、取消权、留置权通知和尾款条件要查适用法规，不从其他州案例套用。大型工程可请律师审合同。
 
-**继续看：** [FTC：Home Improvement Scam — payments and cancellation rights](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：State Consumer Protection Offices](https://www.usa.gov/state-consumer)。FTC 明确提醒不要预付全部工程款，并指出部分州会限制订金；具体上限和取消权必须查项目所在地规则。
+**继续看：** [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：州消费者保护机构](https://www.usa.gov/state-consumer)。FTC 明确提醒不要预付全部工程款，并指出部分州会限制订金；具体上限和取消权必须查项目所在地规则。
 
 ## 8. 许可要求向主管部门确认
 
@@ -78,7 +78,7 @@
 
 物业同意不自动替代政府许可，政府许可也不自动替代物业审批。
 
-**找 permit 主管部门：** [USA.gov：State and Local Governments](https://www.usa.gov/state-local-governments)。从项目地址所属 city / county 的 building、construction code 或 permitting 部门进入，不使用搜索广告里的代办站替代政府页面。
+**找许可主管部门：** [USA.gov：州与地方政府入口](https://www.usa.gov/state-local-governments)。从项目地址所属市 / 县的建筑管理、建筑规范或许可审批部门进入，不使用搜索广告里的代办站替代政府页面。
 
 ## 9. 保险证明不等于所有风险都已覆盖
 
@@ -86,7 +86,7 @@
 
 一张证明不能修改实际保单，也不能保证未来理赔结果。
 
-**保险监管入口：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。需要确认保险公司、代理人或投诉渠道时，从项目所在州的保险监管部门进入。
+**保险监管入口：** [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。需要确认保险公司、代理人或投诉渠道时，从项目所在州的保险监管部门进入。
 
 ## 10. 紧急维修也要确认身份与授权范围
 
@@ -94,7 +94,7 @@
 
 不要因对方自称“保险合作方”就授权其代签、收取全部赔款或进行无限额施工。
 
-**灾后尤其要查：** [FTC：Avoid Scams After Weather Emergencies and Natural Disasters](https://consumer.ftc.gov/articles/how-avoid-scams-after-weather-emergencies-and-natural-disasters) · [FTC：ReportFraud](https://reportfraud.ftc.gov/)。FTC 建议独立核验承包商执照与保险、取得书面合同，并警惕要求现金全额预付或拒绝提供文件的人。
+**灾后尤其要查：** [FTC：防范灾后骗局](https://consumer.ftc.gov/articles/how-avoid-scams-after-weather-emergencies-and-natural-disasters) · [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/)。FTC 建议独立核验承包商执照与保险、取得书面合同，并警惕要求现金全额预付或拒绝提供文件的人。
 
 ## 11. 锁在门外先找已有入口
 
@@ -102,7 +102,7 @@
 
 备用钥匙或智能锁恢复方案应由可信赖的人妥善保管，不能公开发布地址和进入方式。
 
-**消费者入口：** [USA.gov：State Consumer Protection Offices](https://www.usa.gov/state-consumer)。锁匠许可与收费监管高度地方化；优先用物业既有 vendor 或州 / 地方可核验的企业信息。
+**消费者入口：** [USA.gov：州消费者保护机构](https://www.usa.gov/state-consumer)。锁匠许可与收费监管高度地方化；优先用物业既有服务商或州 / 地方可核验的企业信息。
 
 ## 12. 设备故障按环境和住户状况分级
 
@@ -110,7 +110,7 @@
 
 维护频率按制造商、设备状态和专业建议确定，不把每年购买某个套餐当成统一要求。
 
-**安全参考：** [Ready.gov：Extreme Heat](https://www.ready.gov/heat) · [Ready.gov：Winter Weather](https://www.ready.gov/winter-weather) · [USFA：Heating Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/)。
+**安全参考：** [Ready.gov：高温应对](https://www.ready.gov/heat) · [Ready.gov：冬季天气应对](https://www.ready.gov/winter-weather) · [USFA：取暖防火](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/)。
 
 ## 13. 家庭物品清单提前准备
 
@@ -118,13 +118,13 @@
 
 清单帮助证明损失，但承保范围和赔偿方式仍以保单为准。
 
-**继续看：** [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance)；同时把照片、序列号、发票和估价副本存到住宅之外的受保护位置。
+**继续看：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance)；同时把照片、序列号、发票和估价副本存到住宅之外的受保护位置。
 
 ## 14. 租客单独核对自己的保险
 
 房东的房屋保障一般不替代租客财物与责任保障。额外生活费用、贵重物品及其他限制见[第 07 章](07-保险与灾难风险.md)，不要等事故发生再问。
 
-**继续看：** [NAIC：Renters Insurance](https://content.naic.org/consumer/renters-insurance) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
+**继续看：** [NAIC：租客保险](https://content.naic.org/consumer/renters-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ## 15. 公寓总保单与个人保单一起看
 
@@ -132,7 +132,7 @@
 
 保存管理文件、总保单摘要及个人保单，发生变更时一起复查。
 
-**保险入口：** [NAIC：Homeowners Insurance](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。HOA / condo master policy 与 unit-owner policy 的实际边界仍以两份保单和 governing documents 为准。
+**保险入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。HOA / 公寓建筑主保单与单元业主保单的实际边界仍以两份保单和管理文件为准。
 
 ## 16. 业主协会不等同于房东
 
@@ -140,19 +140,19 @@
 
 不能因为每月支付管理费就推断所有单元内部损坏都由协会负责。
 
-**查本州规则：** [USA.gov：State Governments](https://www.usa.gov/state-governments) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。HOA / condo 权限、records access 与 dispute process 依州法和 governing documents。
+**查本州规则：** [USA.gov：州政府入口](https://www.usa.gov/state-governments) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。HOA / 公寓业主组织权限、记录查阅与争议程序依州法和管理文件。
 
 ## 17. 关键服务准备备用联系人
 
 物业管理、清洁、水管或照护服务只有一位联系人时，询问其休假、停业或无法到场的替代安排。备份联系人同样要核验，不能因紧急自动免除检查。
 
-**本项目实务建议：** 关键服务至少保留“主入口 + 备用入口 + 夜间 / 节假日处理方式”；承包商核验仍从 [FTC Home Improvement](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) 与所在地许可机关开始。
+**本项目实务建议：** 关键服务至少保留“主入口 + 备用入口 + 夜间 / 节假日处理方式”；承包商核验仍从 [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) 与所在地许可机关开始。
 
 ## 18. 家政关系还可能涉及雇佣义务
 
 固定家政或保姆是否属于家庭雇员，取决于实际工作关系与适用规则，不取决于用哪个支付应用或合同是否写“独立承包商”。具体税务、工资和保险见[第 39 章](39-家庭雇员Nanny家政与Payroll.md)。
 
-**直接判断入口：** [IRS：Household Employees](https://www.irs.gov/taxtopics/tc756) · [IRS Publication 926](https://www.irs.gov/publications/p926) · [DOL：Domestic Service Workers](https://www.dol.gov/agencies/whd/direct-care)。
+**直接判断入口：** [IRS：家庭雇员税务](https://www.irs.gov/taxtopics/tc756) · [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [DOL：家政雇员劳动规则](https://www.dol.gov/agencies/whd/direct-care)。
 
 ## 19. 搬家要迁移账户与责任
 
@@ -164,30 +164,30 @@
 
 邮件转寄不能替代逐个机构改地址；临时离开也应确认房屋空置或出租是否改变保险条件。
 
-**搬家入口：** [USPS：Official Change of Address](https://moversguide.usps.com/) · [USA.gov：Change your address](https://www.usa.gov/change-address)。保险、车辆、税务和其他机构仍需分别更新。
+**搬家入口：** [USPS：正式申请邮件改址](https://moversguide.usps.com/) · [USA.gov：更新地址](https://www.usa.gov/change-address)。保险、车辆、税务和其他机构仍需分别更新。
 
 ## 20. 租房要从看房一直覆盖到押金结清
 
-租客最容易缺的不是“房子坏了找谁”，而是完整 lifecycle：申请前核实费用与承诺、签约读 lease、入住建立 condition evidence、租期中书面报修、转租／提前解约、退租、押金与最终账单。
+租客最容易缺的不是“房子坏了找谁”，而是完整全流程：申请前核实费用与承诺、签约读租约、入住建立房屋现状证据、租期中书面报修、转租／提前解约、退租、押金与最终账单。
 
-**直接使用：** [租房全流程清单](../checklists/rental-lifecycle.md) · [USA.gov：Tenant rights / landlord complaints](https://www.usa.gov/tenant-rights)。
+**直接使用：** [租房全流程清单](../checklists/rental-lifecycle.md) · [USA.gov：租客权益](https://www.usa.gov/tenant-rights)。
 
-租客权利高度州和地方化。尤其是 notice period、security deposit、rent increase、repair remedies、sublease、early termination 和 eviction，不从其他州案例抄固定天数或金额。
+租客权利高度州和地方化。尤其是通知期限、押金、租金上涨、维修救济、转租、提前终止和驱逐，不从其他州案例抄固定天数或金额。
 
 ## 21. 收到 landlord notice 或法院文件要切换到“正式文件模式”
 
-当天保存完整文件、信封／电子送达记录和收到日期，区分 ordinary management communication、termination / demand notice 与真正 court papers。正在与物业协商，不等于答辩或出庭 deadline 自动停止。
+当天保存完整文件、信封／电子送达记录和收到日期，区分普通物业沟通、终止 / 要求履行通知与真正法院文件。正在与物业协商，不等于答辩或出庭截止日期自动停止。
 
-先从所在地法院 self-help、tenant-rights agency、legal aid 或合格律师确认下一步。正式文件的一般处理方式同时见[第30章第11节](30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件)。
+先从所在地法院自助办事入口、租客权益机构、法律援助或合格律师确认下一步。正式文件的一般处理方式同时见[第30章第11节](30-Household-Emergency-Runbook.md#11-律师函索赔或诉讼文件)。
 
 ## 22. 最小执行集与核验范围
 
 - [ ] 取得住房责任文件与夜间紧急入口。
 - [ ] 知道阀门位置及操作边界。
-- [ ] 核验承包商资质、保险与书面范围；pre-1978 housing 涉及扰动漆面时另查 EPA RRP / lead-safe certification。
+- [ ] 核验承包商资质、保险与书面范围；1978年以前的住宅涉及扰动漆面时另查 EPA RRP / 含铅作业安全认证。
 - [ ] 许可、付款、变更和验收责任写清楚。
 - [ ] 私下保存物品证据与备用联系人。
 
-**入口汇总：** [USA.gov State & Local Governments](https://www.usa.gov/state-local-governments) · [FTC Home Improvement](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC State Insurance Departments](https://content.naic.org/state-insurance-departments) · [USFA Home Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/)。
+**入口汇总：** [USA.gov：州与地方政府入口](https://www.usa.gov/state-local-governments) · [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) · [美国消防署：住宅防火](https://www.usfa.fema.gov/prevention/home-fires/)。
 
-最后编辑与来源核验：2026-09-21。新增租房 lifecycle、正式 notice / eviction 分流与独立清单；第三轮新增核对 EPA RRP：paid work 在多数 pre-1978 housing / child-occupied facilities 扰动 covered painted surfaces 时须判断 lead-safe certification / work-practice requirements；minor-repair threshold 一般为每房间 ≤6 sq ft interior 或 ≤20 sq ft exterior，但 window replacement、painted-surface demolition 和 prohibited practices 不适用该小面积豁免；EPA lead-safe renovation materials 已于 2026-03 更新。另核对 FTC Home Improvement / disaster-repair scam、USA.gov state-local / consumer protection、NAIC insurance regulator 与 USPS move 入口。各地许可、租赁义务、lead rules、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。
+最后编辑与来源核验：2026-09-21。新增租房全流程、正式通知 / 驱逐分流与独立清单；第三轮新增核对 EPA RRP：有偿作业在多数 1978年以前的住宅 / 儿童使用场所扰动适用的涂漆表面时须判断含铅作业安全认证 / 作业要求；小范围维修面积门槛一般为每房间 ≤6 平方英尺室内或 ≤20 平方英尺室外，但更换窗户、涂漆表面拆除和被禁止的作业方法不适用该小面积豁免；EPA 含铅作业安全装修资料已于 2026-03 更新。另核对 FTC 住宅改造及灾后维修骗局、USA.gov 州、地方政府及消费者保护入口、NAIC 保险监管入口与 USPS 搬家服务入口。各地许可、租赁义务、含铅材料规则、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。

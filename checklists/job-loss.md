@@ -31,7 +31,7 @@
 - [ ] **不要因为先选 COBRA 就忘记 Marketplace 规则：** 自愿提前终止 COBRA 通常不会单独产生新的 Marketplace SEP；COBRA 正常耗尽或发生其他 qualifying event 则另行判断。
 - [ ] 逐项比较网络、premium、deductible / OOP accumulation、retroactive coverage、首期付款和 family coverage；确认选择已受理且实际生效，不只保留申请截图。
 
-**医保入口：** [DOL：HIPAA Special Enrollment FAQ](https://www.dol.gov/node/25147) · [HealthCare.gov：If you lose job-based coverage](https://www.healthcare.gov/have-job-based-coverage/if-you-lose-job-based-coverage/) · [HealthCare.gov：SEP verification documents / 60-day windows](https://www.healthcare.gov/coverage-outside-open-enrollment/confirm-special-enrollment-period/) · [DOL：COBRA FAQ for Workers](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL EBSA：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
+**医保入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：If you lose job-based coverage](https://www.healthcare.gov/have-job-based-coverage/if-you-lose-job-based-coverage/) · [HealthCare.gov：SEP verification documents / 60-day windows](https://www.healthcare.gov/coverage-outside-open-enrollment/confirm-special-enrollment-period/) · [DOL：雇员医保延续保障常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
 
 ## 现金与税务
 
@@ -39,7 +39,7 @@
 - [ ] 区分确定的离职补偿与尚未确认奖金或股权，按需要暂停可选大额支出。
 - [ ] 更新预扣、预缴和跨州工作或居住估算，不因短期冲击立即出售全部投资。
 
-**税务入口：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes)。
+**税务入口：** [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：预估税](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes)。
 
 ## 需要专业审阅的事项
 
@@ -47,7 +47,7 @@
 - [ ] 身份相关问题及时咨询移民专业人士，不能等待人事部门替自己作法律判断。
 - [ ] 不因对方催促而签署未理解的复杂文件。
 
-**专业入口：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [USCIS：Find Legal Services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services)。
+**专业入口：** [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [USCIS：寻找移民法律服务](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services)。
 
 ## 福利与政府事项
 
@@ -59,7 +59,7 @@
 - [ ] 若是 IRA-to-IRA rollover，先确认过去 12 个月是否已做过另一笔 **60-day IRA rollover**；trustee-to-trustee transfer 通常不受 one-rollover-per-year rule 限制。
 - [ ] 确认股权、报销和其他福利的实际到账或失效情况。
 
-**政府 / 福利入口：** [USA.gov：Unemployment Benefits](https://www.usa.gov/unemployment-benefits) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [IRS：Rollovers of Retirement Plan and IRA Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [IRS Topic 413](https://www.irs.gov/taxtopics/tc413) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。
+**政府 / 福利入口：** [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [IRS：退休资金转存规则](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [IRS Topic 413](https://www.irs.gov/taxtopics/tc413) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。
 
 ## 职业与家庭安排
 

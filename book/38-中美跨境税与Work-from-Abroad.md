@@ -24,13 +24,13 @@
 
 美国公民及税务居民在境外仍需按美国规则判断全球收入与申报义务。中国及美国州税另行分析；移民许可、税务身份和账户服务资格不应混为一谈。
 
-**总入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [IRS：U.S. Citizens and Resident Aliens Abroad — filing requirements](https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-residents-abroad-filing-requirements) · [IRS Publication 54](https://www.irs.gov/publications/p54)。
+**总入口：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [IRS：U.S. Citizens and Resident Aliens Abroad — filing requirements](https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-residents-abroad-filing-requirements) · [IRS Publication 54](https://www.irs.gov/publications/p54)。
 
 ## 2. 境外劳动所得扣除有资格条件
 
 境外劳动所得扣除（Foreign Earned Income Exclusion，FEIE）涉及符合条件的境外劳动所得、境外税务住所及适用测试。实际居留天数测试通常要求连续12个月中在外国累计至少330个完整日，并需满足其他条件；不是出境几个月就自动适用。
 
-**继续看 / 表格：** [IRS：Foreign Earned Income Exclusion](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion) · [IRS：Physical Presence Test](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test) · [IRS：Form 2555](https://www.irs.gov/forms-pubs/about-form-2555)。
+**继续看 / 表格：** [IRS：境外劳动所得免税额](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion) · [IRS：Physical Presence Test](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test) · [IRS：Form 2555](https://www.irs.gov/forms-pubs/about-form-2555)。
 
 ## 3. 年度扣除上限不等于实际可扣数额
 
@@ -42,13 +42,13 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 实际提供服务地点、薪酬归属期间与具体税制规则都可能相关。保留工资、奖金和股权文件，让专业人士按类别分配；不把“美国公司发美元”当成只有美国税务问题的依据。
 
-**继续看：** [IRS Publication 54 — Source of Earned Income](https://www.irs.gov/publications/p54) · [IRS：Foreign Earned Income Exclusion](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion)。美国联邦规则通常首先看服务实际发生地；奖金、股权和多期间收入仍需按具体归属规则分析。
+**继续看：** [IRS Publication 54 — Source of Earned Income](https://www.irs.gov/publications/p54) · [IRS：境外劳动所得免税额](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion)。美国联邦规则通常首先看服务实际发生地；奖金、股权和多期间收入仍需按具体归属规则分析。
 
 ## 5. 外国税收抵免与所得扣除分别比较
 
 外国税收抵免（Foreign Tax Credit，FTC）与 FEIE 不同。已扣除收入对应的外国税一般不能再重复抵免；可用抵免还有资格与限额。请按收入类别和两地税额比较，而不是默认某种工具总更有利。
 
-**继续看 / 表格：** [IRS：Foreign Tax Credit](https://www.irs.gov/individuals/international-taxpayers/foreign-tax-credit) · [IRS：Form 1116](https://www.irs.gov/forms-pubs/about-form-1116) · [IRS：Form 1116 Instructions](https://www.irs.gov/instructions/i1116)。
+**继续看 / 表格：** [IRS：外国税收抵免](https://www.irs.gov/individuals/international-taxpayers/foreign-tax-credit) · [IRS：Form 1116](https://www.irs.gov/forms-pubs/about-form-1116) · [IRS：Form 1116 Instructions](https://www.irs.gov/instructions/i1116)。
 
 ## 6. 中国183天规则先区分“有住所”与“无住所”
 
@@ -93,7 +93,7 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 询问雇主允许的地点、活动与时间，是否需评估工资代扣、当地劳动与工作许可、业务机构风险及数据安全。经理个人同意不能代替相关部门审核；个人税务顾问也不能替雇主批准。
 
-**本项目实务建议：** 境外远程工作同时涉及 employer policy 与目的地当地规则，不存在一个美国联邦页面能替代雇主审批。个人税务从 [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)核对；工作许可与当地劳动义务则查目的地政府 / 雇主 legal-compliance 渠道。
+**本项目实务建议：** 境外远程工作同时涉及 employer policy 与目的地当地规则，不存在一个美国联邦页面能替代雇主审批。个人税务从 [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)核对；工作许可与当地劳动义务则查目的地政府 / 雇主 legal-compliance 渠道。
 
 ## 10. 税收协定要按完整条件使用
 
@@ -105,7 +105,7 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 人在国外、享有某项联邦扣除，均不自动终止州税联系。按住所、法定居民和来源收入规则另查，参见[第14章](14-美国税务与State-Residency.md)。某州的远程工作规则不能推广到全部州。
 
-**查州规则：** [IRS：State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。
+**查州规则：** [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites)。
 
 ## 12. 海外账户报告看合计与权限
 
@@ -115,7 +115,7 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 FBAR 的 automatic October 15 extension **不等于 Form 1040 / income-tax return 也自动延长**；所得税 return 的 extension 仍按自己的规则办理。反过来，提交 Form 4868 也不是“在申请 FBAR extension”——FBAR 本身已经自动延到 10 月 15 日。
 
-**规则 / 办理：** [IRS：FBAR — When to file / automatic extension](https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar) · [FinCEN：FBAR rules](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN BSA E-Filing：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)。
+**规则 / 办理：** [IRS：FBAR — When to file / automatic extension](https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN BSA E-Filing：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)。
 
 ## 13. FBAR与Form8938独立判断
 
@@ -134,31 +134,31 @@ IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得�
 
 **Form 8938 的 filing timing 与 FBAR 不同。** 它通常附在相应 federal income-tax return 上，并按该 return 的 due date（**including extensions**）提交；不是另有一个固定 4/15 → 10/15 的独立电子申报系统。如果本来不需要提交该 income-tax return，Form 8938 是否仍需提交还要按 Form 8938 rules 判断。
 
-**直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：Form 8938 Instructions — When and How to File](https://www.irs.gov/instructions/i8938) · [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+**直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：Form 8938 Instructions — When and How to File](https://www.irs.gov/instructions/i8938) · [IRS：FBAR vs Form 8938 comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 ## 14. 购买国内投资产品前先识别法律结构
 
 把产品说明、发行主体、所在地、账户持有人与交易方式交给跨境税务人士，询问是否涉及被动外国投资公司（PFIC）、外国企业或信托等规则及额外表格。名称叫理财、基金或储蓄不能单独分类；本章不把所有中国产品直接判为 PFIC。
 
-**继续看：** [IRS：Form 8621 — PFIC reporting](https://www.irs.gov/forms-pubs/about-form-8621) · [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。是否属于 PFIC 取决于具体法律结构与适用测试。
+**继续看：** [IRS：Form 8621 — PFIC reporting](https://www.irs.gov/forms-pubs/about-form-8621) · [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)。是否属于 PFIC 取决于具体法律结构与适用测试。
 
 ## 15. 外国赠与可能有信息申报
 
 IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能不属于普通所得，并不等于没有信息申报。保存赠与人、关系、资金性质与凭证，按年度条件核对，不将借款假写成赠与。
 
-**继续看 / 表格：** [IRS：Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。
+**继续看 / 表格：** [IRS：接受外国赠与的申报](https://www.irs.gov/businesses/gifts-from-foreign-person) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。
 
 ## 16. 继承要同时看受理与税务
 
 区分来自外国个人遗产、信托或其他实体的财产，确认接收、申报、成本记录和账户安排。国内继承手续办完不代表美国报告完成；取得资料后再作大额转移或出售决定。
 
-**继续看：** [IRS：International Taxpayers — gifts, trusts and estates resources](https://www.irs.gov/individuals/international-taxpayers) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。
+**继续看：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [IRS：Form 3520](https://www.irs.gov/forms-pubs/about-form-3520)。
 
 ## 17. 币种不决定账户所在地
 
 人民币账户、美元账户或境外分支机构账户都应按法律定义分类。向专业人士说明机构与账户所在位置，不只按银行品牌或币种判断。具体资产范围参见前述IRS比较表。
 
-**直接核对：** [IRS：Comparison of Form 8938 and FBAR Requirements](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+**直接核对：** [IRS：Comparison of Form 8938 and FBAR Requirements](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 ## 18. 大额外币交易保留原币与汇率记录
 
@@ -170,13 +170,13 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 
 购入、装修、出租、缴税和出售各留合同、付款与费用凭证。请专业人士分别确认两地收入、成本、折旧和抵免处理；不假定两国认可同一成本或同一申报时点。
 
-**美国侧入口：** [IRS Publication 527 — Residential Rental Property](https://www.irs.gov/publications/p527) · [IRS：Foreign Tax Credit](https://www.irs.gov/individuals/international-taxpayers/foreign-tax-credit) · [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)。中国侧按房产所在地和交易类型查国家税务总局 / 地方税务规则。
+**美国侧入口：** [IRS Publication 527 — Residential Rental Property](https://www.irs.gov/publications/p527) · [IRS：外国税收抵免](https://www.irs.gov/individuals/international-taxpayers/foreign-tax-credit) · [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)。中国侧按房产所在地和交易类型查国家税务总局 / 地方税务规则。
 
 ## 20. 探亲也要保留三年在美停留记录
 
 适用人员需评估美国实质居留测试（Substantial presence test）：通常当年在美至少31天，且当年全部天数加上前一年三分之一、再前一年六分之一达到183天；存在不计天数与例外。
 
-**继续看：** [IRS：Substantial Presence Test](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test) · [IRS Publication 519 — U.S. Tax Guide for Aliens](https://www.irs.gov/publications/p519)。
+**继续看：** [IRS：实质居留测试](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test) · [外国人美国税务指南（IRS Publication 519）](https://www.irs.gov/publications/p519)。
 
 因此父母反复探亲不能只看当年是否少于183天。税务测试与I-94允许停留是不同要求。
 
@@ -184,13 +184,13 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 
 用日历记录所在国家、州、出入境、实际工作与休假及薪酬归属资料。不同规则如何计日交给专业分析；原始记录不要为了某项结论而修改。
 
-**相关测试：** [IRS：Substantial Presence Test](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test) · [IRS：Physical Presence Test for FEIE](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test)。州税天数另查相应州。
+**相关测试：** [IRS：实质居留测试](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test) · [IRS：Physical Presence Test for FEIE](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test)。州税天数另查相应州。
 
 ## 22. 重复境外工作取得明确书面安排
 
 记录批准的地点、时间、活动、数据限制、联系部门及计划变更程序。情况变化先重新确认，不把一次口头同意长期沿用，也不因公司批准就省略个人税务分析。
 
-**本项目实务建议：** 这是 employer-approval 记录方法，不是税法条文。个人税务仍从 [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)及目的地税务机关独立判断。
+**本项目实务建议：** 这是 employer-approval 记录方法，不是税法条文。个人税务仍从 [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)及目的地税务机关独立判断。
 
 ## 23. 两地顾问使用同一份事实摘要
 
@@ -208,19 +208,19 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 
 退休跨境安排另记录福利类别、个人缴费记录、预计领取资格、境外支付与税务问题；不从居留身份或余额推断待遇。税款到账与申报对账见[第32章](32-年度Household-Review.md)。
 
-**记录参考：** [IRS：Recordkeeping](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping) · [SSA：my Social Security](https://www.ssa.gov/myaccount/)。跨境退休待遇和税务仍按具体计划、身份与协定核对。
+**记录参考：** [IRS：Recordkeeping](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping) · [社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/)。跨境退休待遇和税务仍按具体计划、身份与协定核对。
 
 ## 25. 停留模式改变就重看结论
 
 从短期探访变为反复远程工作、长期居住或迁居，都应更新事实与顾问意见。去年结论依赖的假设改变后，不能只替换年份继续使用。
 
-**重新核对入口：** [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [IRS State Government Websites](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [国家税务总局](https://www.chinatax.gov.cn/)。
+**重新核对入口：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [国家税务总局](https://www.chinatax.gov.cn/)。
 
 ## 26. 改变税务或移民身份前协同咨询
 
 税收协定居民主张、放弃长期身份或长期出境可能涉及不同体系的后果。先由税务与移民专业人士共同核对，而不是只计算当年税款。
 
-**两套入口：** [IRS：U.S. Tax Treaties](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z) · [USCIS：Green Card / International Travel](https://www.uscis.gov/green-card/after-we-grant-your-green-card/international-travel-as-a-permanent-resident)。具体 treaty position 或移民后果需分别由合适专业人士判断。
+**两套入口：** [IRS：U.S. Tax Treaties](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z) · [USCIS：永久居民国际旅行](https://www.uscis.gov/green-card/after-we-grant-your-green-card/international-travel-as-a-permanent-resident)。具体 treaty position 或移民后果需分别由合适专业人士判断。
 
 ## 27. 规划建立在真实事实之上
 
@@ -232,7 +232,7 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 
 境外实际工作、长期或反复停留、海外投资与企业、房产交易、大额赠与或继承、信托、夫妻税务身份不同及同年跨州跨国迁居。无需等待达到某个笼统“几个月”才首次询问。
 
-**本项目实务建议：** 这些事项共同特点是会同时触发 source / residency / reporting / entity 或 timing 问题；可从 [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)和[第27章的专业人士核验入口](27-律师CPA医生保险经纪怎么找.md)开始。
+**本项目实务建议：** 这些事项共同特点是会同时触发 source / residency / reporting / entity 或 timing 问题；可从 [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)和[第27章的专业人士核验入口](27-律师CPA医生保险经纪怎么找.md)开始。
 
 ## 29. 最小执行集
 
@@ -242,7 +242,7 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 - [ ] 雇主批准与个人税务分析分别完成。
 - [ ] 税款入账、申报与抵免可对账，未决事项有负责人。
 
-**核验入口汇总：** [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [国家税务总局](https://www.chinatax.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/)。
+**核验入口汇总：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [国家税务总局](https://www.chinatax.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/)。
 
 ## 30. 把结论写成有条件的结论
 

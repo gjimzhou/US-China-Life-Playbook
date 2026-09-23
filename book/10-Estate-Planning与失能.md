@@ -17,7 +17,7 @@
 
 表格仅解释分工，不能替代各州定义，也不表示每个人都必须建立信托。
 
-**入门：** [National Institute on Aging：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [ABA：Find Legal Help](https://www.americanbar.org/groups/legal_services/flh-home/)。州法决定遗嘱、POA、见证、公证和 probate 的具体要求。
+**入门：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/)。州法决定遗嘱、POA、见证、公证和遗产认证程序的具体要求。
 
 ## 2. 医疗代理先选人，再讨论文件
 
@@ -27,7 +27,7 @@
 
 医疗代理的作用是当你不能作决定时，在适用范围内代表你。
 
-**继续看：** [NIH / NIA：Choosing a Health Care Proxy](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy) · [NIA：Advance Care Planning and Advance Directives](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care) · [MedlinePlus：Advance Directives](https://medlineplus.gov/advancedirectives.html)。
+**继续看：** [NIH / NIA：选择医疗代理人](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy) · [NIA：预先照护规划沟通指南](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care) · [美国国家医学图书馆健康资料（MedlinePlus）](https://medlineplus.gov/advancedirectives.html)。
 
 ## 3. 医疗意愿与代理安排相互补充
 
@@ -35,7 +35,7 @@
 
 普通预先指示是否需要另外的临床医嘱才能在急救现场执行，应向医生确认，不能自行把它等同于任何形式的不施行心肺复苏医嘱。
 
-**继续看：** [NIA：Preparing a Living Will](https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will) · [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)。具体州表格、见证及医疗指令体系从本州卫生部门、州法律援助或州律师协会核对。
+**继续看：** [NIA：准备生前医疗意愿书](https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will) · [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)。具体州表格、见证及医疗指令体系从本州卫生部门、州法律援助或州律师协会核对。
 
 ## 4. 不假设配偶或伴侣必然拥有全部权限
 
@@ -43,7 +43,7 @@
 
 未婚伴侣、重组家庭或存在冲突时，尤其需要明确授权和沟通路径。
 
-**找本州法律入口：** [ABA：State and Local Bar Associations / Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。不要用其他州下载的表格直接替代本州要求。
+**找本州法律入口：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。不要用其他州下载的表格直接替代本州要求。
 
 ## 5. 财务授权须同时考虑便利与滥用风险
 
@@ -51,16 +51,16 @@
 
 特别讨论赠与、资产转移和受益人变更是否允许，是否要求向另一位可信赖的人定期报告。不要为方便而授予超出本意的权限，也不把共享密码当成合法授权。
 
-**还要列出“机构自己的代理制度”。** 一份州法下有效的 financial POA 并不自动让 agent 有权处理所有联邦福利或机构账户。例如 Social Security Administration 明确规定：
+**还要列出“机构自己的代理制度”。** 一份州法下有效的财务授权委托书并不自动让代理人有权处理所有联邦福利或机构账户。例如美国社会安全局明确规定：
 
-- ordinary power of attorney、authorized representative 或与 beneficiary 的 joint bank account，**都不等于 SSA representative payee**；
-- 当 SSA 认定 beneficiary 无法管理或指导他人管理 Social Security / SSI payments 时，想代为接收和管理 benefits 的个人或机构必须向 SSA 申请，并由 SSA 正式 appoint 为 representative payee；
-- representative payee 的权限反过来也只针对 Social Security / SSI benefits，不自动授权处理 beneficiary 的其他银行、投资、税务或医疗事项；
-- 有行为能力的 Social Security / SSI / Special Veterans Benefits applicant 或 beneficiary，可以提前 **advance designate 最多 3 名**未来可能担任 representative payee 的人。SSA 将来需要 appoint payee 时会优先考虑这些人，但 designation 本身不是 appointment，也不是 POA。
+- 普通授权委托书、获授权代表或与受益人的联名银行账户，**都不等于 SSA 福利款项代表收款人**；
+- 当 SSA 认定受益人无法管理或指导他人管理社会安全福利 / 补充保障收入（SSI）款项时，想代为接收和管理福利款项的个人或机构必须向 SSA 申请，并由 SSA 正式任命为福利款项代表收款人；
+- 福利款项代表收款人的权限反过来也只针对社会安全福利 / SSI 福利款项，不自动授权处理受益人的其他银行、投资、税务或医疗事项；
+- 有行为能力的社会安全福利 / SSI / 特别退伍军人福利申请人或受益人，可以提前 **预先指定最多 3 名**未来可能担任福利款项代表收款人的人。SSA 将来需要正式任命代表收款人时会优先考虑这些人，但预先指定本身不是正式任命，也不是 POA。
 
-这说明 estate / incapacity planning 应做一张“authority map”：银行 / 券商看 POA 与账户规则，医疗看 health-care proxy / advance directive，SSA 看 representative payee，税务代理看 IRS 自己的授权制度。不要只把一份 durable POA 放进保险柜就认为全部机构都已解决。
+这说明遗产与失能规划应做一张“权限清单”：银行 / 券商看 POA 与账户规则，医疗看医疗代理 / 预先医疗指示，SSA 看福利款项代表收款人，税务代理看 IRS 自己的授权制度。不要只把一份持续有效授权委托书放进保险柜就认为全部机构都已解决。
 
-**继续看：** [CFPB：What is a Power of Attorney?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [CFPB：Managing Someone Else’s Money — POA / trustee / guardian guides](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [SSA：Representative Payee FAQs — POA is not payee authority](https://www.ssa.gov/payee/faqrep.htm) · [SSA：Advance Designation of Representative Payee](https://www.ssa.gov/payee/advance_designation.htm) · [CFPB：What is a fiduciary?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-fiduciary-en-1769/)。
+**继续看：** [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [SSA：代表收款人常见问题](https://www.ssa.gov/payee/faqrep.htm) · [SSA：预先指定未来代表收款人](https://www.ssa.gov/payee/advance_designation.htm) · [CFPB：受信义务是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-fiduciary-en-1769/)。
 
 ## 6. 遗嘱不能单独代表全部资产安排
 
@@ -68,7 +68,7 @@
 
 不要假设更新遗嘱自动更新每个金融机构记录。死亡后代理、执行人和受托人的权限也需要分别确认，见[第 35 章](35-死亡后的实际操作与Estate-Administration.md)。
 
-**实务入口：** 退休计划受益人先查雇主 / plan administrator；保险受益人查 insurer；银行 / 券商的 POD、TOD、joint ownership 规则查对应机构正式文件。无法确认州法效果时，从 [ABA 法律帮助入口](https://www.americanbar.org/groups/legal_services/flh-home/)找本州 estate-planning counsel。
+**实务入口：** 退休计划受益人先查雇主 / 计划管理人；保险受益人查保险公司；银行 / 券商的 POD、TOD、共同持有规则查对应机构正式文件。无法确认州法效果时，从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/)找本州遗产规划律师。
 
 ## 7. 受益人记录直接向机构核实
 
@@ -76,13 +76,13 @@
 
 涉及配偶权利、未成年人、信托或跨境受益人时，让律师与计划管理方协同确认，不机械填入同一套姓名。
 
-**退休计划继续看：** [U.S. Department of Labor：Retirement Plans, Benefits and Savings](https://www.dol.gov/general/topic/retirement) · [DOL EBSA：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。具体 beneficiary form 与配偶同意要求以计划文件为准。
+**退休计划继续看：** [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。具体受益人表格与配偶同意要求以计划文件为准。
 
 ## 8. 婚姻变化触发一次共同复查
 
 一起核对医疗代理、财务授权、遗嘱、受益人、保险、账户所有权、雇主福利、紧急联系和相关协议义务。双方分别理解后再签署，不以“家庭统一管理”为由取消另一方的知情与自主。
 
-**复查入口：** [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [DOL：Retirement Plans](https://www.dol.gov/general/topic/retirement)。婚姻对州法文件的具体影响仍由本州律师确认。
+**复查入口：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement)。婚姻对州法文件的具体影响仍由本州律师确认。
 
 ## 9. 律师委托范围要写明
 
@@ -90,7 +90,7 @@
 
 跨境或复杂税务不应默认包含在基础遗嘱套餐中。
 
-**找律师：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。委托前明确 estate planning、tax、cross-border coordination 是否分别计费。
+**找律师：** [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。委托前明确遗产规划、税务、跨境协调是否分别计费。
 
 ## 10. 签署以后还有实施步骤
 
@@ -98,7 +98,7 @@
 
 做一张实施清单，逐项记录完成凭证；未执行的安排不能仅因文件已签就视为可用。
 
-**代理人实际接手时：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)提供 POA、trustee、court-appointed guardian 等不同角色的操作指南。
+**代理人实际接手时：** [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)提供 POA、信托受托人、法院任命的监护人等不同角色的操作指南。
 
 ## 11. 与代理人讨论真实价值取舍
 
@@ -106,13 +106,13 @@
 
 意愿变化时及时更新讨论和适当文件，不让代理人根据多年以前的闲聊猜测。
 
-**对话工具：** [NIA：Advance Care Planning — Conversation Guide](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care)。其重点是先谈价值取舍，再把需要的决定写入适用文件。
+**对话工具：** [NIA：预先照护规划沟通指南](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care)。其重点是先谈价值取舍，再把需要的决定写入适用文件。
 
 ## 12. 定期及重大变化后复查
 
 年度复查可作为提醒；搬州、婚姻变化、重大诊断、代理人关系或能力变化、资产变化时提前复查。更新后询问旧文件如何处理并通知相关机构，防止同时流通互相冲突版本。
 
-**继续看：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)建议持续复查并把最新版本提供给代理人、医疗人员和相关家人；法律文件的撤销与替换方式仍按本州规则执行。
+**继续看：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)建议持续复查并把最新版本提供给代理人、医疗人员和相关家人；法律文件的撤销与替换方式仍按本州规则执行。
 
 ## 13. 紧急时能找到文件
 
@@ -120,7 +120,7 @@
 
 医疗团队需要什么格式、是否已入档，应实际确认。
 
-**医疗文件入口：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning)。完成后直接问 PCP / health system 是否能把 advance directive 或 proxy document 上传到病历。
+**医疗文件入口：** [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)。完成后直接问 PCP / 医疗系统是否能把预先医疗指示或代理文件上传到病历。
 
 ## 14. 跨境安排单独设计
 
@@ -128,7 +128,7 @@
 
 证明文件来源真实性与认可其法律效果是不同问题，详见[第 19 章](19-文件公证Apostille与跨境授权.md)。
 
-**跨境文件入口：** [HCCH：Apostille Convention](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department：Authenticate Your Document](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
+**跨境文件入口：** [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
 
 ## 15. 父母也有自己的意愿与授权安排
 
@@ -136,7 +136,7 @@
 
 照护安排见[第 20 章](20-父母养老与远程照护.md)。
 
-**美国侧参考：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。中国侧授权和受理仍按父母实际所在地与具体机构核对。
+**美国侧参考：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。中国侧授权和受理仍按父母实际所在地与具体机构核对。
 
 ## 16. 数字资产与账户恢复一并准备
 
@@ -144,23 +144,23 @@
 
 实际密码和恢复资料私下保护。技术上能登录不等于法律上有权操作，安排中应同时讨论权限与证据。
 
-**平台入口示例：** [Apple：Legacy Contact](https://support.apple.com/en-us/102631) · [Google：Inactive Account Manager](https://support.google.com/accounts/answer/3036546)。这些只是平台级工具，不替代遗嘱、POA、trust 或适用法律。
+**平台入口示例：** [Apple：遗产联系人](https://support.apple.com/en-us/102631) · [Google：闲置账户管理工具](https://support.google.com/accounts/answer/3036546)。这些只是平台级工具，不替代遗嘱、POA、信托或适用法律。
 
 ## 17. 税务是其中一部分
 
 向专业人士说明公民身份、税务身份、财产所在地及受益人情况，再判断联邦、州及跨境遗产或赠与规则。不以单一联邦免税额推断所有义务，也不为了税务优化延误基本授权与照护准备。
 
-**2026 联邦 snapshot：**
+**2026 联邦规则概览：**
 
-- 对 2026 年死亡的 U.S. citizen / resident decedent，联邦 estate-and-gift **basic exclusion amount 为 $15,000,000**。这不是“账户余额低于 $15m 就什么都不用做”的家庭规划线；Form 706 filing、portability、州 estate / inheritance tax、非居民非公民、外国资产与 GST 等都有独立规则。
-- 2026 gift-tax **annual exclusion 为 $19,000 per donee per donor**，适用于符合条件的 present-interest gifts。夫妻双方分别作为 donor 时，每人各有自己的 annual exclusion；是否 gift-splitting、是否需要 Form 709 仍另外判断。
-- **超过 $19,000 annual exclusion 不等于立刻产生 gift tax bill。** 超出部分通常先进入 taxable-gift / lifetime-exclusion 计算，并可能触发 Form 709 reporting；future-interest gifts 等即使金额不大，也可能没有 annual exclusion。
-- 2026 向 **non-U.S.-citizen spouse** 的 qualifying gifts 有单独的 annual exclusion，IRS 当前公布为 **$194,000**。不要把对 U.S.-citizen spouse 的 marital-deduction 经验直接套到 noncitizen spouse。
-- 这些都是 2026 federal numbers；2027 以后应重新打开 IRS current-year instructions / inflation-adjustment page，不把本章数字永久沿用。
+- 对 2026 年死亡的美国公民 / 居民被继承人，联邦遗产与赠与 **基本免税额度为 $15,000,000**。这不是“账户余额低于 $15m 就什么都不用做”的家庭规划线；遗产税表（Form 706）申报、配偶间未用免税额转移、州遗产 / 继承税、非居民非公民、外国资产与 GST 等都有独立规则。
+- 2026 赠与税 **年度免计入额度为 $19,000 每位赠与人向每位受赠人**，适用于符合条件的现时权益赠与。夫妻双方分别作为赠与人时，每人各有自己的年度免计入额度；是否夫妻分摊赠与、是否需要 Form 709 仍另外判断。
+- **超过 $19,000 年度免计入额度不等于立刻产生赠与税账单。** 超出部分通常先进入应税赠与 / 终身免税额度计算，并可能触发赠与税表（Form 709）申报；未来权益赠与等即使金额不大，也可能没有年度免计入额度。
+- 2026 向 **非美国公民配偶** 的符合条件的赠与有单独的年度免计入额度，IRS 当前公布为 **$194,000**。不要把对美国公民配偶的配偶扣除经验直接套到非公民配偶。
+- 这些都是 2026 联邦数额；2027 以后应重新打开 IRS 当年说明 / 通胀调整页面，不把本章数字永久沿用。
 
-本章仍不推荐特定信托税务策略。是否需要 lifetime gifting、QTIP / QDOT、GST planning 或跨境结构，取决于身份、资产、家庭目标和州法。
+本章仍不推荐特定信托税务策略。是否需要生前赠与、QTIP / QDOT、隔代转移税（GST）规划或跨境结构，取决于身份、资产、家庭目标和州法。
 
-**税务入口：** [IRS：What’s New — Estate and Gift Tax](https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax) · [IRS：Frequently Asked Questions on Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Frequently Asked Questions on Estate Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes) · [IRS：Form 706](https://www.irs.gov/forms-pubs/about-form-706) · [IRS：Form 709](https://www.irs.gov/forms-pubs/about-form-709)。州遗产 / 继承税和跨境规则仍应按实施年度单独核对。
+**税务入口：** [IRS：遗产与赠与税更新](https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax) · [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：遗产税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes) · [IRS：遗产税申报表（Form 706）](https://www.irs.gov/forms-pubs/about-form-706) · [IRS：赠与税申报表（Form 709）](https://www.irs.gov/forms-pubs/about-form-709)。州遗产 / 继承税和跨境规则仍应按实施年度单独核对。
 
 ## 18. 实施清单与核验范围
 
@@ -171,6 +171,6 @@
 - [ ] 原件、副本和数字资料可由适当人员取得。
 - [ ] 跨境受理和重大变化后的复查有负责人。
 
-**入口汇总：** [NIA Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL Retirement Plans](https://www.dol.gov/general/topic/retirement) · [IRS Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+**入口汇总：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [美国国税局：遗产与赠与税](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 estate / gift tax：basic exclusion amount 为 $15,000,000；annual gift exclusion 为 $19,000 per donee；qualifying gifts to a non-U.S.-citizen spouse 的 2026 annual exclusion 为 $194,000，并明确“超过 annual exclusion ≠ 立即产生 gift-tax bill”。同时补核 SSA representative-payee制度：ordinary POA / authorized representative / joint account 不等于 SSA payee authority；beneficiary 可 advance designate 最多 3 名未来候选 payee，但仍由 SSA 决定是否 appoint。另核对 NIH / NIA advance-care-planning、CFPB POA / fiduciary / Managing Someone Else’s Money、DOL retirement-benefit 及州律师 / 数字遗产入口。遗嘱、POA、见证、公证、受益人、probate、trust、州 estate / inheritance tax 和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
+最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 遗产 / 赠与税：基本免税额度为 $15,000,000；年度赠与免计入额度为 $19,000 每位受赠人；符合条件的赠与向非美国公民配偶的 2026 年度免计入额度为 $194,000，并明确“超过年度免计入额度 ≠ 立即产生赠与税账单”。同时补核 SSA 代表收款人制度：普通授权委托书 / 获授权代表 / 联名账户不等于 SSA 代表收款权限；受益人可预先指定最多 3 名未来候选代表收款人，但仍由 SSA 决定是否正式任命。另核对 NIH / NIA 预先照护规划、CFPB POA / 受信义务 / 代他人管理财务、DOL 退休福利及州律师 / 数字遗产入口。遗嘱、POA、见证、公证、受益人、遗产认证程序、信托、州遗产 / 继承税和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。

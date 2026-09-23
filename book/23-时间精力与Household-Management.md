@@ -8,13 +8,13 @@
 
 **实务参考：** Ready.gov 强调把家庭联络、集合地点和紧急信息事先写清；[CFPB：Your Money, Your Goals Toolkit](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/)提供 bill calendar、goal-setting、cash-flow 等可直接复用的简单工具。
 
-**应急资料模板：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [FEMA：Emergency Financial First Aid Kit](https://www.ready.gov/financial-preparedness)。本章的日常管理框架不要求采用某个特定 app。
+**应急资料模板：** [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · [FEMA：紧急财务资料包](https://www.ready.gov/financial-preparedness)。本章的日常管理框架不要求采用某个特定 app。
 
 ## 2. 每项事务明确协调人
 
 注明负责跟进的人、期限、当前状态和备用人。“我们都记得”不能代替明确分工。共同决定的事项仍可由双方讨论，由一人负责把下一步落实。
 
-**实务参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan)用联系人、集合地点和备用通信方案把“大家都知道”变成具体信息。本节把同一原则延伸到普通家庭事务，属于编辑性工作流建议。
+**实务参考：** [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)用联系人、集合地点和备用通信方案把“大家都知道”变成具体信息。本节把同一原则延伸到普通家庭事务，属于编辑性工作流建议。
 
 ## 3. 协调不等于全部亲自做
 
@@ -44,25 +44,25 @@
 
 定期查看扣款、异常费用和失败通知。更换银行卡、设备或联系方式后检查关联设置，确认自动流程仍有效。
 
-**金融检查入口：** [CFPB：Your Money, Your Goals — Paying Bills](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/) · [CFPB：Submit a Complaint](https://www.consumerfinance.gov/complaint/)；发现未经授权交易则按第 16 章的银行 / 卡片争议入口立即处理。
+**金融检查入口：** [CFPB：Your Money, Your Goals — Paying Bills](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/) · [CFPB：提交消费者投诉](https://www.consumerfinance.gov/complaint/)；发现未经授权交易则按第 16 章的银行 / 卡片争议入口立即处理。
 
 ## 8. 资料索引按用途组织
 
 可分为身份、法律、税务、保险、医疗、住宅、车辆、宠物、工作、父母及跨境资料。索引说明原件位置、负责人和访问方式，不要求所有原件堆在同一个地方。
 
-**整理参考：** [FEMA：Emergency Financial First Aid Kit](https://www.ready.gov/financial-preparedness) · [NIA：Getting Your Affairs in Order](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。本书的分类是实务索引，不要求采用相同文件夹结构。
+**整理参考：** [FEMA：紧急财务资料包](https://www.ready.gov/financial-preparedness) · [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。本书的分类是实务索引，不要求采用相同文件夹结构。
 
 ## 9. 凭据与普通文档区别管理
 
 密码、恢复码和密钥放在适当的受保护系统。共享说明只描述入口及授权流程，不把全部秘密写进一份所有人可见的文件。
 
-**数字安全入口：** [CISA：Use Strong Passwords](https://www.cisa.gov/secure-our-world/use-strong-passwords) · [CISA：Turn On MFA](https://www.cisa.gov/secure-our-world/turn-mfa)。账户恢复、信用冻结和设备遗失见第 15 章。
+**数字安全入口：** [CISA：使用强密码](https://www.cisa.gov/secure-our-world/use-strong-passwords) · [CISA：启用多因素认证](https://www.cisa.gov/secure-our-world/turn-mfa)。账户恢复、信用冻结和设备遗失见第 15 章。
 
 ## 10. 低频事件写简短操作单
 
 事故、手机遗失、漏水、住院、身份盗用或失业时，先写紧急联系、立即动作和资料位置。使用[第 30 章](30-Household-Emergency-Runbook.md)及对应清单，并按实际情况填私人副本。
 
-**外部模板 / 事件入口：** [Ready.gov：Make a Plan](https://www.ready.gov/plan) · [Ready.gov：Build a Kit](https://www.ready.gov/kit) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [Poison Control](https://www.poison.org/)。不同事件仍按对应章节处理。
+**外部模板 / 事件入口：** [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · [Ready.gov：Build a Kit](https://www.ready.gov/kit) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [中毒咨询中心（Poison Control）](https://www.poison.org/)。不同事件仍按对应章节处理。
 
 ## 11. 复查频率可轻可重
 
@@ -74,19 +74,19 @@
 
 报销、购物和一般预约可集中到固定时段，减少反复打断。但医疗急症、法律期限和可疑资金交易不能为了“统一处理”而等待。
 
-**边界参考：** 紧急医疗见第 03 章；金融争议见 [CFPB Complaint](https://www.consumerfinance.gov/complaint/) 与第 16 章；税务 / 法律期限以正式 notice 和主管机关为准。集中处理只是低风险事务的编辑性工作流。
+**边界参考：** 紧急医疗见第 03 章；金融争议见 [CFPB：提交消费者投诉](https://www.consumerfinance.gov/complaint/) 与第 16 章；税务 / 法律期限以正式 notice 和主管机关为准。集中处理只是低风险事务的编辑性工作流。
 
 ## 13. 外包前明确要买到什么
 
 清洁、税务、维修和照护可考虑专业服务。比较范围、能力、总费用、沟通成本和隐私，而不只是“自己能不能做”。
 
-**查资格入口：** 税务可从 [IRS：Choosing a Tax Professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) 开始；装修维修看 [FTC：How To Avoid a Home Improvement Scam](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)；老人照护可从 [Eldercare Locator](https://eldercare.acl.gov/)寻找本地资源；其他专业人士见[第 27 章](27-律师CPA医生保险经纪怎么找.md)。
+**查资格入口：** 税务可从 [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) 开始；装修维修看 [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)；老人照护可从 [老年照护服务查询（Eldercare Locator）](https://eldercare.acl.gov/)寻找本地资源；其他专业人士见[第 27 章](27-律师CPA医生保险经纪怎么找.md)。
 
 ## 14. 使用服务也要看交付
 
 确认完成标准、期限、费用、资料去向和失败后的处理。请人报税后仍要确认申报回执，请人维修后仍需验收约定工作；不必事事监督操作细节，但要知道结果。
 
-**实务入口：** 税务可在 [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) / transcript 核对；承包商验收与书面合同见 [FTC Home Improvement](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。
+**实务入口：** 税务可在 [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) / transcript 核对；承包商验收与书面合同见 [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam)。
 
 ## 15. 关键事务有可接手的人
 
@@ -94,13 +94,13 @@
 
 接手安排须尊重法律权限与隐私，不能把共享登录当成完整授权。
 
-**权限参考：** [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [HHS：Personal Representatives](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html) · [NIA：Choosing a Health Care Proxy](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy)。
+**权限参考：** [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html) · [NIH / NIA：选择医疗代理人](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy)。
 
 ## 16. 出门前使用固定清单
 
 检查药物、证件、通信、支付、住宅、邮件和宠物。按旅行性质调整，不用每次重新从空白开始。跨境准备见[旅行清单](../checklists/international-travel.md)。
 
-**旅行入口：** [美国国务院：International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC：Travelers’ Health](https://wwwnc.cdc.gov/travel/)；其他国籍与目的地再查相应政府。
+**旅行入口：** [美国国务院：International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC：旅行健康](https://wwwnc.cdc.gov/travel/)；其他国籍与目的地再查相应政府。
 
 ## 17. 共同日历只放需要共同知道的事
 
@@ -112,7 +112,7 @@
 
 清理不用的订阅、重复表格和长期不合适的服务。取消前检查合同、资料迁移与替代路径，不为追求简洁制造新的中断。
 
-**消费者参考：** [FTC：Free Trials, Auto-Renewals and Negative Option Subscriptions](https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions)。其他服务仍以各自合同和数据导出要求为准。
+**消费者参考：** [FTC：免费试用与自动续订](https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions)。其他服务仍以各自合同和数据导出要求为准。
 
 ## 19. 购买时计算持续管理成本
 
@@ -130,25 +130,25 @@
 
 医疗、财务、到场接应与信息更新可分别负责。兄弟姐妹多人不等于自然有人接手，详见[第 20 章](20-父母养老与远程照护.md)。
 
-**照护工具：** [NIA：Caregiving Toolkit](https://www.nia.nih.gov/toolkits/caregiving) · [Eldercare Locator](https://eldercare.acl.gov/)。
+**照护工具：** [NIA：照护工具包](https://www.nia.nih.gov/toolkits/caregiving) · [老年照护服务查询（Eldercare Locator）](https://eldercare.acl.gov/)。
 
 ## 22. 重大决定保留简短记录
 
 保险变更、治疗选择、住房、学校或跨境迁移，可记录决定、依据、尚存不确定性及何时重新考虑。敏感信息控制访问，不把它变成家庭成员互相追责的账本。
 
-**本项目方法论：** decision log 只保存“事实、依据、未决点、复查触发”，不用于给家庭成员打分；敏感资料保护参考 [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。
+**本项目方法论：** decision log 只保存“事实、依据、未决点、复查触发”，不用于给家庭成员打分；敏感资料保护参考 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 23. 年度复查不能替代更频繁维护
 
 证件、受益人和整体保障可纳入年度检查；烟雾或一氧化碳报警器测试、账单核对及其他维护，仍按设备说明和实际需要执行。不要因为列进年度清单就一年只做一次。
 
-**安全维护：** [USFA：Smoke Alarms](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/)。
+**安全维护：** [USFA：烟雾报警器](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [USFA：一氧化碳安全](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/)。
 
 ## 24. 重大变化后额外复查
 
 婚姻、子女、搬家、工作、诊断、父母能力变化和长期境外停留，都可能让原安排失效。优先查受影响的部分，不必每次重做全部系统。
 
-**事件触发参考：** [Ready.gov：Make a Plan](https://www.ready.gov/plan)强调计划需要随家庭、地点与需求变化更新；税务、福利、保险与移民的具体 trigger 则见本书对应章节。
+**事件触发参考：** [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)强调计划需要随家庭、地点与需求变化更新；税务、福利、保险与移民的具体 trigger 则见本书对应章节。
 
 ## 25. 最小执行集与审阅范围
 
@@ -158,6 +158,6 @@
 - [ ] 自动化有结果检查，维护按适当频率执行。
 - [ ] 分工、工具和服务会根据负担与需要调整。
 
-**入口汇总：** [Ready.gov](https://www.ready.gov/) · [CISA Secure Our World](https://www.cisa.gov/secure-our-world) · [CFPB Your Money, Your Goals](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/) · [NIA Caregiving](https://www.nia.nih.gov/health/caregiving)。
+**入口汇总：** [美国灾害应急准备资料（Ready.gov）](https://www.ready.gov/) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [CFPB Your Money, Your Goals](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/) · [NIA：照护安排](https://www.nia.nih.gov/health/caregiving)。
 
 最后编辑与来源核验：2026-09-21。本章仍明确属于家庭协作与 operating-system 建议，不把工具、会议频率或分工模式包装成科学定论；仅在应急、数字安全、专业服务、代理权限、旅行与消防安全等可执行环节补入 Ready.gov、CISA、FTC、IRS、CFPB、HHS、国务院、CDC 与 USFA 入口。

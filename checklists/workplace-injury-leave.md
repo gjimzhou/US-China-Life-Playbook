@@ -20,7 +20,7 @@
 - [ ] 保存工伤报告、医疗记录、工作限制、理赔通信。
 - [ ] 理赔被拒时不要只和主管口头争论；查州机构的申诉／听证路径和期限。
 
-**官方入口：** [美国政府服务网：工伤补偿（Workers’ Compensation）](https://www.usa.gov/workers-compensation) · [美国劳工部：州工伤补偿主管机构](https://www.dol.gov/agencies/owcp/wc)。
+**官方入口：** [美国政府服务网：工伤补偿（Workers’ Compensation）](https://www.usa.gov/workers-compensation) · [州工伤补偿主管部门](https://www.dol.gov/agencies/owcp/wc)。
 
 ## 工伤补偿、家庭与医疗假、残障合理便利与短期伤残保障可能同时存在
 

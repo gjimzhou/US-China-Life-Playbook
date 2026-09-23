@@ -20,12 +20,12 @@
 
 优先写成能一眼看懂用途的链接：
 
-> **继续看：** [IRS 官方：2026 Publication 505 — Tax Withholding and Estimated Tax](https://www.irs.gov/publications/p505) · [IRS 工具：Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator)
+> **继续看：** [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator)
 
 或：
 
 > **办事入口：** [FinCEN：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)  
-> **规则说明：** [FinCEN：谁需要申报 FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)
+> **规则说明：** [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)
 
 链接文字要告诉读者“点进去能干什么”，不要只写“来源 1 / 来源 2”。
 

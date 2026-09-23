@@ -8,7 +8,7 @@
 
 多数适用事由在 12 个月期间最多 12 个工作周，军人照护有特定的 26 周安排。资格、事由、通知及证明应结合本人情况确认。
 
-**继续看 / 自查资格：** [DOL：FMLA Fact Sheet #28](https://www.dol.gov/agencies/whd/fact-sheets/28-fmla) · [DOL：Am I Eligible for FMLA Leave?](https://www.dol.gov/agencies/whd/fmla/am-i-eligible-FMLA-leave) · [DOL：FMLA FAQ](https://www.dol.gov/agencies/whd/fmla/faq)。远程员工不要仅按住宅位置自行推算资格。
+**继续看 / 自查资格：** [DOL：FMLA Fact Sheet #28](https://www.dol.gov/agencies/whd/fact-sheets/28-fmla) · [DOL：家庭与医疗休假资格](https://www.dol.gov/agencies/whd/fmla/am-i-eligible-FMLA-leave) · [DOL：FMLA FAQ](https://www.dol.gov/agencies/whd/fmla/faq)。远程员工不要仅按住宅位置自行推算资格。
 
 ## 2. 岗位保护、工资与医保是三件事
 
@@ -24,7 +24,7 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 询问适用州、申请方、通知时间、需要的证明，以及各制度是否同时计时。本章不把某州待遇推广到全国。
 
-**州规则入口：** [DOL：State Labor Offices](https://www.dol.gov/agencies/whd/state/contacts) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。州 paid family leave、temporary disability 与 sick leave 应从本人工作地主管机关进入。
+**州规则入口：** [州劳动部门](https://www.dol.gov/agencies/whd/state/contacts) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。州 paid family leave、temporary disability 与 sick leave 应从本人工作地主管机关进入。
 
 ## 4. 短期失能给付不自动等于岗位保护
 
@@ -32,7 +32,7 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 向管理员确认给付认定、等待期、复核材料和返岗要求，不能只拿到保险批准就停止与雇主沟通。
 
-**雇主福利程序：** [DOL EBSA：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa) · [DOL：Filing a Claim for Your Health Benefits](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/filing-a-claim-for-your-health-benefits)。失能计划的 claim / appeal 期限以实际 SPD 和 policy 为准。
+**雇主福利程序：** [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa) · [DOL EBSA：医保理赔与申诉](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/filing-a-claim-for-your-health-benefits)。失能计划的 claim / appeal 期限以实际 SPD 和 policy 为准。
 
 ## 5. 长期失能保障核对实际金额
 
@@ -40,7 +40,7 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 同时确认税务处理和离职后能否继续。一个百分比不能说明家庭实际能收到多少。
 
-**先找文件：** 向 plan administrator 索取 Summary Plan Description（SPD）和 LTD certificate / policy；对 ERISA-covered benefits 的一般帮助可联系 [DOL EBSA](https://www.dol.gov/agencies/ebsa)。
+**先找文件：** 向 plan administrator 索取 Summary Plan Description（SPD）和 LTD certificate / policy；对 ERISA-covered benefits 的一般帮助可联系 [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa)。
 
 ## 6. 失去工作医保时立即比较衔接方案
 
@@ -48,7 +48,7 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 同时比较配偶计划、保险市场和新雇主计划的资格、网络、保费、生效日及自付累计，避免只看月费。
 
-**继续看：** [DOL：COBRA FAQ for Workers](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL：An Employee’s Guide to Health Benefits Under COBRA](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employees-guide-to-health-benefits-under-cobra) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)。
+**继续看：** [DOL：雇员医保延续保障常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL：An Employee’s Guide to Health Benefits Under COBRA](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employees-guide-to-health-benefits-under-cobra) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)。
 
 ## 7. 续保的选择和付款分别有期限
 
@@ -56,7 +56,7 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 费用可能包括原先雇主承担的份额，常规 COBRA premium 最高通常可达同类在职覆盖总成本的 102%；特定 disability extension 有另外规则。不要用原工资单上自己支付的金额估算续保预算，也不要假定停止 COBRA 就随时获得其他计划的特别参保机会。
 
-**期限核对：** [DOL：COBRA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [HealthCare.gov：Job-based coverage loss and SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)。
+**期限核对：** [DOL：雇员医保延续保障常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/)。
 
 ## 8. 换工作要迁移福利记录
 
@@ -64,7 +64,7 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 不同项目由不同管理员处理，不能把离职手续签完当成全部迁移已完成。
 
-**福利问题总入口：** [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [DOL：Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。医疗、退休、life / disability 可能分别由不同 administrator 管理。
+**福利问题总入口：** [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。医疗、退休、life / disability 可能分别由不同 administrator 管理。
 
 ## 9. 健康储蓄账户与灵活支出账户分清
 
@@ -76,7 +76,7 @@ FMLA 本身通常为无薪假，可与雇主带薪假同时使用；适用时有
 
 2026 年开始的计划年度，医疗 FSA 员工工资减额供款上限为 3,400 美元。
 
-**继续看：** [IRS Rev. Proc. 2025-19 — 2026 HSA / HDHP inflation-adjusted amounts](https://www.irs.gov/irb/2025-21_IRB) · [IRS Publication 15-B (2026)](https://www.irs.gov/publications/p15b) · [IRS Publication 969 — HSA / FSA / HRA](https://www.irs.gov/publications/p969) · [IRS Form 8889](https://www.irs.gov/forms-pubs/about-form-8889)。资格月份、追加供款和特殊规则另行核对，账户有余额不等于当年仍可继续供款。
+**继续看：** [IRS Rev. Proc. 2025-19 — 2026 HSA / HDHP inflation-adjusted amounts](https://www.irs.gov/irb/2025-21_IRB) · [雇主附加福利税务指南（2026年，IRS Publication 15-B）](https://www.irs.gov/publications/p15b) · [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969) · [IRS Form 8889](https://www.irs.gov/forms-pubs/about-form-8889)。资格月份、追加供款和特殊规则另行核对，账户有余额不等于当年仍可继续供款。
 
 ## 10. 报销截止与发生费用截止分开
 
@@ -84,7 +84,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 查计划摘要（Summary Plan Description，SPD），不要看到余额还在界面上就认为仍能用于新费用。
 
-**税务解释：** [IRS Publication 969](https://www.irs.gov/publications/p969)介绍 health FSA carryover / grace period 的联邦税务框架；是否采用 carryover、grace period、run-out period 和离职后报销仍以本人 plan document 为准。
+**税务解释：** [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969)介绍 health FSA carryover / grace period 的联邦税务框架；是否采用 carryover、grace period、run-out period 和离职后报销仍以本人 plan document 为准。
 
 ## 11. 退休账户转移先比较后操作
 
@@ -100,7 +100,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 不要为了尽快“清空旧账户”贸然 cash out。涉及 after-tax basis、Roth conversion、mega-backdoor after-tax money、employer stock / NUA、plan loan offset 或多个 IRA basis 时，先让 plan administrator / tax professional 给出书面 mapping，再移动资金。
 
-**比较 / 办理：** [IRS：Rollovers of Retirement Plan and IRA Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [IRS Topic 413 — Rollovers from Retirement Plans](https://www.irs.gov/taxtopics/tc413) · [IRS：Termination of Employment — retirement plan rollover](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment) · [DOL：What You Should Know About Your Retirement Plan](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan)。
+**比较 / 办理：** [IRS：退休资金转存规则](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [IRS Topic 413 — Rollovers from Retirement Plans](https://www.irs.gov/taxtopics/tc413) · [IRS：Termination of Employment — retirement plan rollover](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment) · [DOL：退休计划须知](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan)。
 
 ## 12. 离职日期影响哪些权益要书面确认
 
@@ -108,7 +108,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 重要选择在提交辞职或签解除协议前评估；不作虚假出勤或其他记录。
 
-**退休权益：** [DOL：Retirement Plans and ERISA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。奖金、股权、PTO 与 severance 则以雇佣协议、plan documents 和州法为准。
+**退休权益：** [DOL：退休计划与雇员保障法常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。奖金、股权、PTO 与 severance 则以雇佣协议、plan documents 和州法为准。
 
 ## 13. 合法保存股权文件
 
@@ -124,7 +124,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 旧保障结束前确认新安排何时有效，不能只因已提出申请就推定无缝衔接。
 
-**计划入口：** 向 plan administrator 索取 group life certificate / SPD；ERISA-covered employer benefits 的一般帮助可联系 [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [Ask EBSA](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。conversion / portability window 以实际计划文件为准。
+**计划入口：** 向 plan administrator 索取 group life certificate / SPD；ERISA-covered employer benefits 的一般帮助可联系 [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。conversion / portability window 以实际计划文件为准。
 
 ## 15. 医保最后有效日不要猜
 
@@ -132,7 +132,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 需要特别参保时联系接收计划确认，保存失去原保障的证明。
 
-**直接比较：** [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：COBRA FAQ](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers)。配偶 plan 的 special enrollment 期限另向其 administrator 确认。
+**直接比较：** [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：雇员医保延续保障常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers)。配偶 plan 的 special enrollment 期限另向其 administrator 确认。
 
 ## 16. 保存个人雇佣资料，遵守数据政策
 
@@ -148,7 +148,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 本章不声称竞业条款在全国一律有效或无效；适用法律与最新裁判须单独查。
 
-**找法律入口：** [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：State Governments](https://www.usa.gov/state-governments)。限制性条款高度依州法、协议文字与事实。
+**找法律入口：** [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。限制性条款高度依州法、协议文字与事实。
 
 ## 18. 人事部门与个人律师的角色不同
 
@@ -164,7 +164,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 不同人和不同协议可能有不同法定要求，不套用一个固定“考虑期”或撤回期。
 
-**继续看：** [EEOC：Understanding Waivers of Discrimination Claims in Employee Severance Agreements](https://www.eeoc.gov/laws/guidance/qa-understanding-waivers-discrimination-claims-employee-severance-agreements) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)用于福利问题。EEOC 页面包含特定年龄歧视 waiver 的特殊要求，但不能把这些期限套给所有 severance。
+**继续看：** [EEOC：Understanding Waivers of Discrimination Claims in Employee Severance Agreements](https://www.eeoc.gov/laws/guidance/qa-understanding-waivers-discrimination-claims-employee-severance-agreements) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa)用于福利问题。EEOC 页面包含特定年龄歧视 waiver 的特殊要求，但不能把这些期限套给所有 severance。
 
 ## 20. 失业保险向适用州查询
 
@@ -172,7 +172,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 如实提交，由主管机构按规则判断；不要等全部补偿到账才第一次找入口。
 
-**申请入口：** [USA.gov：Unemployment Benefits](https://www.usa.gov/unemployment-benefits)；从该页进入工作所在地州的 unemployment insurance agency。不要向收费代办网站提交 SSN 或银行资料。
+**申请入口：** [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits)；从该页进入工作所在地州的 unemployment insurance agency。不要向收费代办网站提交 SSN 或银行资料。
 
 ## 21. 在职时维护职业联系
 
@@ -188,7 +188,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 提交后保存选择确认，再看工资扣款与保险系统是否一致。
 
-**计划文件与争议：** [DOL：Filing a Claim for Your Health Benefits](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/filing-a-claim-for-your-health-benefits)说明 SPD / SBC、claim 与 appeal 的基本作用；具体 open enrollment 选择仍以当年雇主材料为准。
+**计划文件与争议：** [DOL EBSA：医保理赔与申诉](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/filing-a-claim-for-your-health-benefits)说明 SPD / SBC、claim 与 appeal 的基本作用；具体 open enrollment 选择仍以当年雇主材料为准。
 
 ## 23. 夫妻计划一起比较
 
@@ -196,7 +196,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 先向双方管理员核对，再计算方案，避免因另一方可报销自己的医疗费用而误判 HSA 资格。
 
-**HSA / FSA 入口：** [IRS Publication 969](https://www.irs.gov/publications/p969) · [IRS Publication 15-B (2026)](https://www.irs.gov/publications/p15b)。尤其核对 general-purpose FSA、limited-purpose FSA、HRA 和配偶 coverage 的影响。
+**HSA / FSA 入口：** [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969) · [雇主附加福利税务指南（2026年，IRS Publication 15-B）](https://www.irs.gov/publications/p15b)。尤其核对 general-purpose FSA、limited-purpose FSA、HRA 和配偶 coverage 的影响。
 
 ## 24. 建立私人福利资料夹
 
@@ -204,7 +204,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 纸质索引可写机构和资料位置，不必写账户密码。
 
-**继续看：** [DOL：What You Should Know About Your Retirement Plan](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)。计划文件、beneficiary、claim 和 administrator 信息应能在离职后继续取得。
+**继续看：** [DOL：退休计划须知](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa)。计划文件、beneficiary、claim 和 administrator 信息应能在离职后继续取得。
 
 ## 25. 个人联系不依赖公司账户
 
@@ -228,7 +228,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 不机械套用三个月或六个月。预算应说明能维持到何时、什么时点需要调整支出或求职范围。
 
-**本项目实务建议：** 过渡期现金缓冲没有适用于所有家庭的固定月数；把 COBRA / marketplace、新工作空档、severance、失业保险和固定支出放进同一现金流情景。失业入口见 [USA.gov](https://www.usa.gov/unemployment-benefits)。
+**本项目实务建议：** 过渡期现金缓冲没有适用于所有家庭的固定月数；把 COBRA / marketplace、新工作空档、severance、失业保险和固定支出放进同一现金流情景。失业入口见 [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits)。
 
 ## 28. 工作授权与福利同时处理
 
@@ -236,7 +236,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 支付补偿、医保仍有效或处于工资系统，不自动证明移民身份与工作权限不受影响。见[第 37 章](37-移民身份与文件维护.md)。
 
-**移民入口：** [USCIS：Find Legal Services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services) · [USCIS Forms](https://www.uscis.gov/forms)。具体 grace period、工作授权和 change-of-employer 规则按本人类别核对。
+**移民入口：** [USCIS：寻找移民法律服务](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services) · [移民局表格](https://www.uscis.gov/forms)。具体 grace period、工作授权和 change-of-employer 规则按本人类别核对。
 
 ## 29. 职业准备保留选择空间
 
@@ -252,7 +252,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 具体执行见[失业应对清单](../checklists/job-loss.md)。不需要在同一天完成所有退休账户或长期财务决定。
 
-**当天优先入口：** [DOL COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [USA.gov Unemployment Benefits](https://www.usa.gov/unemployment-benefits) · [USCIS Find Legal Services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services)（如身份依赖工作）。
+**当天优先入口：** [医保延续保障规则（COBRA）](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [USCIS：寻找移民法律服务](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/find-legal-services)（如身份依赖工作）。
 
 ## 31. 工作中受伤或突然无法工作，要同时处理医疗、工伤与请假
 
@@ -260,7 +260,7 @@ work-related injury / occupational illness 不只是“看病报销”。多数 
 
 先处理医疗与现场安全，再按 employer policy 留下书面 injury report，取得 carrier / claim number，保存 work restrictions、medical notes 和 payroll / leave changes。不要因为 workers’ comp 在处理，就默认 HR 已自动完成 leave、benefits 或 accommodation。
 
-**完整清单：** [工作中受伤、职业病或突然无法工作](../checklists/workplace-injury-leave.md) · [USA.gov：Workers’ compensation](https://www.usa.gov/workers-compensation) · [DOL：State Workers’ Compensation Officials](https://www.dol.gov/agencies/owcp/wc)。
+**完整清单：** [工作中受伤、职业病或突然无法工作](../checklists/workplace-injury-leave.md) · [USA.gov：Workers’ compensation](https://www.usa.gov/workers-compensation) · [州工伤补偿主管部门](https://www.dol.gov/agencies/owcp/wc)。
 
 ## 32. 最小执行集与核验范围
 
@@ -270,7 +270,7 @@ work-related injury / occupational illness 不只是“看病报销”。多数 
 - [ ] 合同、股权、个人税务资料可合法取得。
 - [ ] 离职预算与适用身份期限有处理路径。
 
-**核验入口汇总：** [DOL FMLA](https://www.dol.gov/agencies/whd/fmla) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [COBRA](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [HealthCare.gov SEP](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [USA.gov Unemployment](https://www.usa.gov/unemployment-benefits) · [IRS Publication 969](https://www.irs.gov/publications/p969)。
+**核验入口汇总：** [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [医保延续保障规则（COBRA）](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对 DOL FMLA / COBRA 与 IRS 2026 benefits / rollover rules：FMLA 常见 employee eligibility 仍为 12 months、1,250 hours 和 50 employees within 75 miles；COBRA 常见 election period 60 天、initial payment 45 天、后续月费至少 30 天 grace period，常规最高 premium 通常为 plan cost 的 102%；2026 HSA limit $4,400 / $8,750，一般 HDHP 免赔额下限 $1,700 / $3,400、自付上限 $8,500 / $17,000（个人市场铜级 / 灾难性计划例外见第9节），health FSA salary-reduction limit $3,400。退休账户新增 direct rollover / 60-day rollover 区分、employee-plan distribution paid to participant 的 mandatory 20% withholding，以及 IRA-to-IRA 60-day rollover 一般 12 个月仅一次、trustee-to-trustee transfer 不受该限制的说明。另核对 EBSA claim / retirement guides、HealthCare.gov SEP 和 USA.gov unemployment。州休假、失业待遇、STD / LTD、竞业、股权、severance 与具体雇主合同仍须按工作地点、plan documents 和个人事实核验。
 

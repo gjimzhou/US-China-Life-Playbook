@@ -12,7 +12,7 @@
 - [ ] 确认宠物主要与备用照护者、用品及夜间兽医。
 - [ ] 检查应急药物、食物、电池及其他耗材有效状态。
 
-**一键核验：** [USFA：Smoke Alarms](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [NHTSA：Recalls](https://www.nhtsa.gov/recalls) · [AHA：Course Search](https://atlas.heart.org/home)。
+**一键核验：** [USFA：烟雾报警器](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [NHTSA：车辆召回查询](https://www.nhtsa.gov/recalls) · [AHA：培训课程查询](https://atlas.heart.org/home)。
 
 ## 身份与数字安全
 
@@ -23,7 +23,7 @@
 - [ ] 核对 my Social Security 的上一年 earnings record。发现漏记或错误尽早更正；普通情况下不要拖过该税年结束后 **3 年、3 个月、15 天**的 correction window，超过后只剩法定例外。
 - [ ] 检查密码管理器的合法应急访问安排与已授权设备。
 
-**一键核验：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [IRS：IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：IP PIN FAQ](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin) · [SSA：Review Your Earnings Record](https://www.ssa.gov/prepare/review-record-earnings) · [SSA：Correct Your Earnings Record](https://www.ssa.gov/faqs/en/questions/KA-02603.html)。
+**一键核验：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [IRS：申请身份保护码](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：身份保护码常见问题](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin) · [SSA：核对收入记录](https://www.ssa.gov/prepare/review-record-earnings) · [SSA：更正收入记录](https://www.ssa.gov/faqs/en/questions/KA-02603.html)。
 
 ## 保险
 
@@ -32,7 +32,7 @@
 - [ ] 复查人寿、失能、宠物及旅行保障或自担费用安排。
 - [ ] 保存最新保单及经纪对保障缺口的书面说明。
 
-**一键核验：** [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments) · [NIPR：Licensing Center](https://nipr.com/licensing-center)。
+**一键核验：** [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) · [NIPR：执照查询](https://nipr.com/licensing-center)。
 
 ## 遗产与法律权限
 
@@ -40,7 +40,7 @@
 - [ ] 确认执行人、受托人及代理人的意愿和联系方式。
 - [ ] 授权人员知道原件位置；实际可访问不等于自动具有处理权限。
 
-**一键核验：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
+**一键核验：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
 
 ## 税务与家庭财务
 
@@ -51,7 +51,7 @@
 - [ ] 如果这是 first-RMD year，明确是当年 12/31 先取，还是延到次年 4/1；后者会与次年 12/31 的第二笔 RMD 落在同一个 calendar year。
 - [ ] 对照付款确认、机构入账和报税表，不只看银行已扣款。
 
-**一键核验：** [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [IRS Get Transcript](https://www.irs.gov/individuals/get-transcript) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：Required Minimum Distributions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：Beneficiary Rules](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [FDIC EDIE](https://edie.fdic.gov/)。
+**一键核验：** [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：获取税务记录](https://www.irs.gov/individuals/get-transcript) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：最低提取要求](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [存款保险估算工具（FDIC EDIE）](https://edie.fdic.gov/)。
 
 ## 缴款与申报对账表
 
@@ -75,7 +75,7 @@
 - [ ] 确认附近急诊与紧急门诊入口；危急时不等待网络核验。
 - [ ] 家庭成员接近 65 岁时，提前检查 Medicare Initial Enrollment Period、现有 employer coverage 与是否可用 Special Enrollment Period；不要等生日后才第一次研究。
 
-**一键核验：** [USPSTF：A/B Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：Adult Immunization Schedule](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [Medicare：When does coverage start?](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start)。
+**一键核验：** [USPSTF：A与B等级的预防服务建议](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：成人疫苗接种安排](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html) · [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [Medicare：医保保障何时生效](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start)。
 
 ## 房屋与车辆
 
@@ -91,7 +91,7 @@
 - [ ] 如果会乘美国境内商业航班，确认常用州驾照 / ID 是否 REAL ID-compliant；否则确认仍持有有效 passport、passport card、Global Entry 等 TSA 可接受替代证件。
 - [ ] 地址变化分别核对各机构要求，不能只做邮政转寄。
 
-**一键核验：** [USA.gov](https://www.usa.gov/) · [my Social Security](https://www.ssa.gov/myaccount/) · [myUSCIS](https://my.uscis.gov/) · [U.S. Passports](https://travel.state.gov/content/travel/en/passports.html) · [TSA：REAL ID](https://www.tsa.gov/real-id) · [TSA：Acceptable IDs](https://www.tsa.gov/travel/security-screening/identification)。
+**一键核验：** [美国政府办事入口（USA.gov）](https://www.usa.gov/) · [社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/) · [移民局在线账户（myUSCIS）](https://my.uscis.gov/) · [美国护照办理](https://travel.state.gov/content/travel/en/passports.html) · [TSA：REAL ID](https://www.tsa.gov/real-id) · [TSA：Acceptable IDs](https://www.tsa.gov/travel/security-screening/identification)。
 
 ## 中国与跨境生活
 

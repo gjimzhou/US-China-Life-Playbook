@@ -10,7 +10,7 @@
 - [ ] 核对电梯、装卸区、停车、搬家许可及楼宇要求的保险证明。
 - [ ] 核验搬家公司、书面报价、物品责任与索赔程序，安排宠物和必要仓储。
 
-**搬家公司核验：** [FMCSA：Protect Your Move](https://www.fmcsa.dot.gov/protect-your-move) · [FMCSA：Search Movers](https://www.fmcsa.dot.gov/protect-your-move/search-mover)。州内搬家还要查本州监管机关。
+**搬家公司核验：** [FMCSA：Protect Your Move](https://www.fmcsa.dot.gov/protect-your-move) · [FMCSA：查询注册搬家公司](https://www.fmcsa.dot.gov/protect-your-move/search-mover)。州内搬家还要查本州监管机关。
 
 ## 保险与公共服务
 
@@ -18,7 +18,7 @@
 - [ ] 检查新址洪水等风险，确认保障而非只更新邮寄地址。
 - [ ] 安排水、电、燃气、网络、楼宇服务与报警系统起止日期。
 
-**风险核验：** [FEMA Flood Map Service Center](https://msc.fema.gov/portal/home) · [NAIC：State Insurance Department Directory](https://content.naic.org/state-insurance-departments)。
+**风险核验：** [洪水风险地图查询（FEMA）](https://msc.fema.gov/portal/home) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ## 逐机构变更地址
 
@@ -27,7 +27,7 @@
 - [ ] 分别通知银行、证券、信用卡、雇主、保险及退休和健康账户机构。
 - [ ] 保存每项确认，邮政转寄不能代替其他机构地址申报。
 
-**地址变更入口：** [USPS：Official Change of Address](https://moversguide.usps.com/) · [IRS：Address Changes](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes) · [USCIS：Change of Address](https://www.uscis.gov/addresschange) · [USA.gov：State Motor Vehicle Services](https://www.usa.gov/state-motor-vehicle-services)。
+**地址变更入口：** [USPS：正式申请邮件改址](https://moversguide.usps.com/) · [IRS：更新税务地址](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes) · [USCIS：更新地址](https://www.uscis.gov/addresschange) · [USA.gov：州机动车办事入口](https://www.usa.gov/state-motor-vehicle-services)。
 
 ## 医疗与照护衔接
 
@@ -37,7 +37,7 @@
 - [ ] **跨州 Marketplace：** 进入新州后通常需要按新州创建 / 提交新的 Marketplace application，而不是把旧州 plan 直接改地址继续使用。确认旧 coverage end date、新 coverage effective date 和 first premium，避免 gap / overlap。
 - [ ] 转移必要病历、处方与预约，避免搬家造成关键用药中断。
 
-**Marketplace 搬家入口：** [HealthCare.gov：Special Enrollment Periods — moving](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：How to report a move](https://www.healthcare.gov/reporting-changes/when-you-move/) · [CMS：Special Enrollment Periods Job Aid — March 2026](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
+**Marketplace 搬家入口：** [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：How to report a move](https://www.healthcare.gov/reporting-changes/when-you-move/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
 
 ## 搬出前
 
@@ -66,7 +66,7 @@
 - [ ] 核对州税居民身份、工资预扣、工作地点和迁居证据。
 - [ ] 请专业人士检查遗产与医疗指示文件、专业执照及医保适用性。
 
-**跨州核验：** [USA.gov：State Governments](https://www.usa.gov/state-governments) · [ABA：State Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。
+**跨州核验：** [USA.gov：州政府入口](https://www.usa.gov/state-governments) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。
 
 ## 中美迁居或长期停留
 
@@ -74,7 +74,7 @@
 - [ ] 安排医疗保障、药物合法携带、病历和必要跨境文件。
 - [ ] 提前评估两国及相关州税务，安排邮件、住所监护与现场家人联络。
 
-**跨境入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/) · [CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)。
+**跨境入口：** [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers) · [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/) · [CDC：携药出境](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)。
 
 ## 迁移完成记录
 

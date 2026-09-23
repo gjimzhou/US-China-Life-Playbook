@@ -9,7 +9,7 @@
 
 **查依据：** [教育部：学生教育记录隐私](https://studentprivacy.ed.gov/ferpa) · [符合资格的学生定义](https://studentprivacy.ed.gov/content/eligible-student)。
 
-医疗决策和病历访问依适用法律与授权范围处理。询问医疗机构如何登记本人选择的联系人、披露授权与合法代理；不默认成年子女仍可直接使用以前的家长代理账号。见[卫生与公众服务部：个人代表](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html)。
+医疗决策和病历访问依适用法律与授权范围处理。询问医疗机构如何登记本人选择的联系人、披露授权与合法代理；不默认成年子女仍可直接使用以前的家长代理账号。见[HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html)。
 
 ## 离家前共同完成一张小卡
 

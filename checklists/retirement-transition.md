@@ -20,7 +20,7 @@
 
 **规则说明：** 联邦医疗保险A／B部分中，符合当前就业团体保障条件的特别参保期通常在就业或该保障结束后八个月结束，取较早者；COBRA续保不会延后这个期限。这不是所有医保的统一八个月窗口，也不表示可以等八个月而没有保障空档。个人适用例外与实际生效日必须另核。
 
-**查依据与办理：** [Medicare参保期及生效日](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [社会保障署：医疗保险准备](https://www.ssa.gov/medicare)。健康储蓄账户缴款及追溯生效问题见[第20章](../book/20-父母养老与远程照护.md)。
+**查依据与办理：** [Medicare：医保保障何时生效](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [社会保障署：医疗保险准备](https://www.ssa.gov/medicare)。健康储蓄账户缴款及追溯生效问题见[第20章](../book/20-父母养老与远程照护.md)。
 
 ## 收入与账户逐个确认
 

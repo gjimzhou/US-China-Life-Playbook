@@ -10,7 +10,7 @@
 - [ ] 决定是否改名及后续手续；跨境使用证明时核对附加证明书和翻译要求。
 - [ ] 如使用婚前协议，提前分别取得适当法律意见，留足披露和审阅时间。
 
-**去办 / 核验：** [USA.gov：Marriage Certificate](https://www.usa.gov/marriage-certificate) · [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [HCCH：Apostille Convention](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+**去办 / 核验：** [USA.gov：结婚证明](https://www.usa.gov/marriage-certificate) · [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
 ## 财务与既有责任
 
@@ -24,7 +24,7 @@
 - [ ] 核对配偶保险、失能保障、受益人及退休计划的配偶权利。
 - [ ] 告知汽车保险家庭驾驶人和住所变化。
 
-**福利 / 医保入口：** [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL EBSA](https://www.dol.gov/agencies/ebsa) · [IRS Publication 969](https://www.irs.gov/publications/p969)。
+**福利 / 医保入口：** [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [健康储蓄及相关医疗账户税务指南（IRS Publication 969）](https://www.irs.gov/publications/p969)。
 
 ## 婚后按实际期限办理
 
@@ -35,9 +35,9 @@
 - [ ] 更新紧急联系人、婚姻信息及适用预扣税安排。
 - [ ] 核对每个退休 / insurance plan 的受益人指定和配偶同意要求；**30 天只是在特定 employer health-plan SEP 中常见的联邦最低窗口，不是所有婚后事项的统一 deadline。**
 
-**医保期限核验：** [DOL：HIPAA Special Enrollment FAQ](https://www.dol.gov/node/25147) · [HealthCare.gov：Special Enrollment Periods](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：Special Enrollment Periods Job Aid — March 2026](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
+**医保期限核验：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
 
-**退休计划核验：** [IRS：Retirement Topics — Beneficiary](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [DOL：Retirement Plans and ERISA](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。
+**退休计划核验：** [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [DOL：退休计划与雇员保障法常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)。
 
 ## 账户与家庭保险
 
@@ -56,7 +56,7 @@
 - [ ] 评估联邦与州申报方式、共同申报责任、多州居住及跨境影响。
 - [ ] 核对当年预扣、预缴、历史记录与必要专业咨询。
 
-**税务入口：** [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS Publication 505](https://www.irs.gov/publications/p505) · [IRS：Innocent Spouse Relief](https://www.irs.gov/individuals/innocent-spouse-relief)。
+**税务入口：** [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS：无辜配偶税务救济](https://www.irs.gov/individuals/innocent-spouse-relief)。
 
 ## 共同生活与亲友
 

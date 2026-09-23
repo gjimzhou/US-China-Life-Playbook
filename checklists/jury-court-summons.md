@@ -20,11 +20,11 @@
 
 联邦陪审团传票由具体美国联邦地区法院管理。美国联邦法院当前说明，收到联邦陪审通知后，应进入**签发该传票的地区法院官网**按说明完成电子陪审系统（eJuror）／问卷、查看报到说明、申请延期／豁免。
 
-**官方入口：** [美国联邦法院：收到联邦陪审通知](https://www.uscourts.gov/court-programs/jury-service/summoned-federal-jury-service) · [联邦法院查询](https://www.uscourts.gov/federal-court-finder/search)。
+**官方入口：** [收到联邦陪审传唤后的办理](https://www.uscourts.gov/court-programs/jury-service/summoned-federal-jury-service) · [联邦法院查询](https://www.uscourts.gov/federal-court-finder/search)。
 
 **非美国公民也可能误收到通知。** 联邦陪审资格要求美国公民身份；不符合条件时，按签发法院的问卷／联系方式如实说明并申请确认，不要谎称公民，也不要仅凭自认为不合资格而忽略通知。延期和豁免需要按该法院程序申请，不能自行视为获准。
 
-**资格说明：** [美国联邦法院：陪审资格、豁免与免除](https://www.uscourts.gov/court-programs/jury-service/juror-qualifications-exemptions-and-excuses)。
+**资格说明：** [U.S. Courts：陪审员资格、豁免与请假](https://www.uscourts.gov/court-programs/jury-service/juror-qualifications-exemptions-and-excuses)。
 
 州／地方陪审义务则使用对应州／县法院官方入口，不套联邦地区法院的期限。
 

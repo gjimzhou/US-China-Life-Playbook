@@ -40,7 +40,7 @@
 - 汽车、住房或租客险理赔：______
 - 超额责任险联系入口：______
 
-**官方急救 / 安全入口：** [911.gov](https://www.911.gov/calling-911/) · [Poison Control](https://www.poison.org/) · [USFA：Smoke Alarms](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [NAIC：State Insurance Departments](https://content.naic.org/state-insurance-departments)。
+**官方急救 / 安全入口：** [美国911应急服务](https://www.911.gov/calling-911/) · [中毒咨询中心（Poison Control）](https://www.poison.org/) · [USFA：烟雾报警器](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ## 专业人士
 
@@ -50,7 +50,7 @@
 - 保险经纪：______
 - 银行或证券机构官方反欺诈电话：______
 
-**专业入口：** [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS：Choosing a Tax Professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [FINRA BrokerCheck](https://brokercheck.finra.org/) · [SEC IAPD](https://adviserinfo.sec.gov/)。
+**专业入口：** [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [经纪人与券商资质查询（FINRA BrokerCheck）](https://brokercheck.finra.org/) · [投资顾问资质查询（SEC IAPD）](https://adviserinfo.sec.gov/)。
 
 ## 中国现场支援
 
@@ -90,7 +90,7 @@
 
 每年至少复查一次；搬家、婚姻变化、新生儿、重大诊断、用药、保险、居住国或法律文件变化后及时更新。
 
-**更新时可顺手核验：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [Ready.gov：Make a Plan](https://www.ready.gov/plan)。
+**更新时可顺手核验：** [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)。
 
 
 

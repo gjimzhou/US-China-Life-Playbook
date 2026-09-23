@@ -51,7 +51,7 @@
 - [ ] 告诉一个外部联系人你去了哪里；不要公开不必要的家庭空置细节。
 - [ ] 酒店／亲友家／避难所是否接受宠物要提前确认。
 
-**准备入口：** [应急准备网（Ready.gov）：制定应急计划](https://www.ready.gov/plan) · [应急准备网（Ready.gov）：宠物应急准备](https://www.ready.gov/pets)。
+**准备入口：** [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · [Ready.gov：宠物应急准备](https://www.ready.gov/pets)。
 
 ## 房屋损失与保险
 

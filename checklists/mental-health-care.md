@@ -16,12 +16,12 @@
 
 SAMHSA 当前说明：精神科医生和部分精神健康专科高级执业护士通常可以开药；心理学专业人员、临床社会工作者、咨询师、持证婚姻与家庭治疗师（LMFT）等常提供心理治疗／咨询，具体执业范围依州而异。初级保健医生（PCP）也可能处理一部分常见心理健康问题。
 
-**角色说明：** [SAMHSA：医疗服务人员类型](https://www.samhsa.gov/find-support/learn-about-treatment/types-of-providers)。
+**角色说明：** [SAMHSA：心理健康服务人员类型](https://www.samhsa.gov/find-support/learn-about-treatment/types-of-providers)。
 
 ## 找到第一批候选人
 
 - [ ] 先查保险目录，但预约时再次确认“是否接受你这个具体计划”与当前是否收新病人。
-- [ ] 也可从 [治疗资源查询（FindTreatment.gov）](https://findtreatment.gov/) 搜索心理健康与物质使用问题服务。
+- [ ] 也可从 [心理健康与成瘾治疗查询（SAMHSA）](https://findtreatment.gov/) 搜索心理健康与物质使用问题服务。
 - [ ] 询问初级保健医生（PCP）、可信任的人、学校／单位员工援助计划（EAP）或本地医疗系统。
 - [ ] 同时联系几位候选人很正常；不要把某一位不回复理解为“没有治疗资源”。
 

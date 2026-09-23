@@ -12,7 +12,7 @@
 - [ ] 必要时按厂商说明远程抹除，先评估备份与证据；不要因陌生“找回手机”消息交出密码。
 - [ ] 恢复新设备和认证方式，撤销旧设备会话，按情况报警或联系保险。
 
-**直接入口：** [Apple：设备遗失或被盗](https://support.apple.com/en-us/120837) · [Google：Find Hub](https://support.google.com/android/answer/6160491) · [FTC：SIM Swap Scams](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
+**直接入口：** [Apple：设备遗失或被盗](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491) · [FTC：手机卡转移诈骗](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
 
 ## 主要邮箱被入侵
 
@@ -32,7 +32,7 @@
 
 ## 信用与身份盗用
 
-- [ ] 通过[美国身份盗用处理入口](https://www.identitytheft.gov/)制定恢复步骤。
+- [ ] 通过[身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/)制定恢复步骤。
 - [ ] 分别处理三家信用机构的信用冻结；online / phone 申请时，记录提交时间并确认 bureau 是否在通常的 **1 个营业日内 place freeze**。
 - [ ] 需要临时解冻时，只对实际会查报告的 bureau 操作；online / phone lift 通常应在 **1 小时内**生效，办完后重新冻结。
 - [ ] 如怀疑身份盗用，可另加 initial fraud alert（通常 **1 年**）；已有 identity-theft report 的受害者可评估 extended fraud alert（通常 **7 年**）。
@@ -42,7 +42,7 @@
 - [ ] 涉及税务身份风险时核对身份保护个人识别码（IP PIN）安排；如已加入，使用**提交当年**的 current IP PIN，包括当年提交的 prior-year / amended federal return。Continuous enrollment 每年取得新 PIN；one-time enrollment 年末自动退出。
 - [ ] 保存每家机构的案件号、材料清单与截止日。
 
-**直接入口：** [FTC：Credit Freezes and Fraud Alerts](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [FTC：Understanding Your Credit — freeze timing](https://consumer.ftc.gov/articles/understanding-your-credit) · [Equifax Freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian Freeze](https://www.experian.com/freeze/center.html) · [TransUnion Freeze](https://www.transunion.com/credit-freeze) · [IdentityTheft.gov](https://www.identitytheft.gov/) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) · [CFPB：Dispute a Credit Report Error](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/) · [CFPB：Credit Reporting Complaint Notice](https://www.consumerfinance.gov/complaint/credit-and-consumer-reporting-complaint-notice-2/) · [IRS：Get an IP PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：IP PIN FAQ](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin)。
+**直接入口：** [FTC：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [FTC：Understanding Your Credit — freeze timing](https://consumer.ftc.gov/articles/understanding-your-credit) · [Equifax：信用冻结](https://www.equifax.com/personal/credit-report-services/credit-freeze/) · [Experian：信用冻结](https://www.experian.com/freeze/center.html) · [TransUnion：信用冻结](https://www.transunion.com/credit-freeze) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [CFPB：Dispute a Credit Report Error](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/) · [CFPB：Credit Reporting Complaint Notice](https://www.consumerfinance.gov/complaint/credit-and-consumer-reporting-complaint-notice-2/) · [IRS：申请身份保护码](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：身份保护码常见问题](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin)。
 
 ## 银行或证券账户被接管
 
@@ -52,13 +52,13 @@
 - [ ] 更新凭证并撤销陌生设备，同时保护邮箱和手机号。
 - [ ] 重大损失按情况联系律师、执法及适用保险；不等待其他机构办结才联系银行。
 
-**投诉 / 报案：** [CFPB：Submit a Complaint](https://www.consumerfinance.gov/complaint/) · [FTC：ReportFraud](https://reportfraud.ftc.gov/) · [FBI IC3](https://www.ic3.gov/)。
+**投诉 / 报案：** [CFPB：提交消费者投诉](https://www.consumerfinance.gov/complaint/) · [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/) · [联邦调查局网络犯罪举报（FBI IC3）](https://www.ic3.gov/)。
 
 ## 电汇诈骗
 
 - [ ] 立即联系汇出银行反欺诈部门，请求拦截或追索并协调收款银行。
 - [ ] 保存汇款确认、邮件原文与聊天记录。
-- [ ] 向[联邦调查局网络犯罪投诉中心](https://www.ic3.gov/)报告，保留提交凭证。
+- [ ] 向[联邦调查局网络犯罪举报（FBI IC3）](https://www.ic3.gov/)报告，保留提交凭证。
 - [ ] 通知适用保险与专业人士，查明邮箱或流程是否被入侵。
 
 银行有可用反欺诈入口时，不必等到次日营业；报告不能保证追回。
@@ -105,7 +105,7 @@
 - [ ] 调整提醒、停用不用的账户，并更新家人的合法应急访问安排。
 - [ ] 把实际有效的官方入口、所需材料与耗时写回私人操作说明。
 
-**恢复后加固：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world) · [CISA：Turn On MFA](https://www.cisa.gov/secure-our-world/turn-mfa) · [CISA：Use Strong Passwords](https://www.cisa.gov/secure-our-world/use-strong-passwords)。
+**恢复后加固：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [CISA：启用多因素认证](https://www.cisa.gov/secure-our-world/turn-mfa) · [CISA：使用强密码](https://www.cisa.gov/secure-our-world/use-strong-passwords)。
 
 
 

@@ -16,7 +16,7 @@
 
 操作与来源见[紧急情况与急救](../book/03-紧急情况与急救.md)。视频可帮助预习，不能替代实际训练。
 
-**去办 / 核验：** [USFA：Smoke Alarms](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [911.gov：When to Call 911](https://www.911.gov/calling-911/) · [Poison Control](https://www.poison.org/) · [AHA：Course Search](https://atlas.heart.org/home)。
+**去办 / 核验：** [USFA：烟雾报警器](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/) · [美国911应急服务](https://www.911.gov/calling-911/) · [中毒咨询中心（Poison Control）](https://www.poison.org/) · [AHA：培训课程查询](https://atlas.heart.org/home)。
 
 ### 紧急信息
 
@@ -36,7 +36,7 @@
 - [ ] 准备手机丢失后的恢复步骤。
 - [ ] 了解信用冻结（credit freeze），决定是否实施。
 
-**去办 / 核验：** [CISA：Secure Our World](https://www.cisa.gov/secure-our-world) · [FTC：Credit Freezes and Fraud Alerts](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action)。
+**去办 / 核验：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [FTC：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action)。
 
 ## 第二周：保险与法律文件
 
@@ -60,7 +60,7 @@
 
 详见[遗产与失能规划](../book/10-Estate-Planning与失能.md)。
 
-**去办 / 核验：** [NIA：Advance Care Planning](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：Managing Someone Else’s Money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [ABA：Lawyer Referral Directory](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)。
+**去办 / 核验：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)。
 
 ## 第三周：医疗与两地办事渠道
 
@@ -73,7 +73,7 @@
 
 使用[医疗记录与跨境连续性照护](../book/06-医疗记录药物与跨境Continuity.md)整理一页摘要。
 
-**去办 / 核验：** [HHS：Your Medical Records](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [USPSTF：A/B Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：Adult Immunization Schedule](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html)。
+**去办 / 核验：** [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [USPSTF：A与B等级的预防服务建议](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) · [CDC：成人疫苗接种安排](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html)。
 
 ### 美国办事渠道
 
@@ -81,7 +81,7 @@
 - [ ] 检查护照、驾驶证及相关身份文件期限。
 - [ ] 如适用，确认移民账户、地址申报及待办事项。
 
-**去办 / 核验：** [IRS Online Account](https://www.irs.gov/payments/online-account-for-individuals) · [my Social Security](https://www.ssa.gov/myaccount/) · [USA.gov：State Motor Vehicle Services](https://www.usa.gov/state-motor-vehicle-services) · [myUSCIS](https://my.uscis.gov/) · [U.S. Passports](https://travel.state.gov/content/travel/en/passports.html)。
+**去办 / 核验：** [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/) · [USA.gov：州机动车办事入口](https://www.usa.gov/state-motor-vehicle-services) · [移民局在线账户（myUSCIS）](https://my.uscis.gov/) · [美国护照办理](https://travel.state.gov/content/travel/en/passports.html)。
 
 ### 中国生活支持
 
@@ -106,7 +106,7 @@
 - [ ] 检查召回及必要维护。
 - [ ] 备好事故现场的信息记录清单。
 
-**去办 / 核验：** [NHTSA：Recalls](https://www.nhtsa.gov/recalls) · [NAIC：Auto Claim Guide](https://content.naic.org/article/what-you-should-know-about-filing-auto-claim)。
+**去办 / 核验：** [NHTSA：车辆召回查询](https://www.nhtsa.gov/recalls) · [NAIC：车险理赔指南](https://content.naic.org/article/what-you-should-know-about-filing-auto-claim)。
 
 ### 宠物
 
@@ -130,7 +130,7 @@
 - [ ] 选择一项可持续参加的本地活动。
 - [ ] 恢复与重要亲友、同学或专业同行的联系。
 
-**财务 / 税务核验：** [FDIC EDIE](https://edie.fdic.gov/) · [IRS Tax Withholding Estimator](https://apps.irs.gov/app/tax-withholding-estimator) · [FinCEN：FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
+**财务 / 税务核验：** [存款保险估算工具（FDIC EDIE）](https://edie.fdic.gov/) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
 ## 月末演练：不靠一个人的记忆
 
