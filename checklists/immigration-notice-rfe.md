@@ -17,7 +17,7 @@
 
 若在线案件状态显示通知已发出，但没有收到纸件，账户内也找不到，应按官方未收到通知的查询流程处理。不要把“正在查询邮件”理解为回复期限自动暂停。
 
-**官方入口：** [移民局电子查询（e-Request）](https://egov.uscis.gov/e-request) · [移民局联系中心](https://www.uscis.gov/contactcenter) · [通知或证件未收到时如何查询](https://www.uscis.gov/forms/filing-guidance/how-to-track-delivery-of-your-notice-or-secure-identity-document-or-card)。通知信与安全身份证件的投递查询方式可能不同。
+**官方入口：** [移民案件在线查询请求入口](https://egov.uscis.gov/e-request) · [移民局联系中心](https://www.uscis.gov/contactcenter) · [通知或证件未收到时如何查询](https://www.uscis.gov/forms/filing-guidance/how-to-track-delivery-of-your-notice-or-secure-identity-document-or-card)。通知信与安全身份证件的投递查询方式可能不同。
 
 ## 补件通知（RFE / Request for Evidence）
 

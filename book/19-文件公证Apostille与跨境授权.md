@@ -48,7 +48,7 @@
 
 不要把所有文件都寄给美国国务院。先根据文件的签发机关和公证所在地查路线。
 
-**美国办理入口：** [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [国务院：Preparing a Document for an Apostille](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/apostille-requirements.html) · [国务院：Request Authentication Services / DS-4194](https://travel.state.gov/en/replace-certify/authenticate-documents/request-services.html)。州文件则从签发州的州务卿办公室或相应主管机关开始。
+**美国办理入口：** [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [国务院：准备附加证明书申请文件](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/apostille-requirements.html) · [国务院：文件认证申请（DS-4194）](https://travel.state.gov/en/replace-certify/authenticate-documents/request-services.html)。州文件则从签发州的州务卿办公室或相应主管机关开始。
 
 ## 5. 出生及婚姻证明先确认副本要求
 
@@ -78,7 +78,7 @@
 
 附加证明书不替代翻译；翻译完成也不意味着原始文件满足认证要求。
 
-**办理前看接收方原文：** 移民文件可查 [USCIS：邮寄移民申请表的注意事项](https://www.uscis.gov/forms/filing-guidance/tips-for-filing-forms-by-mail) 与具体表格说明；领事 / 签证材料可查 [国务院：Visa Reciprocity and Civil Documents by Country](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html)。
+**办理前看接收方原文：** 移民文件可查 [USCIS：邮寄移民申请表的注意事项](https://www.uscis.gov/forms/filing-guidance/tips-for-filing-forms-by-mail) 与具体表格说明；领事 / 签证材料可查 [国务院：各国签证互惠及民事文件要求](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html)。
 
 ## 9. 跨境授权委托书逐机构确认
 
@@ -108,7 +108,7 @@
 
 学校、雇主或学历评估机构可能要求密封成绩单、学校直接发送的电子成绩单、学历认证或学位核验。
 
-**美国文件跨境认证：** [国务院：Get U.S. Academic Credentials Authenticated](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/getting-academic-credentials-authenticated.html)。是否还需要学校直送、学历评估或其他验证，以接收方规则为准。
+**美国文件跨境认证：** [国务院：美国学历文件认证](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/getting-academic-credentials-authenticated.html)。是否还需要学校直送、学历评估或其他验证，以接收方规则为准。
 
 附加证明书不能替代这些程序。先问接收方接受哪些签发和传递方式。
 

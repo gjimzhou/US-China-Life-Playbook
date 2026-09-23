@@ -36,7 +36,7 @@
 - [ ] 按律师指导办理适用的法院、信托或其他遗产程序。
 - [ ] 涉及护照、领事或跨境事项时，核对对应机构要求。
 
-**政府 / 福利入口：** [SSA：遗属福利](https://www.ssa.gov/survivor) · [SSA：联系社会安全局](https://www.ssa.gov/agency/contact/) · [U.S. State Department：Death Abroad](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
+**政府 / 福利入口：** [SSA：遗属福利](https://www.ssa.gov/survivor) · [SSA：联系社会安全局](https://www.ssa.gov/agency/contact/) · [U.S. State Department：境外身故处理](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
 
 ## 雇主及福利
 
@@ -65,7 +65,7 @@
 - [ ] 不使用死者凭证绕过机构遗产处理程序。
 - [ ] 未确认债务性质及清偿顺序前，不自行以家属资金承担或分配遗产。
 
-**债务 / 遗漏资产：** [CFPB：Debts after death](https://www.consumerfinance.gov/ask-cfpb/does-a-persons-debt-go-away-when-they-die-en-1463/) · [USA.gov：无人认领资产查询](https://www.usa.gov/unclaimed-money)。
+**债务 / 遗漏资产：** [CFPB：身故后债务处理](https://www.consumerfinance.gov/ask-cfpb/does-a-persons-debt-go-away-when-they-die-en-1463/) · [USA.gov：无人认领资产查询](https://www.usa.gov/unclaimed-money)。
 
 ## 住所与日常账单
 
@@ -79,7 +79,7 @@
 - [ ] 分别评估遗产所得税、遗产转移税、州税及境外资产申报。
 - [ ] 整理收入、扣除、估值与付款凭证，不把某一金额门槛当作唯一申报条件。
 
-**税务入口：** [IRS：Final Income Tax Return of a Deceased Person](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559) · [IRS：Form 1041](https://www.irs.gov/forms-pubs/about-form-1041)。
+**税务入口：** [IRS：身故者最后一份所得税表](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559) · [IRS：遗产与信托所得税表（Form 1041）](https://www.irs.gov/forms-pubs/about-form-1041)。
 
 ## 数字资料
 
@@ -87,7 +87,7 @@
 - [ ] 评估证据与访问需要后再注销服务或重置设备。
 - [ ] 区分暂停扣费、保存记录与永久删除，保留必要交接凭证。
 
-**数字账户示例：** [Apple：Request access to a deceased family member’s account](https://support.apple.com/en-us/102431) · [Google：Deceased User Account Request](https://support.google.com/accounts/troubleshooter/6357590)。
+**数字账户示例：** [Apple：申请访问已故家人的账户](https://support.apple.com/en-us/102431) · [Google：已故用户账户申请](https://support.google.com/accounts/troubleshooter/6357590)。
 
 ## 中国与跨境
 

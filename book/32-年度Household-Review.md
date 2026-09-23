@@ -8,19 +8,19 @@
 
 每年安排一次总览，有助于发现联系人、受益人、保障和文件已变化的事项。它不是所有事项的处理频率：法定期限、账单、医疗随访、设备维护和安全警报器测试都按各自要求进行。
 
-**本项目方法论：** 年度复查是“补漏窗口”，不是新的统一 deadline。应急准备可从 [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)开始，其余事项仍按各自主管机构日期。
+**本项目方法论：** 年度复查是“补漏窗口”，不是新的统一截止日期。应急准备可从 [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)开始，其余事项仍按各自主管机构日期。
 
 ## 2. 先准备资料，再讨论缺口
 
 提前收集账户索引、保单、到期日期和未完成事项。可以分几次短时段完成，不设必须几小时内做完的标准。讨论只需确定哪些仍适用、哪里需要修补、谁负责和何时确认完成。
 
-**本项目实务建议：** 先准备“账户 / 保险 / 文件 / 未完成事项索引”，不要把密码和证件原件复制进 review 表。数字资料安全见 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
+**本项目实务建议：** 先准备“账户 / 保险 / 文件 / 未完成事项索引”，不要把密码和证件原件复制进复查表。数字资料安全见 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 3. 选择自己能坚持的时间
 
 可以结合税务规划、雇主开放参保或其他容易记住的节点，但这些事项本身可能有不同截止日。先列真实期限，再选总览日期，不能为凑一次家庭会议错过办理窗口。
 
-**本项目方法论：** review date 只是 calendar anchor；税务从 [美国国税局（IRS）](https://www.irs.gov/)、雇主福利从 plan materials / [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa)取得真实期限。
+**本项目方法论：** 复查日期只是日历提醒；税务从 [美国国税局（IRS）](https://www.irs.gov/)、雇主福利从计划资料 / [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa)取得真实期限。
 
 ## 4. 先看紧迫事项与严重后果
 
@@ -92,7 +92,7 @@
 
 核对漏水、消防、温控和日常维护，确认物业及紧急维修入口。自有住房另按专业检查与设备要求安排屋顶、机电等项目；租客按合同和当地程序及时报告问题。不要自行处理不具备能力的危险维修。
 
-**住房入口：** [USFA：Home Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/) · [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：租客权益](https://www.usa.gov/tenant-rights)。
+**住房入口：** [USFA：家庭消防安全](https://www.usfa.fema.gov/prevention/home-fires/) · [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [USA.gov：租客权益](https://www.usa.gov/tenant-rights)。
 
 ## 15. 车辆
 
@@ -134,13 +134,13 @@
 
 结婚、离婚、生育、迁居、购房、换工作、失业、重大诊断、照护变化、身故、长期出境或大额赠与，都可能改变原安排。按事件核对具体期限；年度复查只是补漏。
 
-**本项目方法论：** 重大事件发生时启动对应章节 / checklist，不等待年度 review。政府事项总入口可从 [美国政府办事入口（USA.gov）](https://www.usa.gov/) 或中国的[国家政务服务平台](https://gjzwfw.www.gov.cn/)开始。
+**本项目方法论：** 重大事件发生时启动对应章节 / 清单，不等待年度复查。政府事项总入口可从 [美国政府办事入口（USA.gov）](https://www.usa.gov/) 或中国的[国家政务服务平台](https://gjzwfw.www.gov.cn/)开始。
 
 ## 22. 每项记录明确状态
 
 可以标记“保持”“修补”“待核实”“不适用”或“暂缓”。需要处理的项目写负责人、下一步、期限依据与完成证据；暂缓项目说明何时重看，不用含糊的“以后研究”。
 
-**本项目方法论：** 状态字段只描述 work state，不替代政府 / insurer / employer 的正式 status。完成证据至少保存 confirmation、case number、到账或更新后的正式记录之一。
+**本项目方法论：** 状态字段只描述工作进度，不替代政府 / 保险公司 / 雇主的正式状态。完成证据至少保存确认凭证、案件编号、到账或更新后的正式记录之一。
 
 ## 23. 把任务分批，但别遗漏必须处理的事
 
@@ -156,12 +156,12 @@
 
 记录文件位置与结论，不把全部密码或证件复制进表。真实家庭信息不要提交到公开仓库。
 
-**数字安全参考：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。review 表应记录“在哪里找”，而不是把敏感原件重新集中复制一遍。
+**数字安全参考：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。复查表应记录“在哪里找”，而不是把敏感原件重新集中复制一遍。
 
 ## 25. 复查以修补完成为结束
 
 一次讨论不等于改好了。检查确认信、实际入账、受益人登记或恢复测试结果，未完成项继续追踪。工具可以很简单：一份私人表格和必要日历提醒就足够开始。
 
-**本项目方法论：** 以“系统里的实际状态已更新”为完成标准，而不是“已经讨论 / 已发邮件”。涉及官方账户时用对应 portal 复核，例如 [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals)、[社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/) 或 [移民局在线账户（myUSCIS）](https://my.uscis.gov/)。
+**本项目方法论：** 以“系统里的实际状态已更新”为完成标准，而不是“已经讨论 / 已发邮件”。涉及官方账户时用对应在线系统复核，例如 [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals)、[社会安全个人账户（my Social Security）](https://www.ssa.gov/myaccount/) 或 [移民局在线账户（myUSCIS）](https://my.uscis.gov/)。
 
-最后编辑与来源核验：2026-09-21。本章现同时作为年度 maintenance dashboard：安全、账户安全、保险、失能文件、IRS、预防医疗、中国政务、美国证件、车辆、员工福利和金融机构均补入一键官方入口。它仍不新增统一年度税额、医疗频率或法律期限；具体适用规则继续以所链接专题、计划文件和主管机构为准。
+最后编辑与来源核验：2026-09-21。本章现同时作为年度维护总览：安全、账户安全、保险、失能文件、IRS、预防医疗、中国政务、美国证件、车辆、员工福利和金融机构均补入一键官方入口。它仍不新增统一年度税额、医疗频率或法律期限；具体适用规则继续以所链接专题、计划文件和主管机构为准。

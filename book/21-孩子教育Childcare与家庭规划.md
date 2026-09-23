@@ -140,7 +140,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 语言或发育有疑虑时咨询专业人士，不凭单次表现或其他孩子的进度作判断。
 
-**继续看：** [ASHA：学习多种语言](https://www.asha.org/public/speech/development/learning-more-than-one-language/) · [CDC：Developmental Milestones](https://www.cdc.gov/act-early/milestones/index.html)。双语本身不应被简单当作发育问题；有疑虑时看整体发育并咨询儿科 / 言语语言专业人士。
+**继续看：** [ASHA：学习多种语言](https://www.asha.org/public/speech/development/learning-more-than-one-language/) · [CDC：儿童发育里程碑](https://www.cdc.gov/act-early/milestones/index.html)。双语本身不应被简单当作发育问题；有疑虑时看整体发育并咨询儿科 / 言语语言专业人士。
 
 ## 18. 住房决定前确认学校分配
 
@@ -228,6 +228,6 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 - [ ] 儿科、安全座椅、监护与财务安排已讨论。
 - [ ] 学校、预算、共享日历与儿童隐私相互配合。
 
-**入口汇总：** [美国政府托育服务资料（ChildCare.gov）](https://www.childcare.gov/) · [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [美国教育统计中心（NCES）](https://nces.ed.gov/) · [美国疾控中心：儿童发育里程碑](https://www.cdc.gov/act-early/milestones/index.html)。
+**入口汇总：** [美国政府托育服务资料（ChildCare.gov）](https://www.childcare.gov/) · [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [NHTSA：儿童安全座椅与增高座椅](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [美国教育统计中心（NCES）](https://nces.ed.gov/) · [CDC：儿童发育里程碑](https://www.cdc.gov/act-early/milestones/index.html)。
 
 最后编辑与来源核验：2026-09-21。第三轮核对2026年受抚养人照护税务变化：照护福利免计入收入额度、费用上限与最高抵免比例，以及出生或收养后的雇主医保、医保市场特别参保窗口，均保留在正文。国税局Publication 503当时仍为2025版，不能用其中旧金额覆盖2026年新规则。另核对托育许可、背景调查、检查记录、机构选择、儿童乘车安全、家庭与医疗休假、工作场所哺乳安排、家庭雇员税务和学区入口。托育豁免、师生比、劳动法、学区边界和福利须按州、机构、雇主与地址核验。

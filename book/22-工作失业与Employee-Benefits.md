@@ -100,7 +100,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 不要为了尽快“清空旧账户”贸然直接提取现金。涉及税后成本基础、转为罗斯账户、大额后门罗斯转换涉及的税后资金、雇主股票及净未实现增值、计划贷款抵销或多个个人退休账户成本基础时，先让计划管理人 / 税务专业人士给出书面对应处理方案，再移动资金。
 
-**比较 / 办理：** [IRS：退休资金转存规则](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [退休计划资金转存（IRS Topic 413）](https://www.irs.gov/taxtopics/tc413) · [IRS：离职后的退休资金转存](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment) · [DOL：退休计划须知](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan)。
+**比较 / 办理：** [IRS：退休资金转存规则](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [退休账户提前提取税务说明（IRS Topic 413）](https://www.irs.gov/taxtopics/tc413) · [IRS：离职后的退休资金转存](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment) · [DOL：退休计划须知](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/what-you-should-know-about-your-retirement-plan)。
 
 ## 12. 离职日期影响哪些权益要书面确认
 
@@ -156,7 +156,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 需要专业意见时先确认代理关系与保密范围，不把公司内部沟通默认当成自己的律师咨询。
 
-**本项目实务边界：** HR / 福利团队是雇主流程入口，不自动构成员工个人法律代理。劳动权益官方入口可从 [美国劳工部：劳动者权益](https://www.worker.gov/) · [美国平等就业机会委员会（EEOC）](https://www.eeoc.gov/)开始；个别法律意见用本州律师目录核验。
+**本项目实务边界：** HR / 福利团队是雇主流程入口，不自动构成员工个人法律代理。劳动权益官方入口可从 [DOL：劳动者权益入口（Worker.gov）](https://www.worker.gov/) · [美国平等就业机会委员会（EEOC）](https://www.eeoc.gov/)开始；个别法律意见用本州律师目录核验。
 
 ## 19. 裁员协议不能只看补偿金额
 

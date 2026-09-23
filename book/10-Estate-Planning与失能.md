@@ -171,6 +171,6 @@
 - [ ] 原件、副本和数字资料可由适当人员取得。
 - [ ] 跨境受理和重大变化后的复查有负责人。
 
-**入口汇总：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [美国国税局：遗产与赠与税](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+**入口汇总：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [IRS：遗产税与赠与税](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 遗产 / 赠与税：基本免税额度为 $15,000,000；年度赠与免计入额度为 $19,000 每位受赠人；符合条件的赠与向非美国公民配偶的 2026 年度免计入额度为 $194,000，并明确“超过年度免计入额度 ≠ 立即产生赠与税账单”。同时补核 SSA 代表收款人制度：普通授权委托书 / 获授权代表 / 联名账户不等于 SSA 代表收款权限；受益人可预先指定最多 3 名未来候选代表收款人，但仍由 SSA 决定是否正式任命。另核对 NIH / NIA 预先照护规划、CFPB POA / 受信义务 / 代他人管理财务、DOL 退休福利及州律师 / 数字遗产入口。遗嘱、POA、见证、公证、受益人、遗产认证程序、信托、州遗产 / 继承税和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。

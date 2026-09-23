@@ -14,25 +14,25 @@
 
 短期也不自动免除工作或税务限制，不能只按天数给行程贴标签。
 
-**旅行总入口：** [美国国务院：International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) · [美国国务院：Planning Your Travel](https://travel.state.gov/en/international-travel/planning.html) · [CDC：按目的地查旅行健康要求](https://wwwnc.cdc.gov/travel/destinations/list/)。美国国务院页面主要服务美国公民；其他国籍仍应查本人护照签发国和目的地官方要求。
+**旅行总入口：** [美国国务院：国际旅行准备清单](https://travel.state.gov/en/international-travel/planning/checklist.html) · [国务院：旅行警示与目的地信息](https://travel.state.gov/en/international-travel/planning.html) · [CDC：按目的地查旅行健康要求](https://wwwnc.cdc.gov/travel/destinations/list/)。美国国务院页面主要服务美国公民；其他国籍仍应查本人护照签发国和目的地官方要求。
 
 ## 2. 入境要求看对应身份的官方信息
 
-以目的地移民部门、使领馆的现行要求为主，核对护照签发国、签证或豁免资格、访问目的和离境材料。航空公司登机查验另行确认。[美国国务院旅行准备入口](https://travel.state.gov/en/international-travel/planning/checklist.html)主要面向美国公民，不能直接替代其他护照持有人的规则。
+以目的地移民部门、使领馆的现行要求为主，核对护照签发国、签证或豁免资格、访问目的和离境材料。航空公司登机查验另行确认。[美国国务院：国际旅行准备清单](https://travel.state.gov/en/international-travel/planning/checklist.html)主要面向美国公民，不能直接替代其他护照持有人的规则。
 
-**美国公民查目的地：** [国务院：Travel Advisories / destination guidance](https://travel.state.gov/en/international-travel/planning.html)。页面会继续链接目的地的入境、出境及签证、护照有效期、使领馆、当地法律和健康信息。
+**美国公民查目的地：** [国务院：旅行警示与目的地信息](https://travel.state.gov/en/international-travel/planning.html)。页面会继续链接目的地的入境、出境及签证、护照有效期、使领馆、当地法律和健康信息。
 
 ## 3. 护照有效期不是统一的六个月
 
 核对目的地对有效期的起算点、空白页和证件状况要求，再检查签证与护照信息是否匹配。不要把他国经验或订票成功当成可入境确认。具体要求从上一节的目的地官方渠道取得。
 
-**美国护照入口：** [美国护照办理](https://travel.state.gov/content/travel/en/passports.html) · [国务院：Passport Application Status](https://passportstatus.state.gov/)。
+**美国护照入口：** [美国护照办理](https://travel.state.gov/content/travel/en/passports.html) · [国务院：护照申请进度查询](https://passportstatus.state.gov/)。
 
 ## 4. 转机地也要检查
 
 分开出票、换机场、重新托运行李、过夜或航班取消，可能改变是否需要入境的判断。按实际机场和航班组合核对过境要求；留一个无法登机或改签后的联系入口。
 
-**核对顺序：** 先查转机国家 / 地区的官方移民部门或使领馆页面，再查实际承运航空公司的转机及行李说明；不要只依赖第三方签证数据库。美国公民也可从[国务院目的地旅行信息](https://travel.state.gov/en/international-travel/planning.html)进入对应国家页面。
+**核对顺序：** 先查转机国家 / 地区的官方移民部门或使领馆页面，再查实际承运航空公司的转机及行李说明；不要只依赖第三方签证数据库。美国公民也可从[国务院：旅行警示与目的地信息](https://travel.state.gov/en/international-travel/planning.html)进入对应国家页面。
 
 ## 5. 境外医疗不能按美国境内体验推断
 
@@ -68,7 +68,7 @@
 
 用另一台受信任设备确认能找到住宿、航班、联系人和账户恢复入口；检查设备锁定、备份和恢复资料。不要把所有恢复码只放在手机里，也不要用公开共享链接保存密码。详细见[网络安全](15-网络安全与身份盗窃.md)。
 
-**设备入口：** [Apple：Lost or Stolen iPhone / iPad](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491)。
+**设备入口：** [Apple：iPhone或iPad遗失、被盗后的处理](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491)。
 
 ## 11. 网络连接之外，也要核对设备与网站
 
@@ -114,7 +114,7 @@
 
 **2026 特殊动态：** DOT 于 2026-07-08 延长一项执法酌处安排至 **2027-07-07**：如果只是航空公司更改航班编号，但旅客已被重新订到新航班编号，且实际运行没有其他重大变更或延误，DOT 暂不因“单纯航班编号变更”而执行原规则下的自动退款要求。不要把这项窄例外理解为普遍取消退款规则。
 
-**航空纠纷入口：** [DOT：航空退款现行消费者规则](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds) · [DOT：机票退款规则与2026年指引](https://www.transportation.gov/airconsumer/ticket-refunds) · [DOT：行李丢失、延误或损坏](https://www.transportation.gov/lost-delayed-or-damaged-baggage) · [DOT：Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。其他国家另查当地监管制度。
+**航空纠纷入口：** [DOT：航空退款现行消费者规则](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds) · [DOT：机票退款规则与2026年指引](https://www.transportation.gov/airconsumer/ticket-refunds) · [DOT：行李丢失、延误或损坏](https://www.transportation.gov/lost-delayed-or-damaged-baggage) · [美国交通部航空消费者保护](https://www.transportation.gov/airconsumer)。其他国家另查当地监管制度。
 
 ## 16. 租车车损与对他人责任分开
 
@@ -162,7 +162,7 @@
 
 国务院境外驾驶说明提醒核对当地接受的驾照与保险；需要国际驾驶许可（International Driving Permit，IDP）时仍须携带有效本国驾照。租车公司愿意交车不代表所有法律和保险条件已满足。
 
-**继续看：** [国务院：境外驾驶与交通安全](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html) · [国务院：International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html)。
+**继续看：** [国务院：境外驾驶与交通安全](https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html) · [美国国务院：国际旅行准备清单](https://travel.state.gov/en/international-travel/planning/checklist.html)。
 
 ## 24. 文件夹可以离线取用，但不要公开
 
@@ -174,7 +174,7 @@
 
 检查异常交易、设备登录、遗失物、医疗后续和保险索赔期限。报案或提交材料后记录回执与下一步；退款、赔款或账户恢复需确认实际完成，再清理不再需要的共享权限。
 
-**返程检查入口：** [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [DOT Aviation Consumer Protection](https://www.transportation.gov/airconsumer)。保险 / 医疗事项仍按实际理赔请求和服务提供方跟进。
+**返程检查入口：** [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [美国交通部航空消费者保护](https://www.transportation.gov/airconsumer)。保险 / 医疗事项仍按实际理赔请求和服务提供方跟进。
 
 ## 26. 最小执行集
 
@@ -184,6 +184,6 @@
 - [ ] 住房、重要邮件与适用照护事项有人接手。
 - [ ] 实际境外工作与长期停留已做额外核对。
 
-**入口汇总：** [美国国务院：旅行准备清单](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC：旅行健康](https://wwwnc.cdc.gov/travel/) · [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [智慧旅客登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [美国交通部：航空消费者保护](https://www.transportation.gov/airconsumer)。详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
+**入口汇总：** [美国国务院：国际旅行准备清单](https://travel.state.gov/en/international-travel/planning/checklist.html) · [CDC：旅行健康](https://wwwnc.cdc.gov/travel/) · [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all) · [智慧旅客登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [美国交通部航空消费者保护](https://www.transportation.gov/airconsumer)。详见[国际旅行清单](../checklists/international-travel.md)，不适用的项目可跳过。
 
 最后编辑与来源核验：2026-09-21。第三轮核对美国交通部航班重大变更退款、退款方式及时间、托运行李延误退费阈值，具体小时数和营业日或自然日区别见正文。同时记录2026-07-08至2027-07-07针对单纯航班编号变更的有限执法酌处安排，不能据此推断普遍取消退款规则。另核对国务院旅行准备、旅客登记、护照丢失、境外驾驶、保险及健康资料，以及疾控中心旅行健康与携药、机场安检物品和医疗协助入口。目的地入境、过境、药品、工作许可、保险合同、航空公司自愿服务和交通法规须按国籍、日期与行程逐项核验。

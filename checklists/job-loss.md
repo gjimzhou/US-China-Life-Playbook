@@ -31,7 +31,7 @@
 - [ ] **不要因为先选 COBRA 就忘记 Marketplace 规则：** 自愿提前终止 COBRA 通常不会单独产生新的 Marketplace SEP；COBRA 正常耗尽或发生其他 qualifying event 则另行判断。
 - [ ] 逐项比较网络、premium、deductible / OOP accumulation、retroactive coverage、首期付款和 family coverage；确认选择已受理且实际生效，不只保留申请截图。
 
-**医保入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：If you lose job-based coverage](https://www.healthcare.gov/have-job-based-coverage/if-you-lose-job-based-coverage/) · [HealthCare.gov：SEP verification documents / 60-day windows](https://www.healthcare.gov/coverage-outside-open-enrollment/confirm-special-enrollment-period/) · [DOL：雇员医保延续保障常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
+**医保入口：** [DOL：医保特别参保常见问题](https://www.dol.gov/node/25147) · [HealthCare.gov：失去雇主医保后的选择](https://www.healthcare.gov/have-job-based-coverage/if-you-lose-job-based-coverage/) · [HealthCare.gov：特别参保期证明与60天申请窗口](https://www.healthcare.gov/coverage-outside-open-enrollment/confirm-special-enrollment-period/) · [DOL：雇员医保延续保障常见问题](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。
 
 ## 现金与税务
 
@@ -59,7 +59,7 @@
 - [ ] 若是 IRA-to-IRA rollover，先确认过去 12 个月是否已做过另一笔 **60-day IRA rollover**；trustee-to-trustee transfer 通常不受 one-rollover-per-year rule 限制。
 - [ ] 确认股权、报销和其他福利的实际到账或失效情况。
 
-**政府 / 福利入口：** [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [IRS：退休资金转存规则](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [IRS Topic 413](https://www.irs.gov/taxtopics/tc413) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。
+**政府 / 福利入口：** [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [IRS：退休资金转存规则](https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions) · [退休账户提前提取税务说明（IRS Topic 413）](https://www.irs.gov/taxtopics/tc413) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。
 
 ## 职业与家庭安排
 

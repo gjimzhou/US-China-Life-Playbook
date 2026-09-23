@@ -9,13 +9,13 @@
 
 先处理安全、医疗、必要住处、儿童或动物照护、关键付款和实际期限。可以安全延后的投资调整、购房、赠与或其他大决定暂缓；不要把本章建议当成固定等待天数或错过期限的理由。
 
-**危机入口：** [美国911应急服务](https://www.911.gov/) · [美国988心理危机热线](https://988lifeline.org/) · [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)。988 适用于美国的 mental health / suicide / substance-use crisis support，不替代需要 911 的即时人身危险。
+**危机入口：** [美国911应急服务](https://www.911.gov/) · [美国988心理危机热线](https://988lifeline.org/) · [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan)。988 适用于美国的心理健康、自杀风险或物质使用危机支持，不替代需要 911 的即时人身危险。
 
 ## 2. 指定自愿协调人，并设置替代
 
 由一位愿意且有能力的人汇总联系与下一步，其他人分担餐食、交通、照护和账单。独居者可找可信亲友或相关服务协助。协调不等于获得医疗、财务或法律代理权。
 
-**本项目方法论：** coordinator 负责信息与任务，不自动获得法律权限；医疗代理参考 [HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html)，财务代理参考 [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
+**本项目方法论：** 协调人负责信息与任务，不自动获得法律权限；医疗代理参考 [HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html)，财务代理参考 [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
 
 ## 3. 把基本生活安排交给具体的人
 
@@ -27,13 +27,13 @@
 
 记录谁说了什么、待确认问题、下一步、负责人和日期。把事实、专业意见与家人推测分开写，重要结论向相关专业人员复述确认。敏感记录只给必要人员。
 
-**本项目方法论：** crisis log 用于减轻记忆负担，不是法律记录格式。敏感资料分享范围参考 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
+**本项目方法论：** 危机处理记录用于减轻记忆负担，不是法律记录格式。敏感资料分享范围参考 [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world)。
 
 ## 5. 大额决定先问是否真的迫切
 
 需要支付治疗、住宿或避免迫近损失的事项不能一律拖延；其他交易先确认期限与可逆性。即使请人帮助复核，也不让对方代替自己作未经授权的决定。
 
-**本项目方法论：** 先区分“有真实 deadline / 会扩大损失”与“可逆 / 可暂缓”决定；法律或财务权限不清时从 [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)或相关机构正式入口确认。
+**本项目方法论：** 先区分“有真实截止日期 / 会扩大损失”与“可逆 / 可暂缓”决定；法律或财务权限不清时从 [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)或相关机构正式入口确认。
 
 ## 6. 身故后先照顾在世的人
 
@@ -63,7 +63,7 @@
 
 商量哪些消息可以告诉谁、用什么渠道、多久更新一次。不必每天向所有亲友汇报，也不要让医疗团队反复向多个未获授权的人说明同一内容。
 
-**本项目实务建议：** 设一个 family update channel 可减少重复沟通；医疗信息披露仍以患者同意、[HHS：医疗隐私法下的个人权利](https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-consumers/index.html)和机构规则为准。
+**本项目实务建议：** 设一个家庭消息更新渠道可减少重复沟通；医疗信息披露仍以患者同意、[HHS：医疗隐私法下的个人权利](https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-consumers/index.html)和机构规则为准。
 
 ## 11. 把帮助写成可接手的任务
 
@@ -77,7 +77,7 @@
 
 这张表只在私人系统填写；没有人接手的任务明确标出，而非默认某位家人会做。
 
-**本项目方法论：** 每项任务写“owner + backup + next step + completion evidence”，避免把“大家都知道”当作已接手。
+**本项目方法论：** 每项任务写“负责人、备用安排、下一步和完成凭证”，避免把“大家都知道”当作已接手。
 
 ## 12. 大额付款独立核实
 
@@ -89,7 +89,7 @@
 
 殡葬、医院、灾后维修或亲属名义的联系都需核对。公开的信息越多，越容易被用来编造可信故事；保留必要隐私，不依据来电显示或熟悉称呼付款。具体防护见[第15章](15-网络安全与身份盗窃.md)。
 
-**继续看：** [FTC：How To Avoid a Scam](https://consumer.ftc.gov/articles/how-avoid-scam) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/)。
+**继续看：** [FTC：防范诈骗](https://consumer.ftc.gov/articles/how-avoid-scam) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/)。
 
 ## 14. 不要把严重身体症状一律归因于情绪
 
@@ -101,13 +101,13 @@
 
 可简短说明：“家里正在处理紧急情况，我们可能回复较慢。”（We’re dealing with a family emergency and may be slow to respond.）不必分享完整经过，也不需要为了礼貌继续承办聚会。若与亲友见面反而提供支持，可以保留本人愿意的联系；减少义务不等于切断支持，更不是所有人的恢复处方。
 
-**本项目实务建议：** 暂停非必要社交是 capacity-management 选择，不设“多久必须恢复”的礼仪期限。
+**本项目实务建议：** 暂停非必要社交是精力安排选择，不设“多久必须恢复”的礼仪期限。
 
 ## 16. 向雇主说明需要的安排
 
 告知目前可联络时间、请假需求和下一次更新方式，按政策向指定部门提交必要证明。只向需要的人提供相应信息；休假期间收入、岗位保护和医保分别核对。
 
-**工作 / 福利入口：** [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [U.S. Department of Labor：医保延续保障（COBRA）](https://www.dol.gov/general/topic/health-plans/cobra)。是否适用取决于 employer、员工资格和具体计划。
+**工作 / 福利入口：** [家庭与医疗休假法（FMLA）](https://www.dol.gov/agencies/whd/fmla) · [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [U.S. Department of Labor：医保延续保障（COBRA）](https://www.dol.gov/general/topic/health-plans/cobra)。是否适用取决于雇主、员工资格和具体计划。
 
 ## 17. 真正的期限单独管理
 
@@ -119,13 +119,13 @@
 
 在急迫事项有人接手后，约一个可调整的复盘时间：哪些已完成，哪些仍待核实，暂缓决定是否需要恢复，照护负担是否可持续。不要求在一至四周内恢复正常，持续事件可以继续简化安排。
 
-**本项目方法论：** review timing 由事件和 capacity 决定，不给悲伤、疾病或失业设置恢复时钟；真正 deadlines 仍按第17节管理。
+**本项目方法论：** 复查时间由事件和当前能力与精力决定，不给悲伤、疾病或失业设置恢复时钟；真正截止日期仍按第17节管理。
 
 ## 19. 事后修补流程，不给家人打分
 
 记录找不到的文件、失效电话、权限缺口和可改善的交接。尊重当时的压力与能力，避免把复盘变成追责会议。把修补写回[家庭紧急手册](30-Household-Emergency-Runbook.md)。
 
-**本项目方法论：** post-incident review 只修流程：入口、权限、备份、资料和 handoff；不用于给家人表现打分。
+**本项目方法论：** 事后回顾只修流程：入口、权限、备份、资料和交接；不用于给家人表现打分。
 
 ## 20. 最小行动清单
 

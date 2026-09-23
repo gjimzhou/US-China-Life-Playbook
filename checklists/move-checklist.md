@@ -10,7 +10,7 @@
 - [ ] 核对电梯、装卸区、停车、搬家许可及楼宇要求的保险证明。
 - [ ] 核验搬家公司、书面报价、物品责任与索赔程序，安排宠物和必要仓储。
 
-**搬家公司核验：** [FMCSA：Protect Your Move](https://www.fmcsa.dot.gov/protect-your-move) · [FMCSA：查询注册搬家公司](https://www.fmcsa.dot.gov/protect-your-move/search-mover)。州内搬家还要查本州监管机关。
+**搬家公司核验：** [FMCSA：搬家消费者保护](https://www.fmcsa.dot.gov/protect-your-move) · [FMCSA：查询注册搬家公司](https://www.fmcsa.dot.gov/protect-your-move/search-mover)。州内搬家还要查本州监管机关。
 
 ## 保险与公共服务
 
@@ -37,7 +37,7 @@
 - [ ] **跨州 Marketplace：** 进入新州后通常需要按新州创建 / 提交新的 Marketplace application，而不是把旧州 plan 直接改地址继续使用。确认旧 coverage end date、新 coverage effective date 和 first premium，避免 gap / overlap。
 - [ ] 转移必要病历、处方与预约，避免搬家造成关键用药中断。
 
-**Marketplace 搬家入口：** [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：How to report a move](https://www.healthcare.gov/reporting-changes/when-you-move/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
+**Marketplace 搬家入口：** [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [HealthCare.gov：向医保市场报告搬家](https://www.healthcare.gov/reporting-changes/when-you-move/) · [CMS：特别参保期工作参考（2026年3月）](https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf)。
 
 ## 搬出前
 

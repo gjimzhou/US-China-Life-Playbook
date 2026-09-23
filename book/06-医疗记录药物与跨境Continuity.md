@@ -111,7 +111,7 @@
 
 出发前与医生、药师和保险方确认药量、续药时间、提前配药限制，以及是否可申请旅行提前配药例外（vacation override）。
 
-**旅行用药入口：** [CDC：携药出境](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) · [CDC旅行健康黄皮书：受限制药物](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html) · [美国运输安全管理局（TSA）：药物安检](https://www.tsa.gov/travel/security-screening/whatcanibring/medical)。TSA 只解决美国机场安检；目的地和转机国合法性仍查当地官方规则。
+**旅行用药入口：** [CDC：携药出境](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) · [CDC旅行健康黄皮书：受限制药物](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html) · [TSA：药品安检规则](https://www.tsa.gov/travel/security-screening/whatcanibring/medical)。TSA 只解决美国机场安检；目的地和转机国合法性仍查当地官方规则。
 
 ## 13. 冷链药物要有温度异常预案
 
@@ -127,7 +127,7 @@
 
 不要用美国处方代替入境许可判断。旅行相关入口见[国际旅行清单](../checklists/international-travel.md)。
 
-**查管制药 / 目的地规则：** [国际麻醉品管制局（INCB）：旅客携带管制药物](https://www.incb.org/incb/en/travellers/index.html) · [CDC：携药出境](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) · [美国国务院：各国旅行信息](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages.html)。INCB 只汇总部分国家提交的信息，最终仍以目的地 / 转机地政府或使领馆最新要求为准。
+**查管制药 / 目的地规则：** [国际麻醉品管制局（INCB）：旅客携带管制药物](https://www.incb.org/incb/en/travellers/index.html) · [CDC：携药出境](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) · [U.S. State Department：各国旅行信息](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages.html)。INCB 只汇总部分国家提交的信息，最终仍以目的地 / 转机地政府或使领馆最新要求为准。
 
 ## 15. 紧急信息要能离线找到
 

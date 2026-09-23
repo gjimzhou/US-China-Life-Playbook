@@ -12,7 +12,7 @@
 - [ ] 必要时按厂商说明远程抹除，先评估备份与证据；不要因陌生“找回手机”消息交出密码。
 - [ ] 恢复新设备和认证方式，撤销旧设备会话，按情况报警或联系保险。
 
-**直接入口：** [Apple：设备遗失或被盗](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491) · [FTC：手机卡转移诈骗](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
+**直接入口：** [Apple：iPhone或iPad遗失、被盗后的处理](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491) · [FTC：手机卡转移诈骗](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
 
 ## 主要邮箱被入侵
 

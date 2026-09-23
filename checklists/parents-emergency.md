@@ -99,7 +99,7 @@
 
 先建立现场照护，不把所有处理都推迟到子女落地。
 
-**返程与证件：** 按子女本人国籍 / 身份从对应使领馆和入境机关核对；美国旅行文件可从[国务院 International Travel](https://travel.state.gov/content/travel/en/international-travel.html)进入。
+**返程与证件：** 按子女本人国籍 / 身份从对应使领馆和入境机关核对；美国旅行文件可从[State Department：国际旅行](https://travel.state.gov/content/travel/en/international-travel.html)进入。
 
 ## 尊重父母意愿
 

@@ -6,7 +6,7 @@
 
 先写下购买的主要目的：日常使用、兴趣收藏，还是预期出售获利。存在二手市场不代表随时能按标价卖出；不要为了合理化消费而假设固定升值率。
 
-**本项目实务建议：** 这是资产用途分类框架，不是对任何收藏品回报率的预测。把“消费 / 收藏 / 投资”分开，是为了后续决定保险、流动性和退出安排。投资类判断另从 [Investor.gov](https://www.investor.gov/)核对风险与专业人士。
+**本项目实务建议：** 这是资产用途分类框架，不是对任何收藏品回报率的预测。把“消费 / 收藏 / 投资”分开，是为了后续决定保险、流动性和退出安排。投资类判断另从 [美国证券交易委员会投资者教育（Investor.gov）](https://www.investor.gov/)核对风险与专业人士。
 
 ---
 
@@ -30,7 +30,7 @@
 
 不要从住房保险总保额推断每件珠宝都获足额保障。请经纪按保单回答下表，并指出具体条款。
 
-**继续看：** [NAIC：Homeowners and Renters Insurance — valuables / jewelry](https://content.naic.org/article/consumer-insight-homeowners-and-renters-insurance) · [NAIC：Learn How to Insure Expensive Jewelry & Gifts](https://content.naic.org/article/consumer-insight-learn-how-insure-expensive-jewelry-gifts) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
+**继续看：** [NAIC：房屋与租客保险中的贵重物品保障](https://content.naic.org/article/consumer-insight-homeowners-and-renters-insurance) · [NAIC：贵重首饰与礼物如何投保](https://content.naic.org/article/consumer-insight-learn-how-insure-expensive-jewelry-gifts) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 | 要问的问题 | 需要确认的内容 |
 |---|---|
@@ -46,7 +46,7 @@
 
 评估单件损失及同一地点全部损失对现金流的影响。能够承受经济损失，不等于能补回纪念意义；可以选择少带、分散存放或投保，而不必为所有东西购买相同保障。
 
-**本项目实务建议：** 这是 self-insurance / concentration-risk 的家庭判断，不存在统一保额公式。实际保险结构与州监管入口见 [NAIC：消费者保险资料](https://content.naic.org/consumer)。
+**本项目实务建议：** 这是自行承担损失 / 集中风险的家庭判断，不存在统一保额公式。实际保险结构与州监管入口见 [NAIC：消费者保险资料](https://content.naic.org/consumer)。
 
 ---
 
@@ -54,7 +54,7 @@
 
 保险、出售、捐赠、离婚或遗产使用的估价可能有不同标准。请估价人说明用途、日期、方法和资格，不把商家的零售重置估价直接当成可成交市价。涉及报税或诉讼时，先让相应专业人士明确报告要求。
 
-**税务估价入口：** [IRS Publication 561 — Determining the Value of Donated Property](https://www.irs.gov/publications/p561) · [IRS：Form 8283](https://www.irs.gov/forms-pubs/about-form-8283) · [IRS：Instructions for Form 8283](https://www.irs.gov/instructions/i8283)。这些规则针对 charitable contribution，不是保险估价或离婚估价的通用标准。
+**税务估价入口：** [捐赠财产估值指南（IRS Publication 561）](https://www.irs.gov/publications/p561) · [IRS：非现金慈善捐赠表（Form 8283）](https://www.irs.gov/forms-pubs/about-form-8283) · [IRS：非现金慈善捐赠表说明（Form 8283）](https://www.irs.gov/instructions/i8283)。这些规则针对慈善捐赠，不是保险估价或离婚估价的通用标准。
 
 ---
 
@@ -62,7 +62,7 @@
 
 原价、经销商挂牌价、拍卖落槌价、出售净收入和保险估值是不同数字。清单注明价格来源与日期；调整保额前与经纪确认，不机械沿用购买价格。
 
-**本项目实务建议：** 这里是在区分 valuation purpose，不声明某一价格一定代表“真实价值”。慈善捐赠用途另按 [IRS Publication 561](https://www.irs.gov/publications/p561)，保险用途回到实际 insurer / appraisal requirements。
+**本项目实务建议：** 这里是在区分估价目的，不声明某一价格一定代表“真实价值”。慈善捐赠用途另按 [捐赠财产估值指南（IRS Publication 561）](https://www.irs.gov/publications/p561)，保险用途回到实际保险公司 / 估价要求。
 
 ---
 
@@ -70,7 +70,7 @@
 
 发票、鉴定证书、来源记录（Provenance）、原配附件和进出口文件有助于解释物品历史。记录缺失情况，不为提高售价编造完整来源。
 
-**本项目实务建议：** 记录 provenance 是为了理赔、真伪、转售与继承时能说明来源；涉及艺术品或疑似赃物可参考 [FBI：Art Crime Team](https://www.fbi.gov/investigate/violent-crime/art-theft) 与 [National Stolen Art File](https://artcrimes.fbi.gov/)。
+**本项目实务建议：** 记录来源与流转历史，是为了在理赔、真伪核验、转售与继承时能说明来源；涉及艺术品或疑似赃物可参考 [FBI：艺术品犯罪调查组](https://www.fbi.gov/investigate/violent-crime/art-theft) 与 [美国被盗艺术品数据库](https://artcrimes.fbi.gov/)。
 
 ---
 
@@ -78,7 +78,7 @@
 
 保存维修机构、日期、项目、替换零件、保修和前后照片。未来转售或理赔时，能够区分原始状态与后续改动。
 
-**本项目实务建议：** 维修档案是 provenance / condition record 的一部分；具体品牌是否要求 authorized service、维修是否影响 warranty 或 resale，回到制造商和交易平台规则。
+**本项目实务建议：** 维修档案是来源与流转记录 / 物品状态记录的一部分；具体品牌是否要求授权维修、维修是否影响质保或转售，回到制造商和交易平台规则。
 
 ---
 
@@ -86,7 +86,7 @@
 
 拍摄外观与识别标记，取得详细收件凭证，问清运输保障、维修授权、旧件归还和无法修复的处理。稀有物品的更换、抛光或修复先确认对价值的可能影响。
 
-**本项目实务建议：** 送修前的 condition record 与书面 intake receipt 用于减少交接争议；维修授权、运输责任和 warranty 以实际 service center / carrier 条款为准。
+**本项目实务建议：** 送修前的物品状态记录与书面收件凭证用于减少交接争议；维修授权、运输责任和质保以实际维修中心或承运人条款为准。
 
 ---
 
@@ -94,7 +94,7 @@
 
 向承运人和保险人分别核对责任上限、物品除外、包装、签收、途中保障和索赔期限。发货前明确由谁承担风险、保存什么证据；追踪显示“已送达”不能解决全部争议。
 
-**操作原则：** 使用实际承运人的官方 declared-value / prohibited-items / claims 页面核对，而不是第三方攻略；同时向自己的 insurer 书面确认 transit coverage。不同承运人的“declared value”不应自动理解为独立保险。可先从 [USPS：Insurance & Extra Services](https://www.usps.com/ship/insurance-extra-services.htm)理解“邮政责任 / 额外保障”和独立保险不是同一概念；FedEx / UPS 等则必须看各自当前 terms。
+**操作原则：** 使用实际承运人的官方申报价值、禁运物品或索赔页面核对，而不是第三方攻略；同时向自己的保险公司书面确认运输保障。不同承运人的“申报价值”不应自动理解为独立保险。可先从 [USPS：邮寄保险与附加服务](https://www.usps.com/ship/insurance-extra-services.htm)理解“邮政责任 / 额外保障”和独立保险不是同一概念；FedEx / UPS 等则必须看各自当前条款。
 
 ---
 
@@ -102,7 +102,7 @@
 
 酒店保险箱、前台寄存或随身携带都不是绝对安全。结合物品大小、行程、保单要求和可接受损失决定是否携带，保存寄存凭证，避免实时公开存放位置。
 
-**本项目实务建议：** 不存在统一的“最佳存放方式”；先核对 insurer 的 travel / off-premises 条款、酒店书面保管条件和当地风险，再决定是否携带。
+**本项目实务建议：** 不存在统一的“最佳存放方式”；先核对保险公司的旅行或异地存放条款、酒店书面保管条件和当地风险，再决定是否携带。
 
 ---
 
@@ -110,7 +110,7 @@
 
 贵重小件若能合法、安全随身携带，通常更容易自行看管；但仍需遵守安检与航空公司要求。必须托运时，核对承运及保险保障，拍照并保存交接凭证。
 
-**美国安检入口：** [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all)；航空公司对 checked baggage 中贵重物品的责任限制另查 operating carrier 的 current contract of carriage。
+**美国安检入口：** [TSA：安检可携带物品查询](https://www.tsa.gov/travel/security-screening/whatcanibring/all)；航空公司对托运行李中贵重物品的责任限制另查实际承运航空公司的当前运输合同。
 
 ---
 
@@ -120,7 +120,7 @@
 
 美国海关的个人物品登记表（Form 4457）可用于符合条件、有序列号或其他永久独特标记的外国来源物品。法规要求向海关人员出示物品与未签名表格办理核验；不是自行填表就完成登记。出发前向办理口岸确认安排。
 
-**直接办理 / 原文：** [CBP：Form 4457 官方 landing page](https://www.cbp.gov/document/forms/form-4457-certificate-registration-personal-effects-taken-abroad?language_content_entity=en)（页面内提供当前 PDF） · [CBP：Registration for Dutiable Personal Articles Prior to U.S. Departure](https://www.help.cbp.gov/s/article/Article1833) · [19 CFR 148.1](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1)。当前 CBP 说明要求出发前把物品带到 CBP office，由 officer 核对并签署；表格本身不是自行下载、填完就生效。办理前向实际 CBP port 确认地点、时间和是否需预约。
+**直接办理 / 原文：** [CBP：Form 4457 官方 landing page](https://www.cbp.gov/document/forms/form-4457-certificate-registration-personal-effects-taken-abroad?language_content_entity=en)（页面内提供当前 PDF） · [CBP：离美前办理个人物品登记](https://www.help.cbp.gov/s/article/Article1833) · [个人物品出境登记法规（19 CFR 148.1）](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1)。当前 CBP 说明要求出发前把物品带到美国海关办事处，由官员核对并签署；表格本身不是自行下载、填完就生效。办理前向实际美国海关口岸确认地点、时间和是否需预约。
 
 ---
 
@@ -128,7 +128,7 @@
 
 原有物品在境外维修或改装，不能仅凭旧购买证明排除税务问题。第148.31条对维修改装与旅途中使用磨损附带维修作了区分。保存工单和费用，向海关说明，不自行推定全部免税。
 
-**官方原文：** [19 CFR 148.31 — Repairs and alterations](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。
+**官方原文：** [境外维修与改装申报法规（19 CFR 148.31）](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。
 
 ---
 
@@ -138,17 +138,17 @@
 
 第148.11条规定入境物品的申报义务。对境外购买、获赠或维修的物品，准备清单与凭证，按海关要求说明；不确定适用分类时主动询问。
 
-**继续看：** [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [19 CFR 148.11 — Declaration required](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.11)。
+**继续看：** [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [入境申报义务法规（19 CFR 148.11）](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.11)。
 
 ---
 
 ## 17. 免税额度不是免申报
 
-申报与是否缴税是两件事。CBP 于 2026-02-27 更新的 consumer guidance 说明，returning U.S. resident 的 personal duty-free exemption **多数情况为 800 美元**，但根据访问地区等因素也可能是 200 或 1,600 美元。常见 800 美元 exemption 还要求物品用于本人 / 家庭或赠礼、随本人携带、已向 CBP 申报，通常境外停留至少 48 小时，并且过去 30 天未使用全部或部分 exemption；Mexico、U.S. Virgin Islands 等存在特定例外。
+申报与是否缴税是两件事。CBP 于 2026-02-27 更新的消费者指引说明，返美的美国居民的个人免税额度 **多数情况为 800 美元**，但根据访问地区等因素也可能是 200 或 1,600 美元。常见 800 美元免税额度还要求物品用于本人 / 家庭或赠礼、随本人携带、已向 CBP 申报，通常境外停留至少 48 小时，并且过去 30 天未使用全部或部分免税额度；墨西哥、美属维尔京群岛等存在特定例外。
 
-所以不要把“$800”背成无条件规则，更不要把“低于 $800”理解为不用申报。境外购买、获赠、修理 / 改装和需要申报的受限制物品，都先如实说明，由 CBP 判断具体 exemption 与 duty。
+所以不要把“$800”背成无条件规则，更不要把“低于 $800”理解为不用申报。境外购买、获赠、修理 / 改装和需要申报的受限制物品，都先如实说明，由 CBP 判断具体免税额度与关税。
 
-**继续看：** [CBP：Duty-Free Exemption — 2026-02-27 updated guidance](https://www.help.cbp.gov/s/article/Article-1402?language=en_US) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [19 CFR Part 148](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
+**继续看：** [CBP：个人免税额度指引（2026-02-27更新）](https://www.help.cbp.gov/s/article/Article-1402?language=en_US) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information) · [个人入境物品海关法规（19 CFR Part 148）](https://www.ecfr.gov/current/title-19/chapter-I/part-148)。
 
 ---
 
@@ -156,11 +156,11 @@
 
 出发前向美国海关、入境州酒类主管机构及航空公司核对年龄、数量、税费、个人或商业用途、携带与运输要求。
 
-CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅供个人使用且不违反入境州法律时，**1 liter alcoholic beverage 通常可包含在 duty-free personal exemption 内**。超过这一 duty-free 数量并不自动等于禁止携带：额外酒类可能需要缴 Customs duty 与 Internal Revenue Tax；联邦层面并没有为所有 personal-use alcohol 设一个统一绝对数量上限，但 unusually large quantities 可能使 CBP 判断为 commercial purpose，并触发 permit / formal entry 等要求。州法还可能比联邦规则更严格。
+CBP 当前指引的一般返美居民规则是：年满 21 岁、仅供个人使用且不违反入境州法律时，**一升酒类饮品通常可包含在个人免税额度内**。超过这一免税数量并不自动等于禁止携带：额外酒类可能需要缴海关关税与国内税；联邦层面并没有为所有自用酒类设一个统一绝对数量上限，但异常大量可能使 CBP 判断为商业用途，并触发许可或正式报关等要求。州法还可能比联邦规则更严格。
 
-因此本章不把“1 liter”写成携带总量上限，也不提供通用于所有口岸的酒类数量表。中国出入境、航空运输与目的地规则也需另外核对。
+因此本章不把“一升”写成携带总量上限，也不提供通用于所有口岸的酒类数量表。中国出入境、航空运输与目的地规则也需另外核对。
 
-**美国入口：** [CBP：Bringing alcohol into the U.S. for personal use](https://www.help.cbp.gov/s/article/Article-1395?language=en_US) · [CBP：Requirements for importing alcohol for personal use](https://www.help.cbp.gov/s/article/Article-1403?language=en_US) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。州 ABC 规则仍需另查。
+**美国入口：** [CBP：携带自用酒类入境美国](https://www.help.cbp.gov/s/article/Article-1395?language=en_US) · [CBP：自用酒类进口要求](https://www.help.cbp.gov/s/article/Article-1403?language=en_US) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。州 ABC 规则仍需另查。
 
 ---
 
@@ -168,7 +168,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 按具体酒类的保存要求管理温度、光照、振动和环境，记录购入与转移历史。设置适合储存设施的故障提醒和断电处置，不把标签完整当作储存状态可靠的证明。
 
-**本项目实务建议：** 葡萄酒等收藏没有一套适用于所有产品和设施的政府储存参数；以 producer / professional storage facility 的书面要求、设备说明和实际保险条件为准。
+**本项目实务建议：** 葡萄酒等收藏没有一套适用于所有产品和设施的政府储存参数；以生产商或专业储存设施的书面要求、设备说明和实际保险条件为准。
 
 ---
 
@@ -176,7 +176,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 向保险人分别询问破损、渗漏、温度变化、停电和设备失灵是否承保，需要哪些记录。储存设施提供的保障与个人保单是否重叠或有缺口，也应写清。
 
-**保险入口：** [NAIC：房屋保险](https://content.naic.org/insurance-topics/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。酒类、艺术品等特殊 collection policy 的承保项目必须看实际 policy wording。
+**保险入口：** [NAIC：房屋保险](https://content.naic.org/insurance-topics/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。酒类、艺术品等特殊收藏品保单的承保项目必须看实际保单条款。
 
 ---
 
@@ -184,7 +184,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 记录作品、尺寸、来源、状态、装裱、安装和运输历史。脆弱、体积大或价值重大的作品，可请熟悉该类作品的搬运或保护人员评估；先确定包装、环境和交接责任。
 
-**保存参考：** [史密森尼美国艺术博物馆：藏品养护与专业修复](https://americanart.si.edu/research/my-art/care)提供藏品保存的一般入口；高价值作品的包装、安装和运输仍应由熟悉该媒介的专业人员按具体 condition 处理。
+**保存参考：** [史密森尼美国艺术博物馆：藏品养护与专业修复](https://americanart.si.edu/research/my-art/care)提供藏品保存的一般入口；高价值作品的包装、安装和运输仍应由熟悉该媒介的专业人员按具体物品状态 处理。
 
 ---
 
@@ -192,7 +192,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 独立查看卖方历史、鉴定范围、退货条件、付款保护和所有权说明。所谓鉴定保障覆盖什么、谁受理争议，应有明确文件；异常低价不能代替核验。
 
-**消费者入口：** [FTC：网上购物](https://consumer.ftc.gov/articles/online-shopping) · [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/)；涉及奢侈品真伪还应查品牌、平台或独立鉴定服务的书面 guarantee / dispute terms。
+**消费者入口：** [FTC：网上购物](https://consumer.ftc.gov/articles/online-shopping) · [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/)；涉及奢侈品真伪还应查品牌、平台或独立鉴定服务的书面保证与争议处理条款。
 
 ---
 
@@ -200,7 +200,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 疑似侵权、来源不明或可能涉及受保护材料的物品，先核对交易及进出口限制，再决定是否购买或携带。
 
-**查限制：** [CBP：Prohibited and Restricted Items](https://www.help.cbp.gov/s/article/Article-1931?language=en_US) · [CBP：Personal Use Exemption from Trademark Restrictions](https://www.help.cbp.gov/s/article/Article1858?language=en_US) · [U.S. Fish & Wildlife Service：Elephant Ivory FAQ](https://www.fws.gov/frequently-asked-questions-about-elephant-ivory)。受保护动物材料、象牙、皮革、珊瑚等不能按普通奢侈品规则推断。
+**查限制：** [CBP：禁止与限制入境物品](https://www.help.cbp.gov/s/article/Article-1931?language=en_US) · [CBP：商标限制的个人自用例外](https://www.help.cbp.gov/s/article/Article1858?language=en_US) · [U.S. Fish & Wildlife Service：象牙规定常见问题](https://www.fws.gov/frequently-asked-questions-about-elephant-ivory)。受保护动物材料、象牙、皮革、珊瑚等不能按普通奢侈品规则推断。
 
 ---
 
@@ -208,7 +208,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 分享收藏时遮去序列号、地址、保单与钥匙信息。旅行结束后再发布行程照片，是可选择的简单做法；不要同时公开空房时间与完整收藏位置。
 
-**安全参考：** [FTC：Protect Your Personal Information and Data](https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers)；“延迟发布旅行照片”属于本项目降低实时暴露的可选做法。
+**安全参考：** [FTC：保护个人信息与数据](https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers)；“延迟发布旅行照片”属于本项目降低实时暴露的可选做法。
 
 ---
 
@@ -216,7 +216,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 比较防盗、防火、防水、安装条件、报警、访问权限和保险要求。保险柜、银行保管箱或专业仓储各有不同条件，重量和外观不能代替性能与合同核对。
 
-**清单 / 理赔准备：** [NAIC：家庭财物清单](https://content.naic.org/consumer/home-inventory) · [NAIC：What You Need to Know When Filing a Homeowners Claim](https://content.naic.org/article/what-you-need-know-when-filing-homeowners-claim)。
+**清单 / 理赔准备：** [NAIC：家庭财物清单](https://content.naic.org/consumer/home-inventory) · [NAIC：房屋保险理赔须知](https://content.naic.org/article/what-you-need-know-when-filing-homeowners-claim)。
 
 ---
 
@@ -232,7 +232,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 护照、遗嘱原件或紧急资金若仅存于本人控制的银行保管箱，失能或死亡后可能不便及时取得。向银行与律师核对访问手续，安排合法可用的替代路径，不默认家属持钥匙就能开箱。
 
-**本项目实务建议：** safe-deposit-box 的访问权取决于州法、账户合同和授权文件；不要把“有钥匙”当成法律权限。失能授权参考 [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
+**本项目实务建议：** 银行保管箱的访问权取决于州法、账户合同和授权文件；不要把“有钥匙”当成法律权限。失能授权参考 [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
 
 ---
 
@@ -240,7 +240,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 独立核验买方、中介或托管服务，拒绝只凭付款截图交货。合同写清鉴定争议、退款、运输责任与交接证据；线下面交也要选择合适场所和安全安排。
 
-**防诈骗入口：** [FTC：网上购物](https://consumer.ftc.gov/articles/online-shopping) · [联邦调查局网络犯罪举报（FBI IC3）](https://www.ic3.gov/)；具体平台 escrow / payout / chargeback 条件以实际服务条款为准。
+**防诈骗入口：** [FTC：网上购物](https://consumer.ftc.gov/articles/online-shopping) · [联邦调查局网络犯罪举报（FBI IC3）](https://www.ic3.gov/)；具体平台第三方托管、付款或争议退款条件以实际服务条款为准。
 
 ---
 
@@ -248,7 +248,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 向经销商或拍卖行索取费用明细，区分卖方佣金、买方佣金、运输、保险、摄影、撤拍及税费。明确哪些从自己的款项扣除，比较净收入与到账时间，而不是只比较落槌价。
 
-**本项目实务建议：** 比较 sale proceeds 应使用实际 seller agreement / consignment terms 计算净到账，不用公开 hammer price 推断自己的 proceeds。税务处理按资产和持有情况另行核对。
+**本项目实务建议：** 比较出售收入应使用实际卖方协议或寄售条款计算净到账，不用公开落槌价推断自己的到账金额。税务处理按资产和持有情况另行核对。
 
 ---
 
@@ -256,7 +256,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 让合法执行人能够找到清单、来源文件和专业联系人，说明重要纪念物品的分配意愿。涉及多人继承时，提前考虑估价与公平分配方法，并让律师确认表达意愿的文件是否有效。
 
-**继续看：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)；物品分配效力仍按州法和 estate-planning 文件确认。
+**继续看：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)；物品分配效力仍按州法和遗产规划文件确认。
 
 ---
 
@@ -264,7 +264,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 记录日期、物品、双方及是否真正转移所有权，移交必要凭证并调整保险。重大或跨境赠与的申报、计税基础及继承影响，请税务与法律专业人士分别核对。
 
-**税务入口：** [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：Estate and Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)（继承与 estate administration）。
+**税务入口：** [IRS：赠与税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) · [IRS：遗产税与赠与税](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)（继承与 estate administration）。
 
 ---
 
@@ -272,7 +272,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 借给朋友、交给商家寄售或送展，可能改变保管人与风险条件。书面约定期限、状态、运输和损坏处理，并让保险人确认对应情形。
 
-**本项目实务建议：** loan / consignment / exhibition 会改变 possession 和 risk allocation；先取得书面 agreement，再向 insurer 确认 off-premises / transit / consignment coverage。州保险监管入口见 [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
+**本项目实务建议：** 出借、寄售或展览会改变占有和风险分担；先取得书面协议，再向保险公司确认异地、运输或寄售保障。州保险监管入口见 [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ---
 
@@ -298,7 +298,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 购买、搬家或借出重大物品时及时更新，不必等到年底。
 
-**复查参考：** [NAIC：家庭财物清单](https://content.naic.org/consumer/home-inventory)；保险变更或新增物品后同时向实际 carrier 核对 scheduled limits / appraisal requirements。
+**复查参考：** [NAIC：家庭财物清单](https://content.naic.org/consumer/home-inventory)；保险变更或新增物品后同时向实际保险公司 核对列明限额或估价要求。
 
 ---
 
@@ -310,6 +310,6 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 ## 本轮核验范围与限制
 
-本轮已重新核对 CBP Form 4457 当前 landing page、2025-11-04 更新的个人物品出境前登记说明，以及 CBP **2026-02-27** 更新的 Duty-Free Exemption guidance：returning U.S. resident 多数情况 personal exemption 为 $800，但存在 $200 / $1,600 等情形和 48-hour / 30-day 等条件；免税不等于免申报。酒类部分重新核对 CBP 当前规则：符合条件时一般 1 liter 可纳入 duty-free allowance，但超出不等于自动禁止，仍可能缴 duty / IRT，并受州法与 commercial-purpose 判断影响。另核对 Customs Duty / prohibited-items、19 CFR Part 148、NAIC valuables / home inventory / homeowners resources、IRS noncash-donation appraisal / Form 8283，以及 Fish & Wildlife 的象牙 / wildlife-material 限制入口。各州酒类规则、中国海关要求、其他受保护材料、运输合同、个别 collection policy、拍卖 / 寄售合同与非慈善用途估价标准仍须逐项核验；本章不作真伪、市场价值或赔付保证。
+本轮已重新核对个人物品出境登记表（CBP Form 4457）、2025-11-04更新的登记说明，以及2026-02-27更新的个人免税额度指引。正文保留返美居民常见额度及例外、境外停留和使用间隔条件，并区分免税与申报、酒类免税数量与携带总量。另核对海关税费与禁限物品、保险及财物清单、非现金捐赠估价和Form 8283、象牙及野生动物材料限制入口。各州酒类规则、中国海关要求、运输合同、收藏品保单、拍卖寄售合同与非慈善用途估价标准仍须逐项核验；本章不作真伪、市场价值或赔付保证。
 
 最后编辑与来源查阅：2026-09-21

@@ -10,7 +10,7 @@
 
 Amazon 当前的 Send to Kindle 支持 EPUB、PDF、DOCX、HTML 等个人文档格式。对于这本以长篇文字、标题、表格和链接为主的指南，**EPUB 是最适合 Kindle 的可重排版本**：字号、行距和页面会跟随设备调整。
 
-下载 EPUB 后可使用 [Amazon Send to Kindle](https://www.amazon.com/sendtokindle) 发送到自己的 Kindle library。
+下载 EPUB 后可使用 [亚马逊电子书发送服务（Send to Kindle）](https://www.amazon.com/sendtokindle) 发送到自己的 Kindle library。
 
 **Amazon 格式说明：** [Send to Kindle 支持的文件类型](https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu)。
 

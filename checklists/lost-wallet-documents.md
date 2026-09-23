@@ -39,7 +39,7 @@
 
 在美国境内丢失／被盗／损毁的绿卡，通常通过 I-90表格补卡路径处理。美国公民及移民服务局（USCIS）当前 I-90填表说明明确列有遗失／被盗／损毁的申请理由。
 
-**官方入口：** [美国公民及移民服务局（USCIS）表格 I-90](https://www.uscis.gov/i-90)。
+**官方入口：** [USCIS：绿卡补换与更新（Form I-90）](https://www.uscis.gov/i-90)。
 
 I-90补卡不适用于所有“需要新卡”的情形；例如有条件居民解除条件另有表格，按官方说明选择。
 
@@ -76,6 +76,6 @@ I-90补卡不适用于所有“需要新卡”的情形；例如有条件居民�
 
 若当前需要向雇主证明工作资格，让人力资源部门按适用的I-9文件及收据规则核对，并向代理律师确认个人身份和工作许可情况。
 
-**官方入口：** [移民局：工作许可卡及补卡说明](https://www.uscis.gov/green-card/green-card-processes-and-procedures/employment-authorization-document) · [I-765申请入口](https://www.uscis.gov/i-765) · [卡片未收到的查询入口](https://egov.uscis.gov/e-request/ndc)。本轮取得官方搜索摘要；未把当前费用、版本、全部补卡或雇佣核验条件视为已核实。
+**官方入口：** [移民局：工作许可卡及补卡说明](https://www.uscis.gov/green-card/green-card-processes-and-procedures/employment-authorization-document) · [USCIS：工作许可申请（Form I-765）](https://www.uscis.gov/i-765) · [卡片未收到的查询入口](https://egov.uscis.gov/e-request/ndc)。本轮取得官方搜索摘要；未把当前费用、版本、全部补卡或雇佣核验条件视为已核实。
 
 最后编辑与来源核验：2026-09-23。国务院报失失效规则已重新核对；移民局页面本轮取得官方索引／摘要，未把承运文件的所有资格条件视为已核验。美国护照和境外补办路径依据国务院当前页面；绿卡补办依据美国公民及移民服务局（USCIS） I-90 / I-131A 当前路径。州车辆管理部门（DMV）和外国护照规则按实际签发机关办理。

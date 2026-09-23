@@ -105,7 +105,7 @@
 - **第02章 CDC 成人疫苗：** 2026-09-21 重新访问 CDC 当前 Adult Immunization Schedule；主页面仍标注 **2025 recommendations + 2025-07-02 addendum**。因此正文继续明确“不把它冒充为已完整核实的 2026 成人总表”，不擅自编造不存在的新版年份。
 - **第39章家庭雇员：** 重新核对 IRS **Publication 926 (2026)**；2026 年同一 household employee 的 Social Security / Medicare cash-wage threshold 仍为 **$3,000**，FUTA 测试仍为 **2025 或 2026 任一季度向全部 household employees 支付合计 $1,000**。正文当前数字无须修改。
 - **第21章 childcare：** 重新核对 ChildCare.gov 的 Child Care Search、licensing 与 state-resource 入口；继续保留“license-exempt、ratio、inspection、background check 依州 / territory”边界，不写成全国统一标准。
-- **第37章 USCIS：** 把旧的 `/e-request/Intro.do` deep-link 换成当前稳定的 [USCIS e-Request landing page](https://egov.uscis.gov/e-request)，降低页面结构变化造成的失效风险。
+- **第37章 USCIS：** 把旧的 `/e-request/Intro.do` deep-link 换成当前稳定的 [移民案件在线查询请求入口](https://egov.uscis.gov/e-request)，降低页面结构变化造成的失效风险。
 - **第40章 + 国际旅行清单 CBP Form 4457：** 不再把 2024 文件路径 PDF 当主要入口，改为 CBP 当前 Form 4457 landing page，并补入当前 “Registration for Dutiable Personal Articles Prior to U.S. Departure” 使用说明；PDF 作为 landing page 内的附件获取。
 - **第07章保险：** 删除作为主参考的 2012 NJDOBI homeowners / renters press release，换成当前 NJDOBI Homeowner consumer hub / Home Insurance Basics / extreme-weather 页面。
 - **第31章 umbrella insurance：** 删除 2015 NJDOBI press release 作为产品结构主解释，换成当前州监管机构消费者说明，并明确这只是 umbrella / excess liability 的产品结构解释，不把某州规则推广全国。

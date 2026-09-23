@@ -32,31 +32,31 @@
 
 向登记机构或协助办理的殡葬方询问认证副本（Certified copy）的申请。先列出各机构需要原件、认证副本、普通副本还是上传件，再决定份数；同时核对姓名等信息是否正确。
 
-**申请入口：** [USA.gov：死亡证明](https://www.usa.gov/death-certificate)。实际签发机关通常是州、县或当地 vital records office。
+**申请入口：** [USA.gov：死亡证明](https://www.usa.gov/death-certificate)。实际签发机关通常是州、县或当地重要民事记录办公室。
 
 ## 5. 确认社会保障署已收到死亡报告
 
 SSA 说明指出殡葬机构通常报告死亡；若没有参与或未报告，应联系 SSA。境外情形另有联邦福利部门或使领馆入口。请确认实际已报告，不根据“通常如此”省略核对。
 
-**直接联系：** [SSA：亲人身故后的社保办理](https://www.ssa.gov/personal-record/when-someone-dies)；页面列出美国境内电话、境外 Federal Benefits Unit / International Call Center，以及美国公民在海外死亡时联系使领馆的提示。
+**直接联系：** [SSA：亲人身故后的社保办理](https://www.ssa.gov/personal-record/when-someone-dies)；页面列出美国境内电话、境外联邦福利部门或国际呼叫中心，以及美国公民在海外死亡时联系使领馆的提示。
 
 ## 6. 遗属福利资格另查
 
 SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受供养父母，取决于工作记录与个人条件。死亡报告与福利申请不是同一件事，既有福利如何转换也应向 SSA 确认。
 
-**查资格：** [SSA：遗属福利](https://www.ssa.gov/survivor) · [SSA：Who can get Survivor benefits](https://www.ssa.gov/survivor/eligibility)。
+**查资格：** [SSA：遗属福利](https://www.ssa.gov/survivor) · [SSA：遗属福利资格](https://www.ssa.gov/survivor/eligibility)。
 
 ## 7. 不要为等齐全部资料而迟迟不联系
 
 从 SSA 正式入口询问申请方式、需要的身份与关系材料，以及开始申请时间可能怎样影响待遇。记录工作人员要求和待补文件。不承诺所有家属都可领取或都能网上申请；具体依申请人情形。
 
-**办理入口：** [SSA：遗属福利](https://www.ssa.gov/survivor) · [SSA：联系社会安全局](https://www.ssa.gov/agency/contact/)。某些 survivor benefits 需要通过电话 / appointment 办理，不应假设全部可以在线提交。
+**办理入口：** [SSA：遗属福利](https://www.ssa.gov/survivor) · [SSA：联系社会安全局](https://www.ssa.gov/agency/contact/)。某些遗属福利需要通过电话或预约面谈 办理，不应假设全部可以在线提交。
 
 ## 8. 联系雇主福利与薪资部门
 
 核对未付工资、奖金、股权、退休计划、人寿或意外保险、健康保障及公司财物。说明自己身份与权限，询问各事项负责人、所需文件和期限。只通知直属经理不等于已启动这些程序。
 
-**雇主福利帮助：** [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。具体 life insurance、401(k)、pension 与 health-plan claim 仍按各 plan administrator 的程序办理。
+**雇主福利帮助：** [美国劳工部雇员福利保障局（DOL EBSA）](https://www.dol.gov/agencies/ebsa) · [DOL EBSA：向雇员福利保障部门咨询](https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa)。具体人寿保险、401(k)、养老金与医保理赔仍按各计划管理人的程序办理。
 
 ## 9. 雇主人寿保险按计划申领
 
@@ -68,31 +68,31 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 列出每张保单、保险方和申请状态，从正式渠道提交所需资料。不要把给代理发过消息当成提交完成，也不要向未经核实的来电提供完整身份和银行资料。
 
-**找遗漏保单：** [NAIC：人寿保险保单查找](https://eapps.naic.org/life-policy-locator/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。Policy Locator 是寻找可能存在的保单入口，不等于确认存在赔付。
+**找遗漏保单：** [NAIC：人寿保险保单查找](https://eapps.naic.org/life-policy-locator/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。保单查找工具是寻找可能存在的保单入口，不等于确认存在赔付。
 
 ## 11. 按机构的身故处理渠道操作账户
 
 联系银行或券商的遗产或受益人服务，说明持有方式及自己的法律身份，取得文件清单。不要借用逝者登录身份转钱、交易或冒名确认。合法访问与资产最终归属需要分别处理。
 
-**找遗漏账户 / 财产：** [USA.gov：无人认领资产查询](https://www.usa.gov/unclaimed-money) · [FDIC：Unclaimed Funds](https://closedbanks.fdic.gov/funds/)；具体 bank / brokerage death claim 必须使用机构官方 bereavement / estate channel。
+**找遗漏账户 / 财产：** [USA.gov：无人认领资产查询](https://www.usa.gov/unclaimed-money) · [FDIC：无人认领资金](https://closedbanks.fdic.gov/funds/)；具体银行或券商身故账户办理必须使用机构官方丧亲或遗产办理渠道。
 
 ## 12. 先分类资产，再确定程序
 
 可能涉及法院遗产程序的资产，与信托、有效受益人指定或特定联名形式下的资产分开列出。不能假定所有联名资产自动归生存者，也不能认为遗嘱能覆盖每个账户。分类由文件、适用法律与机构共同确认。
 
-**查本州程序：** [USA.gov：州政府入口](https://www.usa.gov/state-governments) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。probate、小额遗产和 joint ownership 的效果依州法与具体文件。
+**查本州程序：** [USA.gov：州政府入口](https://www.usa.gov/state-governments) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。遗产认证程序、小额遗产和共同持有的效果依州法与具体文件。
 
 ## 13. 付款衔接先于盲目关户
 
 盘点房贷、水电、保险、税款和必要维护，询问哪些账户需冻结或关闭、何时建立合适的遗产账户及如何合法付款。不隐瞒死亡以维持账户，也不在无替代安排时自行切断关键服务。
 
-**税务 / 遗产账户入口：** [IRS：遗产管理人的税务职责](https://www.irs.gov/individuals/responsibilities-of-an-estate-administrator) · [Apply for an EIN](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)。银行账户本身仍按各机构 bereavement / estate process 办理。
+**税务 / 遗产账户入口：** [IRS：遗产管理人的税务职责](https://www.irs.gov/individuals/responsibilities-of-an-estate-administrator) · [IRS：申请雇主识别号（EIN）](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)。银行账户本身仍按各机构丧亲或遗产办理流程办理。
 
 ## 14. 债务先确认责任，不急着用自己的钱还
 
 [CFPB说明](https://www.consumerfinance.gov/ask-cfpb/am-i-responsible-for-my-spouses-debts-after-they-die-en-1467/)指出配偶一般不因婚姻就承担全部逝者债务，但共同债务及州法可能带来例外。联名持卡人与附属卡使用者也不同。要求书面债务信息，请律师核对责任、遗产偿付顺序与争议期限。
 
-**继续看：** [CFPB：Does a person’s debt go away when they die?](https://www.consumerfinance.gov/ask-cfpb/does-a-persons-debt-go-away-when-they-die-en-1463/) · [CFPB：Can a debt collector contact me about a deceased relative’s debts?](https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-contact-me-about-a-deceased-relatives-debts-en-1469/)。
+**继续看：** [CFPB：身故后债务处理](https://www.consumerfinance.gov/ask-cfpb/does-a-persons-debt-go-away-when-they-die-en-1463/) · [CFPB：身故后的债务催收](https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-contact-me-about-a-deceased-relatives-debts-en-1469/)。
 
 ## 15. 逐项检查自动付款
 
@@ -104,15 +104,15 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 由合适代表与税务人士核对死亡年度及以前漏报年度是否需要申报、谁签字及如何支付或申领退税。不要以身故为由认为所有税务自动结束。
 
-**税务入口：** [IRS：身故者税务事项](https://www.irs.gov/individuals/deceased-person) · [IRS：File the final income tax returns of a deceased person](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)。
+**税务入口：** [IRS：身故者税务事项](https://www.irs.gov/individuals/deceased-person) · [IRS：身故者最后一份所得税表](https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)。
 
 ## 17. 遗产所得税另行判断
 
-遗产在管理期间产生的收入可能需要单独税号和申报。IRS 当前规则要求国内遗产（domestic estate）在年度 gross income 达到 600 美元或以上时提交 Form 1041；**即使低于 600 美元**，存在 nonresident-alien beneficiary 等特定情形也可能触发申报。遗产还可能有 estimated-tax、Schedule K-1 和其他义务，因此不能把 600 美元当成“低于就什么都不用管”的通用免报线。
+遗产在管理期间产生的收入可能需要单独税号和申报。IRS 当前规则要求国内遗产（domestic estate）在年度总收入达到 600 美元或以上时提交 Form 1041；**即使低于 600 美元**，存在非居民外国人受益人等特定情形也可能触发申报。遗产还可能有预估税、Schedule K-1 和其他义务，因此不能把 600 美元当成“低于就什么都不用管”的通用免报线。
 
-采用日历年的遗产，通常在次年 4 月 15 日前提交 Form 1041；采用财政年度的遗产，通常在税年结束后第 4 个月的第 15 日前提交，周末或法定假日顺延规则另按当年说明。非破产遗产及信托按时、正确提交 Form 7004，可获得 **5½ 个月的自动申报延期**。**这不延长缴税期限**：通常仍须在原申报截止日前估算并缴清应缴税款。具体申请条件见 [IRS：Form 7004 instructions](https://www.irs.gov/instructions/i7004)。
+采用日历年的遗产，通常在次年 4 月 15 日前提交 Form 1041；采用财政年度的遗产，通常在税年结束后第 4 个月的第 15 日前提交，周末或法定假日顺延规则另按当年说明。非破产遗产及信托按时、正确提交 Form 7004，可获得 **5½ 个月的自动申报延期**。**这不延长缴税期限**：通常仍须在原申报截止日前估算并缴清应缴税款。具体申请条件见 [IRS：企业及遗产等申报延期表说明（Form 7004）](https://www.irs.gov/instructions/i7004)。
 
-**直接办理 / 核对：** [IRS：File an estate income tax return](https://www.irs.gov/individuals/file-an-estate-tax-income-tax-return) · [IRS：About Form 1041](https://www.irs.gov/forms-pubs/about-form-1041) · [IRS：Form 1041 Instructions](https://www.irs.gov/instructions/i1041) · [IRS：Apply for an EIN](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)。600 美元不是遗产价值门槛，也不是所有遗产或信托通用的免报线。
+**直接办理 / 核对：** [IRS：提交遗产所得税表](https://www.irs.gov/individuals/file-an-estate-tax-income-tax-return) · [IRS：遗产与信托所得税表（Form 1041）](https://www.irs.gov/forms-pubs/about-form-1041) · [IRS：遗产与信托所得税表说明（Form 1041）](https://www.irs.gov/instructions/i1041) · [IRS：申请雇主识别号（EIN）](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)。600 美元不是遗产价值门槛，也不是所有遗产或信托通用的免报线。
 
 ## 18. 区分三种税务问题
 
@@ -120,19 +120,19 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 **2026 Form 706 的实用触发点：**
 
-- 对 2026 年死亡的 U.S. citizen / resident decedent，executor 在 **gross estate + adjusted taxable gifts + specific exemption 超过 $15,000,000** 时，一般需要 Form 706。
-- **Portability 是独立理由。** 即使 estate 远低于 $15m，如果 executor 要把 deceased spousal unused exclusion（DSUE）转给 surviving spouse，也需要按规则提交 Form 706；不要用“没 estate tax due”自动否定 filing value。
-- Form 706 的常规 due date 是 **death 后 9 个月**。Form 4768 可申请适用的 automatic **6-month extension to file**；payment extension 与 filing extension 不完全相同，仍需按实际情况核对。
-- 对本来**没有 §6018(a) filing requirement**、但错过 timely portability election 的适用 estate，Rev. Proc. 2022-32 提供 simplified relief：符合全部条件时，可在 decedent death 的 **第五周年或之前**提交完整 Form 706 选择 portability。这个 five-year relief 不是所有 late Form 706 的通用延期。
-- 非居民非公民、QDOT / noncitizen surviving spouse、GST、州 estate / inheritance tax 与跨境资产有另外规则，不能只看 $15m。
+- 对 2026 年死亡的美国公民 / 居民被继承人，遗产执行人在 **遗产总额、调整后应税赠与及特定豁免额之和超过 $15,000,000** 时，一般需要 Form 706。
+- **配偶间未用免税额转移是独立理由。** 即使遗产远低于1,500万美元，如果遗产执行人要把已故配偶未使用的免税额度（DSUE）转给健在配偶，也需要按规则提交 Form 706；不要用“没应缴遗产税”自动否定申报的价值。
+- Form 706 的常规到期日是 **死亡后 9 个月**。Form 4768 可申请适用的自动 **六个月申报延期**；缴款延期与申报延期不完全相同，仍需按实际情况核对。
+- 对本来**没有 《国内税收法典》第6018(a)条申报义务**、但错过按时选择配偶间未用免税额转移的适用遗产，Rev. Proc. 2022-32 提供简化救济：符合全部条件时，可在被继承人死亡的 **第五周年或之前**提交完整 Form 706 选择配偶间未用免税额转移。这个五年救济不是所有逾期的 Form 706 申报的通用延期。
+- 非居民非公民、QDOT / 非美国公民的健在配偶、GST、州遗产税或继承税与跨境资产有另外规则，不能只看1,500万美元。
 
-**继续看 / 原文：** [IRS：Form 706 Instructions (07/2026)](https://www.irs.gov/instructions/i706) · [IRS：遗产税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes) · [IRS：Rev. Proc. 2022-32 — late portability relief](https://www.irs.gov/irb/2022-30_IRB) · [IRS：遗产管理人的税务职责](https://www.irs.gov/individuals/responsibilities-of-an-estate-administrator)。
+**继续看 / 原文：** [IRS：遗产税表说明（Form 706，2026年7月版）](https://www.irs.gov/instructions/i706) · [IRS：遗产税常见问题](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes) · [IRS：配偶免税额转移逾期救济（Rev. Proc. 2022-32）](https://www.irs.gov/irb/2022-30_IRB) · [IRS：遗产管理人的税务职责](https://www.irs.gov/individuals/responsibilities-of-an-estate-administrator)。
 
 ## 19. 房屋管理不能一直等待
 
 确认合法维护人、保险状态、房贷、税款、公共事业和协会费用。住所空置或用途变化时向保险方核对要求，安排安全、气候和漏水风险管理。出售或出租属于另外的权限与决策问题。
 
-**保险 / 住房入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。空置、出租或长期无人居住的影响必须看实际 policy wording。
+**保险 / 住房入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。空置、出租或长期无人居住的影响必须看实际保单条款。
 
 ## 20. 清理遗物前保留资产与文件记录
 
@@ -144,7 +144,7 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 设备可能含病历、账单、照片和工作资料。先确认合法保存与取得方式，必要时请专业协助，不破解或绕过访问权限。资料保护与账户所有权不是一回事。
 
-**平台入口：** [Apple：Deceased family member account access](https://support.apple.com/en-us/102431) · [Google：Request regarding a deceased user](https://support.google.com/accounts/troubleshooter/6357590)。工作设备另按雇主流程处理。
+**平台入口：** [Apple：申请访问已故家人的账户](https://support.apple.com/en-us/102431) · [Google：已故用户账户申请](https://support.google.com/accounts/troubleshooter/6357590)。工作设备另按雇主流程处理。
 
 ## 22. 通过合法途径寻找遗漏账户
 
@@ -156,7 +156,7 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 核对是否支持纪念账号、指定联系人、数据申请或删除。先讨论需保留的家庭资料与逝者意愿，再由有权人员办理；共享密码不应是唯一准备。
 
-**平台入口示例：** [Apple：How to request access to a deceased family member’s Apple Account](https://support.apple.com/en-us/102431) · [Google：Submit a request regarding a deceased user’s account](https://support.google.com/accounts/troubleshooter/6357590)。平台政策不替代遗产法或法院权限。
+**平台入口示例：** [Apple：申请访问已故家人的账户](https://support.apple.com/en-us/102431) · [Google：已故用户账户申请](https://support.google.com/accounts/troubleshooter/6357590)。平台政策不替代遗产法或法院权限。
 
 ## 24. 中国资产单独查受理要求
 
@@ -174,25 +174,25 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 可各指定一位沟通协调人汇总材料与待办，确保版本一致。谁负责联络不等于谁拥有继承份额、代表权或资金使用权；涉及处分由有权人员确认。
 
-**本项目实务建议：** coordinator 负责信息一致性，不创造法律权限；美国侧代表权限从法院 / trust / beneficiary documents 判断，中国侧按接收机构和所在地规则判断。
+**本项目实务建议：** 协调人负责信息一致性，不创造法律权限；美国侧代表权限从法院 / 信托或受益人文件判断，中国侧按接收机构和所在地规则判断。
 
 ## 27. 陌生催款与紧急付款先核实
 
 公开讣告和其他资料可能被用于冒充亲属、机构或债权人。通过独立渠道核对事项，要求书面说明，不因对方知道家庭姓名就付款。见[第15章](15-网络安全与身份盗窃.md)。
 
-**防诈骗入口：** [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/) · [CFPB：Debt collection after death](https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-contact-me-about-a-deceased-relatives-debts-en-1469/)。
+**防诈骗入口：** [联邦贸易委员会诈骗举报（FTC ReportFraud）](https://reportfraud.ftc.gov/) · [CFPB：身故后的债务催收](https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-contact-me-about-a-deceased-relatives-debts-en-1469/)。
 
 ## 28. 安排合法查收重要邮件
 
 通过邮政和机构的适当程序安排接收，及时处理银行、税务、保险和法院通知。保存原件及收到日期，不等全部遗产程序结束后才看邮件。
 
-**邮政入口：** [USPS：Mail for the deceased](https://www.usps.com/manage/mail-for-deceased.htm)；实际 estate mail forwarding、change-of-address 或 delivery 权限按 USPS 当前流程和代表身份办理。
+**邮政入口：** [USPS：身故者邮件处理](https://www.usps.com/manage/mail-for-deceased.htm)；实际遗产相关邮件转寄、地址变更或投递权限按 USPS 当前流程和代表身份办理。
 
 ## 29. 非必要的大决定可以暂缓
 
 在不违反期限、不扩大损失的前提下，给自己时间评估卖房、赠与、迁居和投资等决定。不设统一30天等待期；有迫近事项时取得独立意见。见[临时生活安排](34-重大打击后的Temporary-Operating-Mode.md)。
 
-**本项目实务建议：** “暂缓”只适用于没有法定 / 合同期限、不会扩大损失的决定；税务、法院、保险和福利通知仍按各自 deadlines。
+**本项目实务建议：** “暂缓”只适用于没有法定 / 合同期限、不会扩大损失的决定；税务、法院、保险和福利通知仍按各自截止日期。
 
 ## 30. 维护一张私人办理总表
 
@@ -206,34 +206,34 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 以机构接收、依法完成转移、实际到账或专业结案确认作为相应节点，不能只标“已联系”。
 
-**本项目方法论：** 每项至少保留 case / confirmation number、submitted document、到账或关闭证明之一；官方总入口可从 [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one)开始。
+**本项目方法论：** 每项至少保留 案件或确认编号、已提交文件、到账或关闭证明之一；官方总入口可从 [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one)开始。
 
 ## 31. 殡葬服务先选“需要什么”，不要默认买套餐
 
-美国 FTC Funeral Rule 允许消费者选择需要的 funeral goods / services，并要求 funeral provider 在适用情形提供价格信息和 General Price List。可以比较 direct cremation、burial、viewing、memorial、transport、embalming / refrigeration 等项目；州法、cemetery 和具体情况可能另有要求。
+美国联邦贸易委员会殡葬规则允许消费者选择需要的殡葬用品或服务，并要求殡葬服务商在适用情形提供价格信息和一般价格清单。可以比较直接火化、土葬、遗体瞻仰、追思活动、运输、防腐或冷藏等项目；州法、墓地和具体情况可能另有要求。
 
-处于悲伤状态也不必默认昂贵 package 是法律必须。要求 itemized price、第三方费用和任何声称“法律要求购买”的项目依据；确定方案后保存书面 statement。
+处于悲伤状态也不必默认昂贵套餐是法律必须。要求逐项价格、第三方费用和任何声称“法律要求购买”的项目依据；确定方案后保存书面说明。
 
-**消费者入口：** [FTC：The Funeral Rule](https://consumer.ftc.gov/articles/ftc-funeral-rule) · [FTC：Funeral Costs and Pricing Checklist](https://consumer.ftc.gov/articles/funeral-costs-pricing-checklist)。
+**消费者入口：** [FTC：殡葬服务消费者保护规则](https://consumer.ftc.gov/articles/ftc-funeral-rule) · [FTC：殡葬费用与价格核对清单](https://consumer.ftc.gov/articles/funeral-costs-pricing-checklist)。
 
 ## 32. 人在境外去世，先接入当地与领事流程
 
-如果美国公民在境外去世，美国国务院说明，当地医院／警方和美国使领馆可能参与通知与后续协调；使领馆可以提供当地 burial / cremation、遗体或个人物品运输等信息，并在取得当地死亡证明等条件后办理 Consular Report of Death Abroad（CRODA）。使领馆通常不替家属支付遗体或骨灰运回美国的费用。
+如果美国公民在境外去世，美国国务院说明，当地医院／警方和美国使领馆可能参与通知与后续协调；使领馆可以提供当地土葬 / 火化、遗体或个人物品运输等信息，并在取得当地死亡证明等条件后办理境外死亡领事报告（CRODA）。使领馆通常不替家属支付遗体或骨灰运回美国的费用。
 
 如果逝者不是美国公民，也应先联系当地主管机关、逝者国籍国使领馆和实际承运／殡葬服务方；不要把美国公民 CRODA 流程直接套用。
 
-**美国公民境外身故入口：** [U.S. Department of State：Death Abroad](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
+**美国公民境外身故入口：** [U.S. State Department：境外身故处理](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1.html)。
 
 ## 33. 遗体或骨灰跨境运输要单独核对
 
-遗体跨境不是“带着死亡证明上飞机”这么简单。国务院当前说明，遗体运回美国通常涉及当地死亡证明、consular mortuary certificate、当地 funeral director affidavit、transit permit 等文件，并可能受到 CDC quarantine 要求和外国当地法律影响；具体文件随死亡原因、embalming 状态和国家而变化。
+遗体跨境不是“带着死亡证明上飞机”这么简单。国务院当前说明，遗体运回美国通常涉及当地死亡证明、领事遗体证明、当地殡葬负责人宣誓书、运输许可等文件，并可能受到 CDC 检疫要求和外国当地法律影响；具体文件随死亡原因、防腐处理状态和国家而变化。
 
-骨灰通常有不同于完整遗体的运输和安检规则，且航空公司、出发国、目的国／州和使领馆可能有额外要求。先让实际 funeral home / crematory、承运航空公司和相关政府机关给出书面清单，再订不可退运送安排。
+骨灰通常有不同于完整遗体的运输和安检规则，且航空公司、出发国、目的国／州和使领馆可能有额外要求。先让实际殡仪馆或火化机构、承运航空公司和相关政府机关给出书面清单，再订不可退运送安排。
 
 ## 最小准备与核验范围
 
 提前保留文件和账户索引、明确意愿与合法权限，让可信接手人知道入口。事件发生后使用[身故办理清单](../checklists/death-administration.md)，真实信息只私下填写。
 
-最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS estate-income-tax / Form 1041 与 2026 Form 706：国内遗产年度 gross income ≥ $600 通常触发 Form 1041；低于 $600 仍可能因 nonresident-alien beneficiary 等条件触发。2026 U.S. citizen / resident decedent 的 Form 706 filing threshold 为 gross estate + adjusted taxable gifts + specific exemption 超过 $15,000,000；即使 estate 低于 threshold，portability election 仍可形成独立 filing reason。Form 706 常规 due date 为 death 后 9 months，Form 4768 可提供适用的 6-month filing extension；符合 Rev. Proc. 2022-32 条件、原本无 filing requirement 的 late portability estate 可在 death fifth anniversary 前使用 simplified relief。另核对 SSA death-report / survivor-benefit、IRS Deceased Person / final return、CFPB deceased-debt、NAIC life-policy locator 和 USA.gov death-certificate / unclaimed-property 入口。遗产法院、债务清偿顺序、probate 小额程序、账户继承和中美两地继承效力仍必须按州法、资产类型与个案办理。
+最后编辑与来源核验：2026-09-21。第三轮重新核对遗产所得税、Form 1041、2026年 Form 706 门槛、配偶间未用免税额转移、申报延期和逾期救济；具体金额、期限及例外见第17—18节。另核对社会安全局死亡报告与遗属福利、死者最后一份税表、遗留债务、保单查找、死亡证明与无人认领资产入口。遗产法院、债务清偿顺序、小额遗产程序、账户继承和中美两地继承效力仍必须按州法、资产类型与个案办理。
 
-局部复核：2026-09-22。第17节的 Form 1041 说明已按 IRS Form 7004 instructions 改正为5½个月申报延期，并明确不延长缴税期限。本次未将其余段落视为重新全面核验。
+局部复核：2026-09-22。第17节的 Form 1041 说明已按 IRS Form 7004 说明改正为5½个月申报延期，并明确不延长缴税期限。本次未将其余段落视为重新全面核验。

@@ -188,6 +188,6 @@
 - [ ] 许可、付款、变更和验收责任写清楚。
 - [ ] 私下保存物品证据与备用联系人。
 
-**入口汇总：** [USA.gov：州与地方政府入口](https://www.usa.gov/state-local-governments) · [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) · [美国消防署：住宅防火](https://www.usfa.fema.gov/prevention/home-fires/)。
+**入口汇总：** [USA.gov：州与地方政府入口](https://www.usa.gov/state-local-governments) · [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) · [USFA：家庭消防安全](https://www.usfa.fema.gov/prevention/home-fires/)。
 
 最后编辑与来源核验：2026-09-21。新增租房全流程、正式通知 / 驱逐分流与独立清单；第三轮新增核对 EPA RRP：有偿作业在多数 1978年以前的住宅 / 儿童使用场所扰动适用的涂漆表面时须判断含铅作业安全认证 / 作业要求；小范围维修面积门槛一般为每房间 ≤6 平方英尺室内或 ≤20 平方英尺室外，但更换窗户、涂漆表面拆除和被禁止的作业方法不适用该小面积豁免；EPA 含铅作业安全装修资料已于 2026-03 更新。另核对 FTC 住宅改造及灾后维修骗局、USA.gov 州、地方政府及消费者保护入口、NAIC 保险监管入口与 USPS 搬家服务入口。各地许可、租赁义务、含铅材料规则、订金、取消权、留置权和工伤保险要求仍须按项目地址、合同和主管机关核实；本章不提供全国统一法律结论。

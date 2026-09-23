@@ -62,7 +62,7 @@
 
 **确认完成：** 旧设备或会话已妥善处理，号码、登录与支付已恢复，并检查异常交易。详见[网络安全](15-网络安全与身份盗窃.md)。
 
-**设备入口：** [苹果：手机或平板丢失与被盗](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491) · [FTC：手机卡转移诈骗](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
+**设备入口：** [Apple：iPhone或iPad遗失、被盗后的处理](https://support.apple.com/en-us/120837) · [Google：设备查找中心](https://support.google.com/android/answer/6160491) · [FTC：手机卡转移诈骗](https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself)。
 
 ## 7. 身份盗用、账户接管或被骗转账
 
