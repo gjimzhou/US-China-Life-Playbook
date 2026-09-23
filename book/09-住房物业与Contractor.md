@@ -146,7 +146,7 @@
 
 物业管理、清洁、水管或照护服务只有一位联系人时，询问其休假、停业或无法到场的替代安排。备份联系人同样要核验，不能因紧急自动免除检查。
 
-**本项目实务建议：** 关键服务至少保留“主入口 + 备用入口 + 夜间 / 节假日处理方式”；承包商核验仍从 [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) 与所在地许可机关开始。
+同时问清夜间和节假日怎么联系。核验承包商可从 [FTC：防范住宅改造骗局](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) 与所在地许可机关开始。
 
 ## 18. 家政关系还可能涉及雇佣义务
 
