@@ -53,6 +53,10 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:['父母住院','父母在中国突然住院','父亲住院','母亲住院','爸爸住院','妈妈住院'],path:'checklists/parents-emergency.md',section:'今天住院时如何分工'},
+ {phrases:['医疗保险拒赔','医保拒赔','健康保险拒赔'],path:'book/04-美国医疗系统怎么用.md',section:'6-拒赔后先弄清原因再走书面程序',label:'医疗保险拒赔：原因、申诉与期限'},
+ {phrases:['保险拒赔'],exact:true,path:'book/04-美国医疗系统怎么用.md',section:'6-拒赔后先弄清原因再走书面程序',label:'如果是医疗保险：拒赔申诉与期限'},
+ {phrases:['保险拒赔'],exact:true,path:'book/07-保险与灾难风险.md',section:'15-出险后先安全与减损',label:'其他保险：核对保单、理赔与争议渠道'},
  {phrases:['约不到医生','没有医生接诊','牙医约不到'],path:'checklists/medical-access-blocked.md'},
  {phrases:['账单付不起','付不起医药费','收到催收'],path:'checklists/bill-payment-difficulty.md'},
  {phrases:['银行账户冻结','银行卡被冻结','银行关户'],path:'checklists/bank-account-restriction.md'},
@@ -80,14 +84,14 @@ function render(){
  document.querySelector('.intro').hidden=current!=='HOME.md'||Boolean(query||priority||evidence);
  if(query||priority||evidence){
   lastSearch=location.hash;const terms=searchTerms(query),results=[];
-  const suggested=eventQueries.filter(e=>query&&e.phrases.some(p=>query.includes(p))).map(e=>docs.find(d=>d.path===e.path)).filter(Boolean);
-  if(suggested.length){const box=el('nav',undefined,'event-suggestions');box.setAttribute('aria-label','相关事件入口');box.append(el('p','先看相关事件清单（不受高级筛选限制）'));for(const d of suggested){const a=el('a',d.title);a.href=route(d.path);box.append(a)}out.append(box)}
+  const suggested=eventQueries.filter(e=>query&&e.phrases.some(p=>e.exact?query===p:query.includes(p))).filter(e=>docs.some(d=>d.path===e.path&&(!e.section||d.sections.some(s=>s.id===e.section))));
+  if(suggested.length){const box=el('nav',undefined,'event-suggestions');box.setAttribute('aria-label','相关事件入口');box.append(el('p','先看相关处理入口（不受高级筛选限制）'));for(const e of suggested){const d=docs.find(d=>d.path===e.path);const a=el('a',e.label||d.title);a.href=route(e.path,e.section);box.append(a)}out.append(box)}
   let unfiltered=0;
   for(const d of docs)for(const s of d.sections){const hay=(d.title+' '+s.markdown).toLowerCase();const matched=terms.every(group=>group.some(t=>hay.includes(t)));if(matched)unfiltered++;if(matched&&(!(priority||evidence)||s.tags.some(t=>(!priority||t.priorities.includes(priority))&&(!evidence||t.evidence.includes(evidence)))))results.push([d,s])}
   results.sort((a,b)=>{const score=([d,s])=>(query&&s.title.toLowerCase().includes(query)?4:0)+(query&&d.title.toLowerCase().includes(query)?2:0);return score(b)-score(a)});
-  $('status').textContent=`全书搜索 · ${results.length} 个匹配段落`;document.title='搜索 · 中美双栖人生指南';
+  $('status').textContent=`全书搜索 · ${suggested.length} 个相关入口 · ${results.length} 个匹配段落`;document.title='搜索 · 中美双栖人生指南';
   if(priority||evidence)out.append(el('p',`高级筛选隐藏了 ${unfiltered-results.length} 个关键词匹配段落，可能只是没有相应标注。准备顺序不是紧急程度；法定期限另看正文。`,'hint'));
-  if(!results.length)out.append(el('p','没有匹配结果。试试其他关键词，或清除优先级与证据筛选。','empty'));
+  if(!results.length)out.append(el('p',suggested.length?'可从上方相关入口继续阅读；下方暂无符合当前关键词和筛选条件的段落。':'没有匹配结果。试试其他关键词，或清除优先级与证据筛选。',suggested.length?'hint':'empty'));
   for(const [d,s] of results){const card=el('section',undefined,'result');card.append(el('span',d.kind+' · '+d.title,'source'));if(d.readingMode)card.append(el('span','阅读定位：'+d.readingMode,'reading-mode'));const h=el('h2');const a=el('a',s.title==='概览'?d.title:s.title);a.href=route(d.path,s.id);h.append(a);card.append(h);for(const b of [...s.priorities,...s.evidence.map(e=>'证据 '+e)])card.append(el('span',b,'badge'));const text=plain(s.markdown);const at=query?text.toLowerCase().indexOf(query):-1;card.append(el('p',(at>50?'…':'')+text.slice(Math.max(0,at-45),Math.max(0,at-45)+210)+'…'));out.append(card)}return;
  }
  const doc=docs.find(d=>d.path===current);if(!doc){$('status').textContent='未找到章节';out.append(el('p','链接中的章节不存在，请从目录重新选择。','empty'));return}
