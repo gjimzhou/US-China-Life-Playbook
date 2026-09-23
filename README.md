@@ -117,6 +117,12 @@
 
 | 场景 | 清单 |
 |---|---|
+| 退休与减少工作：把医保、收入和生活衔接起来 | [退休与减少工作：把医保、收入和生活衔接起来](checklists/retirement-transition.md) |
+| 长期回国或迁回美国：双向迁居交接清单 | [长期回国或迁回美国：双向迁居交接清单](checklists/long-term-relocation.md) |
+| 入籍、改名与身份变化后的资料衔接 | [入籍、改名与身份变化后的资料衔接](checklists/identity-change.md) |
+| 父母逐步需要照护：从变化记录到实际接手 | [父母逐步需要照护：从变化记录到实际接手](checklists/care-needs-change.md) |
+| 孩子成年或离家上学：权限与应急交接 | [孩子成年或离家上学：权限与应急交接](checklists/adult-child-transition.md) |
+| 工作中的骚扰、歧视、报复与便利申请 | [工作中的骚扰、歧视、报复与便利申请](checklists/workplace-rights.md) |
 | 不知道这件事属于哪一章 | [生活事件索引](checklists/life-events-index.md) |
 | 宠物临终或去世 | [宠物去世处理清单](checklists/pet-loss.md) |
 | 非紧急心理健康服务 | [心理健康服务清单](checklists/mental-health-care.md) |
@@ -154,7 +160,7 @@
 | 字段 | 含义 |
 |---|---|
 | 证据等级 | A：高可信；B：中等可信；C：实务判断，具体定义见方法论 |
-| 优先级 | P0：尽快完成；P1：本年度完成；P2：特定事件触发；P3：有价值但不急 |
+| 优先级 | P0：基础准备；P1：常规准备；P2：事件触发；P3：可选补充。不是紧急等级 |
 | 后果 | 低、中、高或灾难性 |
 | 成本 | 免费、低、中或高 |
 | 维护频率 | 一次性、每年或持续维护 |
