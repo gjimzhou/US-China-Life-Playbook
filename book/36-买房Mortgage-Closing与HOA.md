@@ -12,7 +12,7 @@
 
 贷款预批准（Preapproval）通常仍有条件，后续可能审查收入、资金、信用与房产资料。签约前理解融资失败时的合同后果；购车借款、换工作或资金安排变化及时告知贷款方，不能隐瞒重要事实。
 
-**继续看：** [CFPB：Mortgage preapproval 与 prequalification](https://www.consumerfinance.gov/ask-cfpb/what-is-a-mortgage-preapproval-en-127/) · [CFPB：准备贷款申请材料](https://www.consumerfinance.gov/owning-a-home/process/prepare-your-application/)。
+**继续看：** [CFPB：Mortgage preapproval 与 prequalification](https://www.consumerfinance.gov/ask-cfpb/what-is-a-mortgage-preapproval-en-127/) · [CFPB：准备贷款申请材料](https://www.consumerfinance.gov/owning-a-home/prepare/create-a-loan-application-packet/)。
 
 ## 3. 收到规定申请信息后取得贷款估算表
 
@@ -91,13 +91,13 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 若买下后要装修，再回到[第 09 章](09-住房物业与Contractor.md)核对 EPA Renovation, Repair and Painting（RRP）Rule；“卖房 disclosure”与“装修 lead-safe work practices”是两套不同义务。
 
-**继续看：** [EPA：Lead-Based Paint Disclosure Rule](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：What information can buyers / renters get?](https://www.epa.gov/lead/what-information-can-i-get-about-lead-based-paint-home-i-buy-or-rent-it) · [HUD / EPA：Lead-Based Paint Disclosure Rule Fact Sheet](https://www.hud.gov/sites/dfiles/HH/documents/Lead_Based_Paint_Disclosure_Rule_FactSheet.pdf) · [EPA：A Citizen’s Guide to Radon](https://www.epa.gov/radon/citizens-guide-radon-guide-protecting-yourself-and-your-family-radon)。一般 home inspection 不代表 lead / radon / asbestos 等专项风险已覆盖。
+**继续看：** [EPA：Lead-Based Paint Disclosure Rule](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：What information can buyers / renters get?](https://www.epa.gov/lead/what-information-can-i-get-about-lead-based-paint-home-i-buy-or-rent-it) · [HUD / EPA：Lead-Based Paint Disclosure Rule Fact Sheet](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：A Citizen’s Guide to Radon](https://www.epa.gov/radon/radon-publications-webinars-and-videos)。一般 home inspection 不代表 lead / radon / asbestos 等专项风险已覆盖。
 
 ## 11. 出现具体信号再安排专项检查
 
 可能需要结构、排水、地下管线、油罐、烟囱、虫害或环境等专项评估，取决于房屋和当地情况。要求一般检查员说明何时需要何种专业人士，核对是否能在合同相关期限内完成。
 
-**本项目实务建议：** 专项检查由房龄、地点、inspection findings 和合同期限触发，不存在全国统一必做清单。环境风险可从 [EPA Home Buyer’s and Seller’s Guide to Radon](https://www.epa.gov/radon/home-buyers-and-sellers-guide-radon) 等官方专题开始。
+**本项目实务建议：** 专项检查由房龄、地点、inspection findings 和合同期限触发，不存在全国统一必做清单。环境风险可从 [EPA Home Buyer’s and Seller’s Guide to Radon](https://www.epa.gov/radon/radon-resources-real-estate-community) 等官方专题开始。
 
 ## 12. 买公寓也要看整栋楼
 
@@ -145,7 +145,7 @@ Applicant 在部分情形可以 waiver 提前 3 天收到的 timing，但即使 
 
 按贷款方要求保存对账单、大额入账、资产出售与转账链条，避免临近交割出现无法解释的资金。只提供真实资料，资料传递用已核实的安全渠道。
 
-**申请准备：** [CFPB：Prepare your mortgage application](https://www.consumerfinance.gov/owning-a-home/process/prepare-your-application/) · [Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。source-of-funds 文档范围以实际 lender underwriting request 为准。
+**申请准备：** [CFPB：Prepare your mortgage application](https://www.consumerfinance.gov/owning-a-home/prepare/create-a-loan-application-packet/) · [Mortgage Closing Scams](https://www.consumerfinance.gov/owning-a-home/beware-mortgage-closing-scams/)。source-of-funds 文档范围以实际 lender underwriting request 为准。
 
 ## 20. 父母资金先明确赠与或借款
 

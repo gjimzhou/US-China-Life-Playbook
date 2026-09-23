@@ -62,7 +62,7 @@
 
 可准备分开放置的实体卡、不同机构的备用付款方式及适量当地可用资金，按费用和合法携带要求选择。手机钱包、验证码和银行卡若都依赖同一手机，就不算独立备用。出发前确认海外联系与挂失方式。
 
-**卡片遗失参考：** [FTC：Lost or Stolen Credit, ATM, and Debit Cards](https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-debit-cards)。实际海外客服电话、freeze / replacement 与 cash-access 方案以自己的银行 / 发卡行官方渠道为准。
+**卡片遗失参考：** [FTC：Lost or Stolen Credit, ATM, and Debit Cards](https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards)。实际海外客服电话、freeze / replacement 与 cash-access 方案以自己的银行 / 发卡行官方渠道为准。
 
 ## 10. 实测丢手机后的恢复路径
 

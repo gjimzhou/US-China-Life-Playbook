@@ -18,7 +18,7 @@
 
 不要涉水接触电器、开关或配电箱，也不要为了查明责任而延误减损。无法判断安全时交给救援或合格专业人员。
 
-**安全参考：** [Ready.gov：Floods](https://www.ready.gov/floods) · [USFA：Electrical Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/electrical/)。住宅漏水不是洪水灾害的同义词，但涉水与电气危险的安全原则可直接参考。
+**安全参考：** [Ready.gov：Floods](https://www.ready.gov/floods) · [USFA：Electrical Fire Safety](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical/)。住宅漏水不是洪水灾害的同义词，但涉水与电气危险的安全原则可直接参考。
 
 ## 3. 知道阀门在哪里，不等于自行维修
 
@@ -54,7 +54,7 @@
 
 这不是要求所有 pre-1978 home renovation 都做全面 lead abatement，而是要求先判断 RRP applicability；州、市还可能有更严格的 lead / contractor rules。
 
-**Lead-safe 核验入口：** [EPA：RRP Program — Contractors](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) · [EPA：Steps to Lead-Safe Renovation, Repair and Painting — March 2026](https://www.epa.gov/lead/steps-lead-safe-renovation-repair-and-painting) · [EPA：Find a Lead-Safe Certified Firm](https://www.epa.gov/lead/find-lead-safe-certified-firm) · [EPA：Lead FAQ / Renovation](https://www.epa.gov/lead/lead-renovation-repair-and-painting-program-rules)。
+**Lead-safe 核验入口：** [EPA：RRP Program — Contractors](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) · [EPA：Steps to Lead-Safe Renovation, Repair and Painting — March 2026](https://www.epa.gov/lead/steps-lead-safe-renovation-repair-and-painting) · [EPA：Find a Lead-Safe Certified Firm](https://www.epa.gov/lead/i-am-planning-renovate-my-home-how-can-i-find-lead-safe-certified-firm) · [EPA：Lead FAQ / Renovation](https://www.epa.gov/lead/lead-renovation-repair-and-painting-program-rules)。
 
 ## 6. 估价要写明工程范围
 

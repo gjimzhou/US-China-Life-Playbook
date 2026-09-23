@@ -242,7 +242,7 @@ IRS 外国赠与说明区分赠与方身份和相关报告要求。收款可能�
 - [ ] 雇主批准与个人税务分析分别完成。
 - [ ] 税款入账、申报与抵免可对账，未决事项有负责人。
 
-**核验入口汇总：** [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [国家税务总局](https://www.chinatax.gov.cn/) · [自然人电子税务局](https://etax.chinatax.gov.cn/)。
+**核验入口汇总：** [IRS International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [FinCEN FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) · [国家税务总局](https://www.chinatax.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/)。
 
 ## 30. 把结论写成有条件的结论
 

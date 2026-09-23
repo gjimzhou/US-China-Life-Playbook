@@ -196,6 +196,6 @@
 - [ ] 使用可追踪的交接与邮寄方式。
 - [ ] 真实文件只存私人系统。
 
-**入口汇总：** [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department Authentication](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [USA.gov Vital Records](https://www.usa.gov/vital-records)。
+**入口汇总：** [HCCH Apostille](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department Authentication](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/) · [USA.gov Vital Records](https://www.usa.gov/request-documents)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对中国领事服务网 2026-07 当前说明：2023-11-07 起中国与 Apostille Convention 缔约国之间，适用公文书办理附加证明书后无需再办理使领馆领事认证；与非缔约国之间仍走领事认证。另核对中国附加证明书核验入口、美国国务院 2026 document-authentication / DS-4194 页面、HCCH authorities 与 USA.gov vital-records 入口。具体州级公证 / apostille 权限、翻译标准、文件实体效力与最终接收机构要求仍须按文件、州和用途逐项确认。

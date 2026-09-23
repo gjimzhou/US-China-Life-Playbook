@@ -100,7 +100,7 @@
 - [ ] 确认跨境文件是否需附加证明书或翻译。
 - [ ] 停留、工作或居住安排改变时，重新核对两国及相关州税务。
 
-**一键核验：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家社会保险公共服务平台](https://si.12333.gov.cn/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [自然人电子税务局](https://etax.chinatax.gov.cn/)。
+**一键核验：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家社会保险公共服务平台](https://si.12333.gov.cn/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/)。
 
 ## 社会联系与家庭意愿
 

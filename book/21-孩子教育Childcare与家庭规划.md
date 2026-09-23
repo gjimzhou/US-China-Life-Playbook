@@ -100,13 +100,13 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 年龄只是参考，还要看每辆车内安全带的贴合情况。
 
-**继续看 / 选座椅：** [CDC：Child Passenger Safety](https://www.cdc.gov/child-passenger-safety/prevention/index.html) · [NHTSA：Car Seats and Booster Seats](https://www.nhtsa.gov/car-seats-and-booster-seats)。州法最低要求与安全建议可能不同，两者都应核对。
+**继续看 / 选座椅：** [CDC：Child Passenger Safety](https://www.cdc.gov/child-passenger-safety/prevention/index.html) · [NHTSA：Car Seats and Booster Seats](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats)。州法最低要求与安全建议可能不同，两者都应核对。
 
 ## 13. 不确定安装时寻求检查
 
 按车辆和座椅说明书安装，查当地认证儿童乘车安全技术员（CPST）的检查服务、预约及费用。
 
-**安装检查入口：** [NHTSA：Car Seats and Booster Seats](https://www.nhtsa.gov/car-seats-and-booster-seats) · [NHTSA：Keep Kids Safe on the Road](https://www.nhtsa.gov/car-seats-and-booster-seats/keep-kids-safe-road)。NHTSA 页面可继续进入 inspection station / technician 查找工具。
+**安装检查入口：** [NHTSA：Car Seats and Booster Seats](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats) · [NHTSA：Keep Kids Safe on the Road](https://www.nhtsa.gov/car-seats-and-booster-seats/keep-kids-safe-road)。NHTSA 页面可继续进入 inspection station / technician 查找工具。
 
 接送人也要知道正确使用方式。临时换车、租车或祖父母接送时重新检查，不认为安装过一次就永远适用。
 

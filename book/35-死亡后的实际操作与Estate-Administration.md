@@ -186,7 +186,7 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 通过邮政和机构的适当程序安排接收，及时处理银行、税务、保险和法院通知。保存原件及收到日期，不等全部遗产程序结束后才看邮件。
 
-**邮政入口：** [USPS：Mail for the deceased](https://faq.usps.com/s/article/Deceased-Do-Not-Contact-Registration)；实际 estate mail forwarding、change-of-address 或 delivery 权限按 USPS 当前流程和代表身份办理。
+**邮政入口：** [USPS：Mail for the deceased](https://www.usps.com/manage/mail-for-deceased.htm)；实际 estate mail forwarding、change-of-address 或 delivery 权限按 USPS 当前流程和代表身份办理。
 
 ## 29. 非必要的大决定可以暂缓
 

@@ -184,7 +184,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 记录作品、尺寸、来源、状态、装裱、安装和运输历史。脆弱、体积大或价值重大的作品，可请熟悉该类作品的搬运或保护人员评估；先确定包装、环境和交接责任。
 
-**保存参考：** [Smithsonian Museum Conservation Institute：Taking Care](https://mci.si.edu/taking-care)提供藏品保存的一般入口；高价值作品的包装、安装和运输仍应由熟悉该媒介的专业人员按具体 condition 处理。
+**保存参考：** [Smithsonian Museum Conservation Institute：Taking Care](https://mci.si.edu/ask-mci)提供藏品保存的一般入口；高价值作品的包装、安装和运输仍应由熟悉该媒介的专业人员按具体 condition 处理。
 
 ---
 
@@ -192,7 +192,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 独立查看卖方历史、鉴定范围、退货条件、付款保护和所有权说明。所谓鉴定保障覆盖什么、谁受理争议，应有明确文件；异常低价不能代替核验。
 
-**消费者入口：** [FTC：Online Shopping](https://consumer.ftc.gov/online-shopping) · [FTC ReportFraud](https://reportfraud.ftc.gov/)；涉及奢侈品真伪还应查品牌、平台或独立鉴定服务的书面 guarantee / dispute terms。
+**消费者入口：** [FTC：Online Shopping](https://consumer.ftc.gov/articles/online-shopping) · [FTC ReportFraud](https://reportfraud.ftc.gov/)；涉及奢侈品真伪还应查品牌、平台或独立鉴定服务的书面 guarantee / dispute terms。
 
 ---
 
@@ -208,7 +208,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 分享收藏时遮去序列号、地址、保单与钥匙信息。旅行结束后再发布行程照片，是可选择的简单做法；不要同时公开空房时间与完整收藏位置。
 
-**安全参考：** [FTC：Protect Your Personal Information and Data](https://consumer.ftc.gov/identity-theft-and-online-security/protect-your-personal-information-hackers-and-scammers)；“延迟发布旅行照片”属于本项目降低实时暴露的可选做法。
+**安全参考：** [FTC：Protect Your Personal Information and Data](https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers)；“延迟发布旅行照片”属于本项目降低实时暴露的可选做法。
 
 ---
 
@@ -240,7 +240,7 @@ CBP 当前 guidance 的一般 returning-resident 规则是：年满 21 岁、仅
 
 独立核验买方、中介或托管服务，拒绝只凭付款截图交货。合同写清鉴定争议、退款、运输责任与交接证据；线下面交也要选择合适场所和安全安排。
 
-**防诈骗入口：** [FTC：Online Shopping](https://consumer.ftc.gov/online-shopping) · [FBI IC3](https://www.ic3.gov/)；具体平台 escrow / payout / chargeback 条件以实际服务条款为准。
+**防诈骗入口：** [FTC：Online Shopping](https://consumer.ftc.gov/articles/online-shopping) · [FBI IC3](https://www.ic3.gov/)；具体平台 escrow / payout / chargeback 条件以实际服务条款为准。
 
 ---
 

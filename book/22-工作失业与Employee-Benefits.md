@@ -164,7 +164,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 不同人和不同协议可能有不同法定要求，不套用一个固定“考虑期”或撤回期。
 
-**继续看：** [EEOC：Understanding Waivers of Discrimination Claims in Employee Severance Agreements](https://www.eeoc.gov/laws/guidance/understanding-waivers-discrimination-claims-employee-severance-agreements) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)用于福利问题。EEOC 页面包含特定年龄歧视 waiver 的特殊要求，但不能把这些期限套给所有 severance。
+**继续看：** [EEOC：Understanding Waivers of Discrimination Claims in Employee Severance Agreements](https://www.eeoc.gov/laws/guidance/qa-understanding-waivers-discrimination-claims-employee-severance-agreements) · [DOL EBSA](https://www.dol.gov/agencies/ebsa)用于福利问题。EEOC 页面包含特定年龄歧视 waiver 的特殊要求，但不能把这些期限套给所有 severance。
 
 ## 20. 失业保险向适用州查询
 

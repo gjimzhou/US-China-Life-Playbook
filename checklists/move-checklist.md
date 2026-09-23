@@ -10,7 +10,7 @@
 - [ ] 核对电梯、装卸区、停车、搬家许可及楼宇要求的保险证明。
 - [ ] 核验搬家公司、书面报价、物品责任与索赔程序，安排宠物和必要仓储。
 
-**搬家公司核验：** [FMCSA：Protect Your Move](https://www.fmcsa.dot.gov/protect-your-move) · [FMCSA：Search Movers](https://www.fmcsa.dot.gov/protect-your-move/search-movers)。州内搬家还要查本州监管机关。
+**搬家公司核验：** [FMCSA：Protect Your Move](https://www.fmcsa.dot.gov/protect-your-move) · [FMCSA：Search Movers](https://www.fmcsa.dot.gov/protect-your-move/search-mover)。州内搬家还要查本州监管机关。
 
 ## 保险与公共服务
 
@@ -74,7 +74,7 @@
 - [ ] 安排医疗保障、药物合法携带、病历和必要跨境文件。
 - [ ] 提前评估两国及相关州税务，安排邮件、住所监护与现场家人联络。
 
-**跨境入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [自然人电子税务局](https://etax.chinatax.gov.cn/) · [CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)。
+**跨境入口：** [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/) · [CDC：Traveling Abroad with Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)。
 
 ## 迁移完成记录
 

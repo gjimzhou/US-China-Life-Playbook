@@ -38,7 +38,7 @@
 
 **安全后：** 与救援和物业确认能否返回，再安排住宿、必要药物、证件和支付。联系保险方并记录损失。不要自行认定报警停止就能安全进入。安全准备见[不要意外死亡](01-不要意外死亡.md)。
 
-**继续看：** [USFA：Home Fire Escape Plans](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-escape-plans/) · [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/)。
+**继续看：** [USFA：Home Fire Escape Plans](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/) · [USFA：Carbon Monoxide](https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/)。
 
 ### 区域性停电、停水、极端天气和撤离另走连续生活流程
 

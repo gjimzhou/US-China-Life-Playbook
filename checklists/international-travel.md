@@ -65,7 +65,7 @@
 - [ ] 确认所用证件与入境身份，必要文件提前办理。
 - [ ] 在中国工作或停留方式改变前，检查雇主许可、身份、两国及相关州税务。
 
-**中国 / 跨境入口：** [国家移民管理局](https://www.nia.gov.cn/) · [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [自然人电子税务局](https://etax.chinatax.gov.cn/)。
+**中国 / 跨境入口：** [国家移民管理局](https://www.nia.gov.cn/) · [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [IRS：International Taxpayers](https://www.irs.gov/individuals/international-taxpayers) · [自然人电子税务局入口：从税务总局“纳税服务”进入](https://www.chinatax.gov.cn/)。
 
 ## 贵重物品
 

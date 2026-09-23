@@ -142,7 +142,7 @@
 
 可以共享家庭必须知道的信息，同时保留个人沟通、账户与独立咨询空间。若存在控制、威胁或财务胁迫，不能用“更透明”要求受影响的一方交出全部安全与资金控制；应通过安全渠道取得当地专业支持。
 
-**安全入口：** [USA.gov：Domestic Violence Help](https://www.usa.gov/domestic-violence) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。这不是要求普通夫妻隐藏信息，而是强调 household transparency 不能取消个人安全边界。
+**安全入口：** [USA.gov：Domestic Violence Help](https://www.usa.gov/report-crime) · [CISA：Secure Our World](https://www.cisa.gov/secure-our-world)。这不是要求普通夫妻隐藏信息，而是强调 household transparency 不能取消个人安全边界。
 
 ## 22. 应急资金要依法可用
 
