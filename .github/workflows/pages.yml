@@ -41,3 +41,36 @@ jobs:
         id: deployment
         with:
           artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+
+  release:
+    if: github.event_name == 'push' && startsWith(github.event.head_commit.message, 'Release v')
+    needs: deploy
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/download-artifact@v4
+        with:
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+          path: release-artifact
+      - name: Publish the verified reading edition
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          version=$(cat VERSION)
+          [[ "$version" =~ ^v[0-9]+\.[0-9]+(\.[0-9]+)?$ ]]
+          mkdir release-site
+          tar -xf release-artifact/artifact.tar -C release-site
+          python - <<'PYRELEASE'
+          import json, os
+          from pathlib import Path
+          manifest = json.loads(Path('release-site/downloads/manifest.json').read_text())
+          assert manifest['sourceCommit'] == os.environ['GITHUB_SHA'], 'Release source mismatch'
+          PYRELEASE
+          gh release create "$version" release-site/downloads/* \
+            --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "$version：中美双栖人生指南 · 首个完整参考版" \
+            --notes-file "docs/releases/$version.md" --latest
