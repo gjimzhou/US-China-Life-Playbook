@@ -100,3 +100,12 @@
 ## 联系后需要跟进
 
 用[办事记录与沟通示例](service-follow-up.md)记录案件编号、真实截止日期、下一步与完成证据。
+
+## 常规渠道没有解决问题
+
+| 卡点 | 下一步入口 |
+|---|---|
+| 约不到医生或医疗服务受阻 | [处理清单](medical-access-blocked.md) |
+| 账单暂时付不起或金额有争议 | [处理清单](bill-payment-difficulty.md) |
+| 银行账户冻结、受限或被关闭 | [处理清单](bank-account-restriction.md) |
+| 航班取消、行李延误与旅行中断 | [处理清单](travel-disruption.md) |

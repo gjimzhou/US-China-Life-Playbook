@@ -47,6 +47,10 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:['约不到医生','没有医生接诊','牙医约不到'],path:'checklists/medical-access-blocked.md'},
+ {phrases:['账单付不起','付不起医药费','收到催收'],path:'checklists/bill-payment-difficulty.md'},
+ {phrases:['银行账户冻结','银行卡被冻结','银行关户'],path:'checklists/bank-account-restriction.md'},
+ {phrases:['航班取消','行李没到','飞机延误'],path:'checklists/travel-disruption.md'},
  {phrases:['宠物死了','狗死了','猫死了','宠物去世'],path:'checklists/pet-loss.md'},
  {phrases:['狗丢了','猫丢了','宠物走失'],path:'checklists/lost-pet.md'},
  {phrases:['钱包丢了','工卡丢了','护照丢了'],path:'checklists/lost-wallet-documents.md'},
