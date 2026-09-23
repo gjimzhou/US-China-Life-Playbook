@@ -6,7 +6,7 @@
 
 写清涉及的地区、发生了什么、希望解决什么、已知期限和已有材料。例如“需要审查一份适用某州法的雇佣协议”，比“找一个厉害的律师”更便于匹配。初次询问不必附完整证件、账户或病历。
 
-**本项目实务建议：** 先定义问题、管辖地区、截止日期及预期交付物，再找专业人士。律师、税务、医生、保险分别从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) · [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) 开始。
+**查资格与找人：** 律师、税务、医生、保险分别从 [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/) · [IRS：选择税务专业人士](https://www.irs.gov/tax-professionals/choosing-a-tax-professional) · [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) 开始。
 
 ## 2. 按四步从候选走到委托
 
@@ -42,7 +42,7 @@
 
 比较真正负责人的经验、可投入时间、需要的跨领域协作和预算。大所、小所或独立执业都有可能适合。不要只与负责接洽的人谈得愉快，却不知道经办人是谁。
 
-**本项目实务建议：** 机构规模不是质量分数；关键是明确负责的专业人士、服务范围、回复时间、利益冲突和预算。执业资格仍从对应监管机构独立核对。
+机构再大，也要问清具体谁负责、做哪些事、多久回复、有无利益冲突以及怎么收费。执业资格仍应独立向监管机构核对。
 
 ## 7. 税务：先列出自己真正的复杂点
 
