@@ -177,7 +177,10 @@
         "https://www.medicare.gov/coverage/long-term-care",
         "https://www.medicare.gov/coverage/nursing-home-care",
         "https://www.medicare.gov/coverage/skilled-nursing-facility-care"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-medicare.md",
+      "review_status": "partial"
     },
     {
       "id": "employee-benefits",
