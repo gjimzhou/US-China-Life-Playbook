@@ -29,6 +29,13 @@ def build_report(root, today):
         if e['last_verified']:
             assert date.fromisoformat(e['last_verified']) <= today, 'Future verification date'
             assert e['review_record'] and (root / e['review_record']).is_file(), 'Missing evidence record'
+        if e.get('last_review_attempt'):
+            assert date.fromisoformat(e['last_review_attempt']) <= today, 'Future review attempt'
+            assert e.get('review_status') in ('partial', 'complete'), 'Invalid review status'
+            assert e.get('latest_review_record') and (root / e['latest_review_record']).is_file(), 'Missing latest review record'
+            if e['review_status'] == 'complete':
+                assert e['last_verified'] == e['last_review_attempt'], 'Complete review needs verified date'
+                assert e['review_record'] == e['latest_review_record'], 'Complete review needs evidence baseline'
         due = review_due(e)
         entries.append({**e, 'due': due.isoformat(), 'status': 'due' if due <= today else 'scheduled',
                         'baseline': 'recorded' if e['last_verified'] else 'not-established'})
@@ -43,9 +50,12 @@ def build_report(root, today):
 def markdown(report):
     lines = ['# Maintenance review queue', '', f"Generated for {report['as_of']} (UTC).", '',
              'This is a work queue, not a factual certification. New entries have no verified baseline; chapter dates were not copied into the tracker.', '',
-             '| Scope | Due | State | Evidence baseline | Source file |', '|---|---|---|---|---|']
+             '| Scope | Due | State | Evidence baseline | Latest review | Source file |', '|---|---|---|---|---|---|']
     for e in report['entries']:
-        lines.append(f"| {e['scope']} | {e['due']} | {e['status']} | {e['baseline']} | `{e['path']}` |")
+        latest = 'not attempted'
+        if e.get('latest_review_record'):
+            latest = f"[{e['last_review_attempt']} · {e['review_status']}](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/{e['latest_review_record']})"
+        lines.append(f"| {e['scope']} | {e['due']} | {e['status']} | {e['baseline']} | {latest} | `{e['path']}` |")
     lines += ['', f"## Full-content rotation: {report['rotation_week']}/{report['rotation_weeks']}", '',
               'Inspect these files for untracked time-sensitive claims, jurisdiction gaps and outdated links. Add new recurring scopes to the registry. A rotation assignment is not a completed review.', '']
     lines += [f'- `{p}`' for p in report['rotation']]
