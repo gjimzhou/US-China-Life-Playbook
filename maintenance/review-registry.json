@@ -35,7 +35,10 @@
         "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening",
         "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening",
         "https://www.cdc.gov/sleep/about/index.html"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-vaccines-screening.md",
+      "review_status": "partial"
     },
     {
       "id": "first-aid",
