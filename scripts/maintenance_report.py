@@ -10,8 +10,13 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def review_due(entry):
     if entry['last_verified']:
-        return date.fromisoformat(entry['last_verified']) + timedelta(days=entry['interval_days'])
-    return date.fromisoformat(entry['initial_review_by'])
+        due = date.fromisoformat(entry['last_verified']) + timedelta(days=entry['interval_days'])
+    else:
+        due = date.fromisoformat(entry['initial_review_by'])
+    # A temporary policy's expiry must not be delayed by a normal review cycle.
+    if entry.get('review_by'):
+        due = min(due, date.fromisoformat(entry['review_by']))
+    return due
 
 def build_report(root, today):
     data = json.loads((root / 'maintenance/review-registry.json').read_text())
@@ -36,6 +41,8 @@ def build_report(root, today):
             if e['review_status'] == 'complete':
                 assert e['last_verified'] == e['last_review_attempt'], 'Complete review needs verified date'
                 assert e['review_record'] == e['latest_review_record'], 'Complete review needs evidence baseline'
+        if e.get('review_by'):
+            assert e.get('review_by_reason', '').strip(), 'Specific deadline needs a reason'
         due = review_due(e)
         entries.append({**e, 'due': due.isoformat(), 'status': 'due' if due <= today else 'scheduled',
                         'baseline': 'recorded' if e['last_verified'] else 'not-established'})
@@ -56,6 +63,8 @@ def markdown(report):
         if e.get('latest_review_record'):
             latest = f"[{e['last_review_attempt']} · {e['review_status']}](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/{e['latest_review_record']})"
         lines.append(f"| {e['scope']} | {e['due']} | {e['status']} | {e['baseline']} | {latest} | `{e['path']}` |")
+    lines += ['', '## Time-bound follow-ups', '']
+    lines += [f"- {e['review_by']} — {e['scope']}: {e['review_by_reason']}" for e in report['entries'] if e.get('review_by')]
     lines += ['', f"## Full-content rotation: {report['rotation_week']}/{report['rotation_weeks']}", '',
               'Inspect these files for untracked time-sensitive claims, jurisdiction gaps and outdated links. Add new recurring scopes to the registry. A rotation assignment is not a completed review.', '']
     lines += [f'- `{p}`' for p in report['rotation']]

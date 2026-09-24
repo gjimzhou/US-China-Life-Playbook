@@ -14,6 +14,14 @@ class MaintenanceTests(unittest.TestCase):
         e.update(last_verified=None, initial_review_by='2026-10-02')
         self.assertEqual(review_due(e), date(2026, 10, 2))
 
+    def test_specific_deadline_survives_regular_review(self):
+        e = {'last_verified': '2026-09-24', 'interval_days': 30, 'review_by': '2026-10-02'}
+        self.assertEqual(review_due(e), date(2026, 10, 2))
+        e['review_by'] = '2026-11-01'
+        self.assertEqual(review_due(e), date(2026, 10, 24))
+        e.update(last_verified=None, initial_review_by='2026-10-01', review_by='2026-09-30')
+        self.assertEqual(review_due(e), date(2026, 9, 30))
+
     def test_initial_baseline_and_due(self):
         report = build_report(ROOT, max(date(2026, 10, 1), AS_OF))
         for e in report['entries']:
