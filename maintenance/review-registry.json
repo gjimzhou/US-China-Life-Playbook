@@ -89,8 +89,12 @@
         "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/know-your-medical-bill-rights/know-your-medical-bill-rights-when-not-using-insurance",
         "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/medical-bill-guides-resources/what-good-faith-health-insurance-estimate",
         "https://www.cms.gov/initiatives/no-surprise-billing/overview/policies-resources/providers-payment-resolution-patients",
-        "https://www.healthcare.gov/"
-      ]
+        "https://www.healthcare.gov/",
+        "https://www.cms.gov/files/document/hhs-administered-ferp-deadline-extension-07-31-26.pdf"
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-insurance-appeals.md",
+      "review_status": "partial"
     },
     {
       "id": "china-health-access",
