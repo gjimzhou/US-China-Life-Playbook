@@ -92,3 +92,17 @@
 尚未逐项重建所有2026疫苗专题与附录变化的证据；仅确认页面版本，故整项last_verified保持空值。筛查主张已逐条留证；不代表第二章全部建议审定。
 
 关联页面按 `docs/topic-maintenance.md` 检查；未改结论的条目不批量改写清单。搜索复用正文小节，没有另外复制主张。仅在正文受影响处加简短说明；完整记录留在本目录。
+
+## 同日第三轮续核
+
+基线：main@493d569。访问日期：2026-09-24。
+
+### 第3节：总表与当季专题应分开核对
+
+原句：2026-09-23本轮访问到的 CDC 成人接种页面标注的是2025年方案、2025年7月2日补充更新。
+
+- [Addendum](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-addendum.html)仍标2025-07-02，列脑膜炎球菌与RSV新增建议。
+- [流感临床指导](https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html)：2026-09-01发布／更新，Introduction明确适用2026–2027季，包含适用人群、时间、禁忌证等章节。
+- [COVID-19总页](https://www.cdc.gov/covid/hcp/vaccine-considerations/index.html)及[非免疫低下人群表](https://www.cdc.gov/covid/hcp/vaccine-considerations/routine-guidance.html)：页首及页面信息标2026-09-23，正文明确当季为2026–2027；总页近期变化栏却保留“Last updated September 23, 2025”。记录此内部不一致，不擅自替来源纠正年份。搜索摘要仍可能显示2025–2026，不能用摘要推翻实际读取正文。
+- [RSV成人指导](https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html)：What to know／Number of doses区分适用年龄和风险，并明确目前不是每年接种；正文只添加专题入口与这一边界，不扩写全部剂次。
+- 结果：改写旧日期段，加入当季入口及FDA批准与CDC建议的区别。未对所有疫苗专题、特殊人群和监管变化完成逐项比对，整项仍partial。后续优先复看COVID页面日期一致性，再核其余专题；不批量刷新第二章日期。

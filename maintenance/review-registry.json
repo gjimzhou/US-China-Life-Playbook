@@ -34,7 +34,12 @@
         "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening",
         "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening",
         "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening",
-        "https://www.cdc.gov/sleep/about/index.html"
+        "https://www.cdc.gov/sleep/about/index.html",
+        "https://www.cdc.gov/flu/hcp/vax-summary/seasonal-influenza-vaccines.html",
+        "https://www.cdc.gov/covid/hcp/vaccine-considerations/index.html",
+        "https://www.cdc.gov/covid/hcp/vaccine-considerations/routine-guidance.html",
+        "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-addendum.html",
+        "https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html"
       ],
       "last_review_attempt": "2026-09-24",
       "latest_review_record": "maintenance/reviews/2026-09-24-vaccines-screening.md",
