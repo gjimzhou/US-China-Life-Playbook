@@ -152,7 +152,10 @@
         "https://www.irs.gov/individuals/international-taxpayers",
         "https://www.irs.gov/forms-pubs/about-form-8938",
         "https://www.irs.gov/businesses/corporations/basic-questions-and-answers-on-form-8938"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-us-tax.md",
+      "review_status": "partial"
     },
     {
       "id": "medicare",
