@@ -165,8 +165,8 @@
       "scope": "Medicare参保窗口、保障边界与照护权限",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-09-24",
+      "review_record": "maintenance/reviews/2026-09-24-medicare.md",
       "sources": [
         "https://www.ssa.gov/payee/",
         "https://www.ssa.gov/payee/faqrep.htm",
@@ -178,11 +178,12 @@
         "https://www.ssa.gov/medicare/",
         "https://www.medicare.gov/coverage/long-term-care",
         "https://www.medicare.gov/coverage/nursing-home-care",
-        "https://www.medicare.gov/coverage/skilled-nursing-facility-care"
+        "https://www.medicare.gov/coverage/skilled-nursing-facility-care",
+        "https://www.medicaid.gov/medicaid/eligibility-policy/estate-recovery"
       ],
       "last_review_attempt": "2026-09-24",
       "latest_review_record": "maintenance/reviews/2026-09-24-medicare.md",
-      "review_status": "partial"
+      "review_status": "complete"
     },
     {
       "id": "employee-benefits",
