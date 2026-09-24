@@ -220,7 +220,10 @@
         "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra",
         "https://www.dol.gov/agencies/owcp/wc",
         "https://www.dol.gov/agencies/whd/fmla"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-employee-benefits.md",
+      "review_status": "partial"
     },
     {
       "id": "travel-entry",
