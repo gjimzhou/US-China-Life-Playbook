@@ -389,7 +389,11 @@
         "https://www.irs.gov/payments",
         "https://www.irs.gov/forms-pubs/about-form-ss-8",
         "https://www.dol.gov/agencies/whd",
-        "https://www.dol.gov/agencies/whd/direct-care"
+        "https://www.dol.gov/agencies/whd/direct-care",
+        "https://www.dol.gov/sites/dolgov/files/WHD/fab/fab2025-4.pdf",
+        "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552",
+        "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a",
+        "https://www.nj.gov/labor/myworkrights/worker-protections/domestic_workers/domesticworkerrights_employers.shtml"
       ],
       "last_review_attempt": "2026-09-24",
       "latest_review_record": "maintenance/reviews/2026-09-24-household-payroll.md",

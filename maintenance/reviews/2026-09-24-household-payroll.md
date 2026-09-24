@@ -36,3 +36,29 @@
 I-9接受版本/期限/保存、州及城市劳动规则、加班与额外Medicare代扣细节仍待可读取官方全文；本次只确认列明联邦工资税门槛。
 
 关联页面按 `docs/topic-maintenance.md` 检查；未改结论的条目不批量改写清单。搜索复用正文小节，没有另外复制主张。仅在正文受影响处加简短说明；完整记录留在本目录。
+
+## 同日第三轮续核
+
+基线：main@493d569。访问日期：2026-09-24。
+
+### 第5、17节：工资税与年终办理
+
+原句：对同一员工在一个日历年支付超过200,000美元的适用工资时，家庭雇主还需从超过部分开始代扣0.9%额外医疗保险税。
+
+- [IRS Publication926](https://www.irs.gov/publications/p926)，2026版，Table1脚注、Social Security and Medicare Taxes与Table2：确认超过20万美元的支付期开始代扣，只有雇员部分；W-2／W-3为2027-02-01，Schedule H一般为2027-04-15。保留正文，不与个人最终税额门槛混为一谈。
+
+### 第7–10节：工时、住家及地方要求
+
+原句：符合条件的睡眠、用餐和完全自由时间可涉及协议排除；被工作打断的时间需要重新计入。
+
+- [29 CFR Part552](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-552)当前正文§552.100–102、109–110：确认最低工资、40小时后加班一般规则、住家例外、工作打断需计时及协议／实际工时记录。DOL79B／79D本次读取失败，改读对应法规，不能记录为事实表已读。
+- [DOL FAB2025-4](https://www.dol.gov/sites/dolgov/files/WHD/fab/fab2025-4.pdf)，2025-07-25，PDF全部3页已读取：暂停执行2013规则相关部分的内部执法指引，末页明确不改变法定或监管要求。正文新增提示，与仍列示提案的[DOL页面](https://www.dol.gov/agencies/whd/direct-care)及eCFR分开表述；本次未作所有诉讼效力审定。
+- [NJDOL雇主说明](https://www.nj.gov/labor/myworkrights/worker-protections/domestic_workers/domesticworkerrights_employers.shtml)，Written contract in the employee’s language：员工语言合同、偶发／少于5小时例外。保留适用地域和覆盖例外，不复制页面中较旧的工资年度举例。
+
+### 第16节：I-9期限与接受版本分开
+
+原句：雇主填写的第2部分通常应在员工开始有偿工作后的3个营业日内完成；保存到入职后3年和离职后1年两者较晚者。
+
+- [8 CFR274a.2](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a)，(b)(1)(i)–(iii)、(b)(2)(i)(A)：补核填写时点、少于3营业日例外和保存期限。法规不证明今日接受哪个表格版次。
+- USCIS I-9、版次公告、说明PDF在检索工具与官网直接读取均403；表格版本改注明原2026-09-22核对日期，避免“当前”暗示本日已完成复查。
+- 结果：缩小缺口，但整项仍partial；I-9版本、首次填写不得早于接受聘用的操作说明，以及实际工作州／市的其余要求仍待核。
