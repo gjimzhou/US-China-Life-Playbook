@@ -32,6 +32,8 @@
 
 分开出票、换机场、重新托运行李、过夜或航班取消，可能改变是否需要入境的判断。按实际机场和航班组合核对过境要求；留一个无法登机或改签后的联系入口。
 
+例如，[英国官方过境说明](https://www.gov.uk/transit-visa)要求区分是否经过边境检查，并另查本人是否需要签证及是否符合豁免；航空公司可帮助确认航班是否涉及边检。这个区分说明为何不能只凭“转机”二字判断，不能据此套用其他国家规则。
+
 **核对顺序：** 先查转机国家 / 地区的官方移民部门或使领馆页面，再查实际承运航空公司的转机及行李说明；不要只依赖第三方签证数据库。美国公民也可从[国务院：旅行警示与目的地信息](https://travel.state.gov/en/international-travel/planning.html)进入对应国家页面。
 
 ## 5. 境外医疗不能按美国境内体验推断
@@ -137,6 +139,8 @@
 ## 19. 安全提醒服务不等于救援保证
 
 符合条件的美国公民可了解旅行者登记计划（STEP），接收相关使领馆信息。其他国籍人员应另查本国领事保护渠道。登记、旅行警示和旅行保险各有作用，不能互相替代。
+
+出发前及行程变化时分别重看旅行安全与健康提示。例如，[国务院中国旅行信息](https://travel.state.gov/en/international-travel/travel-advisories/china.html)与[CDC中国旅行健康页](https://wwwnc.cdc.gov/travel/destinations/traveler/none/china)服务不同问题，警示等级也不是同一套尺度。记下查看日期、适用地区和影响本人行程的事项；旧截图不能代替出发前复查。
 
 **直接办理：** [智慧旅客登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [国务院：旅行提醒](https://travel.state.gov/en/international-travel/travel-advisories.html)。
 
