@@ -294,7 +294,10 @@
         "https://www.uscis.gov/records/request-records-through-the-freedom-of-information-act-or-privacy-act",
         "https://www.uscis.gov/file-online/how-to-create-a-uscis-online-account",
         "https://www.uscis.gov/forms/filing-guidance/tips-for-filing-forms-by-mail"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-immigration.md",
+      "review_status": "partial"
     },
     {
       "id": "cross-border-tax",
