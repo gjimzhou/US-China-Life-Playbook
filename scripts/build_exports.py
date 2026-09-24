@@ -179,7 +179,7 @@ code { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:.92em;
 .page-break { break-before:page; page-break-before:always; }
 nav#TOC { font-family:"Noto Sans CJK SC",sans-serif; }
 @page { size:A4; margin:18mm 17mm 19mm 17mm; @bottom-center { content:counter(page); font-size:9pt; color:#667; } }
-@media print { body { max-width:none; padding:0; } a { color:inherit; } }
+@media print { body { max-width:none; padding:0; } a { color:inherit; } tr { break-inside:avoid; } }
 '''.strip() + "\n")
     return css
 
