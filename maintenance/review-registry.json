@@ -125,8 +125,8 @@
       "scope": "预缴税、申报付款期限、州居民身份",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-09-24",
+      "review_record": "maintenance/reviews/2026-09-24-us-tax.md",
       "sources": [
         "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
         "https://www.irs.gov/publications/p505",
@@ -157,7 +157,7 @@
       ],
       "last_review_attempt": "2026-09-24",
       "latest_review_record": "maintenance/reviews/2026-09-24-us-tax.md",
-      "review_status": "partial"
+      "review_status": "complete"
     },
     {
       "id": "medicare",

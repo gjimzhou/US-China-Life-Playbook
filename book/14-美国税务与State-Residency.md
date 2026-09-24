@@ -182,3 +182,5 @@
 **入口汇总：** [预扣税与预估税指南（IRS Publication 505）](https://www.irs.gov/publications/p505) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [州政府税务入口](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [IRS：跨境纳税人资料](https://www.irs.gov/individuals/international-taxpayers)。
 
 最后编辑与来源核验：2026-09-21。第三轮核对国税局2026年《预扣税与预估税指南》（Publication 505）的预缴到期日与安全港规则。Form 2210说明入口当时仍为2025版，正文仅借其解释罚金与收入年化机制，不把它当作2026年数字来源。另核对第三方税务代理、信息查阅、当次口头授权及夫妻分别提交授权的要求，在线提交入口、纽约州居民定义与远程工作资料，以及境外金融账户申报入口。本章不是五十州规则汇编；其他州、个别抵免和境外表格的适用性须单独核验。
+
+2026-09-24定点复核：预缴安全港、年化与预扣时点、申报延期及纽约居民／远程工作的一般规则已重读。Form2210入口仍为2025说明，2026预缴规划采用2026 Publication505；其他州和个案另查。
