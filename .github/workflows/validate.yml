@@ -1,0 +1,31 @@
+name: Validate proposed changes
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: validate-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install ebook export tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc fonts-noto-cjk libharfbuzz-subset0
+          python -m pip install weasyprint
+      - run: python -m unittest discover -s scripts -p 'test_maintenance_report.py'
+      - run: python scripts/maintenance_report.py
+      - run: python scripts/build_site.py
+      - run: python scripts/check_review_regressions.py
+      - run: python scripts/build_exports.py
+      - run: python scripts/check_site.py
