@@ -34,3 +34,13 @@ USCIS forms、addresschange及I-9页面未能取得正文；未核所有表格�
 基线：main@493d569。访问日期：2026-09-24。
 
 USCIS forms、addresschange、I-9、版次公告和说明PDF再次尝试均未取得正文（官网直接请求403）。未登录在线账户、未使用第三方摘要替代正式说明，也未声称已排除近期个案公告或诉讼影响。第5、9节此前法规记录仍保留；整项partial且last_verified不变。下一步需要可读的USCIS正式表格及费用说明、地址变更程序和具体更新条款逐一比对。
+
+### 第13节及工作许可法规补核
+
+- [8 CFR 211.1(a)(2)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-211/section-211.1)：有效I-551对应临时离境少于1年；因此正文将计划离境“超过1年”修为“达到或超过1年”，并要求提前核对证件。
+- [8 CFR 223.2–223.3](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-223)：回美证申请时须在美国；有效证件并不豁免其他入境条件，不能仅凭离境时长认定放弃居留也不是保证入境。
+- [8 CFR 316.5(c)–(d)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-316/section-316.5)：超过6个月少于1年的连续居住可反驳推定，以及1年或以上通常中断和合资格工作例外，支持正文区分回美证与N-470。未替个案计算资格。
+- [8 CFR 274a.13(d)–(e)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a)：续核540天旧规则条件及2025-10-30起新申请的自动延期取消与法定例外，支持第9节现有日期边界。
+- [USA.gov地址变更说明](https://www.usa.gov/change-address)（页面标2026-04-15）区分邮政与其他机构地址更新；不能替代USCIS当前提交界面的验证。
+
+以上官方正文于2026-09-24读取。浏览器访问USCIS I-9也显示Access Denied，重试结果相同；停止重复请求。法规条款已补核，但表格、费用和程序缺口仍未解决，维持partial。
