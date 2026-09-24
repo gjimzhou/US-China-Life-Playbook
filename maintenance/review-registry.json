@@ -248,7 +248,10 @@
         "https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html",
         "https://wwwnc.cdc.gov/travel/",
         "https://travel.state.gov/en/international-travel/planning/guidance/driving-transportation.html"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-travel-entry.md",
+      "review_status": "partial"
     },
     {
       "id": "immigration",
