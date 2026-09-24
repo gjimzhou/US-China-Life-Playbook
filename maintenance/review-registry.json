@@ -190,8 +190,8 @@
       "scope": "COBRA、特殊参保与HSA/FSA年度限额",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-09-24",
+      "review_record": "maintenance/reviews/2026-09-24-employee-benefits.md",
       "sources": [
         "https://www.dol.gov/agencies/whd/fact-sheets/28-fmla",
         "https://www.dol.gov/agencies/whd/fmla/am-i-eligible-FMLA-leave",
@@ -221,11 +221,12 @@
         "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records",
         "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra",
         "https://www.dol.gov/agencies/owcp/wc",
-        "https://www.dol.gov/agencies/whd/fmla"
+        "https://www.dol.gov/agencies/whd/fmla",
+        "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employers-guide-to-group-health-continuation-coverage-under-cobra"
       ],
       "last_review_attempt": "2026-09-24",
       "latest_review_record": "maintenance/reviews/2026-09-24-employee-benefits.md",
-      "review_status": "partial"
+      "review_status": "complete"
     },
     {
       "id": "travel-entry",
