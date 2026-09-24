@@ -69,8 +69,8 @@
       "scope": "拒赔期限、外部复核与账单保护",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-09-24",
+      "review_record": "maintenance/reviews/2026-09-24-insurance-appeals.md",
       "sources": [
         "https://www.cms.gov/medical-bill-rights",
         "https://www.cms.gov/nosurprises/consumer-protections/what-are-the-new-protections",
@@ -94,7 +94,9 @@
       ],
       "last_review_attempt": "2026-09-24",
       "latest_review_record": "maintenance/reviews/2026-09-24-insurance-appeals.md",
-      "review_status": "partial"
+      "review_status": "complete",
+      "review_by": "2026-10-02",
+      "review_by_reason": "HHS FERP临时延期到期，复核官方后续通知并调整限时提示"
     },
     {
       "id": "china-health-access",
