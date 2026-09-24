@@ -1,0 +1,29 @@
+name: Editorial maintenance queue
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '47 13 * * 1'
+  push:
+    branches: [main]
+    paths: ['maintenance/**', 'scripts/maintenance_report.py', 'scripts/test_maintenance_report.py', '.github/workflows/maintenance.yml', 'book/**', 'checklists/**']
+  pull_request:
+    paths: ['maintenance/**', 'scripts/maintenance_report.py', 'scripts/test_maintenance_report.py', '.github/workflows/maintenance.yml', 'book/**', 'checklists/**']
+permissions:
+  contents: read
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s scripts -p 'test_maintenance_report.py'
+      - run: python scripts/maintenance_report.py
+      - run: cat _maintenance/report.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: editorial-maintenance-queue
+          path: _maintenance/
+          retention-days: 90
