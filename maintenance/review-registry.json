@@ -46,8 +46,8 @@
       "scope": "CPR、噎住、出血与过敏急救指引",
       "interval_days": 90,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-09-24",
+      "review_record": "maintenance/reviews/2026-09-24-first-aid.md",
       "sources": [
         "https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr",
         "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support",
@@ -58,7 +58,10 @@
         "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation",
         "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
         "https://www.redcross.org/take-a-class"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-first-aid.md",
+      "review_status": "complete"
     },
     {
       "id": "insurance-appeals",
