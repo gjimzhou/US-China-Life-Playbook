@@ -112,7 +112,10 @@
         "https://www.nhsa.gov.cn/art/2026/5/27/art_14_20753.html",
         "https://www.nhsa.gov.cn/art/2024/12/1/art_52_14919.html",
         "https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-china-health-access.md",
+      "review_status": "partial"
     },
     {
       "id": "us-tax",
