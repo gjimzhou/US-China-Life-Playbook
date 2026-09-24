@@ -20,6 +20,8 @@
 
 `maintenance/review-registry.json` 保存11个初始范围及正文已引用的官方／专业来源入口。入口是待检查集合，不表示每个入口都支持范围内所有主张。首次建档未把旧章末日期迁移为整项核验；`last_verified: null` 表示尚未建立该范围的证据基线，并不表示正文已发现错误。首次完成目标为2026-10-01。
 
+2026-09-24首轮执行结果见[证据记录索引](../maintenance/reviews/README.md)：已完成范围与未完成缺口分别列明。最近尝试用 `last_review_attempt`、`latest_review_record` 与 `review_status` 记录；部分尝试不重置事实复核期限。
+
 每次执行：
 
 1. 运行 `python scripts/maintenance_report.py`；在 Actions 的 Editorial maintenance queue 下载JSON和Markdown队列。报告只安排任务，不修改正文。
