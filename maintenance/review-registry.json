@@ -381,7 +381,10 @@
         "https://www.irs.gov/forms-pubs/about-form-ss-8",
         "https://www.dol.gov/agencies/whd",
         "https://www.dol.gov/agencies/whd/direct-care"
-      ]
+      ],
+      "last_review_attempt": "2026-09-24",
+      "latest_review_record": "maintenance/reviews/2026-09-24-household-payroll.md",
+      "review_status": "partial"
     }
   ]
 }
