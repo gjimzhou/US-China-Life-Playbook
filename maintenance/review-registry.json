@@ -109,8 +109,8 @@
       "scope": "异地医保备案、结算与地方执行",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-09-24",
+      "review_record": "maintenance/reviews/2026-09-24-china-health-access.md",
       "sources": [
         "https://www.nhsa.gov.cn/",
         "https://fuwu.nhsa.gov.cn/",
@@ -118,11 +118,12 @@
         "https://www.nhsa.gov.cn/art/2023/10/20/art_114_11408.html",
         "https://www.nhsa.gov.cn/art/2026/5/27/art_14_20753.html",
         "https://www.nhsa.gov.cn/art/2024/12/1/art_52_14919.html",
-        "https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html"
+        "https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html",
+        "https://ybj.sh.gov.cn/qtwj/20230117/8d897a7323044f85aaaffa16cbd08054.html"
       ],
       "last_review_attempt": "2026-09-24",
       "latest_review_record": "maintenance/reviews/2026-09-24-china-health-access.md",
-      "review_status": "partial"
+      "review_status": "complete"
     },
     {
       "id": "us-tax",
