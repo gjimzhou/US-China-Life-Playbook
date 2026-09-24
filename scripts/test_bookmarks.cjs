@@ -7,7 +7,7 @@ const key='us-china-playbook.bookmarks.v1', base=process.env.PLAYBOOK_TEST_URL |
  const browser=await firefox.launch({headless:true});
  const context=await browser.newContext({viewport:{width:390,height:844}});
  let page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
- const open=async(hash='')=>{await page.goto(base+'/'+hash);await page.locator('#status').filter({hasNotText:'正在载入'}).waitFor()};
+ const open=async(hash='')=>{await page.goto(base+'/'+hash);await page.reload();await page.locator('#status').filter({hasNotText:'正在载入'}).waitFor()};
  await open();await page.waitForFunction(()=>document.querySelectorAll('.bookmark-button').length>0);
  const first=page.locator('.bookmark-button').first();const id=await first.getAttribute('data-bookmark-section');
  await first.focus();await page.keyboard.press('Enter');assert.equal(await first.getAttribute('aria-pressed'),'true');
@@ -29,7 +29,7 @@ const key='us-china-playbook.bookmarks.v1', base=process.env.PLAYBOOK_TEST_URL |
  const d=data.find(d=>d.sections.some(s=>s.aliases.length));const s=d.sections.find(s=>s.aliases.length);
  const items=[{path:d.path,section:s.aliases[0],title:'旧标题',docTitle:d.title},{path:'book/deleted.md',section:'lost',title:'已删除文章',docTitle:'原章节'},{path:d.path,section:'nonexistent-section',title:'已删除小节',docTitle:d.title}];
  await page.evaluate(({key,items})=>localStorage.setItem(key,JSON.stringify({version:1,items})),{key,items});
- await open('#view=bookmarks');assert.equal(await page.locator('.saved-item').count(),3);assert.equal(await page.locator('.saved-item h2 a').count(),1);
+ await open('#view=bookmarks');await page.locator('.skip').focus();await page.keyboard.press('Enter');assert.equal(new URL(await page.url()).hash,'#view=bookmarks');assert.equal(await page.evaluate(()=>document.activeElement.id),'content');assert.equal(await page.locator('.saved-item').count(),3);assert.equal(await page.locator('.saved-item h2 a').count(),1);
  await page.locator('.saved-item h2 a').click();await page.waitForFunction(()=>document.querySelector('.bookmark-button[aria-pressed="true"]'));
  assert.equal(await page.locator('.bookmark-button[aria-pressed="true"]').count(),1);
  await page.locator('.bookmark-button[aria-pressed="true"]').click();
