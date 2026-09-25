@@ -2,7 +2,8 @@
 (async()=>{
  const prefix='playbook-offline-v1-',base=new URL(document.querySelector('#offline-choices')?'./':'../',location.href),status=document.getElementById('offline-status');
  const say=text=>{if(status)status.textContent=text},node=(tag,text)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;return n};
- const stable=document.getElementById('interactive-link');if(stable&&/^#s-[a-f0-9]{12}$/.test(location.hash))stable.href+='&at='+location.hash.slice(1);
+ const stable=document.getElementById('interactive-link'),interactiveBase=stable?.href;
+ const syncSection=()=>{if(stable)stable.href=interactiveBase+(/^#s-[a-f0-9]{12}$/.test(location.hash)?'&at='+location.hash.slice(1):'')};syncSection();window.addEventListener('hashchange',syncSection);
  if(!('caches' in window)||!('serviceWorker' in navigator)){say('此浏览器不支持离线保存；仍可在线阅读或下载 PDF。');return}
  const meta=new URL('offline-entry.json',base).href;
  async function entries(){const result=[];for(const name of await caches.keys()){if(!name.startsWith(prefix))continue;const cache=await caches.open(name),r=await cache.match(meta);if(r){try{const d=await r.json();if(await cache.match(new URL(d.url,base).href))result.push({...d,cache:name})}catch{}}}return result}

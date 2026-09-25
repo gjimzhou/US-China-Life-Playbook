@@ -34,3 +34,6 @@ def build_static(root,out,docs):
         catalog.append({'contentId':d['contentId'],'title':d['title'],'url':'read/'+d['contentId']+'.html','revision':revision})
     (out/'offline-catalog.json').write_text(json.dumps(catalog,ensure_ascii=False))
     (out/'sitemap.xml').write_text('<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+BASE+c['url']+'</loc></url>' for c in catalog)+'</urlset>')
+
+    links=''.join('<li><a href="'+d['contentId']+'.html">'+html.escape(d['title'])+'</a></li>' for d in docs)
+    (target/'index.html').write_text('<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>独立章节目录 · 中美双栖人生指南</title><link rel="stylesheet" href="../style.css"></head><body class="static-page"><header><a href="../">中美双栖人生指南</a></header><main><h1>独立章节目录</h1><p>各章可直接阅读，无需 JavaScript。收藏、勾选与备份请使用互动阅读入口。</p><ul>'+links+'</ul></main></body></html>')

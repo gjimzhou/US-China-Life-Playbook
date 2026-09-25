@@ -55,5 +55,5 @@ window.ReadingTools=(()=>{
   out.append(n('h2','离线阅读'),hint('选择章节保存静态副本；离线副本没有互动功能。需要联网更新后才能看到修订。浏览器可能自动清理缓存，重要资料另存 PDF。'),link('打开离线阅读中心','offline.html'));
  }
  window.addEventListener('storage',e=>{if(e.key===key||e.key===null){read();applySettings();document.querySelectorAll('[data-task-id]').forEach(i=>{i.checked=state.tasks[i.dataset.taskId]===true;i.disabled=!available});if(activeDoc)updateTaskCount(activeDoc)}});
- return{bindTasks,share,mount,revision,tools,paths:readingPaths,async init(ds){docs=ds;read();applySettings();await Promise.all([fetch('reading-paths.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>paths=x).catch(()=>{}),fetch('updates.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>updates=x).catch(()=>{})])}};
+ return{bindTasks,share,mount,revision,tools,paths:readingPaths,async init(ds){docs=ds;read();applySettings();await Promise.all([fetch('reading-paths.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>paths=x).catch(()=>{}),fetch('updates.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>updates=x).catch(()=>{})])}};
 })();
