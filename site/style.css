@@ -56,3 +56,6 @@ article input[type=checkbox]:not(:disabled){cursor:pointer;width:1.25em;height:1
 .static-page article input[type=checkbox]{position:static;display:inline-block;margin-right:.5em;width:1em;height:1em}
 
 #reading .task-item>label,#reading .task-item>p>label{display:inline-block;min-height:44px;margin:0;cursor:pointer}article .task-item{min-height:44px}
+
+#menu{display:block}#chapter-dialog{width:min(640px,calc(100% - 32px));max-height:75vh;overflow:auto;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);padding:24px}#chapter-dialog::backdrop{background:rgba(0,0,0,.3)}#chapter-dialog button{min-height:44px;margin:0 8px 8px 0}#chapter-dialog li{margin:12px 0}#chapter-dialog h2{margin-top:0}
+@media(min-width:801px) and (max-width:1150px){header nav>a{display:none}}

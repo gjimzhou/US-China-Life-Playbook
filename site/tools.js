@@ -36,6 +36,16 @@ window.ReadingTools=(()=>{
   const row=n('div');row.className='reader-tools';row.append(link('阅读设置 / 备份 / 离线阅读','#view=tools'),document.createTextNode(' · '),link('独立章节页',new URL('read/'+doc.contentId+'.html',location.href.split('#')[0]).href));out.querySelector('article').before(row);
   if(doc.path==='HOME.md'){const a=link('按我的处境选择阅读路线','#view=paths');a.className='home-path-entry';out.prepend(a)}
  }
+ function directory(){
+  const menu=document.getElementById('menu'),toc=document.querySelector('#reading .toc');
+  const full=()=>{document.getElementById('sidebar').classList.add('open');menu.setAttribute('aria-expanded','true');menu.setAttribute('aria-controls','sidebar');document.getElementById('sidebar').scrollIntoView({block:'start'});document.getElementById('search').focus({preventScroll:true})};
+  if(!toc||!window.HTMLDialogElement){full();return}
+  document.getElementById('chapter-dialog')?.remove();const dialog=n('dialog');dialog.id='chapter-dialog';dialog.setAttribute('aria-labelledby','chapter-dialog-title');const title=n('h2','本章目录');title.id='chapter-dialog-title';dialog.append(title);
+  const top=scrollY;let restore=true,fullSelected=false;
+  dialog.append(button('返回阅读位置',()=>dialog.close()),button('全书目录与筛选',()=>{fullSelected=true;restore=false;dialog.close();full()}));
+  const list=n('ul');for(const a of toc.querySelectorAll('a')){const li=n('li'),copy=link(a.textContent,a.href);copy.onclick=()=>{restore=false;dialog.close()};li.append(copy);list.append(li)}dialog.append(list);
+  dialog.addEventListener('close',()=>{if(!fullSelected)menu.setAttribute('aria-expanded','false');if(restore)window.scrollTo(0,top)});document.body.append(dialog);menu.setAttribute('aria-controls','chapter-dialog');menu.setAttribute('aria-expanded','true');dialog.showModal();
+ }
  function revision(b,row){if(!b.savedAt)return;const es=updates.filter(e=>(e.contentId===b.contentId||e.affectedContentIds?.includes(b.contentId))&&Date.parse(e.published)>Date.parse(b.savedAt));if(es.length){const box=n('details');box.append(n('summary','收藏后有重要更新（'+es.length+'）'));es.forEach(e=>box.append(link(e.title,e.url),hint(e.summary)));row.append(box)}}
  function readingPaths(out){Reader.trackView('paths');out.append(n('h1','按处境选择阅读路线'),hint('无需填写身份或家庭资料。这些是阅读建议，按实际需要选择；紧急危险时先联系所在地应急服务。'));
   if(!paths.length){out.append(hint('路线暂未载入，可从目录或生活事件索引继续阅读。'));return}
@@ -55,5 +65,5 @@ window.ReadingTools=(()=>{
   out.append(n('h2','离线阅读'),hint('选择章节保存静态副本；离线副本没有互动功能。需要联网更新后才能看到修订。浏览器可能自动清理缓存，重要资料另存 PDF。'),link('打开离线阅读中心','offline.html'));
  }
  window.addEventListener('storage',e=>{if(e.key===key||e.key===null){read();applySettings();document.querySelectorAll('[data-task-id]').forEach(i=>{i.checked=state.tasks[i.dataset.taskId]===true;i.disabled=!available});if(activeDoc)updateTaskCount(activeDoc)}});
- return{bindTasks,share,mount,revision,tools,paths:readingPaths,async init(ds){docs=ds;read();applySettings();await Promise.all([fetch('reading-paths.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>paths=x).catch(()=>{}),fetch('updates.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>updates=x).catch(()=>{})])}};
+ return{directory,bindTasks,share,mount,revision,tools,paths:readingPaths,async init(ds){docs=ds;read();applySettings();await Promise.all([fetch('reading-paths.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>paths=x).catch(()=>{}),fetch('updates.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>updates=x).catch(()=>{})])}};
 })();
