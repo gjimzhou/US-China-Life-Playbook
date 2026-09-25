@@ -6,24 +6,24 @@ function plain(s){return s.replace(/\]\([^)]*\)/g,']').replace(/[#*`>\[\]]/g,'')
 function el(tag,text,cls){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e}
 // Store reading indexes only. Resolve saved anchors through the same explicit aliases as links.
 const bookmarkKey='us-china-playbook.bookmarks.v1';
-let bookmarks=[], bookmarkStorageAvailable=true;
+let bookmarks=[], bookmarkRaw=null, bookmarkStorageAvailable=true;
 function bookmarkWarning(message){$('bookmark-notice').hidden=false;$('bookmark-notice').textContent=message}
 function readBookmarks(){
  try{
-  const raw=localStorage.getItem(bookmarkKey);const data=raw?JSON.parse(raw):{version:1,items:[]};
+  const raw=localStorage.getItem(bookmarkKey);bookmarkRaw=raw;const data=raw?JSON.parse(raw):{version:1,items:[]};
   if(data.version!==1||!Array.isArray(data.items)||data.items.some(b=>!b||['path','section','title','docTitle'].some(k=>typeof b[k]!=='string'||!b[k].trim())))throw Error('Invalid bookmarks');
   const seen=new Set();bookmarks=data.items.filter(b=>{const key=JSON.stringify([b.path,b.section]);if(seen.has(key))return false;seen.add(key);return true});
  }catch{bookmarkStorageAvailable=false;bookmarkWarning('无法读取本地收藏。浏览器可能限制了存储，或收藏数据已损坏；原有数据未覆盖，仍可正常阅读。')}
 }
 function resolveBookmark(b){
- const doc=docs.find(d=>d.path===b.path);if(!doc)return null;
- const matches=doc.sections.filter(s=>s.id===b.section||s.aliases.includes(b.section));
+ const doc=b.contentId?docs.find(d=>d.contentId===b.contentId):docs.find(d=>d.path===b.path||d.previousPaths.includes(b.path));if(!doc)return null;
+ const matches=doc.sections.filter(s=>b.sectionId?s.contentId===b.sectionId:(s.id===b.section||s.aliases.includes(b.section)));
  return matches.length===1?{doc,section:matches[0]}:null;
 }
-function sameBookmark(b,path,id){const resolved=resolveBookmark(b);return b.path===path&&(b.section===id||resolved?.section.id===id)}
+function sameBookmark(b,path,id){const resolved=resolveBookmark(b);return resolved?resolved.doc.path===path&&resolved.section.id===id:b.path===path&&b.section===id}
 function saveBookmarks(next){
  if(!bookmarkStorageAvailable){bookmarkWarning('本地收藏暂不可用，未保存此次操作；正文阅读不受影响。');return false}
- try{localStorage.setItem(bookmarkKey,JSON.stringify({version:1,items:next}));bookmarks=next;return true}
+ try{if(localStorage.getItem(bookmarkKey)!==bookmarkRaw){readBookmarks();bookmarkWarning('收藏数据已变化，请检查列表后重试；此次操作未覆盖原数据。');return false}next=next.map(b=>{const r=resolveBookmark(b);return r?{...b,contentId:r.doc.contentId,sectionId:r.section.contentId}:b});const raw=JSON.stringify({version:1,items:next});localStorage.setItem(bookmarkKey,raw);bookmarkRaw=raw;bookmarks=next;return true}
  catch{bookmarkWarning('收藏未能保存，原列表保持不变。请检查浏览器存储设置或空间；正文仍可正常阅读。');return false}
 }
 function updateBookmarkButtons(){
@@ -37,8 +37,8 @@ function bookmarkButton(doc,section){
  const button=el('button',undefined,'bookmark-button');button.type='button';
  button.dataset.bookmarkPath=doc.path;button.dataset.bookmarkSection=section.id;button.dataset.bookmarkTitle=section.title==='概览'?doc.title:section.title;
  button.onclick=()=>{
-  const saved=bookmarks.some(b=>sameBookmark(b,doc.path,section.id));
-  const next=saved?bookmarks.filter(b=>!sameBookmark(b,doc.path,section.id)):[...bookmarks,{path:doc.path,section:section.id,title:button.dataset.bookmarkTitle,docTitle:doc.title}];
+  const saved=bookmarks.some(b=>sameBookmark(b,doc.path,section.id));Reader.event(saved?'bookmark_remove_click':'bookmark_click',doc,section);
+  const next=saved?bookmarks.filter(b=>!sameBookmark(b,doc.path,section.id)):[...bookmarks,{path:doc.path,section:section.id,contentId:doc.contentId,sectionId:section.contentId,title:button.dataset.bookmarkTitle,docTitle:doc.title}];
   if(saveBookmarks(next)){updateBookmarkButtons();$('bookmark-message').textContent=saved?'已取消收藏':'已收藏，可从“我的收藏”回访'}
  };return button;
 }
@@ -134,14 +134,16 @@ function syncSearch(){
  history.replaceState(null,'','#'+params);render();
 }
 function render(){
+ Reader.beforeRender();
  const query=$('search').value.trim().toLowerCase(), priority=$('priority').value,evidence=$('evidence').value;
  const out=$('reading');out.replaceChildren();
  document.querySelectorAll('#directory a').forEach(a=>{const active=a.dataset.path===current;a.classList.toggle('active',active);if(active)a.closest('details').open=true});
- const savedView=new URLSearchParams(location.hash.slice(1)).get('view')==='bookmarks';
+ const view=new URLSearchParams(location.hash.slice(1)).get('view');const savedView=view==='bookmarks';
+ if(['updates','privacy'].includes(view)){document.querySelector('.intro').hidden=true;$('status').textContent=view==='updates'?'订阅更新':'隐私与阅读数据';document.title=$('status').textContent+' · 中美双栖人生指南';Reader[view](out);return}
  document.querySelector('.intro').hidden=savedView||current!=='HOME.md'||Boolean(query||priority||evidence);
- if(savedView){renderBookmarks(out);return}
+ if(savedView){Reader.trackView('bookmarks');renderBookmarks(out);return}
  if(query||priority||evidence){
-  lastSearch=location.hash;const terms=searchTerms(query),results=[];
+  Reader.trackView('search');lastSearch=location.hash;const terms=searchTerms(query),results=[];
   const suggested=eventQueries.filter(e=>query&&e.phrases.some(p=>e.exact?query===p:query.includes(p))).filter(e=>docs.some(d=>d.path===e.path&&(!e.section||d.sections.some(s=>s.id===e.section))));
   if(suggested.length){const box=el('nav',undefined,'event-suggestions');box.setAttribute('aria-label','相关事件入口');box.append(el('p','先看相关处理入口（不受高级筛选限制）'));for(const e of suggested){const d=docs.find(d=>d.path===e.path);const a=el('a',e.label||d.title);a.href=route(e.path,e.section);box.append(a)}out.append(box)}
   let unfiltered=0;
@@ -157,13 +159,13 @@ function render(){
  if(lastSearch){const back=el('a','返回上次搜索','back-search');back.href=lastSearch;out.append(back)}
  const toc=el('nav',undefined,'toc');toc.setAttribute('aria-label','本章目录');for(const s of doc.sections.filter(s=>s.level===2)){const a=el('a',s.title);a.href=route(doc.path,s.id);toc.append(a)}if(toc.children.length)out.append(toc);
  const article=el('article');for(const s of doc.sections){const section=el('section');section.id='section-'+s.id;section.append(safeMarkdown(s.markdown,doc.path));const heading=section.querySelector('h1,h2,h3,h4,h5,h6');const save=bookmarkButton(doc,s);if(heading)heading.after(save);else section.prepend(save);article.append(section)}out.append(article);updateBookmarkButtons();const a=el('a','查看本章原文与修改记录 ↗','source');a.href=repo+doc.path;out.append(a);
- const section=new URLSearchParams(location.hash.slice(1)).get('section');if(section){const target=doc.sections.find(s=>s.id===section||s.aliases.includes(section));if(target)requestAnimationFrame(()=>$('section-'+target.id)?.scrollIntoView());else{const note=el('p','未找到此段落，已打开对应章节。请使用本章目录选择。','hint');out.prepend(note)}}
+ const section=new URLSearchParams(location.hash.slice(1)).get('section');Reader.mount(doc,out,doc.sections.find(s=>s.id===section||s.aliases.includes(section)));if(section){const target=doc.sections.find(s=>s.id===section||s.aliases.includes(section));if(target)requestAnimationFrame(()=>$('section-'+target.id)?.scrollIntoView());else{const note=el('p','未找到此段落，已打开对应章节。请使用本章目录选择。','hint');out.prepend(note)}}
 }
-function navigate(){if(location.hash==='#content'){$('content').focus();return}const params=new URLSearchParams(location.hash.slice(1));current=params.get('doc')||'HOME.md';$('search').value=params.get('q')||'';$('priority').value=params.get('priority')||'';$('evidence').value=params.get('evidence')||'';render();$('sidebar').classList.remove('open');$('menu').setAttribute('aria-expanded','false');if(!params.get('section'))window.scrollTo(0,0)}
+function navigate(){if(location.hash==='#content'){$('content').focus();return}const params=new URLSearchParams(location.hash.slice(1));const stable=params.get('content');const d=stable?docs.find(d=>d.contentId===stable):docs.find(d=>d.path===params.get('doc')||d.previousPaths.includes(params.get('doc')));current=d?.path||(stable?'__missing__':params.get('doc')||'HOME.md');if(stable&&d){params.set('doc',d.path);const at=params.get('at');if(at){const target=d.sections.find(s=>s.contentId===at);params.set('section',target?.id||'__missing__')}history.replaceState(null,'','#'+params)}$('search').value=params.get('q')||'';$('priority').value=params.get('priority')||'';$('evidence').value=params.get('evidence')||'';render();$('sidebar').classList.remove('open');$('menu').setAttribute('aria-expanded','false');if(!params.get('section'))window.scrollTo(0,0)}
 for(const id of ['search','priority','evidence'])$(id).addEventListener('input',syncSearch);
 $('reset').onclick=()=>{for(const id of ['search','priority','evidence'])$(id).value='';lastSearch='';syncSearch()};
 $('menu').onclick=()=>{$('menu').setAttribute('aria-expanded',String($('sidebar').classList.toggle('open')))};
 $('print').onclick=()=>window.print();window.addEventListener('hashchange',navigate);
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){e.preventDefault();$('sidebar').classList.add('open');$('menu').setAttribute('aria-expanded','true');$('search').focus()}});
-fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(data=>{docs=data;const all=docs.flatMap(d=>d.sections);$('filter-coverage').textContent=`${all.length} 个段落中，${all.filter(s=>s.tags.length).length} 个有筛选标注。这不是事实审定率。`;directory();navigate()}).catch(()=>{$('status').textContent='正文暂时无法载入';const a=el('a','打开 GitHub 完整目录');a.href='https://github.com/gjimzhou/US-China-Life-Playbook#readme';$('reading').append(a)});
+fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(async data=>{docs=data;await Reader.init(docs);const all=docs.flatMap(d=>d.sections);$('filter-coverage').textContent=`${all.length} 个段落中，${all.filter(s=>s.tags.length).length} 个有筛选标注。这不是事实审定率。`;directory();navigate()}).catch(()=>{$('status').textContent='正文暂时无法载入';const a=el('a','打开 GitHub 完整目录');a.href='https://github.com/gjimzhou/US-China-Life-Playbook#readme';$('reading').append(a)});
 document.addEventListener('click',e=>{const a=e.target.closest('a');if(a?.classList.contains('skip')){e.preventDefault();$('content').focus();return}if(a&&a.hash===location.hash&&a.hash.startsWith('#doc=')){e.preventDefault();navigate()}});

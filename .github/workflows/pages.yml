@@ -29,6 +29,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc fonts-noto-cjk libharfbuzz-subset0
           python -m pip install weasyprint
+      - run: python -m unittest discover -s scripts -p 'test_*.py'
       - run: python scripts/build_site.py
       - run: python scripts/check_review_regressions.py
       - run: python scripts/build_exports.py

@@ -1,0 +1,19 @@
+{
+  "analytics": {
+    "enabled": false,
+    "websiteId": "",
+    "scriptUrl": "https://cloud.umami.is/script.js"
+  },
+  "comments": {
+    "enabled": false,
+    "serverUrl": "",
+    "moderationConfirmed": false,
+    "replyNotifications": false
+  },
+  "newsletter": {
+    "enabled": false,
+    "formUrl": "",
+    "doubleOptInVerified": false,
+    "unsubscribeVerified": false
+  }
+}

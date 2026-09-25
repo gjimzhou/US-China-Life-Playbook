@@ -89,3 +89,5 @@
 一条内容的价值在于帮助读者少犯高后果错误、更快找到机构、知道何时寻求专业帮助，并把一次性知识转化为长期准备。
 
 最后编辑：2026-09-21
+
+读者功能与维护说明见 [reader-services.md](docs/reader-services.md)。修改标题或文件名时保留 `site/content-ids.json` 中的稳定ID；新增内容需分配新ID。只有面向读者的新内容或重要修订才加入 `updates/entries.json`，普通小修不发布订阅通知。

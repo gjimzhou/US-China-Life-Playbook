@@ -1,6 +1,6 @@
 # Reading site maintenance
 
-The site builds from Markdown with Python's standard library and the bundled MIT-licensed Marked parser. It uses no runtime CDN or analytics. Editorial cadence, evidence records and link triage are defined in [持续维护工作流](maintenance-workflow.md).
+The site builds from Markdown with Python's standard library and the bundled MIT-licensed Marked parser. Core reading has no runtime CDN dependency. Optional analytics and chapter interactions are disabled until owner-controlled services are configured and verified; see [reader services](reader-services.md). Editorial cadence, evidence records and link triage are defined in [持续维护工作流](maintenance-workflow.md).
 
 ## Hosting and deployment
 
