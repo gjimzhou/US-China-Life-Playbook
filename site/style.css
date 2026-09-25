@@ -32,3 +32,13 @@ article .practice-advice{border-left:3px dashed #95723b;padding:8px 14px;backgro
 .saved-item{padding:20px 0;border-bottom:1px solid var(--line);overflow-wrap:anywhere}.saved-item h2{font-size:21px;line-height:1.6;margin:8px 0}.saved-item button{min-height:44px}.saved-location{font-size:13px;color:var(--muted)}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
 @media print{.bookmark-button,.saved-item button,#bookmark-notice,#bookmark-message{display:none!important}}
+
+/* Reader utilities reuse the site's palette and stay out of the reading flow. */
+.reader-tools{padding:14px 16px;border:1px solid var(--line);background:var(--wash);margin:16px 0;overflow-wrap:anywhere}
+.reader-tools small{display:block;color:var(--muted);margin:8px 0}.reader-tools button,.subscription-tools button,.discussion button{min-height:44px}
+.subscription-tools{display:grid;gap:10px;margin:20px 0;max-width:100%}.subscription-tools input{width:100%;min-width:0;box-sizing:border-box;background:var(--paper);color:var(--ink);border:1px solid var(--field);padding:12px;font:inherit}
+.chapter-navigation{display:flex;gap:18px;justify-content:space-between;margin:32px 0;border-top:1px solid var(--line);padding-top:20px;overflow-wrap:anywhere}.chapter-navigation a{flex:1;min-width:0}
+.discussion{border-top:1px solid var(--line);margin-top:36px;padding-top:20px;--waline-theme-color:var(--blue);--waline-text-color:var(--ink);--waline-bg-color:var(--paper);--waline-border-color:var(--line)}
+#reader-message{padding:10px;border-left:3px solid var(--blue);background:var(--wash)}
+@media(max-width:600px){.chapter-navigation{flex-direction:column}.reader-tools{font-size:14px}}
+@media print{.reader-tools,.chapter-navigation,.discussion,#reader-message,.subscription-tools{display:none!important}}

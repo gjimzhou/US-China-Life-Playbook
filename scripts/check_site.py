@@ -64,3 +64,12 @@ assert repr(assets[0].name) in app, 'App and content bundle must use the same ve
 assert "fetch('data.json')" not in app, 'Unversioned content request'
 assert not errors, '\n'.join(errors)
 print(f'Validated {len(docs)} documents: relative links, fragments, unique anchors, Chinese headings and content version')
+
+# Reader utility assets and RSS must be part of the public artifact.
+from xml.etree import ElementTree as ET
+for name in ['reader.js', 'services.json', 'updates.json', 'content-ids.json', 'feed.xml']:
+    assert (root / '_site' / name).is_file(), f'Missing reader artifact: {name}'
+feed = ET.parse(root / '_site/feed.xml')
+assert feed.findall('./channel/item'), 'Missing curated feed entries'
+assert 'application/rss+xml' in (root / '_site/index.html').read_text()
+assert all(d.get('contentId') and all(s.get('contentId') for s in d['sections']) for d in docs)

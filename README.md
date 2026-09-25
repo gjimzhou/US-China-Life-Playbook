@@ -29,7 +29,7 @@
 
 ## 网页阅读
 
-[打开阅读网站](https://gjimzhou.github.io/US-China-Life-Playbook/) · [下载 EPUB / PDF / DOCX 等离线版](DOWNLOADS.md) · [查看发布状态](https://github.com/gjimzhou/US-China-Life-Playbook/actions/workflows/pages.yml)
+[打开阅读网站](https://gjimzhou.github.io/US-China-Life-Playbook/) · [订阅更新](https://gjimzhou.github.io/US-China-Life-Playbook/#view=updates) · [RSS](https://gjimzhou.github.io/US-China-Life-Playbook/feed.xml) · [下载 EPUB / PDF / DOCX 等离线版](DOWNLOADS.md) · [查看发布状态](https://github.com/gjimzhou/US-China-Life-Playbook/actions/workflows/pages.yml)
 
 网页版提供全文搜索、章节目录、优先级与证据筛选，以及打印阅读。发布流程同时自动生成 EPUB、PDF、DOCX、单文件 HTML、单文件 Markdown 和 源文件压缩包；正文更新后这些离线版本与网站一起重建。
 

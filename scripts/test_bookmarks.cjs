@@ -4,7 +4,7 @@ const assert = require('node:assert/strict');
 const { firefox } = require(process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES ? process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES + '/playwright' : 'playwright');
 const key='us-china-playbook.bookmarks.v1', base=process.env.PLAYBOOK_TEST_URL || 'http://127.0.0.1:8765';
 (async()=>{
- const browser=await firefox.launch({headless:true});
+ const browser=await firefox.launch({headless:true,env:{...process.env,MOZ_DISABLE_CONTENT_SANDBOX:'1',MOZ_DISABLE_GMP_SANDBOX:'1',MOZ_DISABLE_RDD_SANDBOX:'1'}});
  const context=await browser.newContext({viewport:{width:390,height:844}});
  let page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
  const open=async(hash='')=>{await page.goto(base+'/'+hash);await page.reload();await page.locator('#status').filter({hasNotText:'正在载入'}).waitFor()};
