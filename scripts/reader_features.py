@@ -52,7 +52,7 @@ def build_updates(root, out, docs):
         assert e['kind'] in ('new', 'important-revision')
         assert e['contentId'] in by_id
         e['url'] = BASE+'#'+urlencode({'content':e['contentId']})
-    entries.sort(key=lambda e:e['published'], reverse=True)
+    entries.sort(key=lambda e:datetime.fromisoformat(e['published']), reverse=True)
     assert entries, 'RSS needs at least one curated update'
     feed = ET.Element('rss', {'version':'2.0', 'xmlns:atom':'http://www.w3.org/2005/Atom'})
     channel = ET.SubElement(feed, 'channel')

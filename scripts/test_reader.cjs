@@ -4,7 +4,7 @@ const {firefox}=require(process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES?process.e
 const base=process.env.PLAYBOOK_TEST_URL||'http://127.0.0.1:8765', key='us-china-playbook.progress.v1';
 const services={analytics:{enabled:true,websiteId:'11111111-1111-4111-8111-111111111111',scriptUrl:'https://stats.example.test/script.js'},comments:{enabled:true,serverUrl:'https://comments.example.test',moderationConfirmed:true,replyNotifications:false},newsletter:{enabled:false}};
 (async()=>{
- const browser=await firefox.launch({headless:true,env:{...process.env,MOZ_DISABLE_CONTENT_SANDBOX:'1',MOZ_DISABLE_GMP_SANDBOX:'1',MOZ_DISABLE_RDD_SANDBOX:'1'}});const ctx=await browser.newContext({viewport:{width:390,height:844}});const page=await ctx.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ const browser=await firefox.launch({headless:true,env:{...process.env,MOZ_DISABLE_CONTENT_SANDBOX:'1',MOZ_DISABLE_GMP_SANDBOX:'1',MOZ_DISABLE_RDD_SANDBOX:'1'}});const ctx=await browser.newContext({viewport:{width:390,height:844}});await ctx.route('**/services.json',r=>r.fulfill({json:{analytics:{enabled:false},comments:{enabled:false},newsletter:{enabled:false}}}));const page=await ctx.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
  const open=async(url='')=>{await page.goto(base+'/'+url);await page.reload();await page.locator('#status').filter({hasNotText:'正在载入'}).waitFor()};
  const external=[];page.on('request',r=>{if(!r.url().startsWith(base))external.push(r.url())});
  await open();const docs=await page.evaluate(async()=>{const app=await(await fetch('app.js')).text();return(await fetch(app.match(/fetch\('(data\.[^']+\.json)'\)/)[1])).json()});

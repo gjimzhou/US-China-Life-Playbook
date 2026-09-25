@@ -29,8 +29,16 @@ class ReaderFeatures(unittest.TestCase):
                 self.assertIn('#content=d-',i.findtext('link'));self.assertTrue(i.findtext('pubDate'))
             self.assertEqual(tree.find('./channel/{http://www.w3.org/2005/Atom}link').get('rel'),'self')
 
+    def test_feed_orders_actual_instants_across_timezones(self):
+        entries=[{'id':'early-local','published':'2026-01-01T10:00:00-05:00','kind':'new','contentId':'d-111111111111','title':'later instant','summary':'a'}, {'id':'late-local','published':'2026-01-01T14:00:00+00:00','kind':'new','contentId':'d-111111111111','title':'earlier instant','summary':'b'}]
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder);(root/'updates').mkdir();(root/'updates/entries.json').write_text(json.dumps(entries))
+            build_updates(root,root,[{'contentId':'d-111111111111'}])
+            self.assertEqual(ET.parse(root/'feed.xml').findtext('./channel/item/title'),'later instant')
+
     def test_unverified_services_stay_off(self):
-        c=json.loads((ROOT/'site/services.json').read_text());validate_services(c)
+        validate_services(json.loads((ROOT/'site/services.json').read_text()))
+        c={'analytics':{'enabled':False,'websiteId':'','scriptUrl':''},'comments':{'enabled':False,'serverUrl':'','moderationConfirmed':False},'newsletter':{'enabled':False,'formUrl':'','doubleOptInVerified':False,'unsubscribeVerified':False}}
         for key in ['analytics','comments','newsletter']:
             bad=copy.deepcopy(c);bad[key]['enabled']=True
             with self.assertRaises(AssertionError):validate_services(bad)
