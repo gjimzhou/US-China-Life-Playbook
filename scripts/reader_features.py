@@ -16,8 +16,12 @@ def validate_services(c):
     assert set(c) == {'analytics', 'comments', 'newsletter'}
     a, w, n = (c[k] for k in ('analytics','comments','newsletter'))
     if a['enabled']:
-        assert re.fullmatch(r'[0-9a-fA-F-]{36}', a['websiteId']), 'Supply a public Umami Website ID'
-        assert https_url(a['scriptUrl'])
+        if a.get('provider') == 'goatcounter':
+            assert re.fullmatch(r'https://[a-z0-9-]+\.goatcounter\.com/count', a.get('endpoint', '')), 'Supply a hosted GoatCounter endpoint'
+            assert a['scriptUrl'] == 'https://gc.zgo.at/count.js'
+        else:
+            assert re.fullmatch(r'[0-9a-fA-F-]{36}', a['websiteId']), 'Supply a public Umami Website ID'
+            assert https_url(a['scriptUrl'])
     if w['enabled']:
         assert https_url(w['serverUrl']) and w['moderationConfirmed'], 'Confirm server moderation before enabling'
     if n['enabled']:
