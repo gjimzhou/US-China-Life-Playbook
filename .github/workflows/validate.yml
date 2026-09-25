@@ -39,5 +39,6 @@ jobs:
           trap 'kill "$server_pid" 2>/dev/null || true' EXIT
           node scripts/test_bookmarks.cjs
           node scripts/test_reader.cjs
+          node scripts/test_tools.cjs
       - run: python scripts/build_exports.py
       - run: python scripts/check_site.py

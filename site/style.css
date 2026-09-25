@@ -42,3 +42,17 @@ article .practice-advice{border-left:3px dashed #95723b;padding:8px 14px;backgro
 #reader-message{padding:10px;border-left:3px solid var(--blue);background:var(--wash)}
 @media(max-width:600px){.chapter-navigation{flex-direction:column}.reader-tools{font-size:14px}}
 @media print{.reader-tools,.chapter-navigation,.discussion,#reader-message,.subscription-tools{display:none!important}}
+
+/* Compact tools follow the existing palette and are absent from printed content. */
+article{font-size:var(--reader-size,16px)}article p,article li{line-height:var(--reader-line,1.95)}
+article h3{font-size:max(18px,var(--reader-size,16px))}
+.reading-shortcuts{font-size:14px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.section-actions{font-size:13px;margin:12px 0 22px;color:var(--muted)}.section-actions summary{cursor:pointer;min-height:44px;padding:8px 0}.section-actions input{position:static!important;width:100%;font:inherit;padding:9px;background:var(--wash);color:var(--ink);border:1px solid var(--line)}.section-actions button{margin:8px 8px 8px 0}.section-actions label{display:block}.section-actions select{max-width:100%;margin:8px}
+#reading button,#reading select{min-height:44px}#reading label{display:block;margin:12px 0}#reading input[type=file]{max-width:100%;font:inherit}#reading select{font:inherit;background:var(--paper);color:var(--ink);border:1px solid var(--field);padding:6px}.home-path-entry{display:block;padding:16px;background:var(--wash);border:1px solid var(--line)}
+article input[type=checkbox]:not(:disabled){cursor:pointer;width:1.25em;height:1.25em;top:.35em}
+.static-page{max-width:900px;margin:auto;padding:24px}.static-page header{position:static;height:auto;padding:8px 0}.static-page main{padding:10px 0}.offline-row{border-bottom:1px solid var(--line);padding:16px 0}.offline-row button{min-height:44px;margin:8px}.offline-row a{overflow-wrap:anywhere}.offline-row small{display:block}.offline-filter{display:block;width:100%;padding:10px;font:inherit}
+@media print{.section-actions,.reading-shortcuts,.home-path-entry,.static-tools{display:none!important}article input[type=checkbox]{print-color-adjust:exact}}
+
+.static-page article input[type=checkbox]{position:static;display:inline-block;margin-right:.5em;width:1em;height:1em}
+
+#reading .task-item>label,#reading .task-item>p>label{display:inline-block;min-height:44px;margin:0;cursor:pointer}article .task-item{min-height:44px}

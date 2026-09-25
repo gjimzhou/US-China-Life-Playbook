@@ -1,6 +1,6 @@
 # Reading site maintenance
 
-The site builds from Markdown with Python's standard library and the bundled MIT-licensed Marked parser. Core reading has no runtime CDN dependency. Optional analytics and chapter interactions are disabled until owner-controlled services are configured and verified; see [reader services](reader-services.md). Editorial cadence, evidence records and link triage are defined in [持续维护工作流](maintenance-workflow.md).
+The interactive site builds from Markdown with Python's standard library and the bundled MIT-licensed Marked parser. Independent static chapter pages use Pandoc, which is also required for the existing exports. Core reading has no runtime CDN dependency. Optional analytics and chapter interactions are disabled until owner-controlled services are configured and verified; see [reader services](reader-services.md). Editorial cadence, evidence records and link triage are defined in [持续维护工作流](maintenance-workflow.md).
 
 ## Hosting and deployment
 
@@ -35,3 +35,5 @@ Search priority/evidence filters use explicit section labels; missing labels are
 The External link report detects HTTP failures, restrictions and redirects; it cannot prove a destination supports the claim. The Editorial maintenance queue validates the review registry and assigns due scopes and a full-content rotation. Neither automatically refreshes verification dates. Follow the editorial workflow to record evidence and fix dependent pages.
 
 After merging, inspect Actions, the affected live page and downloads manifest. For a bad published change, use a revert commit and verify the replacement deployment. Keep VERSION and release history accurate; do not label old exports as a new version.
+
+读者清单、备份、静态分享与离线机制见 [读者工具维护](reading-tools.md)。

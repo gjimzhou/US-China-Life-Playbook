@@ -1,8 +1,8 @@
-"""Build an allowlisted, dependency-free GitHub Pages artifact."""
+"""Build an allowlisted GitHub Pages artifact with static chapter fallbacks."""
 from pathlib import Path
 import json,re,shutil,hashlib,unicodedata
 from legacy_routes import legacy_routes
-from reader_features import attach_ids, build_updates, validate_services
+from reader_features import attach_ids, attach_tasks, build_updates, validate_services
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'_site'
 if OUT.exists():shutil.rmtree(OUT)
@@ -55,6 +55,7 @@ for p in paths:
  dest=OUT/path;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(text)
 assert set(historical_aliases) <= {d['path'] for d in docs}, 'Alias document missing'
 attach_ids(docs, json.loads((ROOT/'site/content-ids.json').read_text()))
+attach_tasks(docs, json.loads((ROOT/'site/task-ids.json').read_text()))
 validate_services(json.loads((ROOT/'site/services.json').read_text()))
 build_updates(ROOT, OUT, docs)
 (OUT/'data.json').write_text(json.dumps(docs,ensure_ascii=False))
@@ -71,7 +72,10 @@ app=(OUT/'app.js').read_text().replace("'data.json'",repr(data_asset))
 
 # Content hashes keep cached assets aligned with each deployed build.
 index=(OUT/'index.html').read_text()
-for asset in ['app.js','theme.js','style.css','vendor/marked.js','reader.js']:
+for asset in ['app.js','theme.js','style.css','vendor/marked.js','reader.js','tools.js']:
     digest=hashlib.sha256((OUT/asset).read_bytes()).hexdigest()[:12]
     index=index.replace('"'+asset+'"','"'+asset+'?v='+digest+'"')
 (OUT/'index.html').write_text(index)
+
+from static_reading import build_static
+build_static(ROOT, OUT, docs)
