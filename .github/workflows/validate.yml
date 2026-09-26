@@ -21,3 +21,13 @@ jobs:
         env:
           RESULT: ${{ needs.build.result }}
         run: test "$RESULT" = success
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v8
+        with:
+          name: verified-site
+          path: _site
+      - name: Verify downloaded artifact integrity
+        run: python scripts/check_release.py --version "$(cat VERSION)" --downloads _site/downloads --commit "$GITHUB_SHA"
