@@ -1,0 +1,16 @@
+name: 改进建议
+description: 说明希望解决的问题与可验收的结果
+title: "[建议] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 当前遇到什么问题
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 希望怎样改、怎样判断完成
+    validations:
+      required: true

@@ -1,0 +1,31 @@
+name: 内容纠错或规则更新
+description: 提供具体页面、问题与支持修改的来源
+title: "[纠错] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: 页面与段落
+      description: 请粘贴页面链接及小节标题。
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 原文的问题与建议修改
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 来源、适用地区与日期
+      description: 有原始来源请附链接；无法确认时说明未知点。
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 公开信息检查
+      options:
+        - label: 未附真实证件、病历、账户、案件编号或其他私人信息。
+          required: true

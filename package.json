@@ -1,0 +1,10 @@
+{
+  "name": "us-china-life-playbook",
+  "private": true,
+  "scripts": {
+    "test:browser": "node scripts/test_bookmarks.cjs && node scripts/test_reader.cjs && node scripts/test_tools.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

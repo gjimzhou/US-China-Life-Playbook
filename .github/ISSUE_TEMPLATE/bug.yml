@@ -1,0 +1,25 @@
+name: 网站或下载故障
+description: 报告搜索、阅读、离线文件或链接问题
+title: "[故障] "
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 页面、操作步骤与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 浏览器、设备或阅读器版本
+  - type: textarea
+    id: attachment
+    attributes:
+      label: 补充信息
+      description: 截图请先移除姓名、账户、病历及其他私人信息。

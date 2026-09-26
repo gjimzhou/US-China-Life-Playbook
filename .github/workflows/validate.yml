@@ -9,36 +9,15 @@ concurrency:
   group: validate-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 jobs:
+  build:
+    uses: ./.github/workflows/build.yml
   validate:
-    runs-on: ubuntu-latest
+    name: validate
+    needs: build
+    if: always()
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-      - uses: actions/setup-python@v6
-        with:
-          python-version: '3.12'
-      - name: Install ebook export tools
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc fonts-noto-cjk libharfbuzz-subset0
-          python -m pip install weasyprint
-      - run: python -m unittest discover -s scripts -p 'test_*.py'
-      - run: python scripts/maintenance_report.py
-      - run: python scripts/build_site.py
-      - run: python scripts/check_review_regressions.py
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-      - name: Reader browser regressions
-        run: |
-          npm install --no-save --package-lock=false playwright@1.62.1
-          npx playwright install --with-deps firefox
-          python -m http.server 8765 --directory _site > /tmp/playbook-http.log 2>&1 &
-          server_pid=$!
-          trap 'kill "$server_pid" 2>/dev/null || true' EXIT
-          node scripts/test_bookmarks.cjs
-          node scripts/test_reader.cjs
-          node scripts/test_tools.cjs
-      - run: python scripts/build_exports.py
-      - run: python scripts/check_site.py
+      - name: Require complete validation
+        env:
+          RESULT: ${{ needs.build.result }}
+        run: test "$RESULT" = success

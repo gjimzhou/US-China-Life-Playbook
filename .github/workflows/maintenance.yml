@@ -5,13 +5,19 @@ on:
     - cron: '47 13 * * 1'
   push:
     branches: [main]
-    paths: ['maintenance/**', 'scripts/maintenance_report.py', 'scripts/test_maintenance_report.py', '.github/workflows/maintenance.yml', 'book/**', 'checklists/**']
+    paths: ['maintenance/**', 'scripts/maintenance_report.py', 'scripts/test_maintenance_report.py', 'scripts/sync_maintenance_issue.py', '.github/workflows/maintenance.yml', 'book/**', 'checklists/**']
   pull_request:
-    paths: ['maintenance/**', 'scripts/maintenance_report.py', 'scripts/test_maintenance_report.py', '.github/workflows/maintenance.yml', 'book/**', 'checklists/**']
+    paths: ['maintenance/**', 'scripts/maintenance_report.py', 'scripts/test_maintenance_report.py', 'scripts/sync_maintenance_issue.py', '.github/workflows/maintenance.yml', 'book/**', 'checklists/**']
 permissions:
   contents: read
+concurrency:
+  group: maintenance-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   report:
+    permissions:
+      contents: read
+      issues: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -27,3 +33,8 @@ jobs:
           name: editorial-maintenance-queue
           path: _maintenance/
           retention-days: 90
+      - name: Update actionable maintenance issue
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/sync_maintenance_issue.py

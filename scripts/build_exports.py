@@ -207,6 +207,7 @@ def build_source_zip():
     root_files = [ROOT / p for p in ["VERSION", "README.md", "CONTENTS.md", "HOME.md", "DISCLAIMER.md", "GLOSSARY.md", "METHODOLOGY.md", "STYLE.md", "CONTRIBUTING.md", "CHANGELOG.md", "DOWNLOADS.md"]]
     files = [p for d in roots if d.exists() for p in d.rglob("*.md")] + [p for p in root_files if p.exists()]
     with zipfile.ZipFile(dest, "w", compression=zipfile.ZIP_DEFLATED) as zf:
+        files += [ROOT / "LICENSE", ROOT / "LICENSING.md"]
         for p in sorted(set(files)):
             zf.write(p, p.relative_to(ROOT).as_posix())
 
@@ -220,6 +221,7 @@ def manifest():
         entries.append({"name": p.name, "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest()})
     info = {
         "title": TITLE,
+        "license": "CC-BY-NC-4.0 (original material; third-party exceptions in LICENSING.md)",
         "version": VERSION,
         "sourceCommit": os.getenv("GITHUB_SHA", "local"),
         "generatedAt": datetime.now(timezone.utc).isoformat(),
