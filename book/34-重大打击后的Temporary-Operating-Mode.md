@@ -113,7 +113,7 @@
 
 ## 真正的期限单独管理
 
-法院答复、保险通知、福利选择、申诉、税务、移民和合同等可能各有期限。请适当专业人士确认起算点、可否延期和提交方式。记下完成证据，不能用“已经问了客服”替代办理。
+法院答复、保险通知、福利选择、申诉、税务、移民和合同等可能各有期限。请适当专业人士确认起算点、可否延期和提交方式。保留提交回执或办理结果；咨询客服不能替代正式办理。
 
 **核验入口：** [IRS：理解国税局通知与信件](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [移民案件状态查询](https://egov.uscis.gov/casestatus/landing.do) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) · [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)。
 

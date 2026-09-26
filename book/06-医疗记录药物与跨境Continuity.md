@@ -173,7 +173,7 @@
 
 **完整清单：** [药突然拿不到](../checklists/medication-access-problem.md) · [FDA：药品短缺](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)。
 
-## 21. 最小执行集
+## 21. 行动清单
 
 - [ ] 一页医疗摘要，注明更新时间。
 - [ ] 通用名用药清单与过敏清单。

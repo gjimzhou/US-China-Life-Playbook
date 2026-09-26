@@ -184,12 +184,12 @@
 
 **完整清单：** [遭遇犯罪或家人失踪](../checklists/crime-victim.md) · [USA.gov：报案与受害者支持](https://www.usa.gov/crime) · [NCMEC：儿童失踪后的求助](https://us.missingkids.org/MissingChild)。
 
-## 21. 只保留适用的最小执行集
+## 21. 只保留适用的行动清单
 
 - [ ] 紧急信息表可取用，地址与求助入口准确。
 - [ ] 人身安全流程优先，接手人已同意且权限明确。
 - [ ] 必要照护、支付与离家事务有替代路径。
-- [ ] 事件记录含负责人、期限、下一步和完成证据。
+- [ ] 事件记录含负责人、期限、下一步和办理凭证。
 - [ ] 至少试过一个最可能导致全家无法运作的场景。
 
 **入口汇总：** [美国911应急服务](https://www.911.gov/calling-911/) · [美国灾害应急准备资料（Ready.gov）](https://www.ready.gov/) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [USA.gov：失业福利](https://www.usa.gov/unemployment-benefits) · [国家政务服务平台](https://gjzwfw.www.gov.cn/)。
