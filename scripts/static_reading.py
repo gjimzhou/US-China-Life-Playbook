@@ -22,7 +22,7 @@ def build_static(root,out,docs):
             return '['+match[1]+']('+dest+')'
         blocks=[]
         for s in d['sections']:
-            body=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',replace,s['markdown'])
+            body=re.sub(r'\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\(([^)]+)\)',replace,s['markdown'])
             blocks.append('<section id="'+s['contentId']+'">\n\n'+body+'\n\n</section>\n')
         result=subprocess.run(['pandoc','--from=gfm+raw_html','--to=html5'],input='\n'.join(blocks),text=True,capture_output=True,check=True).stdout
         result=re.sub(r'<input\b[^>]*>', lambda m: m[0].replace('<input', '<input disabled') if 'checkbox' in m[0] else m[0], result)
