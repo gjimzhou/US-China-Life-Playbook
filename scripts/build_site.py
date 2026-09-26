@@ -8,7 +8,7 @@ OUT=ROOT/'_site'
 if OUT.exists():shutil.rmtree(OUT)
 shutil.copytree(ROOT/'site',OUT)
 labels={'first-30-days':'前 30 天','annual-review':'年度复查','emergency-sheet':'紧急信息表','cyber-incident':'网络安全事件','death-administration':'死亡后事务','home-purchase':'购房与交割','international-travel':'国际旅行','job-loss':'失业应对','marriage-checklist':'婚姻准备','move-checklist':'搬家','parents-emergency':'父母紧急应对','life-events-index':'生活事件索引','pet-loss':'宠物去世','mental-health-care':'心理健康服务','rental-lifecycle':'租房全流程','school-support':'学龄教育支持','separation-family-safety':'分居离婚与家庭安全','disaster-utility-outage':'灾害与公共服务中断','cross-border-problem':'跨境办事失败排查','pregnancy-birth-loss':'怀孕生产与妊娠丢失','hospital-discharge-major-diagnosis':'重大诊断与出院','lost-wallet-documents':'钱包与重要证件丢失','vehicle-roadside-ticket-tow':'车辆抛锚拖车与罚单','lost-pet':'宠物走失','crime-victim':'犯罪受害与失踪','workplace-injury-leave':'工伤与请假','medication-access-problem':'药物获取失败','jury-court-summons':'陪审传唤与法院通知','immigration-notice-rfe':'移民局通知处理','GLOSSARY':'中英术语表','METHODOLOGY':'方法论','STYLE':'写作规范','CONTRIBUTING':'贡献指南','source-policy':'来源原则','HOME':'首页与阅读导览','editorial-status':'编辑审查进度','CONTENTS':'全书目录与场景清单','README':'项目介绍','DISCLAIMER':'阅读须知与免责声明','DOWNLOADS':'下载与离线阅读'}
-paths=sorted((ROOT/'book').glob('*.md'))+sorted((ROOT/'checklists').glob('*.md'))+[ROOT/p for p in ['HOME.md','references/editorial-status.md','DISCLAIMER.md','GLOSSARY.md','METHODOLOGY.md','STYLE.md','CONTRIBUTING.md','references/source-policy.md','README.md','CONTENTS.md','DOWNLOADS.md']]
+paths=sorted((ROOT/'book').glob('*.md'))+sorted((ROOT/'checklists').glob('*.md'))+[ROOT/p for p in ['HOME.md','references/editorial-status.md','DISCLAIMER.md','GLOSSARY.md','METHODOLOGY.md','STYLE.md','CONTRIBUTING.md','references/source-policy.md','README.md','CONTENTS.md','DOWNLOADS.md','COPYRIGHT.md','LICENSING.md']]
 historical_aliases=json.loads((ROOT/'site/anchor-aliases.json').read_text())
 docs=[]
 for p in paths:
@@ -79,3 +79,13 @@ for asset in ['app.js','theme.js','style.css','vendor/marked.js','reader.js','to
 
 from static_reading import build_static
 build_static(ROOT, OUT, docs)
+
+# Keep public-facing rights notices consistent without blocking reading or copying.
+for page in [*OUT.glob('*.html'), *(OUT/'read').glob('*.html')]:
+    prefix = '../' if page.parent.name == 'read' else ''
+    text = page.read_text()
+    notice = ('<p class="copyright">© 2026 Junliang Zhou 及各贡献者 · 原创增补保留权利。'
+              '欢迎个人阅读、合理引用和分享项目链接；转载及商用须授权，历史有效许可继续适用。 '
+              f'<a href="{prefix}read/{next(d["contentId"] for d in docs if d["path"] == "COPYRIGHT.md")}.html">版权与使用说明</a></p>')
+    text = text.replace('</footer>', notice + '</footer>') if '</footer>' in text else text.replace('</main>', '<footer>' + notice + '</footer></main>')
+    page.write_text(text)

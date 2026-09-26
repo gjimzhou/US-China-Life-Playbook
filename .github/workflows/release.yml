@@ -1,0 +1,54 @@
+name: Publish a fixed edition
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Prepared version in VERSION (for example v1.2.1); existing releases are never overwritten'
+        required: true
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: release
+  cancel-in-progress: false
+jobs:
+  preflight:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - name: Check release request before building
+        env:
+          REQUESTED_VERSION: ${{ inputs.version }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          test "$GITHUB_REF" = refs/heads/main
+          python scripts/check_release.py --version "$REQUESTED_VERSION"
+          if gh api "repos/$GITHUB_REPOSITORY/git/ref/tags/$REQUESTED_VERSION" > /dev/null 2>&1; then
+            echo 'Tag already exists; do not overwrite fixed editions.' >&2
+            exit 1
+          fi
+  build:
+    needs: preflight
+    uses: ./.github/workflows/build.yml
+  publish:
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/download-artifact@v4
+        with:
+          name: verified-site
+          path: _site
+      - name: Verify and publish exact build
+        env:
+          REQUESTED_VERSION: ${{ inputs.version }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/check_release.py --version "$REQUESTED_VERSION" --downloads _site/downloads --commit "$GITHUB_SHA"
+          gh release create "$REQUESTED_VERSION" _site/downloads/* \
+            --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "$REQUESTED_VERSION：中美双栖人生指南" \
+            --notes-file "docs/releases/$REQUESTED_VERSION.md" --latest

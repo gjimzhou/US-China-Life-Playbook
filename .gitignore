@@ -4,3 +4,7 @@ __pycache__/
 _export/
 
 _maintenance/
+
+node_modules/
+.venv/
+_tools/

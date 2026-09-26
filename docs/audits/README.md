@@ -2,7 +2,7 @@
 
 [文档导航](../README.md) · [当前编辑进度](../../references/editorial-status.md)
 
-以下报告记录特定日期的检查，不自动代表当前全书状态。
+以下报告记录特定日期的检查，不自动代表当前全书状态。当前未决事项以[维护待办](../maintenance/backlog.md)和关联Issue为准；历史原文保留，后续结论用链接补记，不改写当时的检查结果。
 
 - [中文表达与章节结构修订（2026-09-25）](editorial-chinese-2026-09-25.md)
 
@@ -18,3 +18,5 @@
 - [release-readiness](release-readiness.md)
 - [remaining-feedback-2026-09-24](remaining-feedback-2026-09-24.md)
 - [style-annotations-next-pass](style-annotations-next-pass.md)
+
+- [2026-09-25 仓库维护与版权边界](repository-maintenance-2026-09-25.md)：维护入口、共享检查、发布方式、GitHub 设置及参考建议取舍。

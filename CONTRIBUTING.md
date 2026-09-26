@@ -91,3 +91,5 @@
 最后编辑：2026-09-21
 
 读者功能与维护说明见 [reader-services.md](docs/reader-services.md)。修改标题或文件名时保留 `site/content-ids.json` 中的稳定ID；新增内容需分配新ID。只有面向读者的新内容或重要修订才加入 `updates/entries.json`，普通小修不发布订阅通知。
+
+提交 PR 前请阅读[授权范围与贡献条款](LICENSING.md)：贡献者保留权利，并允许本项目审核、修改、发布与生成官方离线版本；正文和代码分别适用其范围，第三方材料须标注许可。工程贡献从[维护者入口](AGENTS.md)开始，通过 Issue 和 PR 记录问题、修改与验证。

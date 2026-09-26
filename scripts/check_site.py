@@ -104,3 +104,28 @@ for name in ['tools.js','task-ids.json','reading-paths.json','offline.html','off
 paths=json.loads((root/'_site/reading-paths.json').read_text())
 assert all(i in {d['contentId'] for d in docs} for p in paths for i in p['contentIds'])
 print('Validated stable static pages, section links, offline assets and reading paths')
+
+# Publication boundaries: notices, canonical identities, excerpt-only RSS and reader-only archives.
+from reader_features import BASE
+import zipfile
+rights = by_path['COPYRIGHT.md']['contentId']
+for page in [*(root/'_site').glob('*.html'), *(root/'_site/read').glob('*.html')]:
+    text = page.read_text()
+    assert 'class="copyright"' in text and rights + '.html' in text, f'Missing rights notice: {page}'
+for d in docs:
+    text = (root/'_site/read'/(d['contentId']+'.html')).read_text()
+    assert f'rel="canonical" href="{BASE}read/{d["contentId"]}.html"' in text
+    assert '引用本章' in text
+entries = json.loads((root/'updates/entries.json').read_text())
+assert sorted(i.findtext('description') for i in feed.findall('./channel/item')) == sorted(e['summary'] for e in entries)
+assert not any(d['path'].startswith(('docs/', 'drafts/')) for d in docs)
+sitemap = ET.parse(root/'_site/sitemap.xml')
+ns = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+assert {i.text for i in sitemap.findall('.//s:loc', ns)} == {BASE+'read/'+d['contentId']+'.html' for d in docs}
+with zipfile.ZipFile(root/'_site/downloads/US-China-Life-Playbook-source-markdown.zip') as archive:
+    assert {'LICENSE', 'LICENSING.md', 'COPYRIGHT.md'} <= set(archive.namelist())
+    assert not any(p.startswith(('docs/', 'drafts/', '.github/', '_')) for p in archive.namelist())
+text = (root/'_site/downloads/US-China-Life-Playbook.md').read_text()
+assert '© 2026 Junliang Zhou' in text and '历史有效许可继续适用' in text
+assert 'prior grants' in manifest['license']
+print('Validated copyright notices, exact canonical URLs, RSS summaries and export boundaries')

@@ -1,8 +1,13 @@
 # 中美双栖人生指南（US–China Life Playbook）
 
+[![网站构建](https://github.com/gjimzhou/US-China-Life-Playbook/actions/workflows/pages.yml/badge.svg)](https://github.com/gjimzhou/US-China-Life-Playbook/actions/workflows/pages.yml)
+[![正式版本](https://img.shields.io/github/v/release/gjimzhou/US-China-Life-Playbook?label=版本)](https://github.com/gjimzhou/US-China-Life-Playbook/releases/latest)
+[![版权 保留权利](https://img.shields.io/badge/版权-保留权利-blue)](COPYRIGHT.md)
+
+
 在美国生活，同时保持与中国的家庭和社会连接：遇到事情找谁、准备哪些材料、下一步怎么办。按需阅读，无须从头读完。
 
-**[打开阅读网站 →](https://gjimzhou.github.io/US-China-Life-Playbook/)** · [全书目录](CONTENTS.md) · [场景入口](checklists/life-events-index.md) · [下载](DOWNLOADS.md) · [维护文档](docs/README.md)
+**[打开阅读网站 →](https://gjimzhou.github.io/US-China-Life-Playbook/)** · [全书目录](CONTENTS.md) · [场景入口](checklists/life-events-index.md) · [PDF](https://gjimzhou.github.io/US-China-Life-Playbook/downloads/US-China-Life-Playbook.pdf) · [EPUB](https://gjimzhou.github.io/US-China-Life-Playbook/downloads/US-China-Life-Playbook.epub) · [全部下载](DOWNLOADS.md) · [维护文档](docs/README.md)
 
 ## 网页阅读
 
@@ -95,3 +100,9 @@
 ## 灵感来源与致谢
 
 受 eternity4719 的[《高性价比人生指南》](https://eternity4719.github.io/HowToLiveBetter/)启发，参考其围绕生活问题组织建议与出处的方法。本项目独立整理中美家庭生活场景。
+
+## 参与与维护
+
+[反馈问题](https://github.com/gjimzhou/US-China-Life-Playbook/issues/new/choose) · [贡献指南](CONTRIBUTING.md) · [维护者入口](AGENTS.md) · [当前待办](docs/maintenance/backlog.md) · [历史评审](docs/audits/README.md)
+
+**免费阅读，欢迎合理引用与分享项目链接。** 原创增补保留权利，完整转载、镜像、翻译发布和商用须另行授权；已授出的旧许可继续有效。个人下载与阅读不受影响。[版权与使用说明](COPYRIGHT.md)。[授权范围与第三方材料](LICENSING.md)。构建徽章表示网站与导出检查状态，不表示事实已获专业审定。
