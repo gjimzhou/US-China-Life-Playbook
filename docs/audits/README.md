@@ -18,3 +18,5 @@
 - [release-readiness](release-readiness.md)
 - [remaining-feedback-2026-09-24](remaining-feedback-2026-09-24.md)
 - [style-annotations-next-pass](style-annotations-next-pass.md)
+
+- [2026-09-25 仓库维护与版权边界](repository-maintenance-2026-09-25.md)：维护入口、共享检查、发布方式、GitHub 设置及参考建议取舍。
