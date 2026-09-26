@@ -1,7 +1,7 @@
 """Build offline reader editions from the public Markdown source."""
 from pathlib import Path
 from datetime import datetime, timezone
-from urllib.parse import unquote
+from urllib.parse import unquote, quote
 import hashlib
 import json
 import os
@@ -103,9 +103,12 @@ def resolve_internal(current: str, href: str, paths: set[str], maps: dict[str, d
     if re.match(r"^[a-z][a-z0-9+.-]*:", href, re.I) or href.startswith("//"):
         return href
     path_part, sep, frag = href.partition("#")
-    if not path_part.endswith(".md"):
-        return href
     target = posixpath.normpath(posixpath.join(posixpath.dirname(current), unquote(path_part)))
+    if not path_part.endswith(".md"):
+        # Non-Markdown repository files (for example LICENSE) are not EPUB resources.
+        if (ROOT / target).is_file():
+            return REPO_BLOB + quote(target) + (("#" + frag) if sep else "")
+        return href
     if target in paths:
         if sep and frag:
             dest = maps[target][unquote(frag)]
@@ -171,8 +174,8 @@ def write_combined(paths: list[str]) -> Path:
     return combined
 
 
-def write_css() -> Path:
-    css = WORK / "reader.css"
+def write_css(*, paged: bool = True) -> Path:
+    css = WORK / ("reader.css" if paged else "epub.css")
     css.write_text(r'''
 :root { color-scheme: light; }
 body { font-family: "Noto Serif CJK SC", "Noto Sans CJK SC", serif; color:#1d2f3a; line-height:1.75; max-width:46rem; margin:auto; padding:2rem; }
@@ -184,9 +187,10 @@ table { border-collapse:collapse; width:100%; font-size:.92em; } th,td { border:
 code { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:.92em; }
 .page-break { break-before:page; page-break-before:always; }
 nav#TOC { font-family:"Noto Sans CJK SC",sans-serif; }
-@page { size:A4; margin:18mm 17mm 19mm 17mm; @bottom-center { content:counter(page); font-size:9pt; color:#667; } }
-@media print { body { max-width:none; padding:0; } a { color:inherit; } tr { break-inside:avoid; } }
 '''.strip() + "\n")
+    if paged:
+        with css.open("a") as stream:
+            stream.write('@page { size:A4; margin:18mm 17mm 19mm 17mm; @bottom-center { content:counter(page); font-size:9pt; color:#667; } }\n@media print { body { max-width:none; padding:0; } a { color:inherit; } tr { break-inside:avoid; } }\n')
     return css
 
 
@@ -199,7 +203,8 @@ def build_formats(combined: Path, css: Path):
     OUT.mkdir(parents=True, exist_ok=True)
     shutil.copy2(combined, OUT / f"{BASENAME}.md")
     common = ["pandoc", str(combined), "--from=markdown+task_lists+pipe_tables+strikeout", "--toc", "--toc-depth=2", "--metadata", f"title={TITLE}", "--metadata", "lang=zh-CN"]
-    run(common + ["--css", str(css), "--split-level=1", "-o", str(OUT / f"{BASENAME}.epub")])
+    epub_css = write_css(paged=False)
+    run(common + ["--css", str(epub_css), "--split-level=1", "-o", str(OUT / f"{BASENAME}.epub")])
     run(common + ["-o", str(OUT / f"{BASENAME}.docx")])
     run(common + ["--standalone", "--embed-resources", "--css", str(css), "-o", str(OUT / f"{BASENAME}.html")])
     run(common + ["--pdf-engine=weasyprint", "--css", str(css), "-o", str(OUT / f"{BASENAME}.pdf")])
