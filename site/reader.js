@@ -49,7 +49,13 @@ window.Reader = (() => {
  function send(payload){
   if(!config.analytics.enabled||navigator.doNotTrack==='1'||navigator.globalPrivacyControl)return;
   if(!analyticsReady){if(queue.length<30)queue.push(payload);return}
-  try{Promise.resolve(window.umami?.track(payload)).catch(()=>{})}catch{}
+  try{
+   if(config.analytics.provider==='goatcounter'){
+    const prefix='/US-China-Life-Playbook', path=prefix+(payload.name?'/event/'+payload.name:'')+payload.url;
+    window.goatcounter.count({path,title:payload.title,event:Boolean(payload.name),no_session:Boolean(payload.name),referrer:''});
+    if(!payload.name)window.goatcounter.count({path:prefix+'/page-open'+payload.url,title:payload.title,event:true,no_session:true,referrer:''});
+   }else Promise.resolve(window.umami?.track(payload)).catch(()=>{});
+  }catch{}
  }
  const events=new Set(['bookmark_click','bookmark_remove_click','continue_reading_click','rss_copy_click','rss_open_click','newsletter_open_click','discussion_open_click','read_start','section_open','last_section_visible','chapter_next_click','chapter_previous_click']);
  function event(name,doc=active,section){if(events.has(name))send(safePayload(doc,section,name))}
@@ -59,9 +65,11 @@ window.Reader = (() => {
   if(section&&lastSection!==section.contentId){lastSection=section.contentId;event('section_open',doc,section)}
  }
  function initAnalytics(){
-  const a=config.analytics;if(!a.enabled||!a.websiteId||navigator.doNotTrack==='1'||navigator.globalPrivacyControl)return;
+  const a=config.analytics;if(!a.enabled||(!a.websiteId&&a.provider!=='goatcounter')||navigator.doNotTrack==='1'||navigator.globalPrivacyControl)return;
+  if(a.provider==='goatcounter')window.goatcounter={no_onload:true,no_events:true,endpoint:a.endpoint};
   const script=node('script');script.src=a.scriptUrl;script.defer=true;script.dataset.websiteId=a.websiteId;script.dataset.autoTrack='false';script.dataset.doNotTrack='true';
-  script.onload=()=>{analyticsReady=Boolean(window.umami);const pending=queue;queue=[];if(analyticsReady)pending.forEach(send)};script.onerror=()=>{queue=[]};document.head.append(script);
+  if(a.provider==='goatcounter')script.setAttribute('data-goatcounter',a.endpoint);
+  script.onload=()=>{analyticsReady=a.provider==='goatcounter'?typeof window.goatcounter?.count==='function':Boolean(window.umami);const pending=queue;queue=[];if(analyticsReady)pending.forEach(send)};script.onerror=()=>{queue=[]};document.head.append(script);
  }
  function mountDiscussion(doc,out){
   if(!config.comments.enabled||!config.comments.serverUrl||!config.comments.moderationConfirmed||doc.kind==='参考')return;
@@ -108,7 +116,8 @@ window.Reader = (() => {
  }
  function privacy(out){
   trackView('privacy');out.append(node('h1','隐私与阅读数据'));
-  const paragraphs=['收藏和阅读进度只保存在本浏览器，不跨设备同步。清除网站数据可能丢失；存储失败或数据损坏时会明确提示，不覆盖损坏数据。',config.analytics.enabled?'本站使用 Umami 记录去标识化的浏览与指定按钮事件；尊重浏览器 Do Not Track 和 Global Privacy Control。统计不包含站内搜索词、留言、昵称或邮箱。统计后台不在本站公开。':'本站尚未启用访问统计。', '浏览次数统计进入章节或页面的次数；刷新和离开后返回会再次计数，同章锚点跳转不增加章节浏览次数。去重访问是服务根据技术信号估算的访问者数量，不代表真实人数，也不是一个 IP 对应一个人。', '按钮点击表示操作尝试，不保证保存、留言或订阅成功。“到达末节”仅表示末节进入视口，不证明确实读完；被拦截的统计可能漏计；独立静态页与离线页不发送统计，因此后台不代表全部阅读。',config.comments.enabled?'按章集中留言与反馈，由独立评论服务持久化存储并审核。游客昵称不是经过验证的身份，匿名反馈次数不是独立人数。邮箱（如启用）只交给评论服务处理回复，不发送给统计服务。':'评论及点赞尚未启用。', 'RSS 无需向本站提交邮箱。邮件更新仅在服务配置并完成确认订阅、退订测试后开放，由站主挑选重要更新发送；评论回复通知不会自动订阅网站更新。'];paragraphs.forEach(p=>out.append(node('p',p)));
+  const paragraphs=['收藏和阅读进度只保存在本浏览器，不跨设备同步。清除网站数据可能丢失；存储失败或数据损坏时会明确提示，不覆盖损坏数据。',config.analytics.enabled?'本站使用访问统计服务记录去标识化的浏览与指定按钮事件；尊重浏览器 Do Not Track 和 Global Privacy Control。统计不包含站内搜索词、留言、昵称或邮箱。统计后台不在本站公开。':'本站尚未启用访问统计。', 'page-open 事件统计进入章节或页面的次数，刷新和离开后返回会再次计数；GoatCounter 普通页面统计按访问会话去重。同章锚点跳转不增加章节浏览次数。去重访问是服务根据技术信号估算的访问者数量，不代表真实人数，也不是一个 IP 对应一个人。', '按钮点击表示操作尝试，不保证保存、留言或订阅成功。“到达末节”仅表示末节进入视口，不证明确实读完；被拦截的统计可能漏计；独立静态页与离线页不发送统计，因此后台不代表全部阅读。',config.comments.enabled?'按章集中留言与反馈，由独立评论服务持久化存储并审核。游客昵称不是经过验证的身份，匿名反馈次数不是独立人数。邮箱（如启用）只交给评论服务处理回复，不发送给统计服务。':'评论及点赞尚未启用。', 'RSS 无需向本站提交邮箱。邮件更新仅在服务配置并完成确认订阅、退订测试后开放，由站主挑选重要更新发送；评论回复通知不会自动订阅网站更新。'];paragraphs.forEach(p=>out.append(node('p',p)));
+
  }
  window.addEventListener('scroll',()=>{clearTimeout(scrollTimer);scrollTimer=setTimeout(capture,200)},{passive:true});
  window.addEventListener('storage',e=>{if(e.key===key||e.key===null){storageOK=true;readProgress();resume()}});

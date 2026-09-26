@@ -1,8 +1,10 @@
 {
   "analytics": {
-    "enabled": false,
+    "enabled": true,
+    "provider": "goatcounter",
+    "endpoint": "https://gjimzhou.goatcounter.com/count",
     "websiteId": "",
-    "scriptUrl": "https://cloud.umami.is/script.js"
+    "scriptUrl": "https://gc.zgo.at/count.js"
   },
   "comments": {
     "enabled": false,
