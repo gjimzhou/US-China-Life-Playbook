@@ -14,7 +14,7 @@
 
 About 已补充项目简介、网站、六个 topics，展示 Releases 和 Deployments，隐藏空 Packages。没有人为增加贡献者或制造发布记录。
 
-核查时 main 无 classic protection，也无 ruleset。已填写 main 必须 PR、必需 GitHub Actions 的 validate、分支保持最新、管理员不可绕过，并保留禁止强推与删除；不要求单人维护者取得自己的审核。保存时 GitHub 要求仓库所有者完成身份验证，未在此记录中提前宣称规则生效。
+核查时 main 无 classic protection，也无 ruleset。已填写 main 必须 PR、必需 GitHub Actions 的 validate、分支保持最新、管理员不可绕过，并保留禁止强推与删除；不要求单人维护者取得自己的审核。保存时 GitHub 要求仓库所有者完成身份验证，所有者选择本轮暂时跳过。规则未生效，已明确留在当前待办中。
 
 ## 版权参考的取舍
 
