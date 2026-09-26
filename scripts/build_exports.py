@@ -38,7 +38,7 @@ def doc_anchor(path: str) -> str:
 
 
 def checklist_order() -> list[str]:
-    readme = (ROOT / "README.md").read_text()
+    readme = (ROOT / "CONTENTS.md").read_text()
     start = readme.find("## 可执行清单")
     end = readme.find("\n## ", start + 4)
     block = readme[start : end if end >= 0 else None]
@@ -202,7 +202,7 @@ def build_formats(combined: Path, css: Path):
 def build_source_zip():
     dest = OUT / f"{BASENAME}-source-markdown.zip"
     roots = [ROOT / "book", ROOT / "checklists", ROOT / "references", ROOT / "docs"]
-    root_files = [ROOT / p for p in ["README.md", "HOME.md", "DISCLAIMER.md", "GLOSSARY.md", "METHODOLOGY.md", "STYLE.md", "CONTRIBUTING.md", "CHANGELOG.md", "DOWNLOADS.md"]]
+    root_files = [ROOT / p for p in ["README.md", "CONTENTS.md", "HOME.md", "DISCLAIMER.md", "GLOSSARY.md", "METHODOLOGY.md", "STYLE.md", "CONTRIBUTING.md", "CHANGELOG.md", "DOWNLOADS.md"]]
     files = [p for d in roots if d.exists() for p in d.rglob("*.md")] + [p for p in root_files if p.exists()]
     with zipfile.ZipFile(dest, "w", compression=zipfile.ZIP_DEFLATED) as zf:
         for p in sorted(set(files)):

@@ -8,6 +8,10 @@ const browser=await firefox.launch({headless:true,env:{...process.env,MOZ_DISABL
 const c=await browser.newContext({acceptDownloads:true,viewport:{width:390,height:844}}),p=await c.newPage();const errors=[];p.on('pageerror',e=>errors.push(e.message));
 const open=async(hash='')=>{await p.goto(base+'/'+hash);await p.reload();await p.locator('#status').filter({hasNotText:'正在载入'}).waitFor()};
 await open();const docs=await p.evaluate(()=>docs); // lexical binding is intentionally inspected by local tests
+const directoryPaths=await p.locator('#directory a[data-path]').evaluateAll(links=>links.map(a=>a.dataset.path));
+assert.equal(directoryPaths.length,docs.length);assert.equal(new Set(directoryPaths).size,docs.length);
+assert(directoryPaths.includes('CONTENTS.md'));
+await p.getByRole('button',{name:'搜索',exact:true}).click();assert(await p.locator('#search').isVisible());
 const d=docs.find(d=>d.path==='checklists/first-30-days.md'),s=d.sections.find(s=>s.taskIds.length),url='#content='+d.contentId+'&at='+s.contentId;
 await open(url);await p.locator('article').waitFor();const previousScroll=await p.evaluate(()=>scrollY);await p.getByRole('button',{name:'目录与筛选',exact:true}).click();await p.getByRole('dialog').waitFor();await p.getByRole('button',{name:'返回阅读位置'}).click();assert(Math.abs((await p.evaluate(()=>scrollY))-previousScroll)<5);const first=p.locator('[data-task-id]').first();await first.check();await p.reload();await first.waitFor();assert(await first.isChecked());assert((await p.locator('#task-count').innerText()).includes('已勾选 1 /'));
 await p.locator('.bookmark-button').first().click();
