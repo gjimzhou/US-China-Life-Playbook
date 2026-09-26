@@ -13,6 +13,7 @@ By default the script always exits 0 after producing a report. Use
 from __future__ import annotations
 
 import argparse
+import http.client
 from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -77,15 +78,23 @@ def classify_status(status: int) -> str:
 
 
 def check_url(url: str, timeout: float) -> dict[str, object]:
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "text/html,application/xhtml+xml,application/pdf;q=0.9,*/*;q=0.8",
-        },
-        method="GET",
-    )
     try:
+        parts = urllib.parse.urlsplit(url)
+        request_url = urllib.parse.urlunsplit((
+            parts.scheme,
+            parts.netloc.encode("idna").decode("ascii"),
+            urllib.parse.quote(parts.path, safe="/%:@!$&'()*+,;=-._~"),
+            urllib.parse.quote(parts.query, safe="/%?:@!$&'()*+,;=-._~"),
+            "",
+        ))
+        request = urllib.request.Request(
+            request_url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "text/html,application/xhtml+xml,application/pdf;q=0.9,*/*;q=0.8",
+            },
+            method="GET",
+        )
         with urllib.request.urlopen(request, timeout=timeout) as response:
             status = int(getattr(response, "status", 200))
             final_url = response.geturl()
@@ -105,7 +114,7 @@ def check_url(url: str, timeout: float) -> dict[str, object]:
             "final_url": getattr(exc, "url", url),
             "detail": str(exc.reason or ""),
         }
-    except (urllib.error.URLError, TimeoutError, socket.timeout, OSError) as exc:
+    except (urllib.error.URLError, TimeoutError, socket.timeout, OSError, http.client.HTTPException) as exc:
         reason = getattr(exc, "reason", exc)
         return {
             "url": url,
@@ -113,6 +122,14 @@ def check_url(url: str, timeout: float) -> dict[str, object]:
             "status": None,
             "final_url": url,
             "detail": str(reason),
+        }
+    except (UnicodeError, ValueError) as exc:
+        return {
+            "url": url,
+            "category": "warning",
+            "status": None,
+            "final_url": url,
+            "detail": str(exc),
         }
 
 
