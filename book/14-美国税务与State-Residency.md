@@ -170,7 +170,7 @@
 
 **年度工具：** [IRS：预估税](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：缴纳税款](https://www.irs.gov/payments)。
 
-## 20. 最小执行集与核验范围
+## 20. 行动清单与核验范围
 
 - [ ] 已区分最终税额、预缴要求及付款时间。
 - [ ] 工资预扣与相关州、市设置已核对。

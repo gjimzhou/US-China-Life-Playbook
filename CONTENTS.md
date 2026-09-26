@@ -26,23 +26,23 @@
 
 11. [美国政府到底找谁](book/11-美国政府到底找谁.md)
 12. [中国政府与办事入口](book/12-中国政府与办事入口.md)
-13. [高收入家庭财务运行系统](book/13-高收入家庭财务Operating-System.md)
+13. [高收入家庭的现金、账户与财务安排](book/13-高收入家庭财务Operating-System.md)
 14. [美国税务与州税务居民身份（State Residency）：不要把报税当成年末一次性动作](book/14-美国税务与State-Residency.md)
 15. [网络安全与身份盗窃](book/15-网络安全与身份盗窃.md)
 16. [银行、信用卡、消费者纠纷与诈骗](book/16-银行信用卡消费者纠纷与诈骗.md)
 
 ### 第四部分：宠物、父母与家庭
 
-17. [宠物照护运行系统](book/17-宠物Operating-System.md)
+17. [宠物日常照护与应急安排](book/17-宠物Operating-System.md)
 18. [中美双栖生活基础设施](book/18-中美双栖生活基础设施.md)
 19. [文件、公证、附加证明书（Apostille）与跨境授权](book/19-文件公证Apostille与跨境授权.md)
 20. [父母养老与远程照护](book/20-父母养老与远程照护.md)
 21. [孩子、托育（Childcare）与家庭规划](book/21-孩子教育Childcare与家庭规划.md)
 
-### 第五部分：工作、家庭运营与社会关系
+### 第五部分：工作、家庭事务与社会关系
 
 22. [工作、失业与员工福利（Employee Benefits）](book/22-工作失业与Employee-Benefits.md)
-23. [时间、精力与家庭运营（Household Management）](book/23-时间精力与Household-Management.md)
+23. [时间、精力与家庭事务安排](book/23-时间精力与Household-Management.md)
 24. [美国社交礼仪与潜规则](book/24-美国社交礼仪与潜规则.md)
 25. [如何建立美国本地社会基础设施](book/25-如何建立美国本地社会基础设施.md)
 26. [如何维持中国社会关系](book/26-如何维持中国社会关系.md)

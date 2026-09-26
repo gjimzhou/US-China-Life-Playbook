@@ -4,6 +4,8 @@
 
 以下报告记录特定日期的检查，不自动代表当前全书状态。
 
+- [中文表达与章节结构修订（2026-09-25）](editorial-chinese-2026-09-25.md)
+
 - [audit-2026-09-22](audit-2026-09-22.md)
 - [audit-checklists-2026-09-23](audit-checklists-2026-09-23.md)
 - [audit-events-2026-09-22](audit-events-2026-09-22.md)

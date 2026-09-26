@@ -180,7 +180,7 @@
 
 **返程检查入口：** [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [美国交通部航空消费者保护](https://www.transportation.gov/airconsumer)。保险 / 医疗事项仍按实际理赔请求和服务提供方跟进。
 
-## 26. 最小执行集
+## 26. 行动清单
 
 - [ ] 按身份和行程核对入境、转机与返程证件。
 - [ ] 医疗、药物与适用转运安排有明确入口。

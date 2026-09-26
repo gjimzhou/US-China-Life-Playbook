@@ -220,7 +220,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 **完整清单：** [怀孕、妊娠丢失与生产](../checklists/pregnancy-birth-loss.md) · [CDC Hear Her：孕产妇紧急警示症状](https://www.cdc.gov/hearher/maternal-warning-signs/index.html) · [ACOG：早期妊娠丢失](https://www.acog.org/womens-health/faqs/early-pregnancy-loss)。
 
-## 27. 最小执行集与核验范围
+## 27. 行动清单与核验范围
 
 - [ ] 托育资格、检查记录和具体操作已核对。
 - [ ] 备用照护与接送授权可执行。

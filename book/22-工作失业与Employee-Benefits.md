@@ -262,7 +262,7 @@ FSA 的余额结转、宽限期、费用发生期限和提交报销期限取决�
 
 **完整清单：** [工作中受伤、职业病或突然无法工作](../checklists/workplace-injury-leave.md) · [USA.gov：工伤补偿](https://www.usa.gov/workers-compensation) · [州工伤补偿主管部门](https://www.dol.gov/agencies/owcp/wc)。
 
-## 32. 最小执行集与核验范围
+## 32. 行动清单与核验范围
 
 - [ ] 休假保护、收入给付和医保分别明确。
 - [ ] 医保衔接、续保选择与付款日期已记录。
