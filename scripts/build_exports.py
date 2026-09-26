@@ -17,6 +17,8 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site" / "downloads"
 WORK = ROOT / "_export"
 TITLE = "中美双栖人生指南"
+VERSION = (ROOT / "VERSION").read_text().strip()
+assert re.fullmatch(r"v\d+\.\d+(?:\.\d+)?", VERSION), "Invalid release version"
 BASENAME = "US-China-Life-Playbook"
 REPO_BLOB = "https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/"
 
@@ -147,12 +149,12 @@ def write_combined(paths: list[str]) -> Path:
     pieces = [
         "---",
         f'title: "{TITLE}"',
-        'subtitle: "美国生活 · 中国连接 · 跨境家庭运行"',
+        f'subtitle: "{VERSION} · 美国生活 · 中国连接 · 跨境家庭事务"',
         'lang: "zh-CN"',
         f'date: "{built}"',
         "---",
         "",
-        f"> 离线阅读版 · 源码版本 `{commit}` · 生成日期 {built}",
+        f"> 离线阅读版 {VERSION} · 源码版本 `{commit}` · 生成日期 {built}",
         "",
     ]
     for i, path in enumerate(paths):
@@ -202,7 +204,7 @@ def build_formats(combined: Path, css: Path):
 def build_source_zip():
     dest = OUT / f"{BASENAME}-source-markdown.zip"
     roots = [ROOT / "book", ROOT / "checklists", ROOT / "references", ROOT / "docs"]
-    root_files = [ROOT / p for p in ["README.md", "CONTENTS.md", "HOME.md", "DISCLAIMER.md", "GLOSSARY.md", "METHODOLOGY.md", "STYLE.md", "CONTRIBUTING.md", "CHANGELOG.md", "DOWNLOADS.md"]]
+    root_files = [ROOT / p for p in ["VERSION", "README.md", "CONTENTS.md", "HOME.md", "DISCLAIMER.md", "GLOSSARY.md", "METHODOLOGY.md", "STYLE.md", "CONTRIBUTING.md", "CHANGELOG.md", "DOWNLOADS.md"]]
     files = [p for d in roots if d.exists() for p in d.rglob("*.md")] + [p for p in root_files if p.exists()]
     with zipfile.ZipFile(dest, "w", compression=zipfile.ZIP_DEFLATED) as zf:
         for p in sorted(set(files)):
@@ -218,6 +220,7 @@ def manifest():
         entries.append({"name": p.name, "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest()})
     info = {
         "title": TITLE,
+        "version": VERSION,
         "sourceCommit": os.getenv("GITHUB_SHA", "local"),
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "files": entries,

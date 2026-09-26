@@ -63,6 +63,11 @@ app = (root / '_site/app.js').read_text()
 assert repr(assets[0].name) in app, 'App and content bundle must use the same version'
 assert "fetch('data.json')" not in app, 'Unversioned content request'
 assert not errors, '\n'.join(errors)
+version = (root / 'VERSION').read_text().strip()
+manifest = json.loads((root / '_site/downloads/manifest.json').read_text())
+assert manifest.get('version') == version, 'Export release version mismatch'
+assert f'离线阅读版 {version}' in (root / '_site/downloads/US-China-Life-Playbook.md').read_text()
+assert version in (root / 'HOME.md').read_text() and version in (root / 'DOWNLOADS.md').read_text(), 'Reader release label mismatch'
 print(f'Validated {len(docs)} documents: relative links, fragments, unique anchors, Chinese headings and content version')
 
 # Reader utility assets and RSS must be part of the public artifact.

@@ -6,7 +6,7 @@
 
 2026-09-25文风修订：完整审阅第23、25、27章的表达与结构，统一写作规范，并处理其他章节的指定残留表达。逐小节范围、保留条件与验证见[中文表达与章节结构修订记录](../docs/audits/editorial-chinese-2026-09-25.md)。这次语言编辑不更新事实核验日期；其他章节的局部改动不计为整章重审。
 
-v1.1已发布。持续维护采用[固定工作流](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/docs/maintenance-workflow.md)和[范围台账](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/maintenance/review-registry.json)。以下按轮次保留历史记录；当时的数量和日期不是当前全站核验状态，当前文件数量以构建输出为准。
+当前正式版本为[v1.2](../docs/releases/v1.2.md)。持续维护采用[固定工作流](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/docs/maintenance-workflow.md)和[范围台账](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/maintenance/review-registry.json)。以下按轮次保留历史记录；当时的数量和日期不是当前全站核验状态，当前文件数量以构建输出为准。
 
 ## 已完成与边界
 

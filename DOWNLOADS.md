@@ -31,11 +31,11 @@ Kindle 的个人文档工作流现在可以直接接收 EPUB，没有必要把 M
 
 ## 版本与完整性
 
-当前正式版为 **v1.1**。[GitHub版本发布页](https://github.com/gjimzhou/US-China-Life-Playbook/releases)保存固定版本附件；本页下载地址随网站继续更新。若需引用或长期归档，请保留发布附件与对应校验文件。
+当前正式版为 **v1.2**。[GitHub版本发布页](https://github.com/gjimzhou/US-China-Life-Playbook/releases)保存固定版本附件；本页下载地址随网站继续更新。若需引用或长期归档，请保留发布附件与对应校验文件。
 
 每次 `main` 更新触发 Pages 发布时，离线文件会重新生成。导出目录同时提供：
 
-- [构建清单](downloads/manifest.json)：文件大小、SHA-256 与源码提交版本；
+- [构建清单](downloads/manifest.json)：正式版本号、文件大小、SHA-256 与源码提交版本；
 - [文件校验值（SHA-256）](downloads/SHA256SUMS.txt)：用于校验下载文件完整性。
 
 电子书是**阅读快照**。税务、移民、医疗、保险等动态规则仍应以在线版的最新正文和原始官方来源为准。
