@@ -1,7 +1,7 @@
 import copy, json, tempfile, unittest
 from pathlib import Path
 from xml.etree import ElementTree as ET
-from reader_features import attach_ids, build_updates, validate_services
+from reader_features import attach_ids, attach_tasks, build_updates, validate_services
 ROOT=Path(__file__).resolve().parents[1]
 
 class ReaderFeatures(unittest.TestCase):
@@ -13,6 +13,18 @@ class ReaderFeatures(unittest.TestCase):
         self.assertEqual(docs[0]['previousPaths'],['old.md'])
         cat['renamed.md']['sections']['two']='s-111111111111'
         with self.assertRaises(AssertionError):attach_ids(docs,cat)
+
+    def test_task_identity_survives_reordering_but_requires_edit_review(self):
+        import hashlib
+        a,b='Test alarms','Call insurer'
+        section={'contentId':'s-111111111111','id':'checks','markdown':f'- [ ] {a}\n- [ ] {b}'}
+        docs=[{'path':'checks.md','kind':'清单','sections':[section]}]
+        cat={'s-111111111111:'+hashlib.sha256(t.encode()).hexdigest()[:20]:'t-'+str(i)*12 for i,t in enumerate([a,b],1)}
+        attach_tasks(docs,cat);first=section['taskIds'][:]
+        section['markdown']=f'- [ ] {b}\n- [ ] {a}'
+        attach_tasks(docs,cat);self.assertEqual(section['taskIds'],first[::-1])
+        section['markdown']='- [ ] New task'
+        with self.assertRaises(AssertionError):attach_tasks(docs,cat)
 
     def test_unassigned_identity_fails_build(self):
         with self.assertRaises(AssertionError):attach_ids([{'path':'new.md'}],{})

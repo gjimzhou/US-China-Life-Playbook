@@ -19,7 +19,11 @@ const key='us-china-playbook.bookmarks.v1', base=process.env.PLAYBOOK_TEST_URL |
  await page.locator('button[data-bookmark-section]').first().click();
  assert.equal(await page.evaluate(k=>JSON.parse(localStorage.getItem(k)).items.length,key),0);
  // Search has the same identity as the chapter view and never adds duplicates.
- await page.locator('#menu').click();await page.locator('#search').fill('医保');
+ await page.locator('#menu').click();
+ await page.getByRole('dialog',{name:'本章目录'}).waitFor();
+ await page.getByRole('button',{name:'全书目录与筛选',exact:true}).click();
+ assert(await page.locator('#search').isVisible());
+ await page.locator('#search').fill('医保');
  await page.waitForFunction(()=>document.querySelectorAll('.result').length>0);
  const save=page.locator('.result .bookmark-button').first();await save.click();
  const href=await page.locator('.result h2 a').first().getAttribute('href');await open(href);

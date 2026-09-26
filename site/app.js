@@ -38,7 +38,7 @@ function bookmarkButton(doc,section){
  button.dataset.bookmarkPath=doc.path;button.dataset.bookmarkSection=section.id;button.dataset.bookmarkTitle=section.title==='概览'?doc.title:section.title;
  button.onclick=()=>{
   const saved=bookmarks.some(b=>sameBookmark(b,doc.path,section.id));Reader.event(saved?'bookmark_remove_click':'bookmark_click',doc,section);
-  const next=saved?bookmarks.filter(b=>!sameBookmark(b,doc.path,section.id)):[...bookmarks,{path:doc.path,section:section.id,contentId:doc.contentId,sectionId:section.contentId,title:button.dataset.bookmarkTitle,docTitle:doc.title}];
+  const next=saved?bookmarks.filter(b=>!sameBookmark(b,doc.path,section.id)):[...bookmarks,{path:doc.path,section:section.id,contentId:doc.contentId,sectionId:section.contentId,title:button.dataset.bookmarkTitle,docTitle:doc.title,savedAt:new Date().toISOString()}];
   if(saveBookmarks(next)){updateBookmarkButtons();$('bookmark-message').textContent=saved?'已取消收藏':'已收藏，可从“我的收藏”回访'}
  };return button;
 }
@@ -51,13 +51,14 @@ function renderBookmarks(out){
   row.append(el('p',b.docTitle,'source'));const h=el('h2');
   if(resolved){const a=el('a',resolved.section.title==='概览'?resolved.doc.title:resolved.section.title);a.href=route(resolved.doc.path,resolved.section.id);h.append(a)}
   else{h.textContent=b.title;row.append(el('p','此收藏暂时无法定位：原章节或小节已删除或变更。请在目录中查找；不会自动跳到其他内容。','hint'))}
-  row.append(h);
+  row.append(h);ReadingTools.revision(b,row);
   if(!resolved)row.append(el('p',b.path+' #'+b.section,'saved-location'));
   const remove=el('button','取消收藏');remove.type='button';remove.setAttribute('aria-label','取消收藏：'+b.title);
   remove.onclick=()=>{const index=bookmarks.indexOf(b);if(saveBookmarks(bookmarks.filter(item=>item!==b))){render();const buttons=out.querySelectorAll('.saved-item button');(buttons[Math.min(index,buttons.length-1)]||$('content')).focus();$('bookmark-message').textContent='已取消收藏'}};
   row.append(remove);out.append(row);
  }
 }
+function getBookmarks(){return bookmarks}
 readBookmarks();
 window.addEventListener('storage',event=>{if(event.key===bookmarkKey||event.key===null){bookmarkStorageAvailable=true;readBookmarks();if(new URLSearchParams(location.hash.slice(1)).get('view')==='bookmarks')render();else updateBookmarkButtons()}});
 function safeMarkdown(text,path){
@@ -139,6 +140,7 @@ function render(){
  const out=$('reading');out.replaceChildren();
  document.querySelectorAll('#directory a').forEach(a=>{const active=a.dataset.path===current;a.classList.toggle('active',active);if(active)a.closest('details').open=true});
  const view=new URLSearchParams(location.hash.slice(1)).get('view');const savedView=view==='bookmarks';
+ if(['tools','paths'].includes(view)){document.querySelector('.intro').hidden=true;$('status').textContent=view==='tools'?'阅读工具':'场景阅读路线';document.title=$('status').textContent+' · 中美双栖人生指南';ReadingTools[view](out);return}
  if(['updates','privacy'].includes(view)){document.querySelector('.intro').hidden=true;$('status').textContent=view==='updates'?'订阅更新':'隐私与阅读数据';document.title=$('status').textContent+' · 中美双栖人生指南';Reader[view](out);return}
  document.querySelector('.intro').hidden=savedView||current!=='HOME.md'||Boolean(query||priority||evidence);
  if(savedView){Reader.trackView('bookmarks');renderBookmarks(out);return}
@@ -158,14 +160,14 @@ function render(){
  $('status').textContent=doc.kind+' · '+doc.title;document.title=doc.title+' · 中美双栖人生指南';
  if(lastSearch){const back=el('a','返回上次搜索','back-search');back.href=lastSearch;out.append(back)}
  const toc=el('nav',undefined,'toc');toc.setAttribute('aria-label','本章目录');for(const s of doc.sections.filter(s=>s.level===2)){const a=el('a',s.title);a.href=route(doc.path,s.id);toc.append(a)}if(toc.children.length)out.append(toc);
- const article=el('article');for(const s of doc.sections){const section=el('section');section.id='section-'+s.id;section.append(safeMarkdown(s.markdown,doc.path));const heading=section.querySelector('h1,h2,h3,h4,h5,h6');const save=bookmarkButton(doc,s);if(heading)heading.after(save);else section.prepend(save);article.append(section)}out.append(article);updateBookmarkButtons();const a=el('a','查看本章原文与修改记录 ↗','source');a.href=repo+doc.path;out.append(a);
+ const article=el('article');for(const s of doc.sections){const section=el('section');section.id='section-'+s.id;section.append(safeMarkdown(s.markdown,doc.path));ReadingTools.bindTasks(doc,s,section);ReadingTools.share(doc,s,section);const heading=section.querySelector('h1,h2,h3,h4,h5,h6');const save=bookmarkButton(doc,s);if(heading)heading.after(save);else section.prepend(save);article.append(section)}out.append(article);ReadingTools.mount(doc,out);updateBookmarkButtons();const a=el('a','查看本章原文与修改记录 ↗','source');a.href=repo+doc.path;out.append(a);
  const section=new URLSearchParams(location.hash.slice(1)).get('section');Reader.mount(doc,out,doc.sections.find(s=>s.id===section||s.aliases.includes(section)));if(section){const target=doc.sections.find(s=>s.id===section||s.aliases.includes(section));if(target)requestAnimationFrame(()=>$('section-'+target.id)?.scrollIntoView());else{const note=el('p','未找到此段落，已打开对应章节。请使用本章目录选择。','hint');out.prepend(note)}}
 }
 function navigate(){if(location.hash==='#content'){$('content').focus();return}const params=new URLSearchParams(location.hash.slice(1));const stable=params.get('content');const d=stable?docs.find(d=>d.contentId===stable):docs.find(d=>d.path===params.get('doc')||d.previousPaths.includes(params.get('doc')));current=d?.path||(stable?'__missing__':params.get('doc')||'HOME.md');if(stable&&d){params.set('doc',d.path);const at=params.get('at');if(at){const target=d.sections.find(s=>s.contentId===at);params.set('section',target?.id||'__missing__')}history.replaceState(null,'','#'+params)}$('search').value=params.get('q')||'';$('priority').value=params.get('priority')||'';$('evidence').value=params.get('evidence')||'';render();$('sidebar').classList.remove('open');$('menu').setAttribute('aria-expanded','false');if(!params.get('section'))window.scrollTo(0,0)}
 for(const id of ['search','priority','evidence'])$(id).addEventListener('input',syncSearch);
 $('reset').onclick=()=>{for(const id of ['search','priority','evidence'])$(id).value='';lastSearch='';syncSearch()};
-$('menu').onclick=()=>{$('menu').setAttribute('aria-expanded',String($('sidebar').classList.toggle('open')))};
+$('menu').onclick=()=>ReadingTools.directory();
 $('print').onclick=()=>window.print();window.addEventListener('hashchange',navigate);
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){e.preventDefault();$('sidebar').classList.add('open');$('menu').setAttribute('aria-expanded','true');$('search').focus()}});
-fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(async data=>{docs=data;await Reader.init(docs);const all=docs.flatMap(d=>d.sections);$('filter-coverage').textContent=`${all.length} 个段落中，${all.filter(s=>s.tags.length).length} 个有筛选标注。这不是事实审定率。`;directory();navigate()}).catch(()=>{$('status').textContent='正文暂时无法载入';const a=el('a','打开 GitHub 完整目录');a.href='https://github.com/gjimzhou/US-China-Life-Playbook#readme';$('reading').append(a)});
+fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(async data=>{docs=data;await Reader.init(docs);await ReadingTools.init(docs);const all=docs.flatMap(d=>d.sections);$('filter-coverage').textContent=`${all.length} 个段落中，${all.filter(s=>s.tags.length).length} 个有筛选标注。这不是事实审定率。`;directory();navigate()}).catch(()=>{$('status').textContent='正文暂时无法载入';const a=el('a','打开 GitHub 完整目录');a.href='https://github.com/gjimzhou/US-China-Life-Playbook#readme';$('reading').append(a)});
 document.addEventListener('click',e=>{const a=e.target.closest('a');if(a?.classList.contains('skip')){e.preventDefault();$('content').focus();return}if(a&&a.hash===location.hash&&a.hash.startsWith('#doc=')){e.preventDefault();navigate()}});

@@ -73,3 +73,29 @@ feed = ET.parse(root / '_site/feed.xml')
 assert feed.findall('./channel/item'), 'Missing curated feed entries'
 assert 'application/rss+xml' in (root / '_site/index.html').read_text()
 assert all(d.get('contentId') and all(s.get('contentId') for s in d['sections']) for d in docs)
+
+# Every stable share URL must contain its own readable text and SEO metadata.
+from html.parser import HTMLParser
+class StaticLinks(HTMLParser):
+    def __init__(self): super().__init__(); self.links=[]; self.ids=set()
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs)
+        if 'id' in a:self.ids.add(a['id'])
+        if tag=='a' and a.get('href'):self.links.append(a['href'])
+for d in docs:
+    page=root/'_site/read'/(d['contentId']+'.html')
+    text=page.read_text();parser=StaticLinks();parser.feed(text)
+    assert '<article>' in text and 'og:title' in text and 'rel="canonical"' in text
+    assert all(s['contentId'] in parser.ids for s in d['sections'])
+    for href in parser.links:
+        u=urlsplit(href)
+        if u.scheme or u.netloc:continue
+        target=(page.parent/unquote(u.path)).resolve() if u.path else page
+        assert target.exists(), f'Missing static target: {page} -> {href}'
+        if u.fragment and target.suffix=='.html' and target.name!='index.html':
+            p=StaticLinks();p.feed(target.read_text());assert unquote(u.fragment) in p.ids, href
+for name in ['tools.js','task-ids.json','reading-paths.json','offline.html','offline.js','sw.js','offline-catalog.json','sitemap.xml']:
+    assert (root/'_site'/name).is_file(), name
+paths=json.loads((root/'_site/reading-paths.json').read_text())
+assert all(i in {d['contentId'] for d in docs} for p in paths for i in p['contentIds'])
+print('Validated stable static pages, section links, offline assets and reading paths')

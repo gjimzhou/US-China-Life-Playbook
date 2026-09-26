@@ -55,6 +55,7 @@ def build_updates(root, out, docs):
         assert stamp.tzinfo and stamp <= datetime.now(timezone.utc), 'Update must have a real, non-future publication timestamp'
         assert e['kind'] in ('new', 'important-revision')
         assert e['contentId'] in by_id
+        assert all(i in by_id for i in e.get('affectedContentIds',[])), 'Unknown affected content ID'
         e['url'] = BASE+'#'+urlencode({'content':e['contentId']})
     entries.sort(key=lambda e:datetime.fromisoformat(e['published']), reverse=True)
     assert entries, 'RSS needs at least one curated update'
@@ -72,3 +73,16 @@ def build_updates(root, out, docs):
     ET.indent(feed)
     ET.ElementTree(feed).write(out/'feed.xml',encoding='utf-8',xml_declaration=True)
     (out/'updates.json').write_text(json.dumps(entries,ensure_ascii=False))
+
+
+def attach_tasks(docs, catalog):
+    import hashlib
+    assert len(set(catalog.values())) == len(catalog), 'Duplicate task ID'
+    assert all(re.fullmatch(r't-[a-f0-9]{12}', value) for value in catalog.values()), 'Invalid task ID'
+    for d in docs:
+        for s in d['sections']:
+            lines = re.findall(r'^\s*[-*+] \[[ xX]\] (.+)$', s['markdown'], re.M) if d['kind'] == '清单' else []
+            keys = [s['contentId'] + ':' + hashlib.sha256(line.strip().encode()).hexdigest()[:20] for line in lines]
+            assert all(k in catalog for k in keys), f"Assign or migrate stable task IDs: {d['path']}#{s['id']}"
+            s['taskIds'] = [catalog[k] for k in keys]
+            assert len(set(s['taskIds'])) == len(keys), 'Duplicate task binding'
