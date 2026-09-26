@@ -5,6 +5,7 @@ on:
     types: [completed]
 permissions:
   contents: read
+  actions: read
   issues: write
 concurrency:
   group: monitor-${{ github.event.workflow_run.workflow_id }}
@@ -19,6 +20,9 @@ jobs:
           script: |
             const run = context.payload.workflow_run;
             if (!['success', 'failure', 'timed_out', 'action_required'].includes(run.conclusion)) return;
+            const latest = await github.rest.actions.listWorkflowRuns({...context.repo, workflow_id: run.workflow_id, branch: 'main', per_page: 20});
+            const newer = latest.data.workflow_runs.some(r => r.event !== 'pull_request' && (r.run_number > run.run_number || (r.run_number === run.run_number && r.run_attempt > run.run_attempt)));
+            if (newer) return;
             const marker = `<!-- playbook-workflow-${run.workflow_id} -->`;
             const all = await github.paginate(github.rest.issues.listForRepo, {...context.repo, state: 'all', per_page: 100});
             const issue = all.find(i => !i.pull_request && (i.body || '').startsWith(marker));

@@ -58,7 +58,7 @@ def checklist_order() -> list[str]:
 
 
 def export_paths() -> list[str]:
-    paths = ["HOME.md", "DISCLAIMER.md"]
+    paths = ["HOME.md", "DISCLAIMER.md", "COPYRIGHT.md", "LICENSING.md"]
     paths += [p.relative_to(ROOT).as_posix() for p in sorted((ROOT / "book").glob("*.md"))]
     paths += checklist_order()
     paths += ["GLOSSARY.md", "METHODOLOGY.md", "references/source-policy.md"]
@@ -156,6 +156,10 @@ def write_combined(paths: list[str]) -> Path:
         "",
         f"> 离线阅读版 {VERSION} · 源码版本 `{commit}` · 生成日期 {built}",
         "",
+        "> © 2026 Junliang Zhou 及各贡献者。个人下载与阅读获准；原创增补保留权利，转载及商用须授权，历史有效许可继续适用。详见本书《版权与使用说明》。",
+        "",
+        "> 此副本不会自动更新；行动前请核对当前网站与正文中的来源、日期。",
+        "",
     ]
     for i, path in enumerate(paths):
         if i:
@@ -203,9 +207,8 @@ def build_formats(combined: Path, css: Path):
 
 def build_source_zip():
     dest = OUT / f"{BASENAME}-source-markdown.zip"
-    roots = [ROOT / "book", ROOT / "checklists", ROOT / "references", ROOT / "docs"]
-    root_files = [ROOT / p for p in ["VERSION", "README.md", "CONTENTS.md", "HOME.md", "DISCLAIMER.md", "GLOSSARY.md", "METHODOLOGY.md", "STYLE.md", "CONTRIBUTING.md", "CHANGELOG.md", "DOWNLOADS.md"]]
-    files = [p for d in roots if d.exists() for p in d.rglob("*.md")] + [p for p in root_files if p.exists()]
+    # Export only reader-facing source; maintenance records stay in the repository.
+    files = [ROOT / p for p in export_paths() + ["VERSION", "README.md", "CONTENTS.md", "DOWNLOADS.md"]]
     with zipfile.ZipFile(dest, "w", compression=zipfile.ZIP_DEFLATED) as zf:
         files += [ROOT / "LICENSE", ROOT / "LICENSING.md"]
         for p in sorted(set(files)):
@@ -221,7 +224,7 @@ def manifest():
         entries.append({"name": p.name, "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest()})
     info = {
         "title": TITLE,
-        "license": "CC-BY-NC-4.0 (original material; third-party exceptions in LICENSING.md)",
+        "license": "All rights reserved with limited personal-use permission; prior grants and third-party exceptions in LICENSING.md",
         "version": VERSION,
         "sourceCommit": os.getenv("GITHUB_SHA", "local"),
         "generatedAt": datetime.now(timezone.utc).isoformat(),

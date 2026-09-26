@@ -19,11 +19,14 @@ window.ReadingTools=(()=>{
  }
  function updateTaskCount(doc){const ids=doc.sections.flatMap(s=>s.taskIds||[]),done=ids.filter(id=>state.tasks[id]).length;const p=document.getElementById('task-count');if(p)p.textContent=`已勾选 ${done} / ${ids.length} 项 · 尚未勾选 ${ids.length-done} 项。只处理适用事项，勾选不代表资格或安全认证。`}
  function share(doc,s,section){
-  const box=n('details');box.className='section-actions';box.append(n('summary','分享 / 报错'));
+  const box=n('details');box.className='section-actions';box.append(n('summary','分享 / 引用 / 报错'));
   const url=new URL('read/'+doc.contentId+'.html',location.href.split('#')[0]);url.hash=s.contentId;
   const status=n('p');status.setAttribute('role','status');
   const field=n('input');field.readOnly=true;field.value=url.href;field.setAttribute('aria-label','本小节分享地址');
   box.append(field,button('复制小节链接',async()=>{try{await navigator.clipboard.writeText(url.href);status.textContent='小节链接已复制。'}catch{field.focus();field.select();status.textContent='无法自动复制，请手动复制已选中的地址。'}}));
+  const citation=n('textarea');citation.readOnly=true;citation.rows=3;citation.setAttribute('aria-label','本小节引用信息');
+  citation.value=`Junliang Zhou 及项目贡献者：《中美双栖人生指南·${doc.title}》，${s.title}。${url.href}（访问日期：${new Date().toLocaleDateString('sv-SE')}；访问日期不代表事实核验日期。）`;
+  box.append(citation,button('复制引用',async()=>{try{await navigator.clipboard.writeText(citation.value);status.textContent='引用信息已复制。'}catch{citation.focus();citation.select();status.textContent='无法自动复制，请手动复制已选中的引用信息。'}}));
   if(navigator.share)box.append(button('系统分享',async()=>{try{await navigator.share({title:doc.title+' · '+s.title,url:url.href});status.textContent='已交给系统分享。'}catch(e){status.textContent=e.name==='AbortError'?'已取消分享。':'系统分享不可用，请复制链接。'}}));
   const label=n('label','问题类型 '),select=n('select');for(const text of ['规则可能过时','链接失效','表述不清','其他问题']){const o=n('option',text);select.append(o)}label.append(select);
   const report=link('在 GitHub 提交本节问题 ↗','');report.target='_blank';report.rel='noopener noreferrer';

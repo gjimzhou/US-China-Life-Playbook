@@ -1,11 +1,27 @@
-# 授权与第三方材料
+# 授权范围与第三方材料
 
-Copyright © 2026 gjimzhou 及各贡献者。
+© 2026 Junliang Zhou 及各贡献者。项目采用[保留权利及有限使用许可](LICENSE)，不宣称采用 OSI 开源许可证。公开仓库不等于授予任意转载或商用许可。
 
-除另有明确标注外，本仓库原创正文、文档、网站代码与构建脚本采用 [Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）](LICENSE)。可在遵守署名、注明修改、保留许可链接等条件下作非商业分享和改编；本许可证不授予商业使用许可。商业使用须另行取得权利人授权。
+## 正文与网站代码分别处理
 
-“非商业”的解释以[许可证原文](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans)为准。因有非商业限制，本项目不宣称其代码采用符合 OSI 定义的开源许可证。
+正文、清单、原创分析、插图及具有创造性的选择与编排，依[版权与使用说明](COPYRIGHT.md)处理。网站中的 Markdown、JSON、HTML 或其他载体不会改变其所含正文的许可。
 
-第三方代码、引用材料、机构名称和标志不因存入本仓库而改用本许可。`site/vendor/marked.js` 保留其 [MIT 许可证](site/vendor/marked-LICENSE.md)；Python、Node 及其他构建工具依各自许可证使用。原始文献和官网材料的权利仍属于相应权利人。
+项目原创 HTML、CSS、JavaScript、构建脚本与工作流可用于个人非商业本地学习、运行、测试、修改及向本项目提交贡献；未授予一般商业使用或再分发许可。这项有限代码许可不授权重新发布手册正文。GitHub 平台条款允许的浏览和 fork 等行为不因本声明被否定；fork 本身也不是另建公开镜像站的许可。
 
-贡献者提交原创修改时，按上述许可授权该修改；无权授权的第三方材料不得作为原创提交。
+## 第三方材料
+
+`site/vendor/marked.js` 保留其 [MIT 许可证](site/vendor/marked-LICENSE.md)，本项目不对它追加非商业限制。构建依赖依各自许可证使用。引用材料、机构名称、商标、标志和外部来源仍按原权利人的规则处理。
+
+事实、法律、公开数据与方法本身不被本项目独占；版权范围详见[美国版权局说明](https://www.copyright.gov/help/faq/faq-general.html)。
+
+## 已公开授予的许可
+
+本 PR 的公开提交 [`d5112dd943a67`](https://github.com/gjimzhou/US-China-Life-Playbook/commit/d5112dd943a6721ef4a5ac39e98a9aec29119111) 曾将其覆盖的原创材料标为 CC BY-NC 4.0。对该许可已覆盖的材料，本次调整不撤销其有效许可；相同材料不能仅因换了声明就取消原有非商业分享与改编权。许可条件见 [CC BY-NC 4.0 原文](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans)及[不可撤销性说明](https://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license)。
+
+今后新增原创表达按本次声明处理；第三方贡献或历史版本另有有效授权的，按各自授权处理，不追溯宣称全部历史内容都禁止转载。
+
+## 贡献授权
+
+贡献者保留自己原创贡献的权利。提交内容或代码 PR，表示有权提交，并以非独占方式允许维护者为本项目审核、修改、署名展示、存储、发布、部署及生成官方离线版本；该许可持续有效，不转移著作权，也不自动许可第三方向外转载或商用。贡献中采用其他许可的材料须明确标注，维护者确认兼容后再接收。未同意本条款的旧贡献不追溯适用。
+
+事实纠错与来源建议仍欢迎通过 Issue 提交。无权授权的第三方长文、私人资料和来源不明素材不得作为原创贡献。今后扩大内容或代码授权范围，应先取得相应权利人的明确同意。

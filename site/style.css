@@ -61,3 +61,5 @@ article input[type=checkbox]:not(:disabled){cursor:pointer;width:1.25em;height:1
 @media(min-width:801px) and (max-width:1150px){header nav>a{display:none}}
 
 @media(max-width:800px){header{height:auto;min-height:76px;flex-wrap:wrap;gap:8px;padding-block:10px}header nav{flex-wrap:wrap}#search-menu{font-size:13px;padding:6px 8px}}
+
+.section-actions textarea{box-sizing:border-box;width:100%;max-width:100%;font:inherit;resize:vertical}.copyright{font-size:.85rem;line-height:1.7}
