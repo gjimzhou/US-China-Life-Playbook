@@ -114,6 +114,16 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:['刚到美国','初到美国'],path:'checklists/first-30-days.md',label:'刚到美国：按实际情况选择准备事项'},
+ {phrases:['收到医疗账单'],path:'book/04-美国医疗系统怎么用.md',section:'5-理赔说明不是付款账单',label:'先区分理赔说明与付款账单'},
+ {phrases:['看病太贵'],path:'book/04-美国医疗系统怎么用.md',section:'15-高额账单先核对也要跟进期限',label:'医疗费用：先核对账单与适用帮助'},
+ {phrases:['爸妈来美国','父母来美国'],path:'book/20-父母养老与远程照护.md',label:'父母来美：按身份与需求核对照护安排'},
+ {phrases:['父母需要照护'],path:'checklists/care-needs-change.md'},
+ {phrases:['丢了工作医保怎么办','失业或保险中断'],path:'checklists/job-loss.md',section:'医保衔接',label:'失去雇主医保：核对并行的参保选择与期限'},
+ {phrases:['国内文件美国能用吗'],path:'checklists/cross-border-problem.md',label:'跨境文件：先确认接收机构与具体要求'},
+ {phrases:['收到通知不知道怎么办','收到政府通知'],path:'checklists/life-events-index.md',section:'工作钱账户与正式通知',label:'先确认通知类型，再选择处理入口'},
+ {phrases:['准备回国'],path:'checklists/international-travel.md'},
+
  {phrases:['父母住院','父母在中国突然住院','父亲住院','母亲住院','爸爸住院','妈妈住院'],path:'checklists/parents-emergency.md',section:'今天住院时如何分工'},
  {phrases:['医疗保险拒赔','医保拒赔','健康保险拒赔'],path:'book/04-美国医疗系统怎么用.md',section:'6-拒赔后先弄清原因再走书面程序',label:'医疗保险拒赔：原因、申诉与期限'},
  {phrases:['保险拒赔'],exact:true,path:'book/04-美国医疗系统怎么用.md',section:'6-拒赔后先弄清原因再走书面程序',label:'如果是医疗保险：拒赔申诉与期限'},
@@ -158,11 +168,13 @@ function render(){
   $('status').textContent=`全书搜索 · ${suggested.length} 个相关入口 · ${results.length} 个匹配段落`;document.title='搜索 · 中美双栖人生指南';
   if(priority||evidence)out.append(el('p',`高级筛选隐藏了 ${unfiltered-results.length} 个关键词匹配段落，可能只是没有相应标注。准备顺序不是紧急程度；法定期限另看正文。`,'hint'));
   if(!results.length)out.append(el('p',suggested.length?'可从上方相关入口继续阅读；下方暂无符合当前关键词和筛选条件的段落。':'没有匹配结果。试试其他关键词，或清除优先级与证据筛选。',suggested.length?'hint':'empty'));
+  if(!results.length&&!suggested.length){const help=el('nav',undefined,'search-help');help.setAttribute('aria-label','搜索无结果时的阅读入口');for(const [label,path] of [['按生活事件查找','checklists/life-events-index.md'],['浏览全部章节与清单','CONTENTS.md']]){const a=el('a',label);a.href=route(path);help.append(a)}out.append(help)}
   for(const [d,s] of results){const card=el('section',undefined,'result');card.append(el('span',d.kind+' · '+d.title,'source'));if(d.readingMode)card.append(el('span','阅读定位：'+d.readingMode,'reading-mode'));const h=el('h2');const a=el('a',s.title==='概览'?d.title:s.title);a.href=route(d.path,s.id);h.append(a);card.append(h);for(const b of [...s.priorities,...s.evidence.map(e=>'证据 '+e)])card.append(el('span',b,'badge'));const text=plain(s.markdown);const at=query?text.toLowerCase().indexOf(query):-1;card.append(el('p',(at>50?'…':'')+text.slice(Math.max(0,at-45),Math.max(0,at-45)+210)+'…'));card.append(bookmarkButton(d,s));out.append(card)}updateBookmarkButtons();return;
  }
  const doc=docs.find(d=>d.path===current);if(!doc){$('status').textContent='未找到章节';out.append(el('p','链接中的章节不存在，请从目录重新选择。','empty'));return}
  $('status').textContent=doc.kind+' · '+doc.title;document.title=doc.title+' · 中美双栖人生指南';
  if(lastSearch){const back=el('a','返回上次搜索','back-search');back.href=lastSearch;out.append(back)}
+ if(doc.reviewSummary){const review=el('details',undefined,'review-scope');review.append(el('summary','核验范围与记录'));review.append(safeMarkdown(doc.reviewSummary,doc.path));out.append(review)}
  const toc=el('nav',undefined,'toc');toc.setAttribute('aria-label','本章目录');for(const s of doc.sections.filter(s=>s.level===2)){const a=el('a',s.title);a.href=route(doc.path,s.id);toc.append(a)}if(toc.children.length)out.append(toc);
  const article=el('article');for(const s of doc.sections){const section=el('section');section.id='section-'+s.id;section.append(safeMarkdown(s.markdown,doc.path));ReadingTools.bindTasks(doc,s,section);ReadingTools.share(doc,s,section);const heading=section.querySelector('h1,h2,h3,h4,h5,h6');const save=bookmarkButton(doc,s);if(heading)heading.after(save);else section.prepend(save);article.append(section)}out.append(article);ReadingTools.mount(doc,out);updateBookmarkButtons();const a=el('a','查看本章原文与修改记录 ↗','source');a.href=repo+doc.path;out.append(a);
  const section=new URLSearchParams(location.hash.slice(1)).get('section');Reader.mount(doc,out,doc.sections.find(s=>s.id===section||s.aliases.includes(section)));if(section){const target=doc.sections.find(s=>s.id===section||s.aliases.includes(section));if(target)requestAnimationFrame(()=>$('section-'+target.id)?.scrollIntoView());else{const note=el('p','未找到此段落，已打开对应章节。请使用本章目录选择。','hint');out.prepend(note)}}
@@ -176,3 +188,6 @@ $('print').onclick=()=>window.print();window.addEventListener('hashchange',navig
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){e.preventDefault();$('sidebar').classList.add('open');$('menu').setAttribute('aria-expanded','true');$('search').focus()}});
 fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(async data=>{docs=data;await Reader.init(docs);await ReadingTools.init(docs);const all=docs.flatMap(d=>d.sections);$('filter-coverage').textContent=`${all.length} 个段落中，${all.filter(s=>s.tags.length).length} 个有筛选标注。这不是事实审定率。`;directory();navigate()}).catch(()=>{$('status').textContent='正文暂时无法载入';const a=el('a','打开 GitHub 完整目录');a.href='https://github.com/gjimzhou/US-China-Life-Playbook#readme';$('reading').append(a)});
 document.addEventListener('click',e=>{const a=e.target.closest('a');if(a?.classList.contains('skip')){e.preventDefault();$('content').focus();return}if(a&&a.hash===location.hash&&a.hash.startsWith('#doc=')){e.preventDefault();navigate()}});
+
+// Static links remain usable without JavaScript; enhance ordinary clicks only.
+document.addEventListener('click',e=>{const a=e.target.closest('a[data-reader-content]');if(!a||e.button!==0||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey||!docs.length)return;const d=docs.find(d=>d.contentId===a.dataset.readerContent);if(!d)return;const s=d.sections.find(s=>s.contentId===a.dataset.readerSection);e.preventDefault();location.hash=route(d.path,s?.id);$('content').focus({preventScroll:true});});

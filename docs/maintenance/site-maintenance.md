@@ -8,21 +8,17 @@ GitHub Settings → Pages must use GitHub Actions. Only main deploys to https://
 
 Edit `book/` or `checklists/` on a maintenance branch, review changes and merge into main. Reference documents are explicitly allowlisted in `scripts/build_site.py`. Never include private household documents. Publish only `_site/`, never the repository directory.
 
-The site and offline files come from the same commit and deploy together after all conversions and checks pass. Failed conversion leaves the previously deployed version in place. Formal releases use VERSION, `docs/releases/<version>.md` and the workflow's `Release v...` commit convention; routine maintenance does not create a release automatically.
+The site and offline files come from the same commit and deploy together after all conversions and checks pass. Failed conversion leaves the previously deployed version in place. Formal releases use VERSION, `docs/releases/<version>.md` and the **Publish a fixed edition** manual workflow. Commit titles do not trigger releases; see [开发与发布](development.md).
 
 ## Local validation
 
-Install Pandoc, WeasyPrint and the system fonts/libraries required by `.github/workflows/pages.yml`, then run:
+Follow [开发与发布](development.md) for the maintained toolchain and run the shared entry point:
 
 ```sh
-python scripts/build_site.py
-python scripts/check_review_regressions.py
-python scripts/build_exports.py
-python scripts/check_site.py
-python -m unittest discover -s scripts -p 'test_maintenance_report.py'
-python scripts/maintenance_report.py
-python -m http.server --directory _site 8765
+python scripts/validate.py
 ```
+
+`--quick` omits browser and export validation and is not release acceptance. The shared setup is `.github/actions/setup/action.yml`; do not duplicate its install or validation steps in other workflows.
 
 Generated `_site/`, `_export/` and `_maintenance/` are ignored. The route compatibility baseline is commit `543c79b6a837d5d6d2980638d5e21f056f1a91e2`; builds require full Git history. Preserve explicit mappings when headings change. Unknown renumbering before that baseline is not guaranteed compatible. Broken export fragments fail the build.
 

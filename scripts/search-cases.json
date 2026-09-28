@@ -1,0 +1,22 @@
+[
+  {"query":"刚到美国","path":"checklists/first-30-days.md"},
+  {"query":"收到医疗账单","path":"book/04-美国医疗系统怎么用.md","section":"5-理赔说明不是付款账单"},
+  {"query":"看病太贵","path":"book/04-美国医疗系统怎么用.md","section":"15-高额账单先核对也要跟进期限"},
+  {"query":"爸妈来美国","path":"book/20-父母养老与远程照护.md"},
+  {"query":"父母需要照护","path":"checklists/care-needs-change.md"},
+  {"query":"丢了工作医保怎么办","path":"checklists/job-loss.md","section":"医保衔接"},
+  {"query":"国内文件美国能用吗","path":"checklists/cross-border-problem.md"},
+  {"query":"收到通知不知道怎么办","path":"checklists/life-events-index.md","section":"工作钱账户与正式通知"},
+  {"query":"准备回国","path":"checklists/international-travel.md"},
+  {"query":"父母住院","path":"checklists/parents-emergency.md","section":"今天住院时如何分工"},
+  {"query":"医保拒赔","path":"book/04-美国医疗系统怎么用.md","section":"6-拒赔后先弄清原因再走书面程序"},
+  {"query":"约不到医生","path":"checklists/medical-access-blocked.md"},
+  {"query":"账单付不起","path":"checklists/bill-payment-difficulty.md"},
+  {"query":"银行账户冻结","path":"checklists/bank-account-restriction.md"},
+  {"query":"航班取消","path":"checklists/travel-disruption.md"},
+  {"query":"护照丢了","path":"checklists/lost-wallet-documents.md"},
+  {"query":"药拿不到","path":"checklists/medication-access-problem.md"},
+  {"query":"学校不给评估","path":"checklists/school-support.md"},
+  {"query":"车被拖了","path":"checklists/vehicle-roadside-ticket-tow.md"},
+  {"query":"被裁员","path":"checklists/job-loss.md"}
+]
