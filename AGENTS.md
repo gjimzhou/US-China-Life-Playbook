@@ -2,7 +2,7 @@
 
 本仓库同时维护中文生活指南、静态阅读网站与离线版本。先读本页，再按任务读取对应规则；不要求每次重读历史报告。
 
-- 项目总体指导：[项目交接、长期发展与维护手册](docs/maintenance/project-handoff-and-roadmap.md)。动态状态仍以 Issues、Actions 和现行台账为准，不复制第二套队列。
+- 项目最高指导：[Serena 完整项目交接手册](docs/PROJECT-HANDOFF-SERENA.md)。动态状态仍以 Issues、Actions 和现行台账为准，不复制第二套队列。
 - 正文和清单：`STYLE.md`、`CONTRIBUTING.md`；事实修改另读 `references/source-policy.md`。
 - 构建与发布：`docs/maintenance/development.md`；唯一完整检查入口是 `python scripts/validate.py`。
 - 维护队列：`docs/maintenance/backlog.md`、`docs/maintenance/maintenance-workflow.md`。
