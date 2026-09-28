@@ -63,3 +63,6 @@ article input[type=checkbox]:not(:disabled){cursor:pointer;width:1.25em;height:1
 @media(max-width:800px){header{height:auto;min-height:76px;flex-wrap:wrap;gap:8px;padding-block:10px}header nav{flex-wrap:wrap}#search-menu{font-size:13px;padding:6px 8px}}
 
 .section-actions textarea{box-sizing:border-box;width:100%;max-width:100%;font:inherit;resize:vertical}.copyright{font-size:.85rem;line-height:1.7}
+
+/* Direct scenario entries supplement the complete directory and reading routes. */
+.scenario-start h2{font-size:20px;margin:20px 0 10px}.scenario-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.scenario-links a{display:block;min-height:44px;padding:10px 12px;border:1px solid var(--line);border-radius:4px;text-decoration:none;overflow-wrap:anywhere}.scenario-start .hint{margin-top:12px}.review-scope{margin:18px 0;overflow-wrap:anywhere}.review-scope p,.review-scope li{font-size:14px}.review-scope a{display:inline}.review-scope li{margin:10px 0}.search-help{margin:12px 0}.search-help a{display:inline-block;padding:8px 12px 8px 0}

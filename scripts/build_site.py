@@ -54,6 +54,8 @@ for p in paths:
  docs.append({'path':path,'title':title,'kind':kind,'readingMode':reading_mode[1] if reading_mode else '', 'sections':sections})
  dest=OUT/path;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(text)
 assert set(historical_aliases) <= {d['path'] for d in docs}, 'Alias document missing'
+from review_visibility import attach_review_summaries
+attach_review_summaries(ROOT, docs)
 attach_ids(docs, json.loads((ROOT/'site/content-ids.json').read_text()))
 attach_tasks(docs, json.loads((ROOT/'site/task-ids.json').read_text()))
 validate_services(json.loads((ROOT/'site/services.json').read_text()))

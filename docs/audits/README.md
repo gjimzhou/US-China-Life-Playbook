@@ -20,3 +20,5 @@
 - [style-annotations-next-pass](style-annotations-next-pass.md)
 
 - [2026-09-25 仓库维护与版权边界](repository-maintenance-2026-09-25.md)：维护入口、共享检查、发布方式、GitHub 设置及参考建议取舍。
+
+- [改进方案规则对照与实施审计（2026-09-28）](improvement-plan-2026-09-28.md)：撤回重复及不合适建议，记录本轮入口、搜索与核验展示范围。
