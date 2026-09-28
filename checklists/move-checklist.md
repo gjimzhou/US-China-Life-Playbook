@@ -29,6 +29,8 @@
 
 **地址变更入口：** [USPS：正式申请邮件改址](https://moversguide.usps.com/) · [IRS：更新税务地址](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes) · [USCIS：更新地址](https://www.uscis.gov/addresschange) · [USA.gov：州机动车办事入口](https://www.usa.gov/state-motor-vehicle-services)。
 
+**移民地址别漏项：** 除适用豁免外，依法需登记的在美外国人应在搬家后10日内报告；在线改址时填入每个待审申请的收据号。曾提交经济担保书（Form I-864）且担保协议仍有效的担保人，另须在30日内提交担保人地址变更通知（Form I-865）；永久居民担保人的10日报告义务同时保留。具体条件、特殊案件渠道与凭证要求见[第37章地址报告说明](../book/37-移民身份与文件维护.md#5-搬家后及时核对地址报告义务)。本段局部核验：2026-09-28；[依据记录](../maintenance/reviews/2026-09-28-immigration-address.md)。
+
 ## 医疗与照护衔接
 
 - [ ] 更新医保地址并核对网络，按需要寻找医生、牙医、药房与兽医。
