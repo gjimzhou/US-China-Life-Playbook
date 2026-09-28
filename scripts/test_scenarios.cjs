@@ -44,7 +44,7 @@ const base=process.env.PLAYBOOK_TEST_URL||'http://127.0.0.1:8765';
  for(const width of [320,390,1440]){
   await p.setViewportSize({width,height:900});await open();
   assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`home overflow ${width}`);
-  await p.locator('.scenario-links a').first().focus();await p.keyboard.press('Enter');await p.waitForURL(/#doc=/);
+  await p.locator('.scenario-links a').first().focus();await p.keyboard.press('Enter');await p.waitForURL(/#doc=/);assert.equal(await p.evaluate(()=>document.activeElement.id),'content');
  }
  // No-JS homepage links and static review details work independently of the app.
  const nc=await browser.newContext({javaScriptEnabled:false}),np=await nc.newPage();
