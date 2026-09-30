@@ -41,8 +41,8 @@
         "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-addendum.html",
         "https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-vaccines-screening.md",
+      "last_review_attempt": "2026-09-29",
+      "latest_review_record": "maintenance/reviews/2026-09-29-october-deadlines.md",
       "review_status": "partial"
     },
     {
@@ -95,11 +95,12 @@
         "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/medical-bill-guides-resources/what-good-faith-health-insurance-estimate",
         "https://www.cms.gov/initiatives/no-surprise-billing/overview/policies-resources/providers-payment-resolution-patients",
         "https://www.healthcare.gov/",
-        "https://www.cms.gov/files/document/hhs-administered-ferp-deadline-extension-07-31-26.pdf"
+        "https://www.cms.gov/files/document/hhs-administered-ferp-deadline-extension-07-31-26.pdf",
+        "https://www.cms.gov/CCIIO/Resources/Files/external_appeals"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-insurance-appeals.md",
-      "review_status": "complete",
+      "last_review_attempt": "2026-09-29",
+      "latest_review_record": "maintenance/reviews/2026-09-29-october-deadlines.md",
+      "review_status": "partial",
       "review_by": "2026-10-02",
       "review_by_reason": "HHS FERP临时延期到期，复核官方后续通知并调整限时提示"
     },
