@@ -33,6 +33,8 @@ python scripts/validate.py --quick
 
 Python依赖在`requirements.txt`固定，浏览器测试依赖由`package-lock.json`锁定。Dependabot每月提出更新PR，不自动合并；工具更新须通过完整检查并抽看导出排版。
 
+GitHub Actions自身使用的Node运行时与项目测试的Node版本分开维护。升级setup／artifact／Pages动作时，先核对官方迁移说明、runner要求、上传下载兼容及隐藏文件默认行为；保留项目显式指定的Node 22、Java 21和Python 3.12。完整检查须验证产物上传后能被后续任务下载并通过清单校验，Pages升级还须检查main实际部署。
+
 PR、main部署、正式发布共用`build.yml`；`validate`是PR最终必需检查的稳定名称。main只有完整检查通过才部署，从`verified-site`产物取文件，不在部署步骤重新构建。
 
 正文目录没有为外观整齐而搬移：稳定 URL、收藏、永久章节／段落 ID、勾选 ID 与离线缓存依赖它们。真正分离的是项目首页与完整目录、读者文档与维护／审计文档。新增内容与标题变更显式维护 `site/content-ids.json`，不得重算既有 ID。

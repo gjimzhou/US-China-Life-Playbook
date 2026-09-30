@@ -43,7 +43,7 @@ jobs:
         run: cat link-health-report.md >> "$GITHUB_STEP_SUMMARY"
       - name: Upload link health report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: external-link-health
           path: link-health-report.md
