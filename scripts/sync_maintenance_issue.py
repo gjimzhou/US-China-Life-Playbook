@@ -21,14 +21,14 @@ def issue_body(report):
               '', '此页由程序维护；讨论请使用评论，避免把手写待办放在自动生成正文中。']
     return '\n'.join(lines)
 
-def reconcile(api, repo, body):
+def reconcile(api, repo, body, marker=MARKER, title=TITLE):
     prefix = f'/repos/{repo}/issues'
     found = None
     page = 1
     while True:
         issues = api('GET', prefix + f'?state=all&per_page=100&page={page}')
         for issue in issues:
-            if not issue.get('pull_request') and (issue.get('body') or '').startswith(MARKER):
+            if not issue.get('pull_request') and (issue.get('body') or '').startswith(marker):
                 found = issue
                 break
         if found or len(issues) < 100:
@@ -36,7 +36,7 @@ def reconcile(api, repo, body):
         page += 1
     if found is None:
         if body:
-            api('POST', prefix, {'title': TITLE, 'body': body})
+            api('POST', prefix, {'title': title, 'body': body})
         return
     patch = {}
     if body:
