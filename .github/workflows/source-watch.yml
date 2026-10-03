@@ -1,0 +1,63 @@
+name: Official source change watch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 14 * * *'
+  push:
+    branches: [main]
+    paths: ['maintenance/source-watch.json', 'scripts/source_watch.py', 'scripts/test_source_watch.py', 'scripts/sync_maintenance_issue.py', '.github/workflows/source-watch.yml']
+  pull_request:
+    paths: ['maintenance/source-watch.json', 'scripts/source_watch.py', 'scripts/test_source_watch.py', 'scripts/sync_maintenance_issue.py', '.github/workflows/source-watch.yml']
+permissions:
+  contents: read
+concurrency:
+  group: source-watch-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s scripts -p 'test_source_watch.py'
+  watch:
+    needs: test
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      actions: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Check official sources and reconcile review signals
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/source_watch.py --sync
+      - name: Publish check summary
+        if: always() && hashFiles('_maintenance/source-watch/report.md') != ''
+        run: cat _maintenance/source-watch/report.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v7
+        if: always() && github.event_name != 'pull_request' && hashFiles('_maintenance/source-watch/source-watch-state.json') != ''
+        with:
+          name: source-watch-state
+          path: _maintenance/source-watch/source-watch-state.json
+          retention-days: 90
+          overwrite: true
+      - uses: actions/upload-artifact@v7
+        if: always() && github.event_name != 'pull_request' && hashFiles('_maintenance/source-watch/observations.json') != ''
+        with:
+          name: source-watch-report
+          path: |
+            _maintenance/source-watch/observations.json
+            _maintenance/source-watch/report.md
+          retention-days: 90
+          overwrite: true
