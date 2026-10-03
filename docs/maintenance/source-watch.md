@@ -48,3 +48,5 @@ GitHub Actions 的 `source-watch-state` 附件保存连续失败和未复核指�
 `test_source_watch.py` 使用受控文本变化、连续HTTP失败与模拟Issue API，覆盖提醒、重复状态无写入、恢复、内容回退仍保留待办、人工接受基线、状态恢复／缺失、PR隔离及原维护队列不被覆盖。它被统一 `python scripts/validate.py` 自动发现。
 
 初次本地实测三个页面可读取并生成指纹。自定义客户端标识访问CDC时出现403，标准Python请求可读；程序不据此推定GitHub托管运行器同样可达，线上结果另看实际工作流。没有向官方订阅服务提交邮箱，没有模拟读者或真实设备验收。
+
+2026-10-02托管试行确认CDC/CMS指纹一致、USCIS连续403产生独立任务、同状态再次运行不重复通知；详见[验收记录](../audits/source-watch-pilot-2026-10-02.md)。USCIS故障保留在[Issue #33](https://github.com/gjimzhou/US-China-Life-Playbook/issues/33)，试行验收不代表三个来源均可用。
