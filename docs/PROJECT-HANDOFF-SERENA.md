@@ -1,7 +1,7 @@
 # US–China Life Playbook：项目交接、后续发展与长期维护手册
 
 > 面向下一位长期维护者（Serena）  
-> 当前基线：2026-09-28，仓库 `gjimzhou/US-China-Life-Playbook`，正式版本 `v1.2`。  
+> 初始交接：2026-09-28；维护入口整理：2026-10-02。仓库 `gjimzhou/US-China-Life-Playbook`。正式版本以 [Releases](https://github.com/gjimzhou/US-China-Life-Playbook/releases) 为准，当前源码版本见 [VERSION](../VERSION)。
 > 本文是整个项目的 handoff，不是某一个 issue 的处理说明。它的目标是让新的 collaborator 在不依赖原作者口头补充的情况下，能够继续内容维护、事实核验、网站开发、自动化、发布、QA 与长期 roadmap。
 
 ---
@@ -536,7 +536,7 @@ analytics 用来判断：
 
 ## 12. 搜索与信息架构的未来方向
 
-搜索现在已经可用，但长期可以继续提升：
+任务搜索已随 [v1.3](releases/v1.3.md) 增加自然中文映射、20条回归用例及无结果退路。以下为后续扩展方向，新增前先检查已有实现与真实反馈：
 
 ### 12.1 从关键词搜索升级到“任务搜索”
 
@@ -634,7 +634,7 @@ analytics 用来判断：
 
 ### 13.5 长期：证据覆盖可视化
 
-未来网站可显示：
+[v1.3](releases/v1.3.md) 已在登记章节的互动页和静态页展示核验范围、完整核验日期、最近尝试、计划复核及证据链接；未登记章节和关联清单不自动继承状态。后续扩展继续保留以下信息：
 
 - 本节最近核验日期；
 - scope；
@@ -678,41 +678,9 @@ analytics 用来判断：
 
 ## 15. 构建环境
 
-推荐：
+环境版本、安装命令、平台差异及正式发布步骤统一维护在 [开发与发布](maintenance/development.md)。先使用该页指定的 Python 环境；浅克隆需补齐 Git 历史，旧链接检查依赖历史基线。
 
-- Python 3.12+
-- Node 22
-- Java 21
-- Pandoc 3.11
-- EPUBCheck 5.4.0
-- Playwright Firefox
-- WeasyPrint 系统依赖
-- 中文字体
-
-首次：
-
-```bash
-python3.12 -m venv .venv
-. .venv/bin/activate
-python -m pip install -r requirements.txt
-npm ci
-npx playwright install firefox
-python scripts/validate.py --quick
-```
-
-完整：
-
-```bash
-python scripts/validate.py
-```
-
-完整验证可能需要：
-
-- Pandoc；
-- EPUBCheck；
-- Pango / WeasyPrint 系统库；
-- 中文字体；
-- 8765 端口可用。
+唯一验证入口仍为 `python scripts/validate.py`；`--quick` 只用于快速反馈，不能代替完整发布验收。
 
 ---
 
@@ -1141,7 +1109,7 @@ python scripts/validate.py --quick
 
 ### 30.2 更强的 event-first UX
 
-首页进一步从“40章目录”向“我现在发生了什么”转化，例如：
+[v1.3](releases/v1.3.md) 已提供六个首页场景入口；以下场景用于检查覆盖缺口，不是全部尚待新增的任务：
 
 - 搬家；
 - 失业；
@@ -1301,9 +1269,9 @@ python scripts/validate.py --quick
 
 ## 35. 当前正式状态
 
-截至本文写入：
+此处维护能力概览；实时任务以 Issues 和事实台账为准，发布结果以 Actions 和 Releases 为准。
 
-- 正式版本：`v1.2`
+- 正式版本见 [Releases](https://github.com/gjimzhou/US-China-Life-Playbook/releases)，源码版本见 [VERSION](../VERSION)
 - 40 章正文；
 - 多组事件型 checklist；
 - GitHub Pages 在线站点；
