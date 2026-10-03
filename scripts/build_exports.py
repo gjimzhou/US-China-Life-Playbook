@@ -12,6 +12,7 @@ import subprocess
 import zipfile
 
 from legacy_routes import legacy_routes
+from heading_anchors import heading_plain as plain_heading, heading_slug
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site" / "downloads"
@@ -24,15 +25,11 @@ REPO_BLOB = "https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/"
 
 
 def heading_plain(text: str) -> str:
-    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text).replace("`", "")
-    return text.strip()
+    return plain_heading(text, trim=True)
 
 
 def site_slug(text: str) -> str:
-    import unicodedata
-    plain = heading_plain(text).lower()
-    slug = "".join(c for c in plain if c in "-_ " or unicodedata.category(c)[0] in "LN").replace(" ", "-")
-    return slug or "section"
+    return heading_slug(text, trim=True)
 
 
 def doc_anchor(path: str) -> str:

@@ -1,11 +1,8 @@
 """Freeze ordinal links at the last audited release; never retarget by new order."""
 import re
 import subprocess
-import unicodedata
+from heading_anchors import heading_slug as slug
 BASELINE = '543c79b6a837d5d6d2980638d5e21f056f1a91e2'
-def slug(text):
-    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text).replace('`', '')
-    return ''.join(c for c in text.lower() if c in '-_ ' or unicodedata.category(c)[0] in 'LN').replace(' ', '-') or 'section'
 def legacy_routes(root, path):
     result = subprocess.run(['git', 'show', f'{BASELINE}:{path}'], cwd=root, text=True, capture_output=True)
     if result.returncode:

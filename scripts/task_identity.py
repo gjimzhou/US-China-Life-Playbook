@@ -5,16 +5,14 @@ root=Path(__file__).resolve().parents[1]
 p=argparse.ArgumentParser();p.add_argument('--assign-new',action='store_true');args=p.parse_args()
 ids=json.loads((root/'site/content-ids.json').read_text());catalog_path=root/'site/task-ids.json';catalog=json.loads(catalog_path.read_text())
 # Read the same build sections without requiring a successful build after an edit.
-from reader_features import attach_ids
-import unicodedata
+from heading_anchors import heading_slug
 new=0
 for path,entry in ids.items():
     if not path.startswith('checklists/') or not (root/path).exists():continue
     seen={}
     for part in re.split(r'(?=^#{2,6} )',(root/path).read_text(),flags=re.M):
         heading=re.search(r'^(#{1,6}) (.+)',part,re.M);text=heading[2] if heading else '概览'
-        plain=re.sub(r'\[([^\]]+)\]\([^)]+\)',r'\1',text).replace('`','')
-        slug=''.join(c for c in plain.lower() if c in '-_ ' or unicodedata.category(c)[0] in 'LN').replace(' ','-') or 'section'
+        slug=heading_slug(text)
         count=seen.get(slug,0);seen[slug]=count+1;slug+=f'-{count}' if count else ''
         sid=entry['sections'].get(slug)
         if not sid:raise SystemExit(f'Assign/preserve section identity first: {path}#{slug}')
