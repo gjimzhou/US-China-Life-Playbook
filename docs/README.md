@@ -13,4 +13,6 @@
 | 维护者：评估阅读体验与编辑流程改进 | [改进方案提案](maintenance/improvement-plan-2026-09-27.md)（含本轮取舍与实现范围） |
 | 查当前与历史版本 | [v1.3说明](releases/v1.3.md)、[v1.2说明](releases/v1.2.md)、[v1.1说明](releases/v1.1.md)、[变更日志](../CHANGELOG.md) |
 
+总体交接只维护 `PROJECT-HANDOFF-SERENA.md`；旧 `maintenance/project-handoff-and-roadmap.md` 保留标题锚点和现行入口，不再复制规则。版本看 Releases / `VERSION`，服务开关看 `site/services.json`，动态任务看 Issues / 台账。
+
 `book/` 和 `checklists/` 是稳定阅读内容；`references/` 保存编辑与证据规则；`docs/reader/`、`docs/maintenance/`、`docs/audits/` 分别保存使用说明、维护操作和日期证据。旧文档地址保留兼容入口。

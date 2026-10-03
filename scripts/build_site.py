@@ -1,6 +1,7 @@
 """Build an allowlisted GitHub Pages artifact with static chapter fallbacks."""
 from pathlib import Path
-import json,re,shutil,hashlib,unicodedata
+import json,re,shutil,hashlib
+from heading_anchors import heading_slug
 from legacy_routes import legacy_routes
 from reader_features import attach_ids, attach_tasks, build_updates, validate_services
 ROOT=Path(__file__).resolve().parents[1]
@@ -24,8 +25,7 @@ for p in paths:
   heading=re.search(r'^(#{1,6}) (.+)',part,re.M)
   level=len(heading[1]) if heading else 1
   heading_text=heading[2] if heading else '概览'
-  plain=re.sub(r'\[([^\]]+)\]\([^)]+\)',r'\1',heading_text).replace('`','')
-  slug=''.join(c for c in plain.lower() if c in '-_ ' or unicodedata.category(c)[0] in 'LN').replace(' ','-') or 'section'
+  slug=heading_slug(heading_text)
   duplicate=seen.get(slug,0);seen[slug]=duplicate+1
   anchor=slug+(f'-{duplicate}' if duplicate else '')
   aliases=[]

@@ -98,8 +98,8 @@
         "https://www.cms.gov/files/document/hhs-administered-ferp-deadline-extension-07-31-26.pdf",
         "https://www.cms.gov/CCIIO/Resources/Files/external_appeals"
       ],
-      "last_review_attempt": "2026-09-29",
-      "latest_review_record": "maintenance/reviews/2026-09-29-october-deadlines.md",
+      "last_review_attempt": "2026-10-02",
+      "latest_review_record": "maintenance/reviews/2026-10-02-ferp-deadline.md",
       "review_status": "partial",
       "review_by": "2026-10-02",
       "review_by_reason": "HHS FERP临时延期到期，复核官方后续通知并调整限时提示"
@@ -310,10 +310,12 @@
         "https://www.uscis.gov/forms/filing-guidance/tips-for-filing-forms-by-mail",
         "https://www.uscis.gov/i-865",
         "https://www.uscis.gov/sites/default/files/document/forms/i-865instr.pdf",
-        "https://travel.state.gov/content/travel/en/us-visas/immigrate/national-visa-center/nvc-contact-information.html"
+        "https://travel.state.gov/content/travel/en/us-visas/immigrate/national-visa-center/nvc-contact-information.html",
+        "https://www.uscis.gov/green-card/after-we-grant-your-green-card/conditional-permanent-residence/removing-conditions-on-permanent-residence-based-on-marriage",
+        "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-216/section-216.4"
       ],
-      "last_review_attempt": "2026-09-28",
-      "latest_review_record": "maintenance/reviews/2026-09-28-immigration-address.md",
+      "last_review_attempt": "2026-10-02",
+      "latest_review_record": "maintenance/reviews/2026-10-02-conditional-residence.md",
       "review_status": "partial"
     },
     {
