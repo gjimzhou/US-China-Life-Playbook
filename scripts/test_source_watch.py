@@ -120,13 +120,29 @@ class SignalTests(unittest.TestCase):
 
 
 class RestoreTests(unittest.TestCase):
+    def test_recent_artifact_does_not_require_scanning_all_history(self):
+        expected = step(digest=B)
+        replies = [{'workflow_runs': [{'id': i, 'run_number': i, 'event': 'schedule'} for i in range(100, 0, -1)]},
+                   {'artifacts': [{'name': 'source-watch-state', 'expired': False}]}]
+        def download(command, **kwargs):
+            destination = Path(command[command.index('--dir') + 1])
+            (destination / 'source-watch-state.json').write_text(json.dumps(expected))
+        with patch('source_watch.gh_json', side_effect=replies), patch('source_watch.subprocess.run', side_effect=download):
+            self.assertEqual(restore('o/r', '101', current_number=101), expected)
+
     def test_rerun_preserves_previous_attempt_pending_changes(self):
         expected = step(digest=B)
         def download(command, **kwargs):
             destination = Path(command[command.index('--dir') + 1])
             (destination / 'source-watch-state.json').write_text(json.dumps(expected))
-        with patch('source_watch.gh_json', return_value={'artifacts': [{'name': 'source-watch-state', 'expired': False}]}), patch('source_watch.subprocess.run', side_effect=download):
+        replies = [{'workflow_runs': []}, {'artifacts': [{'name': 'source-watch-state', 'expired': False}]}]
+        with patch('source_watch.gh_json', side_effect=replies), patch('source_watch.subprocess.run', side_effect=download):
             self.assertEqual(restore('o/r', '2', current_attempt=2), expected)
+
+    def test_old_run_cannot_overwrite_newer_signals(self):
+        with patch('source_watch.gh_json', return_value={'workflow_runs': [{'id': 3, 'run_number': 3, 'event': 'schedule'}]}):
+            with self.assertRaisesRegex(ValueError, 'stale rerun'):
+                restore('o/r', '2', current_attempt=2, current_number=2)
 
     def test_pagination_cannot_turn_existing_history_into_first_run(self):
         replies = [{'workflow_runs': [{'id': i, 'event': 'pull_request'} for i in range(100)]},
