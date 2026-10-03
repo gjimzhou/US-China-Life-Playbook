@@ -312,11 +312,19 @@
         "https://www.uscis.gov/sites/default/files/document/forms/i-865instr.pdf",
         "https://travel.state.gov/content/travel/en/us-visas/immigrate/national-visa-center/nvc-contact-information.html",
         "https://www.uscis.gov/green-card/after-we-grant-your-green-card/conditional-permanent-residence/removing-conditions-on-permanent-residence-based-on-marriage",
-        "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-216/section-216.4"
+        "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-216/section-216.4",
+        "https://www.uscis.gov/g-1055",
+        "https://www.uscis.gov/sites/default/files/document/forms/g-1055.pdf",
+        "https://www.uscis.gov/forms/filing-fees",
+        "https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2027-inflation-increase-for-certain-immigration-related-fees",
+        "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
+        "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20187.pdf"
       ],
       "last_review_attempt": "2026-10-02",
-      "latest_review_record": "maintenance/reviews/2026-10-02-conditional-residence.md",
-      "review_status": "partial"
+      "latest_review_record": "maintenance/reviews/2026-10-02-immigration-fees.md",
+      "review_status": "partial",
+      "review_by": "2026-10-15",
+      "review_by_reason": "2026-10-16起部分H.R.1费用按邮戳切换；前一日复看USCIS公告、G-1055及适用例外，不顺延既有未完成期限。"
     },
     {
       "id": "cross-border-tax",
