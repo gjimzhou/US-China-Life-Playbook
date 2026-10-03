@@ -48,7 +48,14 @@ const base=process.env.PLAYBOOK_TEST_URL||'http://127.0.0.1:8765';
  }
  // No-JS homepage links and static review details work independently of the app.
  const nc=await browser.newContext({javaScriptEnabled:false}),np=await nc.newPage();
- for(const e of entries){await np.goto(base);await np.getByRole('link',{name:e.label,exact:true}).click();assert(await np.locator('article').isVisible());assert(np.url().includes(e.id));if(e.section)assert.equal(await np.locator('section[id="'+e.section+'"]').count(),1)}
+ for(const e of entries){
+  await np.goto(base);
+  await np.getByRole('link',{name:e.label,exact:true}).click();
+  // Navigation can commit before the static article is painted. isVisible() does not wait.
+  await np.waitForURL(url=>url.pathname.endsWith('/read/'+e.id+'.html'));
+  await np.locator('article').waitFor({state:'visible'});
+  if(e.section)assert.equal(await np.locator('section[id="'+e.section+'"]').count(),1);
+ }
  await np.goto(base+'/read/'+partial.contentId+'.html');await np.locator('.review-scope summary').click();
  assert((await np.locator('.review-scope').innerText()).includes('最近仅部分核验'));
  for(const d of docs.filter(d=>d.reviewSummary)){
