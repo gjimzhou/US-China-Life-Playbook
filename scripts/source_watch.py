@@ -183,7 +183,7 @@ def gh_json(path):
     return json.loads(result.stdout)
 
 
-def restore(repo, current_run, current_attempt=1):
+def restore(repo, current_run, current_attempt=1, current_number=None):
     def download(run_id):
         artifacts = gh_json(f'repos/{repo}/actions/runs/{int(run_id)}/artifacts')['artifacts']
         if any(a['name'] == 'source-watch-state' and not a['expired'] for a in artifacts):
@@ -192,16 +192,19 @@ def restore(repo, current_run, current_attempt=1):
                                 '--name', 'source-watch-state', '--dir', directory], check=True)
                 return validate_state(json.loads((Path(directory) / 'source-watch-state.json').read_text()))
         return None
-    # A rerun may already have an unresolved signal in its prior attempt's artifact.
-    if current_attempt > 1:
-        restored = download(current_run)
-        if restored is not None:
-            return restored
-    seen_trusted = current_attempt > 1
+    seen_trusted, checked_rerun = False, False
     for page in range(1, 11):
         runs = gh_json(f'repos/{repo}/actions/workflows/source-watch.yml/runs?branch=main&status=completed&per_page=100&page={page}')['workflow_runs']
         trusted = [r for r in runs if str(r['id']) != current_run and r['event'] in ('push', 'schedule', 'workflow_dispatch')]
         seen_trusted = seen_trusted or bool(trusted)
+        if current_number is not None and any(r['run_number'] > current_number for r in trusted):
+            raise ValueError('Refusing a stale rerun; dispatch a current main check instead')
+        # Runs are newest first. Find the latest trusted run before using a rerun's artifact.
+        if current_attempt > 1 and not checked_rerun and (trusted or len(runs) < 100):
+            checked_rerun = True
+            restored = download(current_run)
+            if restored is not None:
+                return restored
         for run in trusted:
             restored = download(run['id'])
             if restored is not None:
@@ -210,7 +213,7 @@ def restore(repo, current_run, current_attempt=1):
             break
     else:
         raise ValueError('State search limit reached; do not silently reset monitoring')
-    if seen_trusted:
+    if seen_trusted or current_attempt > 1:
         raise ValueError('Previous monitoring runs exist but no usable state artifact; investigate retention or failed uploads')
     return {'schema_version': 1, 'sources': {}}
 
@@ -235,7 +238,7 @@ def main():
                 or os.environ.get('GITHUB_EVENT_NAME') not in ('push', 'schedule', 'workflow_dispatch')):
             raise ValueError('Issue writes require a trusted main workflow')
         previous = restore(os.environ['GITHUB_REPOSITORY'], os.environ['GITHUB_RUN_ID'],
-                           int(os.environ.get('GITHUB_RUN_ATTEMPT', '1')))
+                           int(os.environ.get('GITHUB_RUN_ATTEMPT', '1')), int(os.environ['GITHUB_RUN_NUMBER']))
     else:
         previous = {'schema_version': 1, 'sources': {}}
     observations = {s['id']: observe(s) for s in sources}
