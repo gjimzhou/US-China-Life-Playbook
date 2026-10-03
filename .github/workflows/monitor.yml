@@ -1,7 +1,7 @@
 name: Track maintenance and deployment failures
 on:
   workflow_run:
-    workflows: ['Build and deploy reading site', 'External link report', 'Editorial maintenance queue']
+    workflows: ['Build and deploy reading site', 'External link report', 'Editorial maintenance queue', 'Official source change watch']
     types: [completed]
 permissions:
   contents: read
