@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "baseline_date": "2026-10-02",
+  "sources": [
+    {
+      "id": "cdc-covid-guidance",
+      "url": "https://www.cdc.gov/covid/hcp/vaccine-considerations/index.html",
+      "owner": "预防医学维护者（vaccines-screening）",
+      "scope": "第02章第3节：当季COVID指导、版本日期与监管说明",
+      "subscription": "页面提供CDC邮件订阅；维护者可自愿订阅，不代填邮箱。",
+      "accepted_sha256": "4c0ae0ef873664fda7484de3e1496ee7267d46e3abcd0f9c360b87e273a204a9"
+    },
+    {
+      "id": "cms-ferp-extension",
+      "url": "https://www.cms.gov/CCIIO/Resources/Files/external_appeals",
+      "owner": "医保申诉维护者（insurance-appeals）",
+      "scope": "第04章第6节：FERP延期通知、适用计划及州别入口",
+      "subscription": "页面提供CMS主题邮件订阅；其粒度未证明覆盖每次延期修改，保留定点检查。",
+      "accepted_sha256": "392074fcfa973a18716bb0b0b9f603a1af72d2beda161c3f1d794467e972439f"
+    },
+    {
+      "id": "uscis-i751",
+      "url": "https://www.uscis.gov/i-751",
+      "owner": "移民维护者（immigration）",
+      "scope": "第37章第15节：表格版本、递交窗口及办理入口",
+      "subscription": "使用本页定点检查；本次未确认只覆盖该表格更新的官方订阅。",
+      "accepted_sha256": "f4d67bfb39b6fc3460969f82dcf53ee730ac1daca4f3189ec9201e18c9a06fc6"
+    }
+  ]
+}
