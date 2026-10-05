@@ -98,11 +98,9 @@
         "https://www.cms.gov/files/document/hhs-administered-ferp-deadline-extension-07-31-26.pdf",
         "https://www.cms.gov/CCIIO/Resources/Files/external_appeals"
       ],
-      "last_review_attempt": "2026-10-02",
-      "latest_review_record": "maintenance/reviews/2026-10-02-ferp-deadline.md",
-      "review_status": "partial",
-      "review_by": "2026-10-02",
-      "review_by_reason": "HHS FERP临时延期到期，复核官方后续通知并调整限时提示"
+      "last_review_attempt": "2026-10-04",
+      "latest_review_record": "maintenance/reviews/2026-10-04-ferp-post-deadline.md",
+      "review_status": "partial"
     },
     {
       "id": "china-health-access",
