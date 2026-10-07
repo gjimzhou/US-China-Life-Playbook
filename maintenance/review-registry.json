@@ -240,8 +240,8 @@
       "scope": "入境证件、过境、药品携带及旅行动态",
       "interval_days": 14,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-09-24",
-      "review_record": "maintenance/reviews/2026-09-24-travel-entry.md",
+      "last_verified": "2026-10-07",
+      "review_record": "maintenance/reviews/2026-10-07-travel-entry.md",
       "sources": [
         "https://travel.state.gov/en/international-travel/planning/checklist.html",
         "https://travel.state.gov/en/international-travel/planning.html",
@@ -261,8 +261,8 @@
         "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
         "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-travel-entry.md",
+      "last_review_attempt": "2026-10-07",
+      "latest_review_record": "maintenance/reviews/2026-10-07-travel-entry.md",
       "review_status": "complete"
     },
     {
