@@ -148,6 +148,8 @@
 
 从本国使领馆正式渠道查询预约、材料和紧急证件，另向目的地主管机构核对离境或签证记录恢复要求。扫描件可帮助提供信息，不能代替有效旅行证件，也不保证当日补发。
 
+**美国护照报失后：** 2026-10-07核对的[国务院境外护照遗失说明](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html)明确，已报失或报盗的护照不再可用于国际旅行；不要因后来找回就继续使用。应联系美国使领馆申请新证件，并说明近期行程。紧急护照与正常有效期护照不同，多数使领馆周末或节假日不能签发护照，不能把紧急联系渠道当作当天补发保证。
+
 **美国护照直接入口：** [国务院：境外护照丢失或被盗](https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html) · [美国使领馆目录](https://www.usembassy.gov/)。
 
 ## 21. 医疗入口按需求和能力判断
