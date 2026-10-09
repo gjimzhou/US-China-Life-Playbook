@@ -261,6 +261,8 @@ I-9办理与保存时间线（当前表格版本另见下方说明）：
 
 按适用法律与合同核对通知、最后工资、应付假期及其他款项，再办理钥匙与访问权限交接。发生安全风险时寻求适当帮助；不要自行扣工资、扣物品或把住家员工锁在门外。
 
+**新泽西州示例（2026-10-08定点核对）：** 对该州家政雇员权利法覆盖的雇佣，终止前一般须至少提前两周通知，住家员工至少四周；未按要求通知的，员工有权取得按正常时薪及缺少通知期间正常工时计算的离职补偿。例外须逐项核对：严重不当行为有法定定义及善意判断要求；机构安排结束但员工仍在机构工资名册等待再安排，以及个人雇主的岗位职责已全部完成且不再有实际岗位需要，也有特定例外。不能仅凭“想换人”或合同写了可随时解雇就认定无需通知。具体见[NJDOL终止雇佣说明](https://www.nj.gov/labor/myworkrights/worker-protections/domestic_workers/domesticworkerrights_employers.shtml)与[法条第16节（N.J.S.A. 34:11-74）](https://pub.njleg.state.nj.us/Bills/2022/PL23/262_.HTM)；劳动通知不替代住家员工适用的住房程序。
+
 **查本州工资 / 离职结薪规则：** [州劳动部门](https://www.dol.gov/agencies/whd/state/contacts) · [USA.gov：州政府入口](https://www.usa.gov/state-governments)。联邦家政服务工时基线另见 [DOL：家政雇员劳动规则资料](https://www.dol.gov/agencies/whd/direct-care/fact-sheets)。
 
 ---
