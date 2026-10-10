@@ -107,7 +107,7 @@ function directory(){
   const group=el('details');group.open=true;group.append(el('summary',kind));
   if(kind==='正文')for(const [name,start,end] of topics){const topic=el('details');topic.className='topic';topic.append(el('summary',name));appendLinks(topic,docs.filter(d=>d.kind===kind&&Number(d.path.slice(5,7))>=start&&Number(d.path.slice(5,7))<=end));group.append(topic)}
   else if(kind==='清单'){
-   const categories=[['日常准备与资料',['first-30-days','annual-review','emergency-sheet','life-events-index']],['医疗与照护',['medical-access-blocked','mental-health-care','pregnancy-birth-loss','hospital-discharge-major-diagnosis','medication-access-problem','parents-emergency','care-needs-change']],['住房、工作与身份',['move-checklist','home-purchase','rental-lifecycle','job-loss','workplace-rights','workplace-injury-leave','identity-change','immigration-notice-rfe','jury-court-summons']],['家庭与宠物',['marriage-checklist','separation-family-safety','adult-child-transition','school-support','death-administration','pet-loss','lost-pet']],['旅行、跨境与突发事件',['international-travel','travel-disruption','long-term-relocation','cross-border-problem','cyber-incident','lost-wallet-documents','vehicle-roadside-ticket-tow','crime-victim','disaster-utility-outage','retirement-transition']]];
+   const categories=[['日常准备与资料',['first-30-days','annual-review','emergency-sheet','life-events-index']],['医疗与照护',['medical-access-blocked','mental-health-care','pregnancy-birth-loss','hospital-discharge-major-diagnosis','medication-access-problem','parents-emergency','care-needs-change']],['住房、工作与身份',['move-checklist','home-purchase','rental-lifecycle','job-loss','workplace-rights','workplace-injury-leave','identity-change','immigration-notice-rfe','jury-court-summons']],['家庭与宠物',['marriage-checklist','separation-family-safety','adult-child-transition','school-support','death-administration','pet-loss','lost-pet']],['旅行、跨境与突发事件',['international-travel','parents-us-visit','two-country-living','travel-disruption','long-term-relocation','cross-border-problem','cyber-incident','lost-wallet-documents','vehicle-roadside-ticket-tow','crime-victim','disaster-utility-outage','retirement-transition']]];
    const assigned=new Set();for(const [name,slugs] of categories){const items=docs.filter(d=>d.kind===kind&&slugs.some(s=>d.path==='checklists/'+s+'.md'));items.forEach(d=>assigned.add(d.path));if(items.length){const topic=el('details');topic.className='topic';topic.append(el('summary',name));appendLinks(topic,items);group.append(topic)}}
    const remaining=docs.filter(d=>d.kind===kind&&!assigned.has(d.path));if(remaining.length){const topic=el('details');topic.append(el('summary','其他场景'));appendLinks(topic,remaining);group.append(topic)}
   }else appendLinks(group,docs.filter(d=>d.kind===kind));container.append(group);
@@ -117,7 +117,8 @@ const eventQueries=[
  {phrases:['刚到美国','初到美国'],path:'checklists/first-30-days.md',label:'刚到美国：按实际情况选择准备事项'},
  {phrases:['收到医疗账单'],path:'book/04-美国医疗系统怎么用.md',section:'5-理赔说明不是付款账单',label:'先区分理赔说明与付款账单'},
  {phrases:['看病太贵'],path:'book/04-美国医疗系统怎么用.md',section:'15-高额账单先核对也要跟进期限',label:'医疗费用：先核对账单与适用帮助'},
- {phrases:['爸妈来美国','父母来美国'],path:'book/20-父母养老与远程照护.md',label:'父母来美：按身份与需求核对照护安排'},
+ {phrases:['爸妈来美国','父母来美国','父母赴美探亲','父母来美探亲'],path:'checklists/parents-us-visit.md',label:'父母赴美探亲：从准备到返程'},
+ {phrases:['两地生活','中美往返','两边轮流住'],path:'checklists/two-country-living.md'},
  {phrases:['父母需要照护'],path:'checklists/care-needs-change.md'},
  {phrases:['丢了工作医保怎么办','失业或保险中断'],path:'checklists/job-loss.md',section:'医保衔接',label:'失去雇主医保：核对并行的参保选择与期限'},
  {phrases:['国内文件美国能用吗'],path:'checklists/cross-border-problem.md',label:'跨境文件：先确认接收机构与具体要求'},
