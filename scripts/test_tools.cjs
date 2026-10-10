@@ -14,6 +14,24 @@ assert(directoryPaths.includes('CONTENTS.md'));
 await p.getByRole('button',{name:'搜索',exact:true}).click();assert(await p.locator('#search').isVisible());
 const d=docs.find(d=>d.path==='checklists/first-30-days.md'),s=d.sections.find(s=>s.taskIds.length),url='#content='+d.contentId+'&at='+s.contentId;
 await open(url);await p.locator('article').waitFor();const previousScroll=await p.evaluate(()=>scrollY);await p.getByRole('button',{name:'目录与筛选',exact:true}).click();await p.getByRole('dialog').waitFor();await p.getByRole('button',{name:'返回阅读位置'}).click();assert(Math.abs((await p.evaluate(()=>scrollY))-previousScroll)<5);const first=p.locator('[data-task-id]').first();await first.check();await p.reload();await first.waitFor();assert(await first.isChecked());assert((await p.locator('#task-count').innerText()).includes('已勾选 1 /'));
+// Checklist overview reuses existing progress, filters locally, and resumes a stable section.
+await open('#view=checklists');
+const taskDocs=docs.filter(d=>d.sections.some(s=>s.taskIds.length));
+assert.equal(await p.locator('.checklist-card').count(),taskDocs.length);
+const card=p.locator('.checklist-card').filter({has:p.getByRole('link',{name:d.title,exact:true})});
+assert((await card.innerText()).includes('已勾选 1 /'));
+await p.getByLabel('勾选状态',{exact:true}).selectOption('started');assert.equal(await p.locator('.checklist-card').count(),1);
+await p.getByLabel('查找清单或章节',{exact:true}).fill('不存在的关键词xyz');assert.equal(await p.locator('.checklist-card').count(),0);
+await p.getByLabel('查找清单或章节',{exact:true}).fill('');
+const nextSection=d.sections.find(sec=>sec.taskIds.some(id=>id!==s.taskIds[0]));
+assert((await card.getByRole('link',{name:'前往未勾选的小节'}).getAttribute('href')).includes(nextSection.contentId));
+// Another tab completing a checklist updates the active filter without stealing focus.
+const sync=await c.newPage();await sync.goto(base+'/#view=checklists');await sync.locator('#checklist-filter').waitFor();
+await sync.evaluate(({key,ids})=>{const st=JSON.parse(localStorage.getItem(key));ids.forEach(id=>st.tasks[id]=true);localStorage.setItem(key,JSON.stringify(st))},{key,ids:d.sections.flatMap(s=>s.taskIds)});
+await p.waitForFunction(()=>document.querySelectorAll('.checklist-card').length===0);
+await p.getByLabel('勾选状态',{exact:true}).selectOption('done');assert.equal(await p.locator('.checklist-card').count(),1);assert(await card.getByRole('link',{name:'回看清单'}).isVisible());
+await sync.evaluate(({key,id})=>{const st=JSON.parse(localStorage.getItem(key));st.tasks={[id]:true};localStorage.setItem(key,JSON.stringify(st))},{key,id:s.taskIds[0]});await sync.close();
+await open(url);
 await p.locator('.bookmark-button').first().click();
 await p.locator('.section-actions summary').first().click();await p.evaluate(()=>Object.defineProperty(navigator,'clipboard',{value:{writeText:async t=>{window.copy=t}},configurable:true}));await p.getByRole('button',{name:'复制小节链接'}).first().click();const share=await p.evaluate(()=>window.copy);assert(share.includes('/read/'+d.contentId+'.html#'));
 await p.getByRole('button',{name:'复制引用',exact:true}).first().click();const citation=await p.evaluate(()=>window.copy);assert(citation.includes(d.title)&&citation.includes(share)&&citation.includes('访问日期'));
@@ -31,9 +49,10 @@ const other=await c.newPage();await other.goto(base+'/#view=tools');await other.
 p.once('dialog',d=>d.accept());await p.getByRole('button',{name:'重置本页勾选'}).click();assert.equal(await p.locator('[data-task-id]:checked').count(),0);
 await p.route('**/updates.json',r=>r.fulfill({json:[{contentId:d.contentId,title:'重要修订测试',summary:'范围说明',published:'2026-09-25T00:00:00Z',url:'#view=updates'}]}));await p.evaluate(k=>{const b=JSON.parse(localStorage.getItem(k));b.items[0].savedAt='2026-01-01T00:00:00Z';localStorage.setItem(k,JSON.stringify(b))},bk);await open('#view=bookmarks');assert(await p.getByText('收藏后有重要更新（1）').isVisible());await p.unroute('**/updates.json');
 await open('#view=paths');assert.equal(await p.locator('.saved-item').count(),6);await p.locator('.saved-item a').first().click();assert(await p.locator('article').isVisible());
-for(const view of ['tools','paths','bookmarks'])for(const width of [320,390,1440]){await p.setViewportSize({width,height:900});await open('#view='+view);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${view} overflow ${width}`)}
+for(const view of ['tools','paths','bookmarks','checklists'])for(const width of [320,390,1440]){await p.setViewportSize({width,height:900});await open('#view='+view);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${view} overflow ${width}`)}
 // Corruption is never overwritten; quota errors undo the checkbox's optimistic state.
 await p.evaluate(k=>localStorage.setItem(k,'damaged'),key);await open(url);assert(await p.locator('[data-task-id]').first().isDisabled());assert.equal(await p.evaluate(k=>localStorage.getItem(k),key),'damaged');
+await open('#view=checklists');assert((await p.locator('#checklist-summary').innerText()).includes('暂时无法读取'));assert.equal(await p.locator('.checklist-card').count(),0);
 const qc=await browser.newContext();await qc.addInitScript(()=>{Storage.prototype.setItem=function(){throw Error('quota')}});const qp=await qc.newPage();await qp.goto(base+'/'+url);const qbox=qp.locator('[data-task-id]').first();await qbox.click();assert.equal(await qbox.isChecked(),false);assert(await qp.getByText('保存失败，原数据未更改。',{exact:false}).isVisible());
 // Static pages work without JS, preserve all stable section anchors and disable task controls.
 const nc=await browser.newContext({javaScriptEnabled:false});const np=await nc.newPage();await np.goto(base+'/read/'+d.contentId+'.html#'+s.contentId);assert(await np.locator('article').isVisible());assert.equal(await np.locator('input:not(:disabled)').count(),0);assert.equal(await np.locator('section').count(),d.sections.length);
