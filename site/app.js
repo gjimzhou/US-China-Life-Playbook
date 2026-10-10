@@ -154,7 +154,7 @@ function render(){
  const out=$('reading');out.replaceChildren();
  document.querySelectorAll('#directory a').forEach(a=>{const active=a.dataset.path===current;a.classList.toggle('active',active);if(active){let parent=a.parentElement;while(parent&&parent!==$('directory')){if(parent.tagName==='DETAILS')parent.open=true;parent=parent.parentElement}}});
  const view=new URLSearchParams(location.hash.slice(1)).get('view');const savedView=view==='bookmarks';
- if(['tools','paths'].includes(view)){document.querySelector('.intro').hidden=true;$('status').textContent=view==='tools'?'阅读工具':'场景阅读路线';document.title=$('status').textContent+' · 中美双栖人生指南';ReadingTools[view](out);return}
+ if(['tools','paths','checklists'].includes(view)){document.querySelector('.intro').hidden=true;$('status').textContent=({tools:'阅读工具',paths:'场景阅读路线',checklists:'我的清单'})[view];document.title=$('status').textContent+' · 中美双栖人生指南';ReadingTools[view](out);return}
  if(['updates','privacy'].includes(view)){document.querySelector('.intro').hidden=true;$('status').textContent=view==='updates'?'订阅更新':'隐私与阅读数据';document.title=$('status').textContent+' · 中美双栖人生指南';Reader[view](out);return}
  document.querySelector('.intro').hidden=savedView||current!=='HOME.md'||Boolean(query||priority||evidence);
  if(savedView){Reader.trackView('bookmarks');renderBookmarks(out);return}
