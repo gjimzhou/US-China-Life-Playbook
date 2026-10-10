@@ -2,7 +2,7 @@
   {"query":"刚到美国","path":"checklists/first-30-days.md"},
   {"query":"收到医疗账单","path":"book/04-美国医疗系统怎么用.md","section":"5-理赔说明不是付款账单"},
   {"query":"看病太贵","path":"book/04-美国医疗系统怎么用.md","section":"15-高额账单先核对也要跟进期限"},
-  {"query":"爸妈来美国","path":"book/20-父母养老与远程照护.md"},
+  {"query":"爸妈来美国","path":"checklists/parents-us-visit.md"},
   {"query":"父母需要照护","path":"checklists/care-needs-change.md"},
   {"query":"丢了工作医保怎么办","path":"checklists/job-loss.md","section":"医保衔接"},
   {"query":"国内文件美国能用吗","path":"checklists/cross-border-problem.md"},
@@ -18,5 +18,7 @@
   {"query":"药拿不到","path":"checklists/medication-access-problem.md"},
   {"query":"学校不给评估","path":"checklists/school-support.md"},
   {"query":"车被拖了","path":"checklists/vehicle-roadside-ticket-tow.md"},
-  {"query":"被裁员","path":"checklists/job-loss.md"}
+  {"query":"被裁员","path":"checklists/job-loss.md"},
+  {"query":"父母赴美探亲","path":"checklists/parents-us-visit.md"},
+  {"query":"两地生活","path":"checklists/two-country-living.md"}
 ]
