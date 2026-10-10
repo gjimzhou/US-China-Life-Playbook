@@ -1,7 +1,7 @@
 'use strict';
 window.ReadingTools=(()=>{
  const key='us-china-playbook.tools.v1', bookmarkKey='us-china-playbook.bookmarks.v1', progressKey='us-china-playbook.progress.v1';
- let activeDoc=null;
+ let activeDoc=null, refreshChecklistView=null;
  let docs=[],raw=null,state={version:1,tasks:{},font:16,line:1.95},available=true,paths=[],updates=[];
  const n=(tag,text)=>{const e=document.createElement(tag);if(text!==undefined)e.textContent=text;return e};
  const button=(text,fn)=>{const b=n('button',text);b.type='button';b.onclick=fn;return b};
@@ -36,7 +36,7 @@ window.ReadingTools=(()=>{
  function mount(doc,out){activeDoc=doc;
   const ids=doc.sections.flatMap(s=>s.taskIds||[]);
   if(ids.length){const box=n('div');box.className='reader-tools';const p=n('p');p.id='task-count';box.append(p,hint('仅保存在当前浏览器，可在“阅读工具”备份。清除网站数据可能丢失。'),button('重置本页勾选',()=>{if(!confirm('取消本页所有勾选？其他页面保持不变。'))return;const tasks={...state.tasks};ids.forEach(id=>delete tasks[id]);if(write({...state,tasks})){out.querySelectorAll('[data-task-id]').forEach(i=>i.checked=false);updateTaskCount(doc);message('已重置本页勾选。')}}));out.querySelector('article').before(box);updateTaskCount(doc)}
-  const row=n('div');row.className='reader-tools';row.append(link('阅读设置 / 备份 / 离线阅读','#view=tools'),document.createTextNode(' · '),link('独立章节页',new URL('read/'+doc.contentId+'.html',location.href.split('#')[0]).href));out.querySelector('article').before(row);
+  const row=n('div');row.className='reader-tools';row.append(link('我的清单','#view=checklists'),document.createTextNode(' · '),link('阅读设置 / 备份 / 离线阅读','#view=tools'),document.createTextNode(' · '),link('独立章节页',new URL('read/'+doc.contentId+'.html',location.href.split('#')[0]).href));out.querySelector('article').before(row);
   if(doc.path==='HOME.md'){const a=link('按我的处境选择阅读路线','#view=paths');a.className='home-path-entry';out.prepend(a)}
  }
  function directory(){
@@ -54,6 +54,40 @@ window.ReadingTools=(()=>{
   if(!paths.length){out.append(hint('路线暂未载入，可从目录或生活事件索引继续阅读。'));return}
   for(const path of paths){const card=n('section');card.className='saved-item';card.append(n('h2',path.title),n('p',path.summary));const ol=n('ol');for(const id of path.contentIds){const d=docs.find(d=>d.contentId===id);if(d){const li=n('li');li.append(link(d.title,Reader.stableRoute(d)));ol.append(li)}}card.append(ol);out.append(card)}
  }
+ function checklists(out){
+  activeDoc=null;
+  out.append(n('h1','我的清单'),hint('集中查看本浏览器的勾选记录。未勾选不等于必须办理；请只处理适用事项，全部勾选也不代表资格或安全认证。'));
+  const toolbar=n('div');toolbar.className='checklist-controls';
+  const searchLabel=n('label','查找清单或章节'),search=n('input');search.type='search';search.id='checklist-search';search.placeholder='搬家、就医、旅行…';searchLabel.htmlFor=search.id;
+  const filterLabel=n('label','勾选状态'),filter=n('select');filter.id='checklist-filter';filterLabel.htmlFor=filter.id;
+  for(const [value,title] of [['all','全部'],['started','进行中'],['done','已全部勾选'],['new','尚未勾选']]){const option=n('option',title);option.value=value;filter.append(option)}
+  toolbar.append(searchLabel,search,filterLabel,filter);out.append(toolbar);
+  const summary=n('p');summary.id='checklist-summary';summary.setAttribute('role','status');
+  const list=n('div');list.className='checklist-grid';out.append(summary,list,link('备份或恢复我的勾选记录','#view=tools'));
+  const draw=()=>{
+   if(!out.contains(list))return;
+   list.replaceChildren();
+   if(!available){summary.textContent='暂时无法读取本地勾选记录，不能显示准确进度。原数据未覆盖。';return}
+   const rows=docs.map(doc=>{const ids=doc.sections.flatMap(s=>s.taskIds||[]),done=ids.filter(id=>state.tasks[id]===true).length;return{doc,ids,done,status:done===0?'new':done===ids.length?'done':'started'}}).filter(r=>r.ids.length);
+   const counts={started:0,done:0,new:0};rows.forEach(r=>counts[r.status]++);
+   const query=search.value.trim().toLocaleLowerCase();
+   const shown=rows.filter(r=>(filter.value==='all'||filter.value===r.status)&&(!query||[r.doc.title,...r.doc.sections.map(s=>s.title)].join(' ').toLocaleLowerCase().includes(query)));
+   const rank={started:0,done:1,new:2};shown.sort((a,b)=>rank[a.status]-rank[b.status]||a.doc.path.localeCompare(b.doc.path));
+   summary.textContent=`进行中 ${counts.started} 页 · 已全部勾选 ${counts.done} 页 · 尚未勾选 ${counts.new} 页；显示 ${shown.length} / ${rows.length} 页。`;
+   if(!shown.length)list.append(hint('没有符合条件的清单。试试其他关键词或选择“全部”。'));
+   for(const {doc,ids,done,status} of shown){
+    const card=n('section');card.className='checklist-card';card.dataset.contentId=doc.contentId;
+    const heading=n('h2');heading.append(link(doc.title,Reader.stableRoute(doc)));card.append(heading);
+    card.append(hint(doc.kind+' · '+({started:'进行中',done:'已全部勾选',new:'尚未勾选'})[status]));
+    const progress=n('progress');progress.max=ids.length;progress.value=done;progress.setAttribute('aria-label',doc.title+'的勾选进度');card.append(progress,n('p',`已勾选 ${done} / ${ids.length} 项 · 尚未勾选 ${ids.length-done} 项`));
+    const next=doc.sections.find(s=>(s.taskIds||[]).some(id=>state.tasks[id]!==true));
+    card.append(link(next?'前往未勾选的小节':'回看清单',Reader.stableRoute(doc,next)));
+    if(next)card.append(hint('下一小节：'+next.title));
+    list.append(card);
+   }
+  };
+  search.addEventListener('input',draw);filter.addEventListener('change',draw);refreshChecklistView=draw;draw();
+ }
  function validBookmarks(x){return x?.version===1&&Array.isArray(x.items)&&x.items.length<=10000&&x.items.every(b=>b&&['path','section','title','docTitle'].every(k=>typeof b[k]==='string'&&b[k].length>0&&b[k].length<2000)&&['contentId','sectionId','savedAt'].every(k=>b[k]===undefined||typeof b[k]==='string'))}
  function validProgress(x){return x===null||(x?.version===1&&['contentId','sectionId','title','updatedAt'].every(k=>typeof x[k]==='string'&&x[k])&&Number.isFinite(Date.parse(x.updatedAt)))}
  function download(text,name){const url=URL.createObjectURL(new Blob([text],{type:'application/json'}));const a=link('',url);a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),60000)}
@@ -67,6 +101,6 @@ window.ReadingTools=(()=>{
   }catch{preview.append(hint('文件格式无效、版本不支持或文件过大。没有更改任何本地数据。'))}};
   out.append(n('h2','离线阅读'),hint('选择章节保存静态副本；离线副本没有互动功能。需要联网更新后才能看到修订。浏览器可能自动清理缓存，重要资料另存 PDF。'),link('打开离线阅读中心','offline.html'));
  }
- window.addEventListener('storage',e=>{if(e.key===key||e.key===null){read();applySettings();document.querySelectorAll('[data-task-id]').forEach(i=>{i.checked=state.tasks[i.dataset.taskId]===true;i.disabled=!available});if(activeDoc)updateTaskCount(activeDoc)}});
- return{directory,bindTasks,share,mount,revision,tools,paths:readingPaths,async init(ds){docs=ds;read();applySettings();await Promise.all([fetch('reading-paths.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>paths=x).catch(()=>{}),fetch('updates.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>updates=x).catch(()=>{})])}};
+ window.addEventListener('storage',e=>{if(e.key===key||e.key===null){read();applySettings();document.querySelectorAll('[data-task-id]').forEach(i=>{i.checked=state.tasks[i.dataset.taskId]===true;i.disabled=!available});if(activeDoc)updateTaskCount(activeDoc);refreshChecklistView?.()}});
+ return{checklists,directory,bindTasks,share,mount,revision,tools,paths:readingPaths,async init(ds){docs=ds;read();applySettings();await Promise.all([fetch('reading-paths.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>paths=x).catch(()=>{}),fetch('updates.json',{signal:AbortSignal.timeout(3000)}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(x=>updates=x).catch(()=>{})])}};
 })();
