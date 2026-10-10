@@ -93,7 +93,7 @@
 
 ## 项目状态
 
-当前为持续更新的在线版：40 章正文、40 份清单与事件导航。功能上线不代表所有事实已获专业审定；已知问题与事实覆盖以[编辑进度](references/editorial-status.md)为准。
+当前为持续更新的在线版：40 章正文、42 份清单与事件导航。功能上线不代表所有事实已获专业审定；已知问题与事实覆盖以[编辑进度](references/editorial-status.md)为准。
 
 [变更日志](CHANGELOG.md) · [当前版本说明](docs/releases/v1.3.md) · [文档导航](docs/README.md) · [仓库结构与开发发布](docs/maintenance/development.md)。
 
