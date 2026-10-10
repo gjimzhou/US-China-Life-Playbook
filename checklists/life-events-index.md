@@ -43,6 +43,7 @@
 | 伴侣有暴力、威胁、控制、跟踪或技术监控 | [分居、离婚与家庭安全清单](separation-family-safety.md#如果存在暴力威胁跟踪或强制控制不要按普通协商流程) |
 | 孩子入学、转学或学校沟通反复无结果 | [学龄期教育与支持清单](school-support.md) |
 | 怀疑孩子需要《残障人士教育法》（IDEA）／第504节（Section 504）支持或学校评估 | [学龄期教育与支持清单](school-support.md#怀疑需要特殊教育或504支持时从书面请求开始) |
+| 父母准备来美国探亲 | [父母赴美探亲清单](parents-us-visit.md) |
 | 父母在中国突然住院、失能或需要现场接应 | [父母紧急应对计划](parents-emergency.md) · [第20章](../book/20-父母养老与远程照护.md) |
 
 ## 车辆、钱包、犯罪与实体安全
@@ -78,7 +79,9 @@
 | 文件因姓名、翻译、公证、附加证明书或格式不符被退回 | [跨境办事失败排查清单](cross-border-problem.md) · [第19章](../book/19-文件公证Apostille与跨境授权.md) |
 | 本人不能到中国现场，需要授权他人办理 | [跨境办事失败排查清单](cross-border-problem.md) |
 | 汇款／收款失败，不知道卡在银行、合规、姓名还是限额 | [跨境办事失败排查清单](cross-border-problem.md) · [第13章](../book/13-高收入家庭财务Operating-System.md#19-跨境转账提前准备文件) |
-| 准备长期回国、境外远程工作或两地长住 | [国际旅行清单](international-travel.md) · [第18章](../book/18-中美双栖生活基础设施.md) · [第38章](../book/38-中美跨境税与Work-from-Abroad.md) |
+| 中美反复往返、两边都有持续责任 | [两地生活接续清单](two-country-living.md) |
+| 准备改变主要居住地或长期迁居 | [长期迁居清单](long-term-relocation.md) |
+| 准备境外远程工作 | [第38章](../book/38-中美跨境税与Work-from-Abroad.md) |
 
 ## 生活阶段与长期变化
 
