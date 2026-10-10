@@ -68,7 +68,7 @@ def markdown(report):
     lines += ['', f"## Full-content rotation: {report['rotation_week']}/{report['rotation_weeks']}", '',
               'Inspect these files for untracked time-sensitive claims, jurisdiction gaps and outdated links. Add new recurring scopes to the registry. A rotation assignment is not a completed review.', '']
     lines += [f'- `{p}`' for p in report['rotation']]
-    lines += ['', '## Execution', '', 'Use docs/maintenance-workflow.md. Check the separate External link report, record exact claims and effective dates, then submit reviewed changes through a branch. Never advance last_verified after an inaccessible or partial check.', '']
+    lines += ['', '## Execution', '', 'Use [the maintenance workflow](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/docs/maintenance/maintenance-workflow.md). Check the separate External link report, record exact claims and effective dates, then submit reviewed changes through a branch. Never advance last_verified after an inaccessible or partial check.', '']
     return '\n'.join(lines)
 
 if __name__ == '__main__':
