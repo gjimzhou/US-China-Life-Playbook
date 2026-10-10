@@ -109,6 +109,8 @@
 | 买房 | [购房与交割清单](checklists/home-purchase.md) |
 | 失业 | [失业应对清单](checklists/job-loss.md) |
 | 家人去世 | [死亡后事务清单](checklists/death-administration.md) |
+| 父母赴美探亲 | [从准备到返程](checklists/parents-us-visit.md) |
+| 中美两地生活、反复往返 | [每次往返的接续清单](checklists/two-country-living.md) |
 | 跨境旅行 | [国际旅行清单](checklists/international-travel.md) |
 | 父母突发状况 | [父母紧急应对计划](checklists/parents-emergency.md) |
 | 账户或身份安全事件 | [网络安全事件应对清单](checklists/cyber-incident.md) |
