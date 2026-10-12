@@ -372,9 +372,9 @@
         "https://www.chinatax.gov.cn/",
         "https://www.irs.gov/filing/file-an-amended-return"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-cross-border-tax.md",
-      "review_status": "complete"
+      "last_review_attempt": "2026-10-12",
+      "latest_review_record": "maintenance/reviews/2026-10-12-fbar-follow-through.md",
+      "review_status": "partial"
     },
     {
       "id": "household-payroll",

@@ -117,6 +117,23 @@ FBAR 的自动 10月15日 延期 **不等于 Form 1040 / 所得税表也自动�
 
 **规则 / 办理：** [IRS：海外金融账户报告申报时间与自动延期](https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN BSA E-Filing：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)。
 
+**准备与留档：** 确认需要申报后，按账户整理户名、账号、境外金融机构名称与地址、账户类型及该年度最高价值。不要只取年底余额，也不要因为账户没有产生应税收入就略过。IRS说明，相关记录通常须自FBAR到期日起保存五年；雇员仅为雇主账户签字权申报等例外另按说明处理。
+
+**请人代报时：** 使用FinCEN Form 114a作电子申报授权，签署后留存备查，不随FBAR提交。夫妻联合报所得税也不自动意味着一份FBAR覆盖两人；是否符合配偶代报例外，应单独确认。
+
+以上记录与授权规则见[IRS：FBAR申报、记录保存与代报](https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar)的“How to file”和“Keeping records”部分。以下为执行建议：
+
+| 到哪一步 | 应取得的结果 |
+|---|---|
+| 确认申报范围 | 与专业人士核对本人资格、账户及权限；记录适用年度和期限 |
+| 交给代报人 | 对方确认收到完整资料；双方明确谁实际提交、怎样反馈 |
+| 完成提交 | 私人保存最终申报副本和系统确认信息；只有草稿或发给会计师的邮件不能证明已经提交 |
+| 发现遗漏或超过期限 | 及时联系熟悉FBAR的专业人士，按官方迟报／更正规则处理，不假定补交必然免罚 |
+
+**期限使用提醒：** 上述次年10月15日是一般自动延期规则；按此规则，2025年度报告对应2026年10月15日。灾害救济及特定签字权申报人的特殊通知需另外查[FinCEN官方通知](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)，不能仅凭一个通用日期判断个人已逾期。
+
+**本节定点核验：** 2026-10-12，覆盖一般申报期限、资料保存及代报授权；未判断个人资格或特殊延期。[证据与边界](../maintenance/reviews/2026-10-12-fbar-follow-through.md)。
+
 ## 13. FBAR与Form8938独立判断
 
 IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得税申报提交，涵盖指定海外金融资产，门槛依申报身份与是否符合“居住在境外”条件而变化。报其中一份不替代另一份；资产范围也不完全一致。
