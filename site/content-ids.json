@@ -2419,5 +2419,87 @@
       "突然要回另一边时": "s-4df9dd5434f3",
       "每次抵达后与离开前各收一次尾": "s-6b616ed1793a"
     }
+  },
+  "checklists/practical-life-map.md": {
+    "id": "d-b77e16a7b5cb",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "第一次遇到这件事生活筹备与办事地图": "s-f1c34e421419",
+      "拿到一个新任务先回答六个问题": "s-a7ddc4d8fce0",
+      "初到独立生活与搬迁": "s-4fc9908685c1",
+      "住房车辆与日常服务": "s-98dbc2cd9e5c",
+      "工作学习与专业服务": "s-075a9ffc55fe",
+      "医疗保险与持续照护": "s-42931cd3080a",
+      "伴侣婚姻与家庭关系": "s-8e99e7d4bd98",
+      "怀孕生子孩子成长与教育": "s-6d5896f62f8d",
+      "庆祝节日与日常人情": "s-7eaaf6d7ff33",
+      "宠物与其他受照护者": "s-e74a21996b27",
+      "钱账户消费与数字生活": "s-feb3b9daf8de",
+      "旅行身份与两地生活": "s-4f0c34bc1f93",
+      "老龄退休失能与身后事务": "s-dc3364559fe9",
+      "计划被打断时": "s-303d210033e9"
+    }
+  },
+  "checklists/service-booking.md": {
+    "id": "d-bc1c1bd0b671",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "第一次找服务从说明需求到验收付款": "s-c8e2782ac029",
+      "先写清要买到什么": "s-e201f98f07d8",
+      "找到候选人后先核实适配": "s-9d0429e09b09",
+      "用同一范围比较总价": "s-07fd055401e1",
+      "不同服务必须追问的细节": "s-2208df7acc56",
+      "预订与交付都要有确认": "s-d34ff6614f16",
+      "出现问题时": "s-c27b0860ad6e"
+    }
+  },
+  "checklists/celebrations-social-support.md": {
+    "id": "d-6e5db1f64a8d",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "聚会送礼与人情往来组织参加和婉拒": "s-f39984df9917",
+      "先弄清自己是什么角色": "s-897637c0b2a5",
+      "常见活动不用一律照搬": "s-dc353cb3a0ac",
+      "主办一次活动的顺序": "s-96cfbf399ed7",
+      "礼物钱和感谢怎样处理": "s-4f516a1cba08",
+      "探访送餐和困难时期的支持": "s-0331bceeb5e9",
+      "几句可以直接改写的话": "s-5ee0ae4023c9",
+      "有分歧时怎样收尾": "s-a1a32425f5ae"
+    }
+  },
+  "checklists/engagement-wedding.md": {
+    "id": "d-d6c56a3ffe79",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "美国订婚到婚礼手续预订与当天安排": "s-b46c92ecc8ca",
+      "先确定你们究竟想办什么": "s-8c3de6ceb621",
+      "法律手续按四步分别确认": "s-f25e4e931d3f",
+      "先订相互依赖的安排": "s-557877483f0f",
+      "化妆摄影鲜花与蛋糕分别确认": "s-4857d90ead8f",
+      "邀请与婚前活动": "s-d5d9636f8370",
+      "婚礼前做一次交接": "s-677ffd19f05a",
+      "婚礼后还有哪些事": "s-3209694705fe"
+    }
+  },
+  "checklists/pregnancy-family-preparation.md": {
+    "id": "d-e2e139ec35ba",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "怀孕到新生儿回家家庭准备服务与交接": "s-baf5d6bd3374",
+      "从知道怀孕开始建两条清单": "s-9ec0030b4a32",
+      "预约生产机构与儿科时问什么": "s-884a9fa35031",
+      "找产后帮助时先定义工作": "s-b4a741215064",
+      "托育不要等到返岗当天找": "s-d1e699481261",
+      "买用品与接受礼物": "s-52cc9b343505",
+      "入院前留一份接手说明": "s-86fec5dcbe57",
+      "出院时把任务接清楚": "s-bff859af8763",
+      "回家后与返岗前": "s-597f0cb539c1",
+      "如果计划改变或经历妊娠丢失": "s-0aea76c049c2"
+    }
   }
 }

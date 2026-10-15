@@ -1,5 +1,7 @@
 # 全书目录与场景清单
 
+第一次办事先看[生活筹备与办事地图](checklists/practical-life-map.md)，每个场景都有第一动作、完成标准与详细入口。
+
 [阅读网站](https://gjimzhou.github.io/US-China-Life-Playbook/) · [阅读导览](HOME.md) · [项目介绍](README.md)
 
 按主题查阅 40 章正文，或按事件进入清单。不必顺序读完或执行所有条目。
@@ -68,6 +70,13 @@
 40. [高价值物品、收藏与奢侈品资产（Luxury Assets）](book/40-高价值物品收藏与Luxury-Assets.md)
 
 ## 可执行清单
+
+- [生活筹备与办事地图](checklists/practical-life-map.md)
+- [找服务：询价、预订与验收](checklists/service-booking.md)
+- [聚会、送礼与人情往来](checklists/celebrations-social-support.md)
+- [美国订婚到婚礼](checklists/engagement-wedding.md)
+- [怀孕到新生儿回家的家庭准备](checklists/pregnancy-family-preparation.md)
+
 
 跨机构跟进可使用[办事记录与沟通示例](checklists/service-follow-up.md)，只记录必要字段。
 
