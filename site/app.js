@@ -107,13 +107,19 @@ function directory(){
   const group=el('details');group.open=true;group.append(el('summary',kind));
   if(kind==='正文')for(const [name,start,end] of topics){const topic=el('details');topic.className='topic';topic.append(el('summary',name));appendLinks(topic,docs.filter(d=>d.kind===kind&&Number(d.path.slice(5,7))>=start&&Number(d.path.slice(5,7))<=end));group.append(topic)}
   else if(kind==='清单'){
-   const categories=[['日常准备与资料',['first-30-days','annual-review','emergency-sheet','life-events-index']],['医疗与照护',['medical-access-blocked','mental-health-care','pregnancy-birth-loss','hospital-discharge-major-diagnosis','medication-access-problem','parents-emergency','care-needs-change']],['住房、工作与身份',['move-checklist','home-purchase','rental-lifecycle','job-loss','workplace-rights','workplace-injury-leave','identity-change','immigration-notice-rfe','jury-court-summons']],['家庭与宠物',['marriage-checklist','separation-family-safety','adult-child-transition','school-support','death-administration','pet-loss','lost-pet']],['旅行、跨境与突发事件',['international-travel','parents-us-visit','two-country-living','travel-disruption','long-term-relocation','cross-border-problem','cyber-incident','lost-wallet-documents','vehicle-roadside-ticket-tow','crime-victim','disaster-utility-outage','retirement-transition']]];
+   const categories=[['日常准备与资料',['practical-life-map','service-booking','first-30-days','annual-review','emergency-sheet','life-events-index']],['医疗与照护',['pregnancy-family-preparation','medical-access-blocked','mental-health-care','pregnancy-birth-loss','hospital-discharge-major-diagnosis','medication-access-problem','parents-emergency','care-needs-change']],['住房、工作与身份',['move-checklist','home-purchase','rental-lifecycle','job-loss','workplace-rights','workplace-injury-leave','identity-change','immigration-notice-rfe','jury-court-summons']],['家庭与宠物',['engagement-wedding','celebrations-social-support','marriage-checklist','separation-family-safety','adult-child-transition','school-support','death-administration','pet-loss','lost-pet']],['旅行、跨境与突发事件',['international-travel','parents-us-visit','two-country-living','travel-disruption','long-term-relocation','cross-border-problem','cyber-incident','lost-wallet-documents','vehicle-roadside-ticket-tow','crime-victim','disaster-utility-outage','retirement-transition']]];
    const assigned=new Set();for(const [name,slugs] of categories){const items=docs.filter(d=>d.kind===kind&&slugs.some(s=>d.path==='checklists/'+s+'.md'));items.forEach(d=>assigned.add(d.path));if(items.length){const topic=el('details');topic.className='topic';topic.append(el('summary',name));appendLinks(topic,items);group.append(topic)}}
    const remaining=docs.filter(d=>d.kind===kind&&!assigned.has(d.path));if(remaining.length){const topic=el('details');topic.append(el('summary','其他场景'));appendLinks(topic,remaining);group.append(topic)}
   }else appendLinks(group,docs.filter(d=>d.kind===kind));container.append(group);
  }
 }
 const eventQueries=[
+ {phrases:["第一次办事", "生活筹备"],path:'checklists/practical-life-map.md'},
+ {phrases:["找摄影师", "订化妆师", "订鲜花蛋糕", "找服务"],path:'checklists/service-booking.md'},
+ {phrases:["baby shower", "单身派对", "组织聚会", "送礼", "人情世故"],path:'checklists/celebrations-social-support.md'},
+ {phrases:["办婚礼", "订婚", "结婚登记"],path:'checklists/engagement-wedding.md'},
+ {phrases:["准备生孩子", "产后帮助", "准备托育"],path:'checklists/pregnancy-family-preparation.md'},
+
  {phrases:['刚到美国','初到美国'],path:'checklists/first-30-days.md',label:'刚到美国：按实际情况选择准备事项'},
  {phrases:['收到医疗账单'],path:'book/04-美国医疗系统怎么用.md',section:'5-理赔说明不是付款账单',label:'先区分理赔说明与付款账单'},
  {phrases:['看病太贵'],path:'book/04-美国医疗系统怎么用.md',section:'15-高额账单先核对也要跟进期限',label:'医疗费用：先核对账单与适用帮助'},
