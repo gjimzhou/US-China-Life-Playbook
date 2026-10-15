@@ -318,11 +318,9 @@
         "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
         "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20187.pdf"
       ],
-      "last_review_attempt": "2026-10-13",
-      "latest_review_record": "maintenance/reviews/2026-10-13-immigration-fees.md",
-      "review_status": "partial",
-      "review_by": "2026-10-15",
-      "review_by_reason": "2026-10-16起部分H.R.1费用按邮戳切换；前一日复看USCIS公告、G-1055及适用例外，不顺延既有未完成期限。"
+      "last_review_attempt": "2026-10-15",
+      "latest_review_record": "maintenance/reviews/2026-10-15-immigration-fees-pre-switch.md",
+      "review_status": "partial"
     },
     {
       "id": "cross-border-tax",
