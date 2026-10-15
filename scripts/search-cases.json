@@ -20,5 +20,12 @@
   {"query":"车被拖了","path":"checklists/vehicle-roadside-ticket-tow.md"},
   {"query":"被裁员","path":"checklists/job-loss.md"},
   {"query":"父母赴美探亲","path":"checklists/parents-us-visit.md"},
-  {"query":"两地生活","path":"checklists/two-country-living.md"}
+  {"query":"两地生活","path":"checklists/two-country-living.md"},
+  {"query":"第一次办事","path":"checklists/practical-life-map.md"},
+  {"query":"找摄影师","path":"checklists/service-booking.md"},
+  {"query":"baby shower","path":"checklists/celebrations-social-support.md"},
+  {"query":"办婚礼","path":"checklists/engagement-wedding.md"},
+  {"query":"准备生孩子","path":"checklists/pregnancy-family-preparation.md"},
+  {"query":"单身派对","path":"checklists/celebrations-social-support.md"},
+  {"query":"人情世故","path":"checklists/celebrations-social-support.md"}
 ]
