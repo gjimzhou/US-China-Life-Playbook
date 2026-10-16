@@ -71,6 +71,9 @@
 
 ## 可执行清单
 
+- [新工作入职：录用到工资单](checklists/starting-new-job.md)
+- [初次独立生活：入住到日常办事](checklists/independent-living.md)
+
 - [生活筹备与办事地图](checklists/practical-life-map.md)
 - [找服务：询价、预订与验收](checklists/service-booking.md)
 - [聚会、送礼与人情往来](checklists/celebrations-social-support.md)
