@@ -27,5 +27,9 @@
   {"query":"办婚礼","path":"checklists/engagement-wedding.md"},
   {"query":"准备生孩子","path":"checklists/pregnancy-family-preparation.md"},
   {"query":"单身派对","path":"checklists/celebrations-social-support.md"},
-  {"query":"人情世故","path":"checklists/celebrations-social-support.md"}
+  {"query":"人情世故","path":"checklists/celebrations-social-support.md"},
+  {"query":"新工作入职","path":"checklists/starting-new-job.md"},
+  {"query":"第一张工资单","path":"checklists/starting-new-job.md"},
+  {"query":"第一次自己住","path":"checklists/independent-living.md"},
+  {"query":"水电网开户","path":"checklists/independent-living.md"}
 ]
