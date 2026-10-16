@@ -1,5 +1,7 @@
 # “现在发生了什么？”生活事件索引
 
+准备开始工作或独立居住，见[新工作入职](starting-new-job.md)和[初次独立生活](independent-living.md)。
+
 准备新生活阶段、订服务或组织活动，从[生活筹备地图](practical-life-map.md)开始；另有[订婚到婚礼](engagement-wedding.md)、[生育家庭准备](pregnancy-family-preparation.md)和[聚会与人情往来](celebrations-social-support.md)的分步流程。
 
 > **内容性质：管理建议** 本页只负责分流，具体步骤及适用边界见所链接页面。
