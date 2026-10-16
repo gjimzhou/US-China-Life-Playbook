@@ -2530,5 +2530,45 @@
       "把账单与求助入口接起来": "s-cbb1b827e993",
       "报修时把问题说具体": "s-cbcba7ebf2d9"
     }
+  },
+  "checklists/first-car-purchase.md": {
+    "id": "d-4bae7fcb4d5d",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "第一次买车从预算到提车与登记": "s-2e40bbb13bff",
+      "先确认买来做什么": "s-d2ad7e9b9058",
+      "找车与询价": "s-ebc0df6d47f0",
+      "看车与独立检查": "s-7083751b69a4",
+      "融资置换与合同分别看": "s-d543e1ddbf58",
+      "提车当天与后续登记": "s-f185481de608"
+    }
+  },
+  "checklists/school-activity-enrollment.md": {
+    "id": "d-ebbe8154e279",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "孩子入学与活动报名从找入口到第一天交接": "s-a747f43e8131",
+      "先分清报名哪一种": "s-6084abdf9882",
+      "材料提交和结果分开跟进": "s-dede6a0f622e",
+      "课外班与营地付款前": "s-f55938219405",
+      "第一日前把交接说具体": "s-497774008248",
+      "开始后与计划变化": "s-e37cd4045d9c"
+    }
+  },
+  "checklists/routine-medical-appointment.md": {
+    "id": "d-1b875c979bf2",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "常规就医预约从找医生到结果与复诊": "s-1a94247af68d",
+      "先说清这次需要解决什么": "s-d237cbd79c8f",
+      "找候选诊所并双向确认": "s-d43c2560a234",
+      "预约时取得可执行的确认": "s-de4fd8ae10fa",
+      "就诊前整理一页信息": "s-b41997f58853",
+      "离开前把下一步说清楚": "s-9cadfa1f6373",
+      "结果账单与长期接续": "s-93287e150ff6"
+    }
   }
 }

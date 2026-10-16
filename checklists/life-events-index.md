@@ -1,5 +1,7 @@
 # “现在发生了什么？”生活事件索引
 
+准备购车、报名或预约常规医疗，见[第一次买车](first-car-purchase.md)、[孩子入学与活动](school-activity-enrollment.md)、[常规就医](routine-medical-appointment.md)。
+
 准备开始工作或独立居住，见[新工作入职](starting-new-job.md)和[初次独立生活](independent-living.md)。
 
 准备新生活阶段、订服务或组织活动，从[生活筹备地图](practical-life-map.md)开始；另有[订婚到婚礼](engagement-wedding.md)、[生育家庭准备](pregnancy-family-preparation.md)和[聚会与人情往来](celebrations-social-support.md)的分步流程。

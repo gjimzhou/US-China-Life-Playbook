@@ -71,6 +71,10 @@
 
 ## 可执行清单
 
+- [第一次买车](checklists/first-car-purchase.md)
+- [孩子入学与活动报名](checklists/school-activity-enrollment.md)
+- [常规就医预约](checklists/routine-medical-appointment.md)
+
 - [新工作入职：录用到工资单](checklists/starting-new-job.md)
 - [初次独立生活：入住到日常办事](checklists/independent-living.md)
 

@@ -1,12 +1,14 @@
 # 中美双栖人生指南
 
+新增流程：[第一次买车](checklists/first-car-purchase.md) · [孩子入学与活动报名](checklists/school-activity-enrollment.md) · [常规就医预约](checklists/routine-medical-appointment.md)。
+
 新增实操：[新工作入职](checklists/starting-new-job.md) · [初次独立生活](checklists/independent-living.md)，从录用、入住到工资、福利和日常家务逐步处理。
 
 从准备开始：[生活筹备与办事地图](checklists/practical-life-map.md)覆盖独立生活、住房工作、家庭成长、日常人情、照护与跨境安排；先找第一步，再进入详细流程。
 
 新内容：[父母赴美探亲全流程](checklists/parents-us-visit.md) · [中美两地生活接续清单](checklists/two-country-living.md)。
 
-**持续更新的在线阅读版（v1.3）。** 包含40章正文与49份清单目录页面，持续更新。版本号标识本轮阅读快照，不代表所有规则获专业审定。查看[版本记录与固定附件](https://github.com/gjimzhou/US-China-Life-Playbook/releases)。
+**持续更新的在线阅读版（v1.3）。** 包含40章正文与52份清单目录页面，持续更新。版本号标识本轮阅读快照，不代表所有规则获专业审定。查看[版本记录与固定附件](https://github.com/gjimzhou/US-China-Life-Playbook/releases)。
 
 生活在美国，同时与中国保持家庭和社会连接，往往需要学会两套不同的办事方式：看病找谁、保险怎么核对、文件怎样生效、父母突发状况时谁能到场。
 
@@ -73,7 +75,7 @@
 
 ## 内容范围与当前进度
 
-全书现有 40 章正文、49 份清单与事件导航，以及术语表、方法论和来源说明，覆盖医疗、安全、保险、住房、政府办事、财务、家庭、社会关系与跨境事务。
+全书现有 40 章正文、52 份清单与事件导航，以及术语表、方法论和来源说明，覆盖医疗、安全、保险、住房、政府办事、财务、家庭、社会关系与跨境事务。
 
 第01—40章正文已完成此前顺序校订，后续新增段落仍在审阅；原有11份清单已完成此前深度对照改写，新增18份事件页面已完成本轮中文校订与指定关键事实核验，地方和个案规则及未取得全文的来源仍保留待核事项；术语表、内部链接与导航已完成本轮检查。**覆盖了一个主题，不等于该主题已完成事实核验。** 具体进度与缺口见[编辑审查进度](references/editorial-status.md)。
 

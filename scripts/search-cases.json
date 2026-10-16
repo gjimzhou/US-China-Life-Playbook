@@ -31,5 +31,11 @@
   {"query":"新工作入职","path":"checklists/starting-new-job.md"},
   {"query":"第一张工资单","path":"checklists/starting-new-job.md"},
   {"query":"第一次自己住","path":"checklists/independent-living.md"},
-  {"query":"水电网开户","path":"checklists/independent-living.md"}
+  {"query":"水电网开户","path":"checklists/independent-living.md"},
+  {"query":"第一次买车","path":"checklists/first-car-purchase.md"},
+  {"query":"二手车检查","path":"checklists/first-car-purchase.md"},
+  {"query":"孩子入学报名","path":"checklists/school-activity-enrollment.md"},
+  {"query":"夏令营报名","path":"checklists/school-activity-enrollment.md"},
+  {"query":"第一次约医生","path":"checklists/routine-medical-appointment.md"},
+  {"query":"常规就医","path":"checklists/routine-medical-appointment.md"}
 ]
