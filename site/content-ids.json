@@ -2501,5 +2501,34 @@
       "回家后与返岗前": "s-597f0cb539c1",
       "如果计划改变或经历妊娠丢失": "s-0aea76c049c2"
     }
+  },
+  "checklists/starting-new-job.md": {
+    "id": "d-298d7d1934cf",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "新工作入职从录用确认到第一张工资单": "s-38346f73fcd3",
+      "接受之前把条件放在一起看": "s-ef8491bc4b3a",
+      "入职前分别找对负责人": "s-9cbd6908c2eb",
+      "福利要登记并核对生效": "s-cc51cd65adf7",
+      "首日到首周怎样开展工作": "s-d59661a1b3a1",
+      "第一张工资单逐项核对": "s-3246e36a6bc6",
+      "有问题时与完成标准": "s-f0c358e25a92"
+    }
+  },
+  "checklists/independent-living.md": {
+    "id": "d-94bd038f2bd2",
+    "category": "checklists",
+    "previousPaths": [],
+    "sections": {
+      "初次独立生活入住吃饭家务与日常办事": "s-d82eee2bd573",
+      "入住前先弄清谁负责什么": "s-6c41ec8b8082",
+      "第一晚只准备实际必需品": "s-7e4f9bc8c40e",
+      "买菜与做饭从几顿会做的开始": "s-8aa2166a32ba",
+      "洗衣清洁和垃圾安排到实际时间": "s-e45d7ebf08ab",
+      "合住先讲清日常边界": "s-2b45e4b924a8",
+      "把账单与求助入口接起来": "s-cbb1b827e993",
+      "报修时把问题说具体": "s-cbcba7ebf2d9"
+    }
   }
 }
