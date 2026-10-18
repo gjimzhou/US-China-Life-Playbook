@@ -114,6 +114,9 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:['人在美国父母在中国住院','国内没人陪护'],path:'checklists/parents-emergency.md',section:'今天住院时如何分工'},
+ {phrases:['异地医保结算失败'],path:'checklists/parents-emergency.md',section:'跨省住院--门诊时的医保检查'},
+ {phrases:['从中国回美国续药','从美国回中国带药','跨境病历怎么转','药不够等到预约'],path:'checklists/two-country-living.md',section:'医疗交接跟着人走'},
  {phrases:["第一次买车", "二手车检查", "提车登记"],path:'checklists/first-car-purchase.md'},
  {phrases:["孩子入学报名", "夏令营报名", "课外班报名"],path:'checklists/school-activity-enrollment.md'},
  {phrases:["第一次约医生", "常规就医", "就诊后结果"],path:'checklists/routine-medical-appointment.md'},
