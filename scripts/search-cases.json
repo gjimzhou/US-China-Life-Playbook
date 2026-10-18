@@ -37,5 +37,11 @@
   {"query":"孩子入学报名","path":"checklists/school-activity-enrollment.md"},
   {"query":"夏令营报名","path":"checklists/school-activity-enrollment.md"},
   {"query":"第一次约医生","path":"checklists/routine-medical-appointment.md"},
-  {"query":"常规就医","path":"checklists/routine-medical-appointment.md"}
+  {"query":"常规就医","path":"checklists/routine-medical-appointment.md"},
+  {"query":"国内没人陪护","path":"checklists/parents-emergency.md","section":"今天住院时如何分工"},
+  {"query":"异地医保结算失败","path":"checklists/parents-emergency.md","section":"跨省住院--门诊时的医保检查"},
+  {"query":"从中国回美国续药","path":"checklists/two-country-living.md","section":"医疗交接跟着人走"},
+  {"query":"从美国回中国带药","path":"checklists/two-country-living.md","section":"医疗交接跟着人走"},
+  {"query":"跨境病历怎么转","path":"checklists/two-country-living.md","section":"医疗交接跟着人走"},
+  {"query":"药不够等到预约","path":"checklists/two-country-living.md","section":"医疗交接跟着人走"}
 ]

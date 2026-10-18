@@ -1,12 +1,6 @@
 # 中美双栖人生指南
 
-新增流程：[第一次买车](checklists/first-car-purchase.md) · [孩子入学与活动报名](checklists/school-activity-enrollment.md) · [常规就医预约](checklists/routine-medical-appointment.md)。
-
-新增实操：[新工作入职](checklists/starting-new-job.md) · [初次独立生活](checklists/independent-living.md)，从录用、入住到工资、福利和日常家务逐步处理。
-
-从准备开始：[生活筹备与办事地图](checklists/practical-life-map.md)覆盖独立生活、住房工作、家庭成长、日常人情、照护与跨境安排；先找第一步，再进入详细流程。
-
-新内容：[父母赴美探亲全流程](checklists/parents-us-visit.md) · [中美两地生活接续清单](checklists/two-country-living.md)。
+典型双栖场景：[人在美国、父母在中国住院](checklists/parents-emergency.md#今天住院时如何分工) · [两地换医生与用药接续](checklists/two-country-living.md#医疗交接跟着人走) · [父母赴美探亲](checklists/parents-us-visit.md)。其他日常事项从[生活筹备地图](checklists/practical-life-map.md)进入。
 
 **持续更新的在线阅读版（v1.3）。** 包含40章正文与52份清单目录页面，持续更新。版本号标识本轮阅读快照，不代表所有规则获专业审定。查看[版本记录与固定附件](https://github.com/gjimzhou/US-China-Life-Playbook/releases)。
 
