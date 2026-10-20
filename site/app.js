@@ -114,6 +114,7 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:['回国收不到银行验证码','中国号码在美国收不到短信','人在国外换手机号','手机丢了怎么付款'],path:'checklists/two-country-living.md',section:'手机丢了也能联系和付款'},
  {phrases:['父母探亲保险怎么买','父母保险既往症'],path:'checklists/parents-us-visit.md',section:'保险拿条款逐项问'},
  {phrases:['父母i94查不到','父母停留日期不对'],path:'checklists/parents-us-visit.md',section:'随身资料与抵达后的三件事'},
  {phrases:['父母回国后医疗理赔'],path:'checklists/parents-us-visit.md',section:'生病或行程改变时'},
