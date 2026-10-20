@@ -46,5 +46,9 @@
   {"query":"药不够等到预约","path":"checklists/two-country-living.md","section":"医疗交接跟着人走"},
   {"query":"父母探亲保险怎么买","path":"checklists/parents-us-visit.md","section":"保险拿条款逐项问"},
   {"query":"父母i94查不到","path":"checklists/parents-us-visit.md","section":"随身资料与抵达后的三件事"},
-  {"query":"父母回国后医疗理赔","path":"checklists/parents-us-visit.md","section":"生病或行程改变时"}
+  {"query":"父母回国后医疗理赔","path":"checklists/parents-us-visit.md","section":"生病或行程改变时"},
+  {"query":"回国收不到银行验证码","path":"checklists/two-country-living.md","section":"手机丢了也能联系和付款"},
+  {"query":"中国号码在美国收不到短信","path":"checklists/two-country-living.md","section":"手机丢了也能联系和付款"},
+  {"query":"人在国外换手机号","path":"checklists/two-country-living.md","section":"手机丢了也能联系和付款"},
+  {"query":"手机丢了怎么付款","path":"checklists/two-country-living.md","section":"手机丢了也能联系和付款"}
 ]
