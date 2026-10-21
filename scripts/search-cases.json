@@ -54,5 +54,8 @@
   {"query":"人在美国委托国内亲友","path":"checklists/cross-border-problem.md","section":"本人不能到场"},
   {"query":"美国结婚证中国使用","path":"checklists/cross-border-problem.md","section":"对方说需要公证认证"},
   {"query":"新泽西附加证明书","path":"checklists/cross-border-problem.md","section":"对方说需要公证认证"},
-  {"query":"材料寄到但没受理","path":"checklists/cross-border-problem.md","section":"跨境补件的完成标准"}
+  {"query":"材料寄到但没受理","path":"checklists/cross-border-problem.md","section":"跨境补件的完成标准"},
+  {"query":"回国两个月美国房子没人管","path":"checklists/two-country-living.md","section":"两边都有人管住所和通知"},
+  {"query":"人在国外收到限期信件","path":"checklists/two-country-living.md","section":"两边都有人管住所和通知"},
+  {"query":"人在中国美国房子漏水","path":"checklists/two-country-living.md","section":"两边都有人管住所和通知"}
 ]
