@@ -114,6 +114,10 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:["回国航班取消转机怎么办", "分开买的机票赶不上"],path:'checklists/travel-disruption.md',section:"先解决今晚与下一段行程"},
+ {phrases:["回国行李没到又要走"],path:'checklists/travel-disruption.md',section:"行李没有到"},
+ {phrases:["航班取消退款没到账"],path:'checklists/travel-disruption.md',section:"对方没有兑现或迟迟不回复"},
+
  {phrases:["回国两个月美国房子没人管", "人在国外收到限期信件", "人在中国美国房子漏水"],path:'checklists/two-country-living.md',section:'两边都有人管住所和通知'},
  {phrases:['人在美国委托国内亲友','回不了国怎么委托'],path:'checklists/cross-border-problem.md',section:'本人不能到场'},
  {phrases:['美国结婚证中国使用','新泽西附加证明书'],path:'checklists/cross-border-problem.md',section:'对方说需要公证认证'},

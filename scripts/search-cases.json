@@ -57,5 +57,9 @@
   {"query":"材料寄到但没受理","path":"checklists/cross-border-problem.md","section":"跨境补件的完成标准"},
   {"query":"回国两个月美国房子没人管","path":"checklists/two-country-living.md","section":"两边都有人管住所和通知"},
   {"query":"人在国外收到限期信件","path":"checklists/two-country-living.md","section":"两边都有人管住所和通知"},
-  {"query":"人在中国美国房子漏水","path":"checklists/two-country-living.md","section":"两边都有人管住所和通知"}
+  {"query":"人在中国美国房子漏水","path":"checklists/two-country-living.md","section":"两边都有人管住所和通知"},
+  {"query":"回国航班取消转机怎么办","path":"checklists/travel-disruption.md","section":"先解决今晚与下一段行程"},
+  {"query":"分开买的机票赶不上","path":"checklists/travel-disruption.md","section":"先解决今晚与下一段行程"},
+  {"query":"回国行李没到又要走","path":"checklists/travel-disruption.md","section":"行李没有到"},
+  {"query":"航班取消退款没到账","path":"checklists/travel-disruption.md","section":"对方没有兑现或迟迟不回复"}
 ]
