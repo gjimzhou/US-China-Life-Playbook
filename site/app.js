@@ -114,6 +114,9 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:['人在美国委托国内亲友','回不了国怎么委托'],path:'checklists/cross-border-problem.md',section:'本人不能到场'},
+ {phrases:['美国结婚证中国使用','新泽西附加证明书'],path:'checklists/cross-border-problem.md',section:'对方说需要公证认证'},
+ {phrases:['材料寄到但没受理'],path:'checklists/cross-border-problem.md',section:'跨境补件的完成标准'},
  {phrases:['回国收不到银行验证码','中国号码在美国收不到短信','人在国外换手机号','手机丢了怎么付款'],path:'checklists/two-country-living.md',section:'手机丢了也能联系和付款'},
  {phrases:['父母探亲保险怎么买','父母保险既往症'],path:'checklists/parents-us-visit.md',section:'保险拿条款逐项问'},
  {phrases:['父母i94查不到','父母停留日期不对'],path:'checklists/parents-us-visit.md',section:'随身资料与抵达后的三件事'},
