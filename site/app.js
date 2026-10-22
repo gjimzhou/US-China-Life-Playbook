@@ -114,6 +114,10 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:["人在中国美国银行冻结", "银行要求回美国网点"],path:'checklists/bank-account-restriction.md',section:"按原因找下一步"},
+ {phrases:["美国账户冻结工资怎么办"],path:'checklists/bank-account-restriction.md',section:"让基本生活继续"},
+ {phrases:["美国银行关户支票寄到中国"],path:'checklists/bank-account-restriction.md',section:"按原因找下一步"},
+
  {phrases:["回国航班取消转机怎么办", "分开买的机票赶不上"],path:'checklists/travel-disruption.md',section:"先解决今晚与下一段行程"},
  {phrases:["回国行李没到又要走"],path:'checklists/travel-disruption.md',section:"行李没有到"},
  {phrases:["航班取消退款没到账"],path:'checklists/travel-disruption.md',section:"对方没有兑现或迟迟不回复"},
