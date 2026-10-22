@@ -29,7 +29,7 @@ python scripts/validate.py --quick
 
 完整检查：`python scripts/validate.py`。它执行单元测试、维护台账、网站、历史路由、浏览器回归、六种导出和 EPUBCheck；需要空闲的8765端口。`--quick`不包含浏览器和导出，不可作为发布验收。
 
-完整构建还需 Pandoc 3.11、EPUBCheck 5.4.0、中文字体和 WeasyPrint 的系统库。Ubuntu 24.04 的安装步骤统一在 `.github/actions/setup/action.yml`；`scripts/install_build_tools.py`校验官方压缩包SHA256。其他系统按上游安装对应架构的Pandoc，EPUBCheck放在`_tools/epubcheck-5.4.0/`。macOS需另装Pango等WeasyPrint依赖；系统字体和底层库尚未做到逐字节可复现。
+完整构建还需 Pandoc 3.11、EPUBCheck 5.4.0、中文字体和 WeasyPrint 的系统库。Ubuntu 24.04 的安装步骤统一在 `.github/actions/setup/action.yml`；`scripts/install_build_tools.py`校验官方压缩包SHA256。GitHub托管runner的APT镜像列表中，已知下载卡住的Azure Ubuntu镜像改用Ubuntu官方HTTPS主镜像；保留APT签名校验，更新与字体安装各限时五分钟。超时后先检查日志，不跳过字体或导出验收。其他系统按上游安装对应架构的Pandoc，EPUBCheck放在`_tools/epubcheck-5.4.0/`。macOS需另装Pango等WeasyPrint依赖；系统字体和底层库尚未做到逐字节可复现。
 
 Python依赖在`requirements.txt`固定，浏览器测试依赖由`package-lock.json`锁定。Dependabot每月提出更新PR，不自动合并；工具更新须通过完整检查并抽看导出排版。
 

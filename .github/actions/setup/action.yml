@@ -17,8 +17,13 @@ runs:
         java-version: '21'
     - shell: bash
       run: |
-        sudo apt-get update
-        sudo apt-get install -y --no-install-recommends fonts-noto-cjk libharfbuzz-subset0
+        # The hosted runner's Azure mirror stalled while downloading fonts.
+        # Keep Ubuntu's signed repositories, using its official HTTPS archive.
+        if [ -f /etc/apt/apt-mirrors.txt ]; then
+          sudo sed -i 's|http://azure.archive.ubuntu.com/ubuntu|https://archive.ubuntu.com/ubuntu|g' /etc/apt/apt-mirrors.txt
+        fi
+        sudo timeout 300 apt-get update
+        sudo timeout 300 apt-get install -y --no-install-recommends fonts-noto-cjk libharfbuzz-subset0
         python -m pip install -r requirements.txt
         npm ci
         npx playwright install --with-deps firefox

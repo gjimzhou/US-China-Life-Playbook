@@ -61,5 +61,9 @@
   {"query":"回国航班取消转机怎么办","path":"checklists/travel-disruption.md","section":"先解决今晚与下一段行程"},
   {"query":"分开买的机票赶不上","path":"checklists/travel-disruption.md","section":"先解决今晚与下一段行程"},
   {"query":"回国行李没到又要走","path":"checklists/travel-disruption.md","section":"行李没有到"},
-  {"query":"航班取消退款没到账","path":"checklists/travel-disruption.md","section":"对方没有兑现或迟迟不回复"}
+  {"query":"航班取消退款没到账","path":"checklists/travel-disruption.md","section":"对方没有兑现或迟迟不回复"},
+  {"query":"人在中国美国银行冻结","path":"checklists/bank-account-restriction.md","section":"按原因找下一步"},
+  {"query":"银行要求回美国网点","path":"checklists/bank-account-restriction.md","section":"按原因找下一步"},
+  {"query":"美国账户冻结工资怎么办","path":"checklists/bank-account-restriction.md","section":"让基本生活继续"},
+  {"query":"美国银行关户支票寄到中国","path":"checklists/bank-account-restriction.md","section":"按原因找下一步"}
 ]
