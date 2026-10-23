@@ -4,7 +4,7 @@
 
 | 工作 | 下一步与完成标准 |
 |---|---|
-| 首次办事流程补深 | 按[生活场景覆盖表](life-event-coverage.md)的缺口逐批补写；每批交付可操作流程与适用来源，通过站点和搜索检查后结束，不以领域导航代替细节验收。 |
+| 首次办事流程补深 | 按[92页审查台账](content-quality-audit.md)逐页细读、记录问题，再按风险成批整改；[领域覆盖表](life-event-coverage.md)保留导航。验收包括主要缺口修复、规则证据、完整CI与上线确认，单批发布不等于全站目标完成。 |
 | 定期事实复核 | 按自动维护 Issue 和范围台账处理；提交逐项来源记录后更新日期。部分完成不重置期限。 |
 | 实体设备与电子书体验 | [Issue #5](https://github.com/gjimzhou/US-China-Life-Playbook/issues/5)：用真实手机、Kindle或其他实体阅读器抽查目录、字号、表格和内部跳转；记录设备与结果，不能用浏览器模拟替代。 |
 | 官方来源访问故障 | [Issue #33](https://github.com/gjimzhou/US-China-Life-Playbook/issues/33)：USCIS I-751在托管运行器连续返回403，保持人工复核，不通过移除来源或重置基线消除提示。提醒机制已完成[试行验收](../audits/source-watch-pilot-2026-10-02.md)；继续观察跨运行状态恢复与每日调度。 |
