@@ -114,6 +114,11 @@ function directory(){
  }
 }
 const eventQueries=[
+ {phrases:["全家分批回国搬家"],path:"checklists/long-term-relocation.md",section:"两边各有开始和结束动作"},
+ {phrases:["迁回美国先取消哪些服务"],path:"checklists/long-term-relocation.md",section:"两边各有开始和结束动作"},
+ {phrases:["人在美国给父母找照护"],path:"checklists/care-needs-change.md",section:"按任务找人不只按头衔找人"},
+ {phrases:["照护阿姨突然不来了"],path:"checklists/care-needs-change.md",section:"先试运行再决定扩大"},
+ {phrases:["美国汇款中国没到账", "中国汇款美国被退回", "跨境汇款到账少了", "汇款成功对方没收到"],path:'checklists/cross-border-problem.md',section:'汇款收款失败'},
  {phrases:["人在中国美国银行冻结", "银行要求回美国网点"],path:'checklists/bank-account-restriction.md',section:"按原因找下一步"},
  {phrases:["美国账户冻结工资怎么办"],path:'checklists/bank-account-restriction.md',section:"让基本生活继续"},
  {phrases:["美国银行关户支票寄到中国"],path:'checklists/bank-account-restriction.md',section:"按原因找下一步"},
