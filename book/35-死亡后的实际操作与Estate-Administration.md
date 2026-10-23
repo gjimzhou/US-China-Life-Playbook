@@ -10,6 +10,8 @@
 
 **美国总入口：** [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one) · [SSA：亲人身故后的社保办理](https://www.ssa.gov/personal-record/when-someone-dies) · [IRS：身故者税务事项](https://www.irs.gov/individuals/deceased-person)。
 
+家属尚在另一国时，先使用[死亡事务清单的首次安排](../checklists/death-administration.md#最初的安全与安排)：确认遗体保管、合法签署人、远程报价与授权、接运及最终接收。协调人、付款人和遗产执行人的权限不要混用。
+
 ## 2. 确认谁有权处理哪类资产
 
 遗嘱指定的执行人（Executor）、法院任命的遗产管理人（Administrator）、信托受托人（Trustee）、联名持有人与指定受益人的权限并不相同。请当地律师确认是否需要法院任命及证明文件。
