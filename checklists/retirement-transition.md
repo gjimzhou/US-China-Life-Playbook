@@ -20,7 +20,7 @@
 
 **规则说明：** 联邦医疗保险A／B部分中，符合当前就业团体保障条件的特别参保期通常在就业或该保障结束后八个月结束，取较早者；COBRA续保不会延后这个期限。这不是所有医保的统一八个月窗口，也不表示可以等八个月而没有保障空档。个人适用例外与实际生效日必须另核。
 
-**查依据与办理：** [Medicare：医保保障何时生效](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [社会保障署：医疗保险准备](https://www.ssa.gov/medicare)。健康储蓄账户缴款及追溯生效问题见[第20章](../book/20-父母养老与远程照护.md)。
+**查依据与办理：** [Medicare：医保保障何时生效](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) · [社会保障署：医疗保险准备](https://www.ssa.gov/medicare)。如有健康储蓄账户（HSA）供款，将拟申请Medicare／社会安全福利的日期交给福利部门与税务顾问，确认本人和雇主何时停止供款，并核对追溯生效的影响；直接查看[Medicare：65岁后工作与参保前HSA安排](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65)，不要从最后工作日直接推定停止供款日。
 
 ## 收入与账户逐个确认
 
@@ -41,3 +41,5 @@
 若某项资格未定，记录待补材料、实际截止日及备用安排；不要据“申请中”推断已生效。
 
 最后编辑与指定事实核验：2026-09-23。读取Medicare参保期原文；其他部分是咨询与交接框架，不是完整退休规划。
+
+2026-10-23定点修正：HSA原交叉引用未提供对应解释，改为Medicare官方“参保前”说明与具体询问事项；本次只读取该页相关说明，不重置其他退休规则核验日期。
