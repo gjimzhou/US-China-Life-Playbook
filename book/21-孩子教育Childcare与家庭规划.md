@@ -96,7 +96,7 @@
 
 孩子急症的识别与处理由医护指导，不能以“等家庭儿科医生上班”替代及时求助。
 
-**找儿科医生 / 查资格：** [医保服务机构比较工具（Medicare Care Compare）](https://www.medicare.gov/care-compare/)可辅助查医生或医疗机构，州医师执照从 [FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/)核对；儿科保险网络仍以本人计划名录为准。
+**找儿科医生 / 查资格：** 先用孩子实际保险计划的医生名录和当地医院／儿科诊所官方入口找候选，直接问是否接收新生儿与该具体计划，再向保险方核对网络；州医师执照从[FSMB：联系州医学委员会](https://www.fsmb.org/contact-a-state-medical-board/)核对。出生登记、SSN及中美旅行文件的实际交接见[新生儿家庭准备清单](../checklists/pregnancy-family-preparation.md#出院时把任务接清楚)。
 
 ## 12. 安全座椅按身高体重和说明书使用
 
