@@ -107,13 +107,30 @@ function directory(){
   const group=el('details');group.open=true;group.append(el('summary',kind));
   if(kind==='正文')for(const [name,start,end] of topics){const topic=el('details');topic.className='topic';topic.append(el('summary',name));appendLinks(topic,docs.filter(d=>d.kind===kind&&Number(d.path.slice(5,7))>=start&&Number(d.path.slice(5,7))<=end));group.append(topic)}
   else if(kind==='清单'){
-   const categories=[['日常准备与资料',['independent-living','practical-life-map','service-booking','first-30-days','annual-review','emergency-sheet','life-events-index']],['医疗与照护',['routine-medical-appointment','pregnancy-family-preparation','medical-access-blocked','mental-health-care','pregnancy-birth-loss','hospital-discharge-major-diagnosis','medication-access-problem','parents-emergency','care-needs-change']],['住房、工作与身份',['first-car-purchase','starting-new-job','move-checklist','home-purchase','rental-lifecycle','job-loss','workplace-rights','workplace-injury-leave','identity-change','immigration-notice-rfe','jury-court-summons']],['家庭与宠物',['school-activity-enrollment','engagement-wedding','celebrations-social-support','marriage-checklist','separation-family-safety','adult-child-transition','school-support','death-administration','pet-loss','lost-pet']],['旅行、跨境与突发事件',['international-travel','parents-us-visit','two-country-living','travel-disruption','long-term-relocation','cross-border-problem','cyber-incident','lost-wallet-documents','vehicle-roadside-ticket-tow','crime-victim','disaster-utility-outage','retirement-transition']]];
+   const categories=[['日常准备与资料',['accounts-credit-start','subscriptions-large-purchases','device-number-transition','community-participation','independent-living','practical-life-map','service-booking','first-30-days','annual-review','emergency-sheet','life-events-index']],['医疗与照护',['fertility-adoption-planning','compound-life-disruption','routine-medical-appointment','pregnancy-family-preparation','medical-access-blocked','mental-health-care','pregnancy-birth-loss','hospital-discharge-major-diagnosis','medication-access-problem','parents-emergency','care-needs-change']],['住房、工作与身份',['first-car-purchase','starting-new-job','move-checklist','home-purchase','rental-lifecycle','job-loss','workplace-rights','workplace-injury-leave','identity-change','immigration-notice-rfe','jury-court-summons']],['家庭与宠物',['pet-adoption-boarding','cohabitation-blended-family','school-activity-enrollment','engagement-wedding','celebrations-social-support','marriage-checklist','separation-family-safety','adult-child-transition','school-support','death-administration','pet-loss','lost-pet']],['旅行、跨境与突发事件',['international-travel','parents-us-visit','two-country-living','travel-disruption','long-term-relocation','cross-border-problem','cyber-incident','lost-wallet-documents','vehicle-roadside-ticket-tow','crime-victim','disaster-utility-outage','retirement-transition']]];
    const assigned=new Set();for(const [name,slugs] of categories){const items=docs.filter(d=>d.kind===kind&&slugs.some(s=>d.path==='checklists/'+s+'.md'));items.forEach(d=>assigned.add(d.path));if(items.length){const topic=el('details');topic.className='topic';topic.append(el('summary',name));appendLinks(topic,items);group.append(topic)}}
    const remaining=docs.filter(d=>d.kind===kind&&!assigned.has(d.path));if(remaining.length){const topic=el('details');topic.append(el('summary','其他场景'));appendLinks(topic,remaining);group.append(topic)}
   }else appendLinks(group,docs.filter(d=>d.kind===kind));container.append(group);
  }
 }
 const eventQueries=[
+ {"phrases": ["刚到美国没有银行账户"], "path": "checklists/accounts-credit-start.md", "section": "开户前先取得材料清单"},
+ {"phrases": ["第一次建信用回国怎么维护"], "path": "checklists/accounts-credit-start.md", "section": "从第一张信用产品开始"},
+ {"phrases": ["回国前取消订阅退路由器"], "path": "checklists/subscriptions-large-purchases.md", "section": "退订做到最后一笔账单"},
+ {"phrases": ["人在中国美国家具退货"], "path": "checklists/subscriptions-large-purchases.md", "section": "收货异常与退款分工"},
+ {"phrases": ["第一次领养宠物接回家"], "path": "checklists/pet-adoption-boarding.md", "section": "首次接回家的办理顺序"},
+ {"phrases": ["人在中国寄养满房接不回"], "path": "checklists/pet-adoption-boarding.md", "section": "返程延误与接回当天"},
+ {"phrases": ["同居一方回国怎么分摊费用"], "path": "checklists/cohabitation-blended-family.md", "section": "合住前先列实际责任"},
+ {"phrases": ["重组家庭孩子跨境接送"], "path": "checklists/cohabitation-blended-family.md", "section": "重组家庭先确认谁能为孩子办理什么"},
+ {"phrases": ["两国辅助生殖怎么衔接"], "path": "checklists/fertility-adoption-planning.md", "section": "治疗前把两端职责书面问清"},
+ {"phrases": ["从中国收养孩子到美国"], "path": "checklists/fertility-adoption-planning.md", "section": "跨境收养先判断是否有可走路径"},
+ {"phrases": ["中国检查美国专科没收到"], "path": "checklists/routine-medical-appointment.md", "section": "复杂转诊与两地检查资料怎样真正接上"},
+ {"phrases": ["回国前归还租赁汽车"], "path": "checklists/first-car-purchase.md", "section": "长期离境前归还租赁车辆"},
+ {"phrases": ["换手机旧号码银行验证"], "path": "checklists/device-number-transition.md", "section": "按这个顺序迁移与测试"},
+ {"phrases": ["回国前学校志愿者交接"], "path": "checklists/community-participation.md", "section": "离境前把承诺交出去"},
+ {"phrases": ["照护者退出下一班没人"], "path": "checklists/compound-life-disruption.md", "section": "照护者退出从最后一班排到新接手者"},
+ {"phrases": ["失业又要搬家回国"], "path": "checklists/compound-life-disruption.md", "section": "失业叠加搬家或离境分别找到四个决定者"},
+
  {"phrases": ["新生儿回中国办什么证"], "path": "checklists/pregnancy-family-preparation.md", "section": "出院时把任务接清楚"},
  {"phrases": ["改名护照原件寄走了"], "path": "checklists/identity-change.md", "section": "更新顺序由依赖关系决定"},
  {"phrases": ["父母看不到大学学费账单"], "path": "checklists/adult-child-transition.md", "section": "学校医疗与财务分别问"},

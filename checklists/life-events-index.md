@@ -12,6 +12,17 @@
 
 > 紧急危险、严重伤病、火灾、暴力或正在发生的犯罪，先联系所在地应急服务，不要为了查指南延误求助。金额、期限、法律权利和机构规则仍以适用地区、日期和正式文件为准。
 
+两地办事的补充流程：
+
+- [初到美国开户、建立信用与离境后维护](accounts-credit-start.md)
+- [长期离境前退订与跨境大额购物交接](subscriptions-large-purchases.md)
+- [接宠物回家与离境寄养：从选择到接回](pet-adoption-boarding.md)
+- [同居合住与重组家庭：两地费用、权限和交接](cohabitation-blended-family.md)
+- [辅助生殖与跨境收养：先确认路径，再安排两地事务](fertility-adoption-planning.md)
+- [换手机或号码：两地账户迁移到实际可用](device-number-transition.md)
+- [两地往返时参与邻里、学校与志愿活动](community-participation.md)
+- [照护者退出、失业又要搬家：两地同时出事时怎样接手](compound-life-disruption.md)
+
 ## 人或宠物突然出事
 
 | 现在发生了什么 | 第一入口 |

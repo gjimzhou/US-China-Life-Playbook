@@ -85,5 +85,21 @@
   {"query":"人在中国收到美国传票","path":"checklists/jury-court-summons.md","section":"第一步看谁签发要求你做什么"},
   {"query":"中国体检报告美国看医生","path":"book/02-预防医学.md","section":"7-正常与异常都需要解释"},
   {"query":"人在中国安排美国装修","path":"book/09-住房物业与Contractor.md","section":"8-许可要求向主管部门确认"},
-  {"query":"第一次给保姆发工资","path":"book/39-家庭雇员Nanny家政与Payroll.md","section":"4-第一次发薪前建立手续"}
+  {"query":"第一次给保姆发工资","path":"book/39-家庭雇员Nanny家政与Payroll.md","section":"4-第一次发薪前建立手续"},
+  {"query":"刚到美国没有银行账户","path":"checklists/accounts-credit-start.md","section":"开户前先取得材料清单"},
+  {"query":"第一次建信用回国怎么维护","path":"checklists/accounts-credit-start.md","section":"从第一张信用产品开始"},
+  {"query":"回国前取消订阅退路由器","path":"checklists/subscriptions-large-purchases.md","section":"退订做到最后一笔账单"},
+  {"query":"人在中国美国家具退货","path":"checklists/subscriptions-large-purchases.md","section":"收货异常与退款分工"},
+  {"query":"第一次领养宠物接回家","path":"checklists/pet-adoption-boarding.md","section":"首次接回家的办理顺序"},
+  {"query":"人在中国寄养满房接不回","path":"checklists/pet-adoption-boarding.md","section":"返程延误与接回当天"},
+  {"query":"同居一方回国怎么分摊费用","path":"checklists/cohabitation-blended-family.md","section":"合住前先列实际责任"},
+  {"query":"重组家庭孩子跨境接送","path":"checklists/cohabitation-blended-family.md","section":"重组家庭先确认谁能为孩子办理什么"},
+  {"query":"两国辅助生殖怎么衔接","path":"checklists/fertility-adoption-planning.md","section":"治疗前把两端职责书面问清"},
+  {"query":"从中国收养孩子到美国","path":"checklists/fertility-adoption-planning.md","section":"跨境收养先判断是否有可走路径"},
+  {"query":"中国检查美国专科没收到","path":"checklists/routine-medical-appointment.md","section":"复杂转诊与两地检查资料怎样真正接上"},
+  {"query":"回国前归还租赁汽车","path":"checklists/first-car-purchase.md","section":"长期离境前归还租赁车辆"},
+  {"query":"换手机旧号码银行验证","path":"checklists/device-number-transition.md","section":"按这个顺序迁移与测试"},
+  {"query":"回国前学校志愿者交接","path":"checklists/community-participation.md","section":"离境前把承诺交出去"},
+  {"query":"照护者退出下一班没人","path":"checklists/compound-life-disruption.md","section":"照护者退出从最后一班排到新接手者"},
+  {"query":"失业又要搬家回国","path":"checklists/compound-life-disruption.md","section":"失业叠加搬家或离境分别找到四个决定者"}
 ]

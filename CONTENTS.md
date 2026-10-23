@@ -85,6 +85,15 @@
 - [怀孕到新生儿回家的家庭准备](checklists/pregnancy-family-preparation.md)
 
 
+- [初到美国开户、建立信用与离境后维护](checklists/accounts-credit-start.md)
+- [长期离境前退订与跨境大额购物交接](checklists/subscriptions-large-purchases.md)
+- [接宠物回家与离境寄养：从选择到接回](checklists/pet-adoption-boarding.md)
+- [同居合住与重组家庭：两地费用、权限和交接](checklists/cohabitation-blended-family.md)
+- [辅助生殖与跨境收养：先确认路径，再安排两地事务](checklists/fertility-adoption-planning.md)
+- [换手机或号码：两地账户迁移到实际可用](checklists/device-number-transition.md)
+- [两地往返时参与邻里、学校与志愿活动](checklists/community-participation.md)
+- [照护者退出、失业又要搬家：两地同时出事时怎样接手](checklists/compound-life-disruption.md)
+
 跨机构跟进可使用[办事记录与沟通示例](checklists/service-follow-up.md)，只记录必要字段。
 
 | 场景 | 清单 |
