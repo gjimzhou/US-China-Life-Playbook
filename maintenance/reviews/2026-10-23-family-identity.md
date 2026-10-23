@@ -35,3 +35,7 @@
 - 配偶尚未具备相同保障资格：每人独立生效记录，不从退休本人参保推定配偶承保。
 
 以上为编辑者模拟。发布状态等待本批验证、完整CI、部署与线上核对。
+
+## 发布确认
+
+[PR #58](https://github.com/gjimzhou/US-China-Life-Playbook/pull/58)完整CI通过后合并为`102ab09a68d4598e61177e73bd0a8fa7168214db`。[部署40018937581](https://github.com/gjimzhou/US-China-Life-Playbook/actions/runs/40018937581)成功；只读脚本核对本批12页线上正文与本地源文件逐页完全一致，RSS含本批条目，六种下载的manifest源码提交匹配。此前“等待发布”为写稿时状态，以本段发布结果为准。
