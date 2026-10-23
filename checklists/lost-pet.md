@@ -57,6 +57,12 @@
 
 **识别具体骗局：** [美国联邦贸易委员会（FTC）：以寻宠为由索取验证码](https://consumer.ftc.gov/consumer-alerts/2021/10/google-voice-scam-how-verification-code-scam-works-how-avoid-it) · [美国联邦调查局（FBI）：冒充动物服务机构索要急诊费](https://www.fbi.gov/contact-us/field-offices/elpaso/news/fbi-tech-tuesday-beware-of-lost-pet-scams)。
 
+**主人在境外，宠物由别人照看**
+
+让现场照看人先记录最后地点并按上文联系收容机构，主人远程准备清晰照片、芯片号和所有权材料。分别向机构问清谁能报失、谁能领回、代领接受什么授权及证件；不要因已在网上报失就默认机构允许亲友领走。
+
+给现场人一份已联系机构及案件号，避免多个人重复报不同信息。找到疑似宠物后由实际机构核验，确认领取地点、时间和所需材料，再安排代领。主人可远程核对费用，但不向未经核实的私人“找回人”支付赎金。实际安全领回后再关闭各渠道的报失。
+
 ## 找回来后
 
 - [ ] 先检查脱水、伤口、跛行、呼吸、误食等情况；有异常联系兽医。
