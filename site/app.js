@@ -114,6 +114,18 @@ function directory(){
  }
 }
 const eventQueries=[
+ {"phrases": ["新生儿回中国办什么证"], "path": "checklists/pregnancy-family-preparation.md", "section": "出院时把任务接清楚"},
+ {"phrases": ["改名护照原件寄走了"], "path": "checklists/identity-change.md", "section": "更新顺序由依赖关系决定"},
+ {"phrases": ["父母看不到大学学费账单"], "path": "checklists/adult-child-transition.md", "section": "学校医疗与财务分别问"},
+ {"phrases": ["在中国丢美国护照"], "path": "checklists/lost-wallet-documents.md", "section": "在境外丢美国护照"},
+ {"phrases": ["带狗回中国再回美国"], "path": "book/17-宠物Operating-System.md", "section": "17-出发前就检查回程"},
+ {"phrases": ["人在国外安排葬礼"], "path": "checklists/death-administration.md", "section": "最初的安全与安排"},
+ {"phrases": ["外国护照回国挂号失败"], "path": "book/05-中国医疗系统怎么用.md", "section": "6-出发前测试预约与身份登记"},
+ {"phrases": ["出院上门服务没来"], "path": "checklists/hospital-discharge-major-diagnosis.md", "section": "出院前逐项确认"},
+ {"phrases": ["人在中国收到美国传票"], "path": "checklists/jury-court-summons.md", "section": "第一步看谁签发要求你做什么"},
+ {"phrases": ["中国体检报告美国看医生"], "path": "book/02-预防医学.md", "section": "7-正常与异常都需要解释"},
+ {"phrases": ["人在中国安排美国装修"], "path": "book/09-住房物业与Contractor.md", "section": "8-许可要求向主管部门确认"},
+ {"phrases": ["第一次给保姆发工资"], "path": "book/39-家庭雇员Nanny家政与Payroll.md", "section": "4-第一次发薪前建立手续"},
  {phrases:["全家分批回国搬家"],path:"checklists/long-term-relocation.md",section:"两边各有开始和结束动作"},
  {phrases:["迁回美国先取消哪些服务"],path:"checklists/long-term-relocation.md",section:"两边各有开始和结束动作"},
  {phrases:["人在美国给父母找照护"],path:"checklists/care-needs-change.md",section:"按任务找人不只按头衔找人"},

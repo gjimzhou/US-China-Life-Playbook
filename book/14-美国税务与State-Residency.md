@@ -134,6 +134,12 @@
 
 **办事 / 授权入口：** [IRS：理解国税局通知与信件](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter) · [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：税务代理授权表（Form 2848）](https://www.irs.gov/forms-pubs/about-form-2848) · [IRS：税务信息查阅授权（Form 8821）](https://www.irs.gov/taxtopics/tc312) · [IRS：提交税务代理与信息授权](https://www.irs.gov/submit-power-of-attorney-and-tax-information-authorizations) · [IRS：在线提交税务代理与信息授权表](https://www.irs.gov/tax-professionals/submit-forms-2848-and-8821-online)。
 
+**人在中国，税务通知寄到美国住处**
+
+让收件人按[两地住所与通知交接](../checklists/two-country-living.md#两边都有人管住所和通知)发送全部页与信封，并保存原件。本人核对税年、税种、文书编号、要求及期限，使用独立官方渠道核实，随后把通知与相关申报／付款记录交给受委托的税务专业人士。
+
+明确问：“这次由谁正式回复、是否需要额外授权、通过什么渠道提交、我何时能收到回执？”报税委托不当然覆盖通知代理。专业人士只说“我看看”时，继续把原期限列为未解决；申请延期或资料仍在收集也不能自行视为延期获准。保留正式提交凭证并跟进机关后续决定，付款另核实际入账。
+
 ## 16. 两州申报不等于一定重复付完整税款
 
 来源收入分配、居民税收抵免和特定州际安排可能减轻重复征税，但适用税种、收入类别和抵免限额各异。
