@@ -80,8 +80,8 @@
 
 | 现在发生了什么 | 第一入口 |
 |---|---|
-| 境外丢护照 | [第30章](../book/30-Household-Emergency-Runbook.md#13-境外遗失护照) |
-| 中国手机号、银行、支付或登录突然失效 | [第30章](../book/30-Household-Emergency-Runbook.md#14-中国手机号或银行访问失败) |
+| 境外丢护照 | [境外丢证补办与返程](lost-wallet-documents.md) |
+| 中国手机号、银行、支付或登录突然失效 | [号码与登录恢复](two-country-living.md#手机丢了也能联系和付款) · [银行账户受限](bank-account-restriction.md) |
 | 文件因姓名、翻译、公证、附加证明书或格式不符被退回 | [跨境办事失败排查清单](cross-border-problem.md) · [第19章](../book/19-文件公证Apostille与跨境授权.md) |
 | 本人不能到中国现场，需要授权他人办理 | [跨境办事失败排查清单](cross-border-problem.md) |
 | 汇款／收款失败，不知道卡在银行、合规、姓名还是限额 | [跨境办事失败排查清单](cross-border-problem.md) · [第13章](../book/13-高收入家庭财务Operating-System.md#19-跨境转账提前准备文件) |
