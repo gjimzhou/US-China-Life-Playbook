@@ -142,5 +142,32 @@
       "d-0e1cbc3ec504",
       "d-5f213aea57d5"
     ]
+  },
+  {
+    "id": "global-workflow-handoffs-2026-10-23",
+    "published": "2026-10-23T20:11:33+00:00",
+    "kind": "important-revision",
+    "contentId": "d-b2d97069cdda",
+    "affectedContentIds": [
+      "d-525ec4922ca7",
+      "d-412cf2028cb9",
+      "d-3df185dd3560",
+      "d-ff076bc03ca2",
+      "d-1bba4405b4f6",
+      "d-cc4b80ab43a4",
+      "d-67a9ac2c204f",
+      "d-333cd8e6c82b",
+      "d-f59505317fd4",
+      "d-d12d5dd12f89",
+      "d-ef534ae83d95",
+      "d-a4dc54622799",
+      "d-f7dd47c7b0fe",
+      "d-8fab0d920892",
+      "d-79f268a086bd",
+      "d-606274b1d78c",
+      "d-b69bef4579a9"
+    ],
+    "title": "跨境交接整改：从挂号、出院到离职、住房和发薪",
+    "summary": "18页补充实际经办顺序、所需资料、未接手时的追踪和完成证据，精简社交重复提醒并改进速查链接。92页全文编辑审读已记录，其他主要缺口继续整改，不代表全文事实或专业审定完成。"
   }
 ]
