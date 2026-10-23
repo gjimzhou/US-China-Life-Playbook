@@ -4,6 +4,8 @@
 
 ## 当前维护入口
 
+2026-10-23全站编辑审查：40章、52份清单均已全文审读，59页有针对性修订，33页保留。具体发现、改动与发布验收见[全站整改报告](../docs/audits/content-quality-2026-10-23.md)和[逐页台账](../docs/maintenance/content-quality-audit.md)。本轮审查可执行性与跨境交接；事实核验仅限记录中的改动，不刷新全书事实日期，也不代替真实机构试办。
+
 2026-09-25文风修订：完整审阅第23、25、27章的表达与结构，统一写作规范，并处理其他章节的指定残留表达。逐小节范围、保留条件与验证见[中文表达与章节结构修订记录](../docs/audits/editorial-chinese-2026-09-25.md)。这次语言编辑不更新事实核验日期；其他章节的局部改动不计为整章重审。
 
 当前正式版本为[v1.2](../docs/releases/v1.2.md)。持续维护采用[固定工作流](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/docs/maintenance-workflow.md)和[范围台账](https://github.com/gjimzhou/US-China-Life-Playbook/blob/main/maintenance/review-registry.json)。以下按轮次保留历史记录；当时的数量和日期不是当前全站核验状态，当前文件数量以构建输出为准。
