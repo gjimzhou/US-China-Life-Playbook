@@ -126,7 +126,7 @@
 
 取得预订确认也不等于完成政府入境要求；反过来，证明齐全也不代表航空公司必须承运。是否适合飞行由兽医评估，不自行给镇静药。
 
-**政府层面：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；航司层面必须再查实际实际承运航空公司的宠物运输政策，尤其是客舱或货运、温度、品种与联程限制。
+**政府层面：** [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel)；航司层面必须再查实际承运航空公司的宠物运输政策，尤其是客舱或货运、温度、品种与联程限制。
 
 ## 17. 出发前就检查回程
 
@@ -147,7 +147,21 @@
 
 **回美国前重新核对：** [CDC：犬只入境美国要求查询](https://www.cdc.gov/importation/dogs/index.html) · [CDC：犬只入境表与说明（2026年4月28日）](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html) · [CDC：犬狂犬病高风险国家清单](https://www.cdc.gov/importation/dogs/high-risk-countries.html) · [CDC：在美国接种疫苗且去过高风险国家的犬只](https://www.cdc.gov/importation/dogs/us-vaccinated-high-risk-countries.html) · [USDA APHIS：携宠物入境美国](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import) · [APHIS：美国跨州携宠物旅行](https://www.aphis.usda.gov/pet-travel/state-to-state)。
 
-中国入境、过境及隔离要求须按当次行程向目的地主管机构核对。本章未给出可替代官方核验的中美往返材料清单。
+**带猫狗从美国赴中国内地，再返美：按依赖安排**
+
+下面是个人携宠的准备流程；买卖、其他动物、港澳台及特殊运输另查适用路径。先把动物种类、芯片号、疫苗记录、出发地、入境口岸、实际承运航段和预计回美时间发给合资格兽医。建立“赴华”和“返美”两个文件袋，不能用一张健康证覆盖两个方向。
+
+1. **先问兽医能否按两端规则完成。** 从[APHIS赴华犬猫页面](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-china)选择适用分支，确认芯片、狂犬疫苗、采血及实验室、证书签发和签注的先后。该页免隔离路径包含有效疫苗及既往接种、芯片、认可抗体报告等条件；夏威夷／关岛有不同细节。让兽医按动物实际记录逐项判断，缺一项不要当作“到机场再补”。
+2. **再锁定可行口岸与承运。** 不满足免隔离条件时，先向目的口岸核实能否接收及隔离安排，再决定是否改期或改变路线；不是所有机场都能处理该分支。向每段实际承运人确认名额、运输箱、动物限制与交接地点，保留宠物运输确认。
+3. **临近赴华时完成证书，而非只约检查。** APHIS页面要求健康证在抵达中国前14天内由认可兽医签发，经VEHCS电子签注并打印随行。按适用分支准备疫苗证明、抗体报告及携带人身份等材料；逐项核对芯片与姓名。到口岸按海关要求申报并交验，保留副本及接收记录。
+4. **狗的返美材料在离美前就处理。** CDC把中国内地列为犬狂犬病高风险地区；过去6个月去过高风险地区的狗，不能套低风险路径。美国接种犬所用的专门疫苗认证需在离美前由认可兽医完成并经USDA签注，普通疫苗本或新办赴华健康证不能替代。缺该文件时按CDC实际分支确认后续安排，不要求兽医倒签。
+5. **在中国准备回美时重新核对。** 符合美国接种犬路径的，检查认证有效性及当次CDC入境表回执；日期或口岸改变时依该路径重新提交表。需要走境外接种高风险路径的，先将材料交CDC注册动物照护设施审查并取得预约，匹配其所在入境机场，再订航班；抗体与隔离条件按该分支核对。猫另走猫的入境规则及目的州、航司要求，不填写犬表充数。
+
+**返美直接入口：** [CDC美国接种犬高风险路径](https://www.cdc.gov/importation/dogs/us-vaccinated-high-risk-countries.html) · [境外接种犬高风险路径](https://www.cdc.gov/importation/dogs/foreign-vaccinated-high-risk-countries.html) · [当前高风险地区](https://www.cdc.gov/importation/dogs/high-risk-countries.html) · [APHIS各物种入境入口](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import)。
+
+行程延误时，先把新抵达日期交给兽医、承运人及相关受理方，逐项确认哪些检查、证书、预约或回执须重做；不能只改人的机票。临时无法同行则安排实际可接手的照护人、费用和后续运输。出发前完成标准是两端文件均有负责方和有效时间、实际航段接受动物、必要接收／隔离预约已确认；抵达后再确认宠物安全接收及当地登记要求。
+
+2026-10-23定点读取APHIS赴华页面（标注2026-02-11更新）、CDC美国接种犬路径（2026-04-28）、高风险名单（2026-04-15）及境外接种犬路径（2024-07-22）。本流程不代替海关现场判断，也未逐家核验航司或地方登记政策。
 
 ## 18. 病历和旅行文件可随照护转移
 
