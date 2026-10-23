@@ -6,6 +6,8 @@
 
 父母来美另看[探亲全流程](parents-us-visit.md)；两边都有持续责任另看[两地生活接续](two-country-living.md)。
 
+已经遇到问题时直接用[航班中断与改线](travel-disruption.md)、[境外丢证补办](lost-wallet-documents.md)或[跨境用药交接](two-country-living.md#医疗交接跟着人走)，不必从准备清单重新查起。
+
 ## 预订前
 
 - [ ] 核对护照、目的地及过境入境要求、返程身份文件。
