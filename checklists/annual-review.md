@@ -48,7 +48,7 @@
 - [ ] 按账户所有权类别核对存款保障，检查遗忘账户、旧雇主资产和重复费用。
 - [ ] 复查退休、健康储蓄账户及雇主福利选择，确认专业联系人。
 - [ ] 家庭成员接近最低提取要求（RMD）的适用年龄、当年退休，或持有继承IRA或继承退休计划时，逐账户核对当年最低提取或受益人分配的截止日期；不要只等账户托管机构自动提醒。
-- [ ] 如果这是首次最低提取年度，明确是当年12月31日前先取，还是延到次年4月1日；后者会与次年12月31日到期的第二笔最低提取落在同一个自然年。
+- [ ] 若是本人作为原账户持有人的首次最低提取年度，且适用首次提取可延至次年4月1日的规则，明确当年先取还是按该期限办理；延后可能与次年12月31日到期的第二笔落在同一个自然年。继承账户的受益人分配不能直接套用此期限，须按上一项单独核对。
 - [ ] 对照付款确认、机构入账和报税表，不只看银行已扣款。
 
 **一键核验：** [国税局个人账户（IRS Online Account）](https://www.irs.gov/payments/online-account-for-individuals) · [IRS：获取税务记录](https://www.irs.gov/individuals/get-transcript) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：最低提取要求](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary) · [存款保险估算工具（FDIC EDIE）](https://edie.fdic.gov/)。
@@ -117,3 +117,5 @@
 
 
 模板校订与动态规则核验：2026-09-21
+
+2026-10-23定点复核：[IRS首次与后续RMD期限](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds)与[受益人分配因素](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。本次只澄清原账户持有人和继承账户的适用边界，不重核整份年度清单。
