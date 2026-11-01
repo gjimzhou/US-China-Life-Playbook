@@ -58,4 +58,6 @@ NAIC七个旧consumer地址在脚本中被403遮挡，但连接器显示404。�
 
 ## 验收与后续
 
-提交前执行统一快速验证，发布依赖PR完整CI和main部署。最新云端逐URL结果保存在该提交的External link check运行附件 `external-link-report`；JSON中的本机结果是本轮观察，不能冒充部署后的云端结果。外部服务仍受限的项留待后续例行复测；本轮终点是逐条处置、可靠替换上线及线上正文与六个下载文件一致，不要求第三方网站消除所有限制。
+提交前执行统一快速验证，发布依赖PR完整CI和main部署。最新云端逐URL结果保存在该提交的External link report运行附件 `external-link-health`；JSON中的本机结果是本轮观察，不能冒充部署后的云端结果。外部服务仍受限的项留待后续例行复测；本轮终点是逐条处置、可靠替换上线及线上正文与六个下载文件一致，不要求第三方网站消除所有限制。
+
+PR首次云端报告：[运行41350525751](https://github.com/gjimzhou/US-China-Life-Playbook/actions/runs/41350525751)，源码 `fcf22db385f11edd7614bad13699b1c3f884994d`；921个去重URL为621 ok、294 blocked、4 transient、2 warning、0 broken。17个旧地址已从本次被检正文移除，替代地址全部纳入报告。URL总数因已有目标去重减少2；blocked较旧基线多1说明两次网络状态波动，不能把替换数当作告警净减少数。发布后的结果仍以main运行附件为准。
