@@ -15,6 +15,8 @@
 - [两地往返时参与邻里、学校与志愿活动](community-participation.md)
 - [照护者退出、失业又要搬家：两地同时出事时怎样接手](compound-life-disruption.md)
 
+两地团队沟通、任务冲突或离境交接，见[两地往返时的职场协作：任务、沟通与交接](workplace-collaboration.md)。
+
 ## 拿到一个新任务，先回答六个问题
 
 1. 想办成什么，谁需要同意？
