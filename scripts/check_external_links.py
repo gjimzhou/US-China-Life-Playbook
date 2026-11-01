@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import http.client
+import json
 from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -25,7 +26,7 @@ import urllib.parse
 import urllib.request
 
 ROOT = Path(__file__).resolve().parents[1]
-MARKDOWN_LINK = re.compile(r"\[[^\]]+\]\((https?://[^)\s]+)\)")
+MARKDOWN_LINK = re.compile(r"\[[^\]]+\]\((https?://(?:[^\s()]|\([^()\s]*\))+)\)")
 BLOCKED_STATUS = {401, 403, 405, 406, 407, 418, 429}
 BROKEN_STATUS = {404, 410}
 TRANSIENT_STATUS = {408, 425, 500, 502, 503, 504}
@@ -77,6 +78,21 @@ def classify_status(status: int) -> str:
     return "warning"
 
 
+def classify_destination(status: int, final_url: str) -> tuple[str, str]:
+    """Do not confuse an HTTP-successful gate/error redirect with the source."""
+    category = classify_status(status)
+    if category != "ok":
+        return category, ""
+    destination = urllib.parse.urlsplit(final_url)
+    if destination.hostname == "unblock.federalregister.gov":
+        return "blocked", "Redirected to an access-verification page; source not read"
+    if (destination.hostname == "cs.mfa.gov.cn" and destination.path.rstrip("/") == "/error") or (
+        destination.hostname == "www.uscourts.gov" and destination.path == "/courts/apology/apology3.html"
+    ):
+        return "warning", "Redirected to an error/apology page; source not read"
+    return category, ""
+
+
 def check_url(url: str, timeout: float) -> dict[str, object]:
     try:
         parts = urllib.parse.urlsplit(url)
@@ -98,12 +114,13 @@ def check_url(url: str, timeout: float) -> dict[str, object]:
         with urllib.request.urlopen(request, timeout=timeout) as response:
             status = int(getattr(response, "status", 200))
             final_url = response.geturl()
+            category, detail = classify_destination(status, final_url)
             return {
                 "url": url,
-                "category": classify_status(status),
+                "category": category,
                 "status": status,
                 "final_url": final_url,
-                "detail": "",
+                "detail": detail,
             }
     except urllib.error.HTTPError as exc:
         status = int(exc.code)
@@ -169,6 +186,7 @@ def write_report(
         ("broken", "Definitively broken links"),
         ("warning", "Other HTTP warnings"),
         ("transient", "Transient failures to recheck"),
+        ("blocked", "Blocked links to recheck"),
     ]:
         items = [r for r in results if r["category"] == category]
         lines += [f"## {title}", ""]
@@ -177,10 +195,12 @@ def write_report(
             continue
         for r in sorted(items, key=lambda x: str(x["url"])):
             status = r["status"] if r["status"] is not None else "network"
-            sources = ", ".join(sorted(set(refs[str(r["url"])]))[:8])
+            sources = ", ".join(sorted(set(refs[str(r["url"])])))
             detail = f" — {r['detail']}" if r["detail"] else ""
             lines.append(f"- **{status}** {r['url']}{detail}")
             lines.append(f"  - Used in: {sources}")
+            if r["final_url"] != r["url"]:
+                lines.append(f"  - Final URL: {r['final_url']}")
         lines.append("")
 
     lines += ["## Blocked domains (informational)", ""]
@@ -202,9 +222,22 @@ def write_report(
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
+def write_json_report(path: Path, refs: dict[str, list[str]], results: list[dict[str, object]]) -> None:
+    """Archive every URL, including blocked results, for reproducible follow-up."""
+    payload = {
+        "schema_version": 1,
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "counts": dict(Counter(str(r["category"]) for r in results)),
+        "results": [dict(r, sources=sorted(set(refs[str(r["url"])])))
+                    for r in sorted(results, key=lambda item: str(item["url"]))],
+    }
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--report", default="link-health-report.md")
+    parser.add_argument("--json-report", help="Machine-readable report (defaults to --report with .json suffix)")
     parser.add_argument("--workers", type=int, default=12)
     parser.add_argument("--timeout", type=float, default=12.0)
     parser.add_argument("--fail-on-broken", action="store_true")
@@ -219,6 +252,7 @@ def main() -> int:
 
     report = Path(args.report)
     write_report(report, refs, results)
+    write_json_report(Path(args.json_report) if args.json_report else report.with_suffix(".json"), refs, results)
 
     counts = Counter(str(r["category"]) for r in results)
     print(

@@ -92,7 +92,7 @@
 
 **需要返程时：** 分别确认证件、交通、工作休假和离家照护；返程受阻则启用当地备用支持。详见[父母照护](20-父母养老与远程照护.md)。
 
-**中国医疗入口：** [国家卫健委：医院 / 医师信息查询](https://www.nhc.gov.cn/wjw/sjcx/sjcx.shtml) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/)。
+**中国医疗入口：** [国家政务服务平台：医疗机构执业登记查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/zwfwunitsearch/) · [卫健委：医师、护士及专项机构查询](https://zwfw.nhc.gov.cn/cxx/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/)。
 
 ## 10. 失业或收到裁员通知
 

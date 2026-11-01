@@ -107,7 +107,7 @@
 - [ ] 按接收机构要求办理死亡证明的附加证明书、翻译或其他文件手续。
 - [ ] 确定一名联络协调人，但不把协调角色当作法律代理权。
 
-**跨境文件入口：** [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
+**跨境文件入口：** [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcgx/lsrz/jj/202607/t20260713_11981309.html)。
 
 ## 持续跟进与暂缓事项
 

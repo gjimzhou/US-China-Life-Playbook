@@ -160,7 +160,7 @@
 
 美国财政部金融犯罪执法网络（FinCEN）规定，符合定义的美国人对境外金融账户有财务利益或签字权，且合计价值在日历年任一时点超过 1 万美元时，一般须考虑境外银行及金融账户报告（FBAR），具体豁免按说明判断。不是每个账户各看 1 万，也不是只看年底余额。
 
-**继续看 / 办理：** [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN：BSA E-Filing 在线提交入口](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html) · [IRS：特定境外金融资产申报表（Form 8938）](https://www.irs.gov/forms-pubs/about-form-8938) · [IRS FAQ：Form 8938 常见资产与例子](https://www.irs.gov/businesses/corporations/basic-questions-and-answers-on-form-8938)。FBAR、Form 8938 及其他实体、赠与或基金相关表格的定义和门槛不能互相替代；应把完整资产与权限清单交给跨境税务专业人士逐项判断。
+**继续看 / 办理：** [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN：BSA E-Filing 在线提交入口](https://bsaefiling.fincen.gov/file/fbar) · [IRS：特定境外金融资产申报表（Form 8938）](https://www.irs.gov/forms-pubs/about-form-8938) · [IRS FAQ：Form 8938 常见资产与例子](https://www.irs.gov/businesses/corporations/basic-questions-and-answers-on-form-8938)。FBAR、Form 8938 及其他实体、赠与或基金相关表格的定义和门槛不能互相替代；应把完整资产与权限清单交给跨境税务专业人士逐项判断。
 
 ## 19. 把税务安排进全年日历
 

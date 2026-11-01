@@ -127,7 +127,7 @@ IRS 公布的 2026 税年 FEIE 上限为每位符合条件者 132,900 美元，�
 
 FBAR 的自动 10月15日 延期 **不等于 Form 1040 / 所得税表也自动延长**；所得税表 的延期仍按自己的规则办理。反过来，提交 Form 4868 也不是“在申请 FBAR 延期”——FBAR 本身已经自动延到 10 月 15 日。
 
-**规则 / 办理：** [IRS：海外金融账户报告申报时间与自动延期](https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN BSA E-Filing：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)。
+**规则 / 办理：** [IRS：海外金融账户报告申报时间与自动延期](https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts) · [FinCEN BSA E-Filing：在线提交 FBAR](https://bsaefiling.fincen.gov/file/fbar)。
 
 **准备与留档：** 确认需要申报后，按账户整理户名、账号、境外金融机构名称与地址、账户类型及该年度最高价值。不要只取年底余额，也不要因为账户没有产生应税收入就略过。IRS说明，相关记录通常须自FBAR到期日起保存五年；雇员仅为雇主账户签字权申报等例外另按说明处理。
 
