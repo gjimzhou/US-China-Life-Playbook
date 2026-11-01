@@ -134,7 +134,7 @@
 
 证明文件来源真实性与认可其法律效果是不同问题，详见[第 19 章](19-文件公证Apostille与跨境授权.md)。
 
-**跨境文件入口：** [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcg/fjzms/)。
+**跨境文件入口：** [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille) · [U.S. State Department：文件认证](https://travel.state.gov/en/replace-certify/authenticate-documents.html) · [中国领事服务网：附加证明书](https://cs.mfa.gov.cn/zggmcgx/lsrz/jj/202607/t20260713_11981309.html)。
 
 ## 15. 父母也有自己的意愿与授权安排
 

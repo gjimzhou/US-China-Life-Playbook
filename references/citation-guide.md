@@ -24,7 +24,7 @@
 
 或：
 
-> **办事入口：** [FinCEN：在线提交 FBAR](https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html)  
+> **办事入口：** [FinCEN：在线提交 FBAR](https://bsaefiling.fincen.gov/file/fbar)  
 > **规则说明：** [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)
 
 链接文字要告诉读者“点进去能干什么”，不要只写“来源 1 / 来源 2”。

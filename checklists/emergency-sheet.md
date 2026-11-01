@@ -60,7 +60,7 @@
 - 当地政务服务渠道：______
 - 银行官方挂失与反欺诈入口：______
 
-**中国官方入口：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [国家卫健委：机构 / 医师查询](https://www.nhc.gov.cn/wjw/sjcx/sjcx.shtml) · [全国 12315 平台](https://www.12315.cn/)。
+**中国官方入口：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [国家政务服务平台：医疗机构执业登记查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/zwfwunitsearch/) · [卫健委：医师、护士及专项机构查询](https://zwfw.nhc.gov.cn/cxx/) · [全国 12315 平台](https://www.12315.cn/)。
 
 ## 只记文件位置
 

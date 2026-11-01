@@ -87,7 +87,7 @@
 - 当前用药表及病历位置：______
 - 医疗意愿文件、代理人及权限：______
 
-**医疗入口：** 中国医疗急救 **120**；[国家卫健委：医院 / 执业医师查询](https://www.nhc.gov.cn/wjw/sjcx/sjcx.shtml) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [国家政务服务平台：跨省异地就医备案](https://gjzwfw.www.gov.cn/col/col885/) · [国家医保局：2026-05-27 异地就医最新说明](https://www.nhsa.gov.cn/art/2026/5/27/art_14_20753.html)。
+**医疗入口：** 中国医疗急救 **120**；[国家政务服务平台：医疗机构执业登记查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/zwfwunitsearch/) · [卫健委：医师、护士及专项机构查询](https://zwfw.nhc.gov.cn/cxx/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [国家政务服务平台：跨省异地就医备案](https://gjzwfw.www.gov.cn/col/col885/) · [国家医保局：2026-05-27 异地就医最新说明](https://www.nhsa.gov.cn/art/2026/5/27/art_14_20753.html)。
 
 ## 用药表
 

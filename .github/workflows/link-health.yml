@@ -46,5 +46,7 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: external-link-health
-          path: link-health-report.md
+          path: |
+            link-health-report.md
+            link-health-report.json
           retention-days: 30
