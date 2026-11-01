@@ -123,7 +123,7 @@
 
 请保险人士解释公共部分、室内装修、改善工程、总保单免赔额及损失分摊（Loss assessment）分别如何处理。业主单元保单（常见HO-6）不是自动填补所有缺口，需读实际条款。
 
-**保险入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。建筑主保单与 HO-6 的边界以两份实际保单条款为准。
+**保险入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance.htm) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。建筑主保单与 HO-6 的边界以两份实际保单条款为准。
 
 ## 16. 洪水与其他进水风险分别问
 
@@ -205,7 +205,7 @@
 
 确认必要保障已生效，房契与遗产安排一致，门锁、钥匙、设备和紧急维修资料已交接。搬家后的账户与地址变更另按机构办理。
 
-**入住入口：** [USA.gov：更新地址](https://www.usa.gov/change-address) · [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。
+**入住入口：** [USA.gov：更新地址](https://www.usa.gov/change-address) · [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance.htm) · [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。
 
 ## 30. 比较自住价值与财务后果
 

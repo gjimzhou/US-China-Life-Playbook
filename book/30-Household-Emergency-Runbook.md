@@ -12,7 +12,7 @@
 
 准备一份[家庭紧急信息表](../checklists/emergency-sheet.md)。让接手人知道在哪里取用，不把全部密码和证件放在公开文件。
 
-**紧急入口：** [美国911应急服务](https://www.911.gov/calling-911/) · [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · 中国医疗急救规则见[国家卫健委《院前医疗急救管理办法》](https://www.nhc.gov.cn/fzs/c100048/201808/6878dddd2a3d48c59de1c43a6c68423d.shtml)。
+**紧急入口：** [美国911应急服务](https://www.911.gov/calling-911/) · [Ready.gov：制定家庭应急计划](https://www.ready.gov/plan) · 中国医疗急救规则见[国家卫健委《院前医疗急救管理办法》（北京市政府转载）](https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201408/t20140812_776635.html)。
 
 ## 2. 医疗急症
 

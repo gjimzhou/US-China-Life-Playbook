@@ -36,7 +36,7 @@
 
 请服务商列出适用的雇主识别号码（EIN）、州雇主登记、工作资格核验、工资记录、工资税申报和年度表格。确认工资与扣缴凭证（W-2）以及家庭雇佣税附表（Schedule H）由谁准备、谁提交、谁保存回执。不要等到报个人所得税时才第一次整理全年付款。
 
-**直接办理：** [IRS：申请雇主识别号（EIN）](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [社会安全局雇主在线服务（SSA）](https://www.ssa.gov/bso/bsowelcome.htm) · [就业资格核验表I-9办理资料](https://www.uscis.gov/i-9-central)。
+**直接办理：** [IRS：申请雇主识别号（EIN）](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [社会安全局雇主在线服务（SSA）](https://www.ssa.gov/bso) · [就业资格核验表I-9办理资料](https://www.uscis.gov/i-9-central)。
 
 ---
 
@@ -133,7 +133,7 @@ FUTA 是另一套计算：触发 FUTA 后，2026 年通常只对每名家庭雇�
 
 员工开自己的车，不代表家庭与工作相关的责任问题全部消失。请经纪分别确认员工车险、家庭责任险、伞式责任险及工伤保险的适用与除外条款；不要把一张有效保险卡当作全部答案。
 
-**保险入口：** [NAIC：汽车保险](https://content.naic.org/consumer/auto-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。是否需要商业用途附加条款、列明驾驶人或其他保障以实际保险公司及保单为准。
+**保险入口：** [NAIC：汽车保险](https://content.naic.org/consumer/auto-insurance.htm) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。是否需要商业用途附加条款、列明驾驶人或其他保障以实际保险公司及保单为准。
 
 ---
 
@@ -186,7 +186,7 @@ I-9办理与保存时间线（当前表格版本另见下方说明）：
 
 州失业保险、带薪假、工伤补偿、州规定工资单和当地薪资办理期限可能完全不同，应在薪资办理日历里单独列出，不能只做联邦 W-2 / Schedule H。
 
-**自己核对：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [社会安全局雇主在线服务（SSA）](https://www.ssa.gov/bso/bsowelcome.htm) · [IRS：缴纳税款](https://www.irs.gov/payments)。州薪资或失业保险系统另从州政府官网进入。
+**自己核对：** [家庭雇员税务指南（IRS Publication 926）](https://www.irs.gov/publications/p926) · [IRS：家庭雇佣税附表（Schedule H）](https://www.irs.gov/forms-pubs/about-schedule-h-form-1040) · [社会安全局雇主在线服务（SSA）](https://www.ssa.gov/bso) · [IRS：缴纳税款](https://www.irs.gov/payments)。州薪资或失业保险系统另从州政府官网进入。
 
 ---
 
@@ -218,7 +218,7 @@ I-9办理与保存时间线（当前表格版本另见下方说明）：
 
 围绕岗位核对推荐人、驾驶经历、照护技能和所需资格。涉及第三方背景报告、同意、通知或不利决定程序时，先核对适用法律。朋友介绍可以帮助接触候选人，但不能替代必要核验，也不能合理化歧视。
 
-**背景调查入口：** [FTC：雇主背景调查与员工权利](https://consumer.ftc.gov/articles/employer-background-checks-your-rights) · [EEOC：雇主需要了解的背景调查规则](https://www.eeoc.gov/publications/background-checks-what-employers-need-know)。州 / 城市可能还有更严格的公平就业机会或通知规则。
+**背景调查入口：** [FTC：雇主背景调查与员工权利](https://consumer.ftc.gov/articles/employer-background-checks-and-your-rights) · [EEOC：雇主需要了解的背景调查规则](https://www.eeoc.gov/publications/background-checks-what-employers-need-know)。州 / 城市可能还有更严格的公平就业机会或通知规则。
 
 ---
 

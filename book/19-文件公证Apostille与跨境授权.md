@@ -110,7 +110,7 @@
 
 学校、雇主或学历评估机构可能要求密封成绩单、学校直接发送的电子成绩单、学历认证或学位核验。
 
-**美国文件跨境认证：** [国务院：美国学历文件认证](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/getting-academic-credentials-authenticated.html)。是否还需要学校直送、学历评估或其他验证，以接收方规则为准。
+**美国文件跨境认证：** [国务院：美国学历文件认证](https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/academic-credentials.html)。是否还需要学校直送、学历评估或其他验证，以接收方规则为准。
 
 附加证明书不能替代这些程序。先问接收方接受哪些签发和传递方式。
 
