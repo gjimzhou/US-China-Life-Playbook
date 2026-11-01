@@ -142,7 +142,7 @@
 
 符合条件的美国公民可了解旅行者登记计划（STEP），接收相关使领馆信息。其他国籍人员应另查本国领事保护渠道。登记、旅行警示和旅行保险各有作用，不能互相替代。
 
-出发前及行程变化时分别重看旅行安全与健康提示。例如，[国务院中国旅行信息](https://travel.state.gov/en/international-travel/travel-advisories/china.html)与[CDC中国旅行健康页](https://wwwnc.cdc.gov/travel/destinations/traveler/none/china)服务不同问题，警示等级也不是同一套尺度。记下查看日期、适用地区和影响本人行程的事项；旧截图不能代替出发前复查。
+出发前及行程变化时分别重看旅行安全与健康提示。例如，[国务院中国旅行信息](https://travel.state.gov/en/international-travel/travel-advisories/china.html)与[CDC中国旅行健康页](https://wwwnc.cdc.gov/travel/destinations/traveler/none/china)服务不同问题，警示等级也不是同一套尺度。记下查看日期、适用地区和影响本人行程的事项；旧截图不能代替出发前复查。还要读“更新了什么”，不能只比较等级数字：2026-11-01查阅时，美国国务院中国内地警示标注10月19日新增“错误拘留”（Wrongful Detention）风险指标，等级仍为2。这是该机构的旅行风险判断；出发前仍须重读现行说明，港澳分别查对应页面。
 
 **直接办理：** [智慧旅客登记计划（STEP）](https://travel.state.gov/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) · [国务院：旅行提醒](https://travel.state.gov/en/international-travel/travel-advisories.html)。
 
