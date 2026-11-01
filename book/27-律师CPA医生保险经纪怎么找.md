@@ -118,7 +118,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 说明住房用途、车辆、个人责任、贵重物品和家庭雇员等适用情况，询问代理或经纪承接哪些险种、哪些不在其服务范围。NAIC 州保险部门目录可定位监管入口，按州核验所需执照与授权。
 
-**查资格 / 投诉：** [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) · [NIPR：执照查询](https://nipr.com/licensing-center) · [保险投诉](https://content.naic.org/consumer/insurance-complaints)。
+**查资格 / 投诉：** [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments) · [NIPR：执照查询](https://nipr.com/licensing-center) · [保险投诉](https://content.naic.org/consumer/how-to-file-complaint)。
 
 ### 独立经纪也不代表全市场
 
@@ -130,7 +130,7 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 要求说明建议保额、关键除外责任、免赔额、需补充的资料以及何时生效。取得报价、递交申请或付款都不等于已经正式承保；应确认何时生效，并保存承保确认与保单。
 
-**继续看：** [NAIC：消费者保险资料](https://content.naic.org/consumer) · [保险投诉](https://content.naic.org/consumer/insurance-complaints)。最终以保单概要、保单条款与附加条款为准。
+**继续看：** [NAIC：消费者保险资料](https://content.naic.org/consumer) · [保险投诉](https://content.naic.org/consumer/how-to-file-complaint)。最终以保单概要、保单条款与附加条款为准。
 
 ## 金融顾问与住房承包商
 

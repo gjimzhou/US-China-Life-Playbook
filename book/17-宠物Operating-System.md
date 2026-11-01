@@ -60,7 +60,7 @@
 
 健康维护套餐与保险的功能可能不同；不要因为购买了“宠物计划”就默认大额急诊被覆盖。本章不推荐具体产品，实际合同须自行比较。
 
-**继续看：** [NAIC：宠物保险](https://content.naic.org/consumer/pet-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
+**继续看：** [NAIC：宠物保险](https://content.naic.org/article/consumer-insight-pet-insurance-it-could-save-your-pets-life-could-save-you-money) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ## 8. 自行承担费用也需要资金安排
 
@@ -68,7 +68,7 @@
 
 即使有保险，也应确认是否必须先向医院付款再申请报销，避免等保险处理时无法安排治疗。
 
-**保险入口：** [NAIC：宠物保险](https://content.naic.org/consumer/pet-insurance)。自费家庭则把“可立即付款的金额 + 备用付款方式”作为家庭资金安排，而不是引用网络平均急诊价格。
+**保险入口：** [NAIC：宠物保险](https://content.naic.org/article/consumer-insight-pet-insurance-it-could-save-your-pets-life-could-save-you-money)。自费家庭则把“可立即付款的金额 + 备用付款方式”作为家庭资金安排，而不是引用网络平均急诊价格。
 
 ## 9. 芯片登记与联系方式一起维护
 
@@ -230,6 +230,6 @@
 - [ ] 出行、过境和回程要求在订票前开始核对。
 - [ ] 知道宠物临终／去世后联系谁，以及遗体、保险、芯片和服务如何收尾。
 
-**入口汇总：** [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [美国防止虐待动物协会中毒咨询（ASPCA）](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC：宠物保险](https://content.naic.org/consumer/pet-insurance) · [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel) · [Ready.gov：宠物应急准备](https://www.ready.gov/pets)。
+**入口汇总：** [AAHA：查找认证动物医院](https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/) · [美国防止虐待动物协会中毒咨询（ASPCA）](https://www.aspca.org/pet-care/animal-poison-control) · [NAIC：宠物保险](https://content.naic.org/article/consumer-insight-pet-insurance-it-could-save-your-pets-life-could-save-you-money) · [USDA APHIS：宠物旅行要求](https://www.aphis.usda.gov/pet-travel) · [Ready.gov：宠物应急准备](https://www.ready.gov/pets)。
 
 最后编辑与来源核验：2026-09-21。新增宠物临终及去世后的处理路径与独立清单；第三轮重新核对美国疾控中心2026-08-27犬只入境常见问题、2026-04-28犬只入境表及高风险国家页面，以及美国农业部动植物卫生检验局资料。正文区分低风险与高风险路径，保留年龄、健康、芯片、疫苗证明、离美前办理要求及2025-07-31后的旧文件替代限制。另核对动物医院认证机构2026年常规照护与急症资料、中毒咨询和宠物保险。航司、中国入境、州级要求、保险与寄养规则须按当次服务和行程重新确认。

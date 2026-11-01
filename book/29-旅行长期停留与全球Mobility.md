@@ -42,7 +42,7 @@
 
 向保险方确认哪些地区和治疗适用、是否先付款后报销、如何联系救援、是否有事先批准要求。询问既往病症、免赔额和材料。具体结论以保单为准。
 
-**继续看：** [国务院：旅行保险](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) · [NAIC：旅行保险](https://content.naic.org/consumer/travel-insurance)。
+**继续看：** [国务院：旅行保险](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) · [NAIC：旅行保险](https://content.naic.org/article/should-you-get-travel-insurance-what-you-should-know-about-protecting-your-trips)。
 
 ## 6. 医疗转运要看目的地与触发条件
 
@@ -124,7 +124,7 @@
 
 分别核对车辆损坏或盗抢、第三方责任、人身医疗与随身物品。自己的车险、信用卡权益、旅行险和租车产品可能分担不同风险；同一张卡在不同国家、车型或租期的条件也可能不同。拿到具体条款再决定是否购买柜台产品。
 
-**继续看：** [FTC：租车须知](https://consumer.ftc.gov/articles/renting-car) · [NAIC：旅行保险](https://content.naic.org/consumer/travel-insurance)。信用卡租车保障必须看本人当前权益指南。
+**继续看：** [FTC：租车须知](https://consumer.ftc.gov/articles/renting-car) · [NAIC：旅行保险](https://content.naic.org/article/should-you-get-travel-insurance-what-you-should-know-about-protecting-your-trips)。信用卡租车保障必须看本人当前权益指南。
 
 ## 17. 工作与长期停留在出发前审查
 

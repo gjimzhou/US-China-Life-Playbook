@@ -134,7 +134,7 @@ SSA 遗属福利可能适用于符合条件的配偶、前配偶、子女或受�
 
 确认合法维护人、保险状态、房贷、税款、公共事业和协会费用。住所空置或用途变化时向保险方核对要求，安排安全、气候和漏水风险管理。出售或出租属于另外的权限与决策问题。
 
-**保险 / 住房入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。空置、出租或长期无人居住的影响必须看实际保单条款。
+**保险 / 住房入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance.htm) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。空置、出租或长期无人居住的影响必须看实际保单条款。
 
 ## 20. 清理遗物前保留资产与文件记录
 

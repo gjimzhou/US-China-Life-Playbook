@@ -131,13 +131,13 @@
 
 清单帮助证明损失，但承保范围和赔偿方式仍以保单为准。
 
-**继续看：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance)；同时把照片、序列号、发票和估价副本存到住宅之外的受保护位置。
+**继续看：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance.htm)；同时把照片、序列号、发票和估价副本存到住宅之外的受保护位置。
 
 ## 14. 租客单独核对自己的保险
 
 房东的房屋保障一般不替代租客财物与责任保障。额外生活费用、贵重物品及其他限制见[第 07 章](07-保险与灾难风险.md)，不要等事故发生再问。
 
-**继续看：** [NAIC：租客保险](https://content.naic.org/consumer/renters-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
+**继续看：** [NAIC：租客保险](https://content.naic.org/article/consumer_insight_renting_your_home_protect_your_belongings_renters_insurance.htm) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
 
 ## 15. 公寓总保单与个人保单一起看
 
@@ -145,7 +145,7 @@
 
 保存管理文件、总保单摘要及个人保单，发生变更时一起复查。
 
-**保险入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。HOA / 公寓建筑主保单与单元业主保单的实际边界仍以两份保单和管理文件为准。
+**保险入口：** [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance.htm) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。HOA / 公寓建筑主保单与单元业主保单的实际边界仍以两份保单和管理文件为准。
 
 ## 16. 业主协会不等同于房东
 
