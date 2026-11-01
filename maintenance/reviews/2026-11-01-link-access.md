@@ -13,7 +13,7 @@
 2. **外国附加证明书核查旧指南**：同样落入错误页。改为[HCCH各国主管机关及核验入口目录](https://www.hcch.net/en/instruments/conventions/authorities1/print1/?cid=41)，读取各国E-Register字段与美国主管机关分类；用途是找到签发机关或其核验入口，未承诺各国都有在线查询，不引用其旧费用。搜索连接器可读，本地直接GET403，保留这一访问限制，不宣称脚本可达。中国签发文件仍用中国外交部VERIFY系统。
 3. **卫健委综合数据查询页**：原页两次412；不是404，不认定政策失效。改为[国家政务服务平台医疗机构执业登记查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/zwfwunitsearch/)和[卫健委医师、护士及专项机构目录](https://zwfw.nhc.gov.cn/cxx/)，读取机构名称、地区和验证码字段，以及人员/专项机构查询分类。两个入口脚本均200。未输入真实信息、未完成验证码或声称已实际查到某位医师；未把人员目录说成医院登记查询。同步六个正文/清单文件的引用。
 4. **美国红十字会成人窒息急救**：旧guidelines子域持续TLS握手失败，连接器502。替换为[同机构成人/儿童窒息急救页](https://www.redcross.org/take-a-class/resources/learn-first-aid/adult-child-choking)。读取Emergency Steps、General Care、孕妇/无法环抱者胸部冲击、无反应后CPR和不盲掏口腔段，与第03章成人流程相符，仍保留AHA原始指南及婴儿不适用的限制。连接器可读，本地GET403；替换解决旧TLS入口，不宣称消除所有环境的拦截。
-5. **FinCEN个人FBAR入口**：旧`bsaefiling.fincen.treas.gov/NoRegFBARFiler.html`在云端网络不可达、本地证书链失败。连接器跟随跳转到[新申报入口](https://bsaefiling.fincen.gov/file/fbar)；又从[FinCEN How Do I File the FBAR](https://www.fincen.gov/how-do-i-file-fbar)的no registration option点击验证同一落点。新入口脚本200，是需要JavaScript的应用壳；没有执行实际申报或声称完成业务验收。同步第14、38章及引用规范。
+5. **FinCEN个人FBAR入口**：旧`bsaefiling.fincen.treas.gov/NoRegFBARFiler.html`在云端网络不可达、本地证书链失败。连接器跟随跳转到[新申报入口](https://bsaefiling.fincen.gov/file/fbar)；又从[FinCEN How Do I File the FBAR](https://www.fincen.gov/how-do-i-file-fbar)的no registration option点击验证同一落点。新入口curl返回200，但仓库Python检查器再次访问仍有证书链错误，不能宣称已在所有客户端恢复。页面是需要JavaScript的应用壳；没有执行实际申报或声称完成业务验收。同步第14、38章及引用规范。
 
 ## 其余异常的处理与下一步
 
@@ -29,6 +29,8 @@
 ## 报告工具整改
 
 Markdown逐条列blocked URL、所有引用文件和最终落点；JSON保存全部URL的原始HTTP状态、分类、错误说明与引用文件，并随同一个Actions附件保留30天。200访问验证页归blocked、已读到的错误落点归warning；不把这类情况伪称404。修复含括号的法规段落锚点被截断的问题；历史原始扫描中该URL保留原样，新报告使用完整URL。回归覆盖错误落点、真实成功页、404/403分类、超过8个引用文件、JSON状态及括号URL。没有通过白名单压低失败数。
+
+修改后本地全量复测923个完整URL：684可达、0个404/410、228受限、6临时错误、5告警。数量变化包含原来被截成同一URL的3个法规锚点现在分别记录；受限数量也包含不再误判成功的验证页，不能用数量下降衡量本轮成效。FinCEN新域名在curl成功而Python仍证书链失败、医保局单页再次超时均保留在结果中。45项单元测试和统一快速检查通过。
 
 本地快速检查与PR完整CI、主分支部署及线上文件验收分别执行，最终运行和PR链接以本次提交的GitHub记录为准。持续受限项留作明确后续范围，本轮不承诺第三方站点全部可达。
 
