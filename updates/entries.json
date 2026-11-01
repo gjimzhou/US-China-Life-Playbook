@@ -251,5 +251,18 @@
     "contentId": "d-cb1bab08b3d6",
     "title": "两地职场协作：六类沟通与交接流程",
     "summary": "补齐跨时区协作、任务冲突、求助反馈、意见分歧、社交费用和请假交接，附可复制话术、失败分流及完成标准。属于经验建议，不替代单位审批或个案权利判断。"
+  },
+  {
+    "id": "benefits-health-review-2026-11-01",
+    "published": "2026-11-01T20:05:41+00:00",
+    "kind": "important-revision",
+    "contentId": "d-5f3452f1f5c7",
+    "affectedContentIds": [
+      "d-3267168f0dd6",
+      "d-b2d97069cdda",
+      "d-0e1cbc3ec504"
+    ],
+    "title": "医保与福利到期复核：跨年金额、护理资格和异地结算",
+    "summary": "补入2027年HSA标准，保留2026年适用金额；说明Medicare追溯生效对HSA的影响、转专业护理机构前的资格核对，以及中国异地医保结算失败后的办理分支。2027年FSA和A部分费用另设提前复查。"
   }
 ]
