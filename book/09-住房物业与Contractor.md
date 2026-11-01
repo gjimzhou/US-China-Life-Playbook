@@ -54,7 +54,7 @@
 
 这不是要求所有 1978年以前的住宅装修都做全面铅危害消除，而是要求先判断 RRP 适用性；州、市还可能有更严格的含铅作业和承包商规则。
 
-**含铅作业安全核验入口：** [EPA：装修、维修与涂装规则：承包商要求](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) · [EPA：含铅材料装修安全步骤（2026年3月）](https://www.epa.gov/lead/steps-lead-safe-renovation-repair-and-painting) · [EPA：查找含铅作业安全认证企业](https://www.epa.gov/lead/i-am-planning-renovate-my-home-how-can-i-find-lead-safe-certified-firm) · [EPA：含铅材料与装修常见问题](https://www.epa.gov/lead/lead-renovation-repair-and-painting-program-rules)。
+**含铅作业安全核验入口：** [EPA：装修、维修与涂装规则：承包商要求](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) · [EPA：含铅材料装修安全步骤（2026年3月）](https://www.epa.gov/lead/steps-lead-safe-renovation-repair-and-painting) · [EPA：查找含铅作业安全认证企业](https://www.epa.gov/lead/frequent-questions-general-information-about-rrp-rule) · [EPA：含铅材料与装修常见问题](https://www.epa.gov/lead/lead-renovation-repair-and-painting-program-rules)。
 
 ## 6. 估价要写明工程范围
 

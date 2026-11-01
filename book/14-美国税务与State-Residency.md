@@ -172,6 +172,8 @@
 | 年末前 | 更新全年估税，处理有截止日的供款或交易安排 |
 | 重大事件发生前 | 搬家、境外工作、资产出售等先咨询再实施 |
 
+**年底补查：** 2026税年一般最后一期联邦预估税付款日为**2027年1月15日**。在年底最后几次工资发放前，把全年工资、已预扣税、其他收入和历次预估税付款交给报税人复算；如需调整预扣，给薪资处理留出时间。年化收入、农业渔业、灾害救济及州税另按适用规则确认，不能等到报税季才检查。日期依据为[IRS Pub.505的2026付款表](https://www.irs.gov/publications/p505)。
+
 不要把“每季度复查”误当作各项税款都在自然季度最后一天到期。具体日期写入当年日历并核对州和地方要求。
 
 **年度工具：** [IRS：预估税](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [IRS：缴纳税款](https://www.irs.gov/payments)。

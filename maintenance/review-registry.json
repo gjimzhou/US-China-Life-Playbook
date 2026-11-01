@@ -41,8 +41,8 @@
         "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-addendum.html",
         "https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html"
       ],
-      "last_review_attempt": "2026-10-06",
-      "latest_review_record": "maintenance/reviews/2026-10-06-rsv-adults.md",
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-vaccines-screening.md",
       "review_status": "partial"
     },
     {
@@ -74,8 +74,8 @@
       "scope": "拒赔期限、外部复核与账单保护",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-09-24",
-      "review_record": "maintenance/reviews/2026-09-24-insurance-appeals.md",
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-insurance-appeals.md",
       "sources": [
         "https://www.cms.gov/medical-bill-rights",
         "https://www.cms.gov/nosurprises/consumer-protections/what-are-the-new-protections",
@@ -92,15 +92,15 @@
         "https://www.healthcare.gov/glossary/out-of-pocket-maximum-limit/",
         "https://www.cms.gov/medical-bill-rights/help/submit-a-complaint",
         "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/know-your-medical-bill-rights/know-your-medical-bill-rights-when-not-using-insurance",
-        "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/medical-bill-guides-resources/what-good-faith-health-insurance-estimate",
+        "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/guides-resources/what-good-faith-estimate",
         "https://www.cms.gov/initiatives/no-surprise-billing/overview/policies-resources/providers-payment-resolution-patients",
         "https://www.healthcare.gov/",
         "https://www.cms.gov/files/document/hhs-administered-ferp-deadline-extension-07-31-26.pdf",
         "https://www.cms.gov/CCIIO/Resources/Files/external_appeals"
       ],
-      "last_review_attempt": "2026-10-04",
-      "latest_review_record": "maintenance/reviews/2026-10-04-ferp-post-deadline.md",
-      "review_status": "partial"
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-insurance-appeals.md",
+      "review_status": "complete"
     },
     {
       "id": "china-health-access",
@@ -130,8 +130,8 @@
       "scope": "预缴税、申报付款期限、州居民身份",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-09-24",
-      "review_record": "maintenance/reviews/2026-09-24-us-tax.md",
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-us-tax.md",
       "sources": [
         "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
         "https://www.irs.gov/publications/p505",
@@ -160,8 +160,8 @@
         "https://www.irs.gov/forms-pubs/about-form-8938",
         "https://www.irs.gov/businesses/corporations/basic-questions-and-answers-on-form-8938"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-us-tax.md",
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-us-tax.md",
       "review_status": "complete"
     },
     {
@@ -245,8 +245,8 @@
       "scope": "入境证件、过境、药品携带及旅行动态",
       "interval_days": 14,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-10-07",
-      "review_record": "maintenance/reviews/2026-10-07-travel-entry.md",
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-travel-entry.md",
       "sources": [
         "https://travel.state.gov/en/international-travel/planning/checklist.html",
         "https://travel.state.gov/en/international-travel/planning.html",
@@ -266,8 +266,8 @@
         "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
         "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"
       ],
-      "last_review_attempt": "2026-10-07",
-      "latest_review_record": "maintenance/reviews/2026-10-07-travel-entry.md",
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-travel-entry.md",
       "review_status": "complete"
     },
     {
@@ -276,8 +276,8 @@
       "scope": "表格版本、费用、地址变更与更新窗口",
       "interval_days": 14,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-immigration.md",
       "sources": [
         "https://my.uscis.gov/",
         "https://www.uscis.gov/forms",
@@ -302,10 +302,10 @@
         "https://www.uscis.gov/green-card/after-we-grant-your-green-card/replace-your-green-card",
         "https://www.uscis.gov/i-751",
         "https://www.uscis.gov/green-card/after-we-grant-your-green-card/conditional-permanent-residence",
-        "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization/naturalization-eligibility",
+        "https://www.uscis.gov/citizenship-resource-center/learn-about-citizenship/naturalization-eligibility-tool-0",
         "https://www.uscis.gov/n-400",
         "https://my.uscis.gov/citizenship/what_to_expect",
-        "https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams",
+        "https://www.uscis.gov/avoid-scams",
         "https://www.uscis.gov/forms/filing-guidance",
         "https://www.uscis.gov/contactcenter",
         "https://www.uscis.gov/records/request-records-through-the-freedom-of-information-act-or-privacy-act",
@@ -323,9 +323,9 @@
         "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
         "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20187.pdf"
       ],
-      "last_review_attempt": "2026-10-15",
-      "latest_review_record": "maintenance/reviews/2026-10-15-immigration-fees-pre-switch.md",
-      "review_status": "partial"
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-immigration.md",
+      "review_status": "complete"
     },
     {
       "id": "cross-border-tax",
@@ -333,8 +333,8 @@
       "scope": "年度排除额、账户报告与中国税收居民规则",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-09-24",
-      "review_record": "maintenance/reviews/2026-09-24-cross-border-tax.md",
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-cross-border-tax.md",
       "sources": [
         "https://www.irs.gov/individuals/international-taxpayers",
         "https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-residents-abroad-filing-requirements",
@@ -375,9 +375,9 @@
         "https://www.chinatax.gov.cn/",
         "https://www.irs.gov/filing/file-an-amended-return"
       ],
-      "last_review_attempt": "2026-10-12",
-      "latest_review_record": "maintenance/reviews/2026-10-12-fbar-follow-through.md",
-      "review_status": "partial"
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-cross-border-tax.md",
+      "review_status": "complete"
     },
     {
       "id": "household-payroll",
@@ -385,8 +385,8 @@
       "scope": "年度工资税门槛、州劳动规则与工作资格",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": null,
-      "review_record": null,
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-household-payroll.md",
       "sources": [
         "https://www.irs.gov/publications/p926",
         "https://www.irs.gov/taxtopics/tc756",
@@ -415,11 +415,12 @@
         "https://www.nj.gov/labor/myworkrights/worker-protections/domestic_workers/domesticworkerrights_employers.shtml",
         "https://www.uscis.gov/sites/default/files/document/forms/i-9.pdf",
         "https://pub.njleg.state.nj.us/Bills/2022/PL23/262_.HTM",
-        "https://www.nj.gov/labor/myworkrights/assets/PDFs/MW-30%20%285-25%29%20Domestic%20Workers%20Model%20Contract-English.pdf"
+        "https://www.nj.gov/labor/myworkrights/assets/PDFs/MW-30%20%285-25%29%20Domestic%20Workers%20Model%20Contract-English.pdf",
+        "https://www.ssa.gov/OACT/COLA/CovThresh.html"
       ],
-      "last_review_attempt": "2026-10-08",
-      "latest_review_record": "maintenance/reviews/2026-10-08-household-nj-termination.md",
-      "review_status": "partial"
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-household-payroll.md",
+      "review_status": "complete"
     }
   ]
 }

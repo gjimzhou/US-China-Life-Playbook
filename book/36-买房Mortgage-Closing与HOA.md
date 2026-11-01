@@ -93,7 +93,7 @@
 
 若买下后要装修，再回到[第 09 章](09-住房物业与Contractor.md)核对 EPA 装修、维修与涂装（RRP）规则；“卖房披露”与“装修含铅材料安全作业方法”是两套不同义务。
 
-**继续看：** [HUD / EPA：含铅涂料披露规则说明](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：买方与租客可获得哪些含铅涂料信息](https://www.epa.gov/lead/what-information-can-i-get-about-lead-based-paint-home-i-buy-or-rent-it) · [HUD / EPA：含铅涂料披露规则说明](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：居民氡气防护指南](https://www.epa.gov/radon/radon-publications-webinars-and-videos)。一般房屋检查不代表铅 / 氡 / 石棉等专项风险已覆盖。
+**继续看：** [HUD / EPA：含铅涂料披露规则说明](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：买方与租客可获得哪些含铅涂料信息](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [HUD / EPA：含铅涂料披露规则说明](https://www.epa.gov/lead/lead-based-paint-disclosure-rule-section-1018-title-x) · [EPA：居民氡气防护指南](https://www.epa.gov/radon/radon-publications-webinars-and-videos)。一般房屋检查不代表铅 / 氡 / 石棉等专项风险已覆盖。
 
 ## 11. 出现具体信号再安排专项检查
 

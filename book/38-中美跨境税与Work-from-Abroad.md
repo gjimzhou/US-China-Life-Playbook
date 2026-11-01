@@ -161,7 +161,7 @@ IRS 比较表说明：FBAR 向 FinCEN 提交；Form 8938 通常随适用所得�
 
 “居住在境外”本身有税务住所、真实居住或实际在境要求等条件，不等于当年人在国外住过一段时间；没有所得税申报义务时，Form 8938 也有另外规则。门槛只是第一层筛查，仍需判断资产是否属于特定境外金融资产。
 
-**Form 8938 的申报时间与 FBAR 不同。** 它通常附在相应联邦所得税表上，并按该税表 的到期日（**包括获准的申报延期**）提交；不是另有一个固定 4/15 → 10/15 的独立电子申报系统。如果本来不需要提交该所得税表，Form 8938 是否仍需提交还要按 Form 8938 规则判断。
+**Form 8938 的申报时间与 FBAR 不同。** 它通常附在相应联邦所得税表上，并按该税表 的到期日（**包括获准的申报延期**）提交；不是另有一个固定 4/15 → 10/15 的独立电子申报系统。IRS明确：如果当年没有所得税申报义务，即使资产超过相应门槛，也无需提交Form 8938。这个例外不免除独立判断FBAR或其他信息申报义务。
 
 **直接核对：** [IRS：Do I need to file Form 8938? — 当前门槛与 living-abroad 定义](https://www.irs.gov/businesses/corporations/do-i-need-to-file-form-8938-statement-of-specified-foreign-financial-assets) · [IRS：境外金融资产表申报时间与方式（Form 8938）](https://www.irs.gov/instructions/i8938) · [IRS：境外金融资产表与海外金融账户报告要求比较](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements) · [IRS：特定境外金融资产申报表（Form 8938）](https://www.irs.gov/forms-pubs/about-form-8938) · [境外金融账户申报（FinCEN FBAR）](https://www.fincen.gov/report-foreign-bank-and-financial-accounts)。
 
