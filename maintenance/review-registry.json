@@ -108,8 +108,8 @@
       "scope": "异地医保备案、结算与地方执行",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-09-24",
-      "review_record": "maintenance/reviews/2026-09-24-china-health-access.md",
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-china-health-access.md",
       "sources": [
         "https://www.nhsa.gov.cn/",
         "https://fuwu.nhsa.gov.cn/",
@@ -120,8 +120,8 @@
         "https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html",
         "https://ybj.sh.gov.cn/qtwj/20230117/8d897a7323044f85aaaffa16cbd08054.html"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-china-health-access.md",
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-china-health-access.md",
       "review_status": "complete"
     },
     {
@@ -170,8 +170,8 @@
       "scope": "Medicare参保窗口、保障边界与照护权限",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-09-24",
-      "review_record": "maintenance/reviews/2026-09-24-medicare.md",
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-medicare.md",
       "sources": [
         "https://www.ssa.gov/payee/",
         "https://www.ssa.gov/payee/faqrep.htm",
@@ -186,9 +186,11 @@
         "https://www.medicare.gov/coverage/skilled-nursing-facility-care",
         "https://www.medicaid.gov/medicaid/eligibility-policy/estate-recovery"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-medicare.md",
-      "review_status": "complete"
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-medicare.md",
+      "review_status": "complete",
+      "review_by": "2026-11-15",
+      "review_by_reason": "跨年福利选择前复查2027年A部分自付额及专业护理日费用公告；当前费用仅核实到2026年"
     },
     {
       "id": "employee-benefits",
@@ -196,8 +198,8 @@
       "scope": "COBRA、特殊参保与HSA/FSA年度限额",
       "interval_days": 30,
       "initial_review_by": "2026-10-01",
-      "last_verified": "2026-09-24",
-      "review_record": "maintenance/reviews/2026-09-24-employee-benefits.md",
+      "last_verified": "2026-11-01",
+      "review_record": "maintenance/reviews/2026-11-01-employee-benefits.md",
       "sources": [
         "https://www.dol.gov/agencies/whd/fact-sheets/28-fmla",
         "https://www.dol.gov/agencies/whd/fmla/am-i-eligible-FMLA-leave",
@@ -228,11 +230,14 @@
         "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra",
         "https://www.dol.gov/agencies/owcp/wc",
         "https://www.dol.gov/agencies/whd/fmla",
-        "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employers-guide-to-group-health-continuation-coverage-under-cobra"
+        "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employers-guide-to-group-health-continuation-coverage-under-cobra",
+        "https://www.irs.gov/irb/2026-25_irb"
       ],
-      "last_review_attempt": "2026-09-24",
-      "latest_review_record": "maintenance/reviews/2026-09-24-employee-benefits.md",
-      "review_status": "complete"
+      "last_review_attempt": "2026-11-01",
+      "latest_review_record": "maintenance/reviews/2026-11-01-employee-benefits.md",
+      "review_status": "complete",
+      "review_by": "2026-11-15",
+      "review_by_reason": "跨年福利选择前复查2027年医疗FSA公告；当前金额仅核实到2026年，2027年HSA已核实"
     },
     {
       "id": "travel-entry",
