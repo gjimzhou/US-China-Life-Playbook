@@ -101,5 +101,11 @@
   {"query":"换手机旧号码银行验证","path":"checklists/device-number-transition.md","section":"按这个顺序迁移与测试"},
   {"query":"回国前学校志愿者交接","path":"checklists/community-participation.md","section":"离境前把承诺交出去"},
   {"query":"照护者退出下一班没人","path":"checklists/compound-life-disruption.md","section":"照护者退出从最后一班排到新接手者"},
-  {"query":"失业又要搬家回国","path":"checklists/compound-life-disruption.md","section":"失业叠加搬家或离境分别找到四个决定者"}
+  {"query":"失业又要搬家回国","path":"checklists/compound-life-disruption.md","section":"失业叠加搬家或离境分别找到四个决定者"},
+  {"query":"在中国和美国同事约会议","path":"checklists/workplace-collaboration.md","section":"先确认在哪里工作再约跨时区协作"},
+  {"query":"两个经理都要我先做","path":"checklists/workplace-collaboration.md","section":"任务说不清时先确认交付和优先级"},
+  {"query":"老板说我不够主动怎么办","path":"checklists/workplace-collaboration.md","section":"求助和反馈要带着具体问题"},
+  {"query":"和同事意见不一致怎么处理","path":"checklists/workplace-collaboration.md","section":"意见冲突先区分事实方案和决定权"},
+  {"query":"不想参加同事下班聚餐","path":"checklists/workplace-collaboration.md","section":"同事邀请礼物和费用怎样回复"},
+  {"query":"回国请假工作怎么交接","path":"checklists/workplace-collaboration.md","section":"请假或离境前把任务交到人手里"}
 ]
