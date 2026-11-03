@@ -17,7 +17,7 @@
 
 表格仅解释分工，不能替代各州定义，也不表示每个人都必须建立信托。
 
-**入门：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/)。州法决定遗嘱、POA、见证、公证和遗产认证程序的具体要求。
+**入门：** [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist) · [ABA：寻找法律帮助](https://www.americanbar.org/groups/legal_services/flh-home/)。州法决定遗嘱、POA、见证、公证和遗产认证程序的具体要求。
 
 ## 2. 医疗代理先选人，再讨论文件
 
@@ -27,7 +27,7 @@
 
 医疗代理的作用是当你不能作决定时，在适用范围内代表你。
 
-**继续看：** [NIH / NIA：选择医疗代理人](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy) · [NIA：预先照护规划沟通指南](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care) · [美国国家医学图书馆健康资料（MedlinePlus）](https://medlineplus.gov/advancedirectives.html)。
+**继续看：** [MedlinePlus医学百科：选择医疗代理人](https://medlineplus.gov/ency/patientinstructions/000469.htm) · [MedlinePlus医学百科：预先医疗意愿文件](https://medlineplus.gov/ency/patientinstructions/000472.htm) · [美国国家医学图书馆健康资料（MedlinePlus）](https://medlineplus.gov/advancedirectives.html)。
 
 ## 3. 医疗意愿与代理安排相互补充
 
@@ -35,7 +35,7 @@
 
 普通预先指示是否需要另外的临床医嘱才能在急救现场执行，应向医生确认，不能自行把它等同于任何形式的不施行心肺复苏医嘱。
 
-**继续看：** [NIA：准备生前医疗意愿书](https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will) · [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html)。具体州表格、见证及医疗指令体系从本州卫生部门、州法律援助或州律师协会核对。
+**继续看：** [MedlinePlus医学百科：预先医疗意愿文件](https://medlineplus.gov/ency/patientinstructions/000472.htm) · [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html)。具体州表格、见证及医疗指令体系从本州卫生部门、州法律援助或州律师协会核对。
 
 ## 4. 不假设配偶或伴侣必然拥有全部权限
 
@@ -82,7 +82,7 @@
 
 一起核对医疗代理、财务授权、遗嘱、受益人、保险、账户所有权、雇主福利、紧急联系和相关协议义务。双方分别理解后再签署，不以“家庭统一管理”为由取消另一方的知情与自主。
 
-**复查入口：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement)。婚姻对州法文件的具体影响仍由本州律师确认。
+**复查入口：** [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement)。婚姻对州法文件的具体影响仍由本州律师确认。
 
 ## 9. 律师委托范围要写明
 
@@ -112,7 +112,7 @@
 
 意愿变化时及时更新讨论和适当文件，不让代理人根据多年以前的闲聊猜测。
 
-**对话工具：** [NIA：预先照护规划沟通指南](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care)。其重点是先谈价值取舍，再把需要的决定写入适用文件。
+**对话工具：** [MedlinePlus医学百科：预先医疗意愿文件](https://medlineplus.gov/ency/patientinstructions/000472.htm)。可先与医生和家人讨论治疗选择，再按州规则形成文件并提供副本。
 
 ## 12. 定期及重大变化后复查
 

@@ -84,7 +84,7 @@
 
 可分为身份、法律、税务、保险、医疗、住宅、车辆、宠物、工作、父母及跨境资料。索引说明原件位置、负责人和访问方式，不要求所有原件堆在同一个地方。
 
-**整理参考：** [FEMA：紧急财务资料包](https://www.ready.gov/financial-preparedness) · [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。本书的分类是实务索引，不要求采用相同文件夹结构。
+**整理参考：** [FEMA：紧急财务资料包](https://www.ready.gov/financial-preparedness) · [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist)。本书的分类是实务索引，不要求采用相同文件夹结构。
 
 ### 凭据与普通文档区别管理
 
@@ -104,7 +104,7 @@
 
 接手安排须尊重法律权限与隐私，不能把共享登录当成完整授权。
 
-**权限参考：** [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html) · [NIH / NIA：选择医疗代理人](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy)。
+**权限参考：** [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html) · [MedlinePlus医学百科：选择医疗代理人](https://medlineplus.gov/ency/patientinstructions/000469.htm)。
 
 ### 出门前使用固定清单
 
@@ -116,7 +116,7 @@
 
 医疗、财务、到场接应与信息更新可分别负责。兄弟姐妹多人不等于自然有人接手，详见[第 20 章](20-父母养老与远程照护.md)。
 
-**照护工具：** [NIA：照护工具包](https://www.nia.nih.gov/toolkits/caregiving) · [老年照护服务查询（Eldercare Locator）](https://eldercare.acl.gov/)。
+**照护工具：** [NIH MedlinePlus：照护入门与任务分工资料](https://magazine.medlineplus.gov/article/caregiving-101-worksheets-resources-and-suggestions-from-the-national-institute-on-aging) · [老年照护服务查询（Eldercare Locator）](https://eldercare.acl.gov/)。
 
 ## 购买与委托服务
 

@@ -205,7 +205,7 @@
 
 确认必要保障已生效，房契与遗产安排一致，门锁、钥匙、设备和紧急维修资料已交接。搬家后的账户与地址变更另按机构办理。
 
-**入住入口：** [USA.gov：更新地址](https://www.usa.gov/change-address) · [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance.htm) · [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)。
+**入住入口：** [USA.gov：更新地址](https://www.usa.gov/change-address) · [NAIC：房屋保险](https://content.naic.org/consumer/homeowners-insurance.htm) · [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist)。
 
 ## 30. 比较自住价值与财务后果
 

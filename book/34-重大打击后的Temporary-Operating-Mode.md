@@ -83,7 +83,7 @@
 
 在患者同意和机构允许的范围内，陪同人可帮助提问、记要点和处理后勤。患者能自行决定时仍由患者决定；不能自行决定时按适用法律和授权处理。
 
-**权限参考：** [HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html) · [NIH / NIA：选择医疗代理人](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy)。
+**权限参考：** [HHS：医疗资料代理人](https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html) · [MedlinePlus医学百科：选择医疗代理人](https://medlineplus.gov/ency/patientinstructions/000469.htm)。
 
 ## 大额付款独立核实
 

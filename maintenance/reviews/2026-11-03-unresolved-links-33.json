@@ -1,0 +1,974 @@
+{
+  "date": "2026-11-03",
+  "base_commit": "c6a63c7e2473b1b5425382dcffcdcbe70e25ce49",
+  "baseline": "2026-11-03-unresolved-links-41.json: retain_unresolved only",
+  "scope_count": 33,
+  "http_counts": {
+    "blocked": 29,
+    "transient": 3,
+    "warning": 1
+  },
+  "dispositions": {
+    "retain_with_fallback": 9,
+    "retain_unresolved": 15,
+    "replace": 9
+  },
+  "candidate_probes": [
+    {
+      "url": "https://www.uscis.gov/contactcenter",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.uscis.gov/contactcenter",
+      "detail": ""
+    },
+    {
+      "url": "https://nasba.org/stateboards/",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://nasba.org/stateboards/",
+      "detail": ""
+    },
+    {
+      "url": "https://nasba.org/blog/2026/03/12/all-about-cpaverify/",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://nasba.org/blog/2026/03/12/all-about-cpaverify/",
+      "detail": ""
+    },
+    {
+      "url": "https://acl.gov/help",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://acl.gov/help",
+      "detail": ""
+    },
+    {
+      "url": "https://medlineplus.gov/ency/patientinstructions/000469.htm",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://medlineplus.gov/ency/patientinstructions/000469.htm",
+      "detail": ""
+    },
+    {
+      "url": "https://medlineplus.gov/ency/patientinstructions/000472.htm",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://medlineplus.gov/ency/patientinstructions/000472.htm",
+      "detail": ""
+    },
+    {
+      "url": "https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist",
+      "detail": ""
+    },
+    {
+      "url": "https://magazine.medlineplus.gov/article/caregiving-101-worksheets-resources-and-suggestions-from-the-national-institute-on-aging",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://magazine.medlineplus.gov/article/caregiving-101-worksheets-resources-and-suggestions-from-the-national-institute-on-aging",
+      "detail": ""
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFRcdd53b28839f370/section-300.301",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.502",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.504",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    },
+    {
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_e4d03a20c0fd49769e408c7bf3791ff5.html",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_e4d03a20c0fd49769e408c7bf3791ff5.html",
+      "detail": ""
+    },
+    {
+      "url": "https://www.longyang.gov.cn/info/4165/13899419.htm",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.longyang.gov.cn/info/4165/13899419.htm",
+      "detail": ""
+    }
+  ],
+  "records": [
+    {
+      "url": "https://cpaverify.org/",
+      "sources": [
+        "book/27-律师CPA医生保险经纪怎么找.md",
+        "book/33-反面清单-有钱也不要乱做的事.md"
+      ],
+      "previous_reason": "执照查询入口受限，未确认全国等价查询工具；地方执照页不能替代跨州查询。",
+      "http_probe": {
+        "url": "https://cpaverify.org/",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://ald.nasba.org:443/search/cpa",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://cpaverify.org/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://cpaverify.org/: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第27章税务资格核验：按发证州查执照与公开处分，查不到向监管委员会确认；不是新的全国查询库。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://nasba.org/stateboards/"
+    },
+    {
+      "url": "https://egov.uscis.gov/casestatus/landing.do",
+      "sources": [
+        "book/30-Household-Emergency-Runbook.md",
+        "book/34-重大打击后的Temporary-Operating-Mode.md",
+        "book/37-移民身份与文件维护.md"
+      ],
+      "previous_reason": "检索仍指向 USCIS 案件/处理时间/e-Request 工具；不同工具和 ndd/ndc 不能互换，未验证登录或提交，不改成介绍首页。",
+      "http_probe": {
+        "url": "https://egov.uscis.gov/casestatus/landing.do",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://egov.uscis.gov/casestatus/landing.do",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://egov.uscis.gov/casestatus/landing.do",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://egov.uscis.gov/casestatus/landing.do: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第37章第21节及通知/证件遗失清单：账户技术帮助、境内外电话、身份限制、服务请求记录；不替代处理时间工具或延长通知期限。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://www.uscis.gov/contactcenter"
+    },
+    {
+      "url": "https://egov.uscis.gov/e-request",
+      "sources": [
+        "book/37-移民身份与文件维护.md",
+        "checklists/immigration-notice-rfe.md",
+        "references/editorial-status.md"
+      ],
+      "previous_reason": "检索仍指向 USCIS 案件/处理时间/e-Request 工具；不同工具和 ndd/ndc 不能互换，未验证登录或提交，不改成介绍首页。",
+      "http_probe": {
+        "url": "https://egov.uscis.gov/e-request",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://egov.uscis.gov/e-request",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://egov.uscis.gov/e-request",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://egov.uscis.gov/e-request: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第37章第21节及通知/证件遗失清单：账户技术帮助、境内外电话、身份限制、服务请求记录；不替代处理时间工具或延长通知期限。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://www.uscis.gov/contactcenter"
+    },
+    {
+      "url": "https://egov.uscis.gov/e-request/ndc",
+      "sources": [
+        "checklists/lost-wallet-documents.md"
+      ],
+      "previous_reason": "检索仍指向 USCIS 案件/处理时间/e-Request 工具；不同工具和 ndd/ndc 不能互换，未验证登录或提交，不改成介绍首页。",
+      "http_probe": {
+        "url": "https://egov.uscis.gov/e-request/ndc",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://egov.uscis.gov/e-request/ndc",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://egov.uscis.gov/e-request/ndc",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://egov.uscis.gov/e-request/ndc: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第37章第21节及通知/证件遗失清单：账户技术帮助、境内外电话、身份限制、服务请求记录；不替代处理时间工具或延长通知期限。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://www.uscis.gov/contactcenter"
+    },
+    {
+      "url": "https://egov.uscis.gov/processing-times/",
+      "sources": [
+        "book/37-移民身份与文件维护.md"
+      ],
+      "previous_reason": "检索仍指向 USCIS 案件/处理时间/e-Request 工具；不同工具和 ndd/ndc 不能互换，未验证登录或提交，不改成介绍首页。",
+      "http_probe": {
+        "url": "https://egov.uscis.gov/processing-times/",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://egov.uscis.gov/processing-times/",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://egov.uscis.gov/processing-times/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://egov.uscis.gov/processing-times/: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第37章第21节及通知/证件遗失清单：账户技术帮助、境内外电话、身份限制、服务请求记录；不替代处理时间工具或延长通知期限。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://www.uscis.gov/contactcenter"
+    },
+    {
+      "url": "https://egov.uscis.gov/processing-times/processing-times-faqs",
+      "sources": [
+        "book/37-移民身份与文件维护.md"
+      ],
+      "previous_reason": "检索仍指向 USCIS 案件/处理时间/e-Request 工具；不同工具和 ndd/ndc 不能互换，未验证登录或提交，不改成介绍首页。",
+      "http_probe": {
+        "url": "https://egov.uscis.gov/processing-times/processing-times-faqs",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://egov.uscis.gov/processing-times/processing-times-faqs",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://egov.uscis.gov/processing-times/processing-times-faqs",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://egov.uscis.gov/processing-times/processing-times-faqs: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第37章第21节及通知/证件遗失清单：账户技术帮助、境内外电话、身份限制、服务请求记录；不替代处理时间工具或延长通知期限。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://www.uscis.gov/contactcenter"
+    },
+    {
+      "url": "https://si.12333.gov.cn/",
+      "sources": [
+        "book/12-中国政府与办事入口.md",
+        "book/18-中美双栖生活基础设施.md",
+        "book/26-如何维持中国社会关系.md",
+        "book/32-年度Household-Review.md",
+        "book/35-死亡后的实际操作与Estate-Administration.md",
+        "checklists/annual-review.md",
+        "checklists/first-30-days.md",
+        "checklists/parents-emergency.md"
+      ],
+      "previous_reason": "12333 官方办事指南仍引用该平台；动态登录地址含会话参数不宜固化；本机 TLS 错误且连接器无正文，保留。",
+      "http_probe": {
+        "url": "https://si.12333.gov.cn/",
+        "category": "transient",
+        "status": null,
+        "final_url": "https://si.12333.gov.cn/",
+        "detail": "[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010)"
+      },
+      "connector": {
+        "url": "https://si.12333.gov.cn/",
+        "title": "首页 (https://si.12333.gov.cn/)",
+        "lines": 0,
+        "failure": null,
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第12章第13节及三份清单：本人参保缴费查询用电子社保卡/掌上12333或经办窗口；代办与其他待遇事项另核。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://www.longyang.gov.cn/info/4165/13899419.htm"
+    },
+    {
+      "url": "https://sites.ed.gov/idea/",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "previous_reason": "检索仍指向 IDEA 对应条文；保留准确条文入口，不用较窄的监测材料 PDF 替代；eCFR 是不同来源渠道。",
+      "http_probe": {
+        "url": "https://sites.ed.gov/idea/",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://sites.ed.gov/idea/",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://sites.ed.gov/idea/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://sites.ed.gov/idea/: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "检索仍指向 IDEA 对应条文；保留准确条文入口，不用较窄的监测材料 PDF 替代；eCFR 是不同来源渠道。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://sites.ed.gov/idea/regs/b/d/300.301",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "previous_reason": "检索仍指向 IDEA 对应条文；保留准确条文入口，不用较窄的监测材料 PDF 替代；eCFR 是不同来源渠道。",
+      "http_probe": {
+        "url": "https://sites.ed.gov/idea/regs/b/d/300.301",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://sites.ed.gov/idea/regs/b/d/300.301",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://sites.ed.gov/idea/regs/b/d/300.301",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://sites.ed.gov/idea/regs/b/d/300.301: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "replace",
+      "reason": "连接器读到同编号现行条文全文；改用eCFR规范地址。脚本仍遇访问验证，不宣称可用性在所有网络恢复。",
+      "replacement": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFRcdd53b28839f370/section-300.301",
+      "supplement": null
+    },
+    {
+      "url": "https://sites.ed.gov/idea/regs/b/e/300.502",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "previous_reason": "检索仍指向 IDEA 对应条文；保留准确条文入口，不用较窄的监测材料 PDF 替代；eCFR 是不同来源渠道。",
+      "http_probe": {
+        "url": "https://sites.ed.gov/idea/regs/b/e/300.502",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://sites.ed.gov/idea/regs/b/e/300.502",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://sites.ed.gov/idea/regs/b/e/300.502",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://sites.ed.gov/idea/regs/b/e/300.502: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "replace",
+      "reason": "连接器读到同编号现行条文全文；改用eCFR规范地址。脚本仍遇访问验证，不宣称可用性在所有网络恢复。",
+      "replacement": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.502",
+      "supplement": null
+    },
+    {
+      "url": "https://sites.ed.gov/idea/regs/b/e/300.504",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "previous_reason": "检索仍指向 IDEA 对应条文；保留准确条文入口，不用较窄的监测材料 PDF 替代；eCFR 是不同来源渠道。",
+      "http_probe": {
+        "url": "https://sites.ed.gov/idea/regs/b/e/300.504",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://sites.ed.gov/idea/regs/b/e/300.504",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://sites.ed.gov/idea/regs/b/e/300.504",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://sites.ed.gov/idea/regs/b/e/300.504: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "replace",
+      "reason": "连接器读到同编号现行条文全文；改用eCFR规范地址。脚本仍遇访问验证，不宣称可用性在所有网络恢复。",
+      "replacement": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.504",
+      "supplement": null
+    },
+    {
+      "url": "https://www.12315.cn/",
+      "sources": [
+        "book/12-中国政府与办事入口.md",
+        "book/18-中美双栖生活基础设施.md",
+        "book/31-美国人默认知道的100件小事.md",
+        "checklists/emergency-sheet.md",
+        "checklists/first-30-days.md"
+      ],
+      "previous_reason": "未确认可等价办理的公开替代入口；连接错误不证明平台关闭，不替换成地方投诉或第三方入口。",
+      "http_probe": {
+        "url": "https://www.12315.cn/",
+        "category": "transient",
+        "status": null,
+        "final_url": "https://www.12315.cn/",
+        "detail": "Remote end closed connection without response"
+      },
+      "connector": {
+        "url": "https://www.12315.cn/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.12315.cn/: (502) Bad Gateway",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第12章第3节及两份清单：准备材料，核对管辖、官方邮寄/窗口地址、收件及受理情况。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_e4d03a20c0fd49769e408c7bf3791ff5.html"
+    },
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+      "sources": [
+        "DOWNLOADS.md"
+      ],
+      "previous_reason": "按具体帮助页 nodeId 搜索，未确认同用途替代；政府材料不能替代平台自己的消费者条款。",
+      "http_probe": {
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu: (503) Service Unavailable",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "按具体帮助页 nodeId 搜索，未确认同用途替代；政府材料不能替代平台自己的消费者条款。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.americorps.gov/serve/volunteer",
+      "sources": [
+        "book/24-美国社交礼仪与潜规则.md",
+        "book/25-如何建立美国本地社会基础设施.md"
+      ],
+      "previous_reason": "检索找到 https://www.americorps.gov/join/find-volunteer-opportunity，但连接器读取仍403；未确认实际查询可用，不将新路径视为已解决。 本轮再次打开join/find-volunteer-opportunity仍403，未采用。",
+      "http_probe": {
+        "url": "https://www.americorps.gov/serve/volunteer",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.americorps.gov/serve/volunteer",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.americorps.gov/serve/volunteer",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.americorps.gov/serve/volunteer: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "检索找到 https://www.americorps.gov/join/find-volunteer-opportunity，但连接器读取仍403；未确认实际查询可用，不将新路径视为已解决。 本轮再次打开join/find-volunteer-opportunity仍403，未采用。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1",
+      "sources": [
+        "book/40-高价值物品收藏与Luxury-Assets.md"
+      ],
+      "previous_reason": "保留对应条号和片段；检索未确认与失败条文同范围且更可靠的官方入口，不用其他条文或法规首页替换。",
+      "http_probe": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1",
+        "category": "blocked",
+        "status": 200,
+        "final_url": "https://unblock.federalregister.gov/",
+        "detail": "Redirected to an access-verification page; source not read"
+      },
+      "connector": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": null,
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "保留对应条号和片段；检索未确认与失败条文同范围且更可靠的官方入口，不用其他条文或法规首页替换。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31",
+      "sources": [
+        "book/40-高价值物品收藏与Luxury-Assets.md"
+      ],
+      "previous_reason": "保留对应条号和片段；检索未确认与失败条文同范围且更可靠的官方入口，不用其他条文或法规首页替换。",
+      "http_probe": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31",
+        "category": "blocked",
+        "status": 200,
+        "final_url": "https://unblock.federalregister.gov/",
+        "detail": "Redirected to an access-verification page; source not read"
+      },
+      "connector": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": null,
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "保留对应条号和片段；检索未确认与失败条文同范围且更可靠的官方入口，不用其他条文或法规首页替换。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "previous_reason": "官方检索仍有同路径 Section 504/FAPE 和 disability discrimination 资料；其他 FAQ 不覆盖完整原文，保留访问缺口。",
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "官方检索仍有同路径 Section 504/FAPE 和 disability discrimination 资料；其他 FAQ 不覆盖完整原文，保留访问缺口。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+      "sources": [
+        "checklists/school-support.md"
+      ],
+      "previous_reason": "官方检索仍有同路径 Section 504/FAPE 和 disability discrimination 资料；其他 FAQ 不覆盖完整原文，保留访问缺口。",
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "官方检索仍有同路径 Section 504/FAPE 和 disability discrimination 资料；其他 FAQ 不覆盖完整原文，保留访问缺口。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md",
+        "checklists/school-support.md"
+      ],
+      "previous_reason": "官方检索仍有同路径 Section 504/FAPE 和 disability discrimination 资料；其他 FAQ 不覆盖完整原文，保留访问缺口。",
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "官方检索仍有同路径 Section 504/FAPE 和 disability discrimination 资料；其他 FAQ 不覆盖完整原文，保留访问缺口。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+      "sources": [
+        "book/04-美国医疗系统怎么用.md",
+        "book/06-医疗记录药物与跨境Continuity.md"
+      ],
+      "previous_reason": "检索得到消费者 medical-records 和具体权利 FAQ；不能覆盖原专业 access guidance 的全部期限、格式、费用边界，不机械替换。",
+      "http_probe": {
+        "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "检索得到消费者 medical-records 和具体权利 FAQ；不能覆盖原专业 access guidance 的全部期限、格式、费用边界，不机械替换。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.ignet.gov/content/report-government-fraud",
+      "sources": [
+        "book/11-美国政府到底找谁.md"
+      ],
+      "previous_reason": "按官方域及 report government fraud 检索未确认等价可读入口；其他投诉机关管辖不同，不替换。 本轮官方检索找到Oversight.gov/hotline及/where-report-fraud-waste-abuse-or-retaliation，两者读取仍406，未采用。",
+      "http_probe": {
+        "url": "https://www.ignet.gov/content/report-government-fraud",
+        "category": "blocked",
+        "status": 406,
+        "final_url": "https://www.ignet.gov/content/report-government-fraud",
+        "detail": "Not Acceptable"
+      },
+      "connector": {
+        "url": "https://www.ignet.gov/content/report-government-fraud",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ignet.gov/content/report-government-fraud: (406) Not Acceptable",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "按官方域及 report government fraud 检索未确认等价可读入口；其他投诉机关管辖不同，不替换。 本轮官方检索找到Oversight.gov/hotline及/where-report-fraud-waste-abuse-or-retaliation，两者读取仍406，未采用。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.nhc.gov.cn/",
+      "sources": [
+        "book/05-中国医疗系统怎么用.md"
+      ],
+      "previous_reason": "首页用于查找政策仍保留；2025互联网医疗建议答复未找到可核对的同文官方转载，不能用其他年份规则代替。",
+      "http_probe": {
+        "url": "https://www.nhc.gov.cn/",
+        "category": "warning",
+        "status": 412,
+        "final_url": "https://www.nhc.gov.cn/",
+        "detail": "Precondition Failed"
+      },
+      "connector": {
+        "url": "https://www.nhc.gov.cn/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nhc.gov.cn/: (412) Precondition Failed",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "首页用于查找政策仍保留；2025互联网医疗建议答复未找到可核对的同文官方转载，不能用其他年份规则代替。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care",
+      "sources": [
+        "book/10-Estate-Planning与失能.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care",
+        "title": "www.nia.nih.gov (https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care)",
+        "lines": 3,
+        "failure": null,
+        "gate": true
+      },
+      "disposition": "replace",
+      "reason": "已读取替代正文并核对引用用途；不是旧网页同文迁址。",
+      "replacement": "https://medlineplus.gov/ency/patientinstructions/000472.htm",
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy",
+      "sources": [
+        "book/10-Estate-Planning与失能.md",
+        "book/20-父母养老与远程照护.md",
+        "book/23-时间精力与Household-Management.md",
+        "book/28-婚姻Prenup与夫妻财务.md",
+        "book/33-反面清单-有钱也不要乱做的事.md",
+        "book/34-重大打击后的Temporary-Operating-Mode.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy",
+        "title": "www.nia.nih.gov (https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy)",
+        "lines": 3,
+        "failure": null,
+        "gate": true
+      },
+      "disposition": "replace",
+      "reason": "已读取替代正文并核对引用用途；不是旧网页同文迁址。",
+      "replacement": "https://medlineplus.gov/ency/patientinstructions/000469.htm",
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future",
+      "sources": [
+        "book/10-Estate-Planning与失能.md",
+        "book/20-父母养老与远程照护.md",
+        "book/21-孩子教育Childcare与家庭规划.md",
+        "book/23-时间精力与Household-Management.md",
+        "book/28-婚姻Prenup与夫妻财务.md",
+        "book/31-美国人默认知道的100件小事.md",
+        "book/35-死亡后的实际操作与Estate-Administration.md",
+        "book/36-买房Mortgage-Closing与HOA.md",
+        "book/40-高价值物品收藏与Luxury-Assets.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future",
+        "title": "www.nia.nih.gov (https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future)",
+        "lines": 3,
+        "failure": null,
+        "gate": true
+      },
+      "disposition": "replace",
+      "reason": "已读取替代正文并核对引用用途；不是旧网页同文迁址。",
+      "replacement": "https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist",
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will",
+      "sources": [
+        "book/10-Estate-Planning与失能.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will: (405) Method Not Allowed",
+        "gate": false
+      },
+      "disposition": "replace",
+      "reason": "已读取替代正文并核对引用用途；不是旧网页同文迁址。",
+      "replacement": "https://medlineplus.gov/ency/patientinstructions/000472.htm",
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "title": "www.nia.nih.gov (https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help)",
+        "lines": 3,
+        "failure": null,
+        "gate": true
+      },
+      "disposition": "retain_unresolved",
+      "reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving: (405) Method Not Allowed",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/getting-started-caregiving",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/getting-started-caregiving",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/getting-started-caregiving",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/getting-started-caregiving",
+        "title": "www.nia.nih.gov (https://www.nia.nih.gov/health/caregiving/getting-started-caregiving)",
+        "lines": 3,
+        "failure": null,
+        "gate": true
+      },
+      "disposition": "replace",
+      "reason": "已读取替代正文并核对引用用途；不是旧网页同文迁址。",
+      "replacement": "https://magazine.medlineplus.gov/article/caregiving-101-worksheets-resources-and-suggestions-from-the-national-institute-on-aging",
+      "supplement": null
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/services-older-adults-living-home",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/services-older-adults-living-home",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/services-older-adults-living-home",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/services-older-adults-living-home",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nia.nih.gov/health/caregiving/services-older-adults-living-home: (405) Method Not Allowed",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "reason": "第20章第2节：按父母实际邮编和需求找当地资源，电话后备及资格、费用、等候、转介跟进；不替代原文所有服务比较。 原工具访问缺口仍在，未测试登录、通话或提交。",
+      "replacement": null,
+      "supplement": "https://acl.gov/help"
+    },
+    {
+      "url": "https://www.nia.nih.gov/toolkits/caregiving",
+      "sources": [
+        "book/20-父母养老与远程照护.md",
+        "book/23-时间精力与Household-Management.md"
+      ],
+      "previous_reason": "现行 advance-care-planning、caregiving 专题候选仍返回 JavaScript/机器人验证；旧版 PDF 较窄且不能证明整篇现行内容，保留原文待复核。 本轮MedlinePlus提供可读的医疗意愿和照护概览，但无法替代本条具体主题全文，保留原深链接。",
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/toolkits/caregiving",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/toolkits/caregiving",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/toolkits/caregiving",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nia.nih.gov/toolkits/caregiving: (405) Method Not Allowed",
+        "gate": false
+      },
+      "disposition": "replace",
+      "reason": "已读取替代正文并核对引用用途；不是旧网页同文迁址。",
+      "replacement": "https://magazine.medlineplus.gov/article/caregiving-101-worksheets-resources-and-suggestions-from-the-national-institute-on-aging",
+      "supplement": null
+    },
+    {
+      "url": "https://www.sipc.org/list-of-members",
+      "sources": [
+        "book/13-高收入家庭财务Operating-System.md",
+        "book/18-中美双栖生活基础设施.md",
+        "book/32-年度Household-Review.md"
+      ],
+      "previous_reason": "官方检索及 Investor.gov 联合 SIPC 公告仍引用 SIPC 会员目录；介绍页/FINRA BrokerCheck 不等于 SIPC 会员查询。证书链错误未绕过。",
+      "http_probe": {
+        "url": "https://www.sipc.org/list-of-members",
+        "category": "transient",
+        "status": null,
+        "final_url": "https://www.sipc.org/list-of-members",
+        "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)"
+      },
+      "connector": {
+        "url": "https://www.sipc.org/list-of-members",
+        "title": "SIPC - List of Members (https://www.sipc.org/list-of-members)",
+        "lines": 803,
+        "failure": null,
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "连接器返回803行导航与未渲染的会员搜索模板，不能据此确认实际会员查询可用；脚本仍受限，保留正式查询地址。",
+      "replacement": null,
+      "supplement": null
+    },
+    {
+      "url": "https://www.usembassy.gov/",
+      "sources": [
+        "book/29-旅行长期停留与全球Mobility.md",
+        "book/30-Household-Emergency-Runbook.md",
+        "book/31-美国人默认知道的100件小事.md",
+        "checklists/international-travel.md"
+      ],
+      "previous_reason": "国务院当前学历认证页面仍链接该使领馆目录；单个使领馆页不能替代全球查找入口。",
+      "http_probe": {
+        "url": "https://www.usembassy.gov/",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.usembassy.gov/",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.usembassy.gov/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.usembassy.gov/: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "reason": "国务院当前学历认证页面仍链接该使领馆目录；单个使领馆页不能替代全球查找入口。",
+      "replacement": null,
+      "supplement": null
+    }
+  ]
+}

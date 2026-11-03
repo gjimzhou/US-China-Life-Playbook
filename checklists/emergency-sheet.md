@@ -60,6 +60,8 @@
 - 当地政务服务渠道：______
 - 银行官方挂失与反欺诈入口：______
 
+消费投诉入口不可用时，使用[市场监管部门邮寄或窗口路径](../book/12-中国政府与办事入口.md#3-消费投诉与违法举报要分清)，先确认管辖和受理渠道。
+
 **中国官方入口：** [国家政务服务平台](https://gjzwfw.www.gov.cn/) · [国家医保服务平台](https://fuwu.nhsa.gov.cn/) · [国家政务服务平台：医疗机构执业登记查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/zwfwunitsearch/) · [卫健委：医师、护士及专项机构查询](https://zwfw.nhc.gov.cn/cxx/) · [全国 12315 平台](https://www.12315.cn/)。
 
 ## 只记文件位置
