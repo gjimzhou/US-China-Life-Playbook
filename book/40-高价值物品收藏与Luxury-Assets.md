@@ -262,7 +262,7 @@ CBP 当前指引的一般返美居民规则是：年满 21 岁、仅供个人使
 
 让合法执行人能够找到清单、来源文件和专业联系人，说明重要纪念物品的分配意愿。涉及多人继承时，提前考虑估价与公平分配方法，并让律师确认表达意愿的文件是否有效。
 
-**继续看：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)；物品分配效力仍按州法和遗产规划文件确认。
+**继续看：** [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist) · [遗属、遗产执行人与管理人税务指南（IRS Publication 559）](https://www.irs.gov/publications/p559)；物品分配效力仍按州法和遗产规划文件确认。
 
 ---
 

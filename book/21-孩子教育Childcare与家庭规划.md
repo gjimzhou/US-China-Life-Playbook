@@ -122,7 +122,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 不要未经分析就让未成年人直接承接复杂资产，具体结构见[第 10 章](10-Estate-Planning与失能.md)。
 
-**准备 / 找律师：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。监护与未成年人资产管理依州法。
+**准备 / 找律师：** [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist) · [ABA：州律师协会与律师查询](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)。监护与未成年人资产管理依州法。
 
 ## 15. 养育与管钱可以是不同职责
 
@@ -216,7 +216,7 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 第504条不是“轻量版 IEP”。美国教育部说明，学校应基于个体评估和多种信息来源判断残障与需要；不应只凭一个诊断名称或刻板假设决定服务。
 
-**官方原文：** [残障儿童初次评估规则（IDEA §300.301）](https://sites.ed.gov/idea/regs/b/d/300.301) · [程序保障通知规则（IDEA §300.504）](https://sites.ed.gov/idea/regs/b/e/300.504) · [独立教育评估规则（IDEA §300.502）](https://sites.ed.gov/idea/regs/b/e/300.502) · [U.S. Department of Education：第504条免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
+**官方原文：** [eCFR：34 CFR 300.301](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFRcdd53b28839f370/section-300.301) · [eCFR：34 CFR 300.504](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.504) · [eCFR：34 CFR 300.502](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.502) · [U.S. Department of Education：第504条免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
 
 ## 26. 家庭规划也包括怀孕、妊娠丢失和生产
 

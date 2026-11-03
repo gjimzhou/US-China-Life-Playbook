@@ -84,7 +84,7 @@
 
 与律师讨论医疗代理、预先医疗指示、财务授权及资料取得权限，并问相关机构如何登记。婚姻身份、紧急联系人、医疗信息访问和代办财务并非同一种权限。详见[遗产与失能规划](10-Estate-Planning与失能.md)。
 
-**继续看：** [NIH / NIA：选择医疗代理人](https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy) · [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
+**继续看：** [MedlinePlus医学百科：选择医疗代理人](https://medlineplus.gov/ency/patientinstructions/000469.htm) · [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/)。
 
 ## 12. 让家务与资料可以交接
 
@@ -168,7 +168,7 @@
 
 分别检查遗嘱、适用信托、授权、医疗指示、受益人与产权，不把其中任何一份文件视为其余手续的替代。完成时应知道哪里保存签署原件、谁持有副本、机构是否已接受需要登记的安排。
 
-**继续看：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。
+**继续看：** [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。
 
 ## 25. 只公开问题清单，不公开私人协议
 

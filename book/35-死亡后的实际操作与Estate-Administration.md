@@ -24,7 +24,7 @@
 
 寻找遗嘱、信托、殡葬意愿、身份与关系文件、受益人记录、房契、保单、报税资料、雇主福利和账户目录。记录原件在哪里，暂不把唯一原件寄给多个机构，按要求提供副本或认证件。
 
-**准备参考：** [NIA：整理重要事务与文件](https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future) · [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one)。
+**准备参考：** [NIH MedlinePlus：重要事务整理清单](https://magazine.medlineplus.gov/multimedia/getting-your-affairs-in-order-checklist) · [美国政府：亲人身故后的办事入口](https://www.usa.gov/death-loved-one)。
 
 ## 4. 死亡证明按机构要求取得
 

@@ -76,6 +76,8 @@ IRS 上述入口链接的名录收录持特定资质或完成指定项目的报�
 
 **继续看：** [IRS：报税人员识别号码要求](https://www.irs.gov/tax-professionals/ptin-requirements-for-tax-return-preparers) · [IRS：报税人员名录常见问题](https://www.irs.gov/tax-professionals/faqs-directory-of-federal-tax-return-preparers-with-credentials-and-select-qualifications)。
 
+**CPAverify 打不开或查不到时：** 先向候选人索取执照姓名、发证州和执照号码，再从上面的 NASBA 州委员会目录进入对应的 **委员会网站（Board Website）**，查执照状态及公开处分记录。查询结果要与经办人本人核对；没有结果时，使用该州委员会公布的联系方式询问，并保存查询日期或书面答复，不能直接断言无证。NASBA 的[数据库说明](https://nasba.org/blog/2026/03/12/all-about-cpaverify/)说明数据由参与的州监管委员会提供；有执照仍不等于熟悉你的跨境税务事项。
+
 ### 确认谁编制、谁复核、谁答疑
 
 请事务所说明谁可以接触资料，谁编制和复核税表，如何确认重要假设，以及谁处理报税后的通知。多人分工时，应约定由谁负责答疑和跟进。签名前自己核对姓名、账户、收入和主要选择，保留最终申报文件及接收确认。
