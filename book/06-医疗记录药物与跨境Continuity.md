@@ -151,7 +151,7 @@
 
 在父母知情及授权的前提下，整理慢性病、用药、常用医院与医生、最近住院、影像和医保信息。让现场照护者与远程家人使用同一份更新记录，减少互相转述造成的错误。
 
-**照护参考：** [NIA：照护安排](https://www.nia.nih.gov/health/caregiving) · [FDA：个人用药记录表](https://www.fda.gov/media/73856/download)。中国侧病历 / 医保入口见第05章。
+**照护参考：** [美国国家医学图书馆：家庭照护入门](https://medlineplus.gov/caregivers.html) · [FDA：个人用药记录表](https://www.fda.gov/media/73856/download)。中国侧病历 / 医保入口见第05章。
 
 ## 18. 医疗档案采用受保护的存储方式
 

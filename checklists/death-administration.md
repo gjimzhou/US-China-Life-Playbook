@@ -68,7 +68,7 @@
 - [ ] 办理适用的人寿与雇主保险，核对所需认证文件。
 - [ ] 维持必要住房、汽车、责任与贵重物品保障；住所空置等变化告知保险人。
 
-**保险入口：** [NAIC：人寿保险保单查找](https://eapps.naic.org/life-policy-locator/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。
+**保险入口：** [NAIC：人寿保险保单查找](https://eapps.naic.org/life-policy-locator/) · [NAIC：州保险监管部门目录](https://content.naic.org/state-insurance-departments)。 不知道保险公司或工具打不开时，按[保单查找材料、确认邮件与未回复处理](../book/35-死亡后的实际操作与Estate-Administration.md#10-个人购买的寿险另行追踪)继续。
 
 ## 账户分类与访问
 

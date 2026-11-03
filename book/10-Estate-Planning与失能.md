@@ -35,7 +35,7 @@
 
 普通预先指示是否需要另外的临床医嘱才能在急救现场执行，应向医生确认，不能自行把它等同于任何形式的不施行心肺复苏医嘱。
 
-**继续看：** [NIA：准备生前医疗意愿书](https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will) · [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)。具体州表格、见证及医疗指令体系从本州卫生部门、州法律援助或州律师协会核对。
+**继续看：** [NIA：准备生前医疗意愿书](https://www.nia.nih.gov/health/advance-care-planning/preparing-living-will) · [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html)。具体州表格、见证及医疗指令体系从本州卫生部门、州法律援助或州律师协会核对。
 
 ## 4. 不假设配偶或伴侣必然拥有全部权限
 
@@ -118,7 +118,7 @@
 
 年度复查可作为提醒；搬州、婚姻变化、重大诊断、代理人关系或能力变化、资产变化时提前复查。更新后询问旧文件如何处理并通知相关机构，防止同时流通互相冲突版本。
 
-**继续看：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)建议持续复查并把最新版本提供给代理人、医疗人员和相关家人；法律文件的撤销与替换方式仍按本州规则执行。
+**继续看：** [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html)建议持续复查并把最新版本提供给代理人、医疗人员和相关家人；法律文件的撤销与替换方式仍按本州规则执行。
 
 ## 13. 紧急时能找到文件
 
@@ -126,7 +126,7 @@
 
 医疗团队需要什么格式、是否已入档，应实际确认。
 
-**医疗文件入口：** [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)。完成后直接问 PCP / 医疗系统是否能把预先医疗指示或代理文件上传到病历。
+**医疗文件入口：** [HHS：获取个人病历](https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html) · [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html)。完成后直接问 PCP / 医疗系统是否能把预先医疗指示或代理文件上传到病历。
 
 ## 14. 跨境安排单独设计
 
@@ -142,7 +142,7 @@
 
 照护安排见[第 20 章](20-父母养老与远程照护.md)。
 
-**美国侧参考：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。中国侧授权和受理仍按父母实际所在地与具体机构核对。
+**美国侧参考：** [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。中国侧授权和受理仍按父母实际所在地与具体机构核对。
 
 ## 16. 数字资产与账户恢复一并准备
 
@@ -177,6 +177,6 @@
 - [ ] 原件、副本和数字资料可由适当人员取得。
 - [ ] 跨境受理和重大变化后的复查有负责人。
 
-**入口汇总：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [IRS：遗产税与赠与税](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
+**入口汇总：** [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [IRS：遗产税与赠与税](https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes) · [HCCH：附加证明书公约](https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille)。
 
 最后编辑与来源核验：2026-09-21。第三轮重新核对 IRS 2026 遗产 / 赠与税：基本免税额度为 $15,000,000；年度赠与免计入额度为 $19,000 每位受赠人；符合条件的赠与向非美国公民配偶的 2026 年度免计入额度为 $194,000，并明确“超过年度免计入额度 ≠ 立即产生赠与税账单”。同时补核 SSA 代表收款人制度：普通授权委托书 / 获授权代表 / 联名账户不等于 SSA 代表收款权限；受益人可预先指定最多 3 名未来候选代表收款人，但仍由 SSA 决定是否正式任命。另核对 NIH / NIA 预先照护规划、CFPB POA / 受信义务 / 代他人管理财务、DOL 退休福利及州律师 / 数字遗产入口。遗嘱、POA、见证、公证、受益人、遗产认证程序、信托、州遗产 / 继承税和跨境文件效力仍须按州法、机构规则及个人情况由专业人士确认。
