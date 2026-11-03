@@ -134,7 +134,7 @@
 
 询问协议、产权、受益人和遗产文件在这些情况下如何配合，哪些需要另外授权或机构办理。协议不是自动的资金访问工具，也不保证隔离所有债务风险。
 
-**继续看：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。
+**继续看：** [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html) · [CFPB：授权委托书是什么](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) · [IRS：退休账户受益人规则](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary)。
 
 ## 20. 迁居后复查适用法律
 
@@ -197,6 +197,6 @@
 - [ ] 福利、税务、受益人、产权与授权分别办理并保存确认。
 - [ ] 应急访问可以依法执行，重大变化有复查节点。
 
-**入口汇总：** [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning)。
+**入口汇总：** [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/) · [IRS 工具：预扣税估算工具](https://apps.irs.gov/app/tax-withholding-estimator) · [HealthCare.gov：特别参保期](https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/) · [DOL：退休计划](https://www.dol.gov/general/topic/retirement) · [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html)。
 
 最后编辑与来源核验：2026-09-21。第三轮核对结婚等事件的特别参保窗口、生效日，以及医保市场要求的先前保障与例外，具体三十天或六十天的分支见正文。另核对国税局预扣税、联合税务责任、赠与及外国赠与规则，退休计划配偶权益、医疗与财务代理和州律师入口。纽约州第236条仅作州法示例；婚前协议签署、披露、婚姻财产分类、跨州或跨国效力和条款须按适用地区与事实由各自律师审查。

@@ -23,7 +23,7 @@
 - [ ] 核对社会安全个人账户（my Social Security）的上一年收入记录。发现漏记或错误尽早更正；普通情况下不要拖过该税年结束后**3年、3个月、15天**的更正期限，超过后只剩法定例外。
 - [ ] 检查密码管理器的合法应急访问安排与已授权设备。
 
-**一键核验：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [IRS：申请身份保护码](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：身份保护码常见问题](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin) · [SSA：核对收入记录](https://www.ssa.gov/prepare/review-record-earnings) · [SSA：更正收入记录](https://www.ssa.gov/faqs/en/questions/KA-02603.html)。
+**一键核验：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [境外访问失败后的电话／邮寄申请](../book/15-网络安全与身份盗窃.md#7-冻结与欺诈警示的办理方式不同) · [身份盗用举报与恢复（IdentityTheft.gov）](https://www.identitytheft.gov/) · [IRS：申请身份保护码](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin) · [IRS：身份保护码常见问题](https://www.irs.gov/identity-theft-fraud-scams/frequently-asked-questions-about-the-identity-protection-personal-identification-number-ip-pin) · [SSA：核对收入记录](https://www.ssa.gov/prepare/review-record-earnings) · [SSA：更正收入记录](https://www.ssa.gov/faqs/en/questions/KA-02603.html)。
 
 ## 保险
 
@@ -40,7 +40,7 @@
 - [ ] 确认执行人、受托人及代理人的意愿和联系方式。
 - [ ] 授权人员知道原件位置；实际可访问不等于自动具有处理权限。
 
-**一键核验：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
+**一键核验：** [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
 
 ## 税务与家庭财务
 

@@ -46,7 +46,7 @@
 
 确认文件位置、代理人是否仍愿意和适合、机构登记及受益人状态。结婚、分居、身故或迁居等变化需另行复查，不能等到年底。见[第10章](10-Estate-Planning与失能.md)。
 
-**一键核验：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
+**一键核验：** [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/)。
 
 ## 9. 税务与付款对账
 
@@ -70,7 +70,7 @@
 
 询问健康、日常功能和照护偏好有何变化，确认附近联系人、医疗入口和合法授权。尊重父母自主决定，不把年度复查变成未经同意的监督。见[第20章](20-父母养老与远程照护.md)。
 
-**照护入口：** [NIA：照护安排](https://www.nia.nih.gov/health/caregiving) · [老年照护服务查询（Eldercare Locator）](https://eldercare.acl.gov/)。中国侧从实际居住地社区、医院和养老服务官方入口更新。
+**照护入口：** [美国国家医学图书馆：家庭照护入门](https://medlineplus.gov/caregivers.html) · [老年照护服务查询（Eldercare Locator）](https://eldercare.acl.gov/)。中国侧从实际居住地社区、医院和养老服务官方入口更新。
 
 ## 12. 中国侧必要服务
 

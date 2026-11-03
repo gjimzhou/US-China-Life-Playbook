@@ -162,6 +162,6 @@
 - [ ] 自动化有结果检查，维护按适当频率执行。
 - [ ] 分工、工具和服务会根据负担与需要调整。
 
-**入口汇总：** [美国灾害应急准备资料（Ready.gov）](https://www.ready.gov/) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [CFPB：账单支付安排](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/) · [NIA：照护安排](https://www.nia.nih.gov/health/caregiving)。
+**入口汇总：** [美国灾害应急准备资料（Ready.gov）](https://www.ready.gov/) · [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [CFPB：账单支付安排](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/) · [美国国家医学图书馆：家庭照护入门](https://medlineplus.gov/caregivers.html)。
 
 最后编辑与来源核验：2026-09-21。本章仍明确属于家庭协作与日常管理建议，不把工具、会议频率或分工模式包装成科学定论；仅在应急、数字安全、专业服务、代理权限、旅行与消防安全等可执行环节补入 Ready.gov、CISA、FTC、IRS、CFPB、HHS、国务院、CDC 与 USFA 入口。

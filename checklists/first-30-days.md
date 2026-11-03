@@ -40,7 +40,7 @@
 - [ ] 准备手机丢失后的恢复步骤。
 - [ ] 了解信用冻结（credit freeze），决定是否实施。
 
-**去办 / 核验：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [FTC：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action)。
+**去办 / 核验：** [CISA：网络安全日常防护](https://www.cisa.gov/secure-our-world) · [FTC：信用冻结与欺诈警示](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts) · [免费信用报告官方入口（AnnualCreditReport.com）](https://www.annualcreditreport.com/index.action) · [境外访问失败后的电话／邮寄申请](../book/15-网络安全与身份盗窃.md#7-冻结与欺诈警示的办理方式不同)。
 
 ## 第二周：保险与法律文件
 
@@ -64,7 +64,7 @@
 
 详见[遗产与失能规划](../book/10-Estate-Planning与失能.md)。
 
-**去办 / 核验：** [NIA：预先照护规划](https://www.nia.nih.gov/health/advance-care-planning) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)。
+**去办 / 核验：** [美国国家医学图书馆：预先医疗意愿与医疗代理](https://medlineplus.gov/advancedirectives.html) · [CFPB：代他人管理财务](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) · [ABA：律师转介目录](https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/)。
 
 ## 第三周：医疗与两地办事渠道
 
