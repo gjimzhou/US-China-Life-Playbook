@@ -124,6 +124,8 @@
 
 证件副本可帮助提供信息，但不是替代证件。流程入口与限制见[旅行准备](29-旅行长期停留与全球Mobility.md)。
 
+总目录打不开时，使用[目的地页面与领区联系方式后备路径](29-旅行长期停留与全球Mobility.md#20-护照遗失按签发国流程补办)。
+
 **美国护照遗失：** [U.S. State Department：护照丢失或被盗](https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html) · [美国使领馆目录](https://www.usembassy.gov/)。其他国籍使用相应签发国使领馆。
 
 ## 14. 中国手机号或银行访问失败

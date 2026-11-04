@@ -28,6 +28,8 @@
 
 **基础核验入口：** [受保存款机构查询（FDIC BankFind）](https://banks.data.fdic.gov/bankfind-suite/bankfind) · [证券投资者保护组织会员查询（SIPC Member Search）](https://www.sipc.org/list-of-members) · [Investor.gov：核查投资专业人士资质](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional)。
 
+**SIPC 会员查询打不开或名称对不上时：** 从开户协议或对账单抄下券商及清算公司的完整法律名称，不只记 App 品牌。按[SEC 投资者网站的会员核验说明](https://www.investor.gov/introduction-investing/investing-basics/glossary/securities-investor-protection-corporation-sipc)，可向 SIPC 会员部门拨打 +1-202-371-8300 或发信至 asksipc@sipc.org，分别询问这两个法律实体是否为会员。只做公开资格查询时，不附账户密码、完整账号或身份证件；保存答复日期及对应实体名称。会员资格不等于每种产品、余额或市场亏损都受保障，产品范围仍要单独核对。
+
 ## 2. 存款保险按银行和所有权类别计算
 
 **优先级：** P1
