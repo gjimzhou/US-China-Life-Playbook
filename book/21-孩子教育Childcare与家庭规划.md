@@ -166,7 +166,9 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 问清额外费用、退出或退费条款及长期预算，避免只看第一年学费。
 
-**找学校 / 支持入口：** [美国教育统计中心：学校查询](https://nces.ed.gov/globallocator/) · [U.S. Department of Education：残障儿童教育法（IDEA）](https://sites.ed.gov/idea/) · [Office for Civil Rights：第504条残障歧视保护](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination)。具体招生、支持服务与费用以学校 / 学区材料为准。
+**找学校 / 支持入口：** [美国教育统计中心：学校查询](https://nces.ed.gov/globallocator/) · [U.S. Department of Education：残障儿童教育法（IDEA）](https://sites.ed.gov/idea/) · [第504条禁止歧视规则（34 CFR 104.4）](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-A/section-104.4)。具体招生、支持服务与费用以学校 / 学区材料为准。
+
+**IDEA 总入口打不开、又不知道找谁时：** 可以使用[家长信息与资源中心（CPIR）目录](https://www.parentcenterhub.org/find-your-center/)按州寻找家长培训与信息中心。CPIR 是教育部资助的家长资源项目，不是学校审批机关。目录地图无法使用时，可用该页公布的联系方式询问服务所在地的中心。联系前整理孩子年级、所在州/学区、已经提出的请求、学校回复及下一次会议日期，询问本地程序、语言协助和如何准备会议；中心提供信息或培训，不等于替学校作出资格决定。具体评估请求仍发给学校/学区，并保存收件和回复记录。
 
 ## 20. 托育预算算上间断与附加成本
 
@@ -214,9 +216,9 @@ CDC 建议先使用后向座椅，直到达到该座椅后向身高或体重上�
 
 在 IDEA 下，家长或公共机构都可以发起初次评估请求。联邦规则通常要求在取得家长同意后 **60 天内**完成初次评估；如果州另有自己的时间表，则按州时间表，并存在规则列出的例外。首次转介或家长评估申请等情形还会触发程序保障通知。
 
-第504条不是“轻量版 IEP”。美国教育部说明，学校应基于个体评估和多种信息来源判断残障与需要；不应只凭一个诊断名称或刻板假设决定服务。
+第504条不是“轻量版 IEP”。第504条评估与安置规则要求综合多种资料、记录并认真考虑评估信息，由了解孩子、资料含义和安置选项的人员共同决定；不能把一个诊断名称当作已经确定服务。
 
-**官方原文：** [eCFR：34 CFR 300.301](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFRcdd53b28839f370/section-300.301) · [eCFR：34 CFR 300.504](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.504) · [eCFR：34 CFR 300.502](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.502) · [U.S. Department of Education：第504条免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
+**官方原文：** [eCFR：34 CFR 300.301](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFRcdd53b28839f370/section-300.301) · [eCFR：34 CFR 300.504](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.504) · [eCFR：34 CFR 300.502](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-E/section-300.502) · [第504条评估与安置规则（34 CFR 104.35）](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-D/section-104.35)。
 
 ## 26. 家庭规划也包括怀孕、妊娠丢失和生产
 
