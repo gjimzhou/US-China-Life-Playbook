@@ -37,7 +37,11 @@
 
 **诊断要求：** [教育部：医疗诊断不是学校认定残障和评估需要的必备前提](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination)。
 
-**官方解释：** [U.S. Department of Education：第504条免费适当公共教育常见问题](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape)。
+**官方解释：** [第504条评估与安置规则（34 CFR 104.35）](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-D/section-104.35)。
+
+**网站打不开时，先把请求写清楚：** 说明观察到的学习或活动困难、出现日期、教师反馈、已尝试的支持，以及希望学校评估什么；向学区询问负责评估和第504条程序的联系人、如何提交材料及何时回复。不要为补齐某个医学标签就无限期搁置书面沟通，也不要把已提出请求当作当然取得计划。
+
+[教育部2016年家长与教师指南（GovInfo归档PDF）](https://www.govinfo.gov/content/pkg/GOVPUB-ED-PURL-gpo246199/pdf/GOVPUB-ED-PURL-gpo246199.pdf#page=18)纸面第13页脚注50、18—19页可作历史解释参考；它不是现行FAQ的替代全文。当前评估程序查上面的第104.35条；[第104.36条程序保障](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-D/section-104.36)涉及通知、查阅相关记录、公正听证与复核。要求学区提供本地程序说明，另向[本州家长资源中心](../book/21-孩子教育Childcare与家庭规划.md#19-比较学校看适配与支持)求助；不要把IDEA的60天直接套到504程序。
 
 ## 对学校评估不同意时
 

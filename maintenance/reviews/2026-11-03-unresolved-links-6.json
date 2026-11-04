@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-03",
+  "base_commit": "6a23dc35509cc7bd8c4c6e053bc8eb3844dc8b48",
+  "baseline": "2026-11-03-unresolved-links-15.json: retain_unresolved only",
+  "scope_count": 6,
+  "http_counts": {
+    "blocked": 6
+  },
+  "dispositions": {
+    "retain_with_fallback": 4,
+    "replace": 2
+  },
+  "candidate_probes": [
+    {
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-ED-PURL-gpo246199/pdf/GOVPUB-ED-PURL-gpo246199.pdf",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.govinfo.gov/content/pkg/GOVPUB-ED-PURL-gpo246199/pdf/GOVPUB-ED-PURL-gpo246199.pdf",
+      "detail": ""
+    },
+    {
+      "url": "https://aging.idaho.gov/wp-content/uploads/2023/05/caregivers-handbook-nia_0.pdf",
+      "category": "transient",
+      "status": null,
+      "final_url": "https://aging.idaho.gov/wp-content/uploads/2023/05/caregivers-handbook-nia_0.pdf",
+      "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"
+    },
+    {
+      "url": "https://www.ed.gov/grants-and-programs/grants-special-populations/grants-special-education-and-individuals-disabilities/special-education-parent-information-centers",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://www.ed.gov/grants-and-programs/grants-special-populations/grants-special-education-and-individuals-disabilities/special-education-parent-information-centers",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://sites.ed.gov/idea/parents-families/",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://sites.ed.gov/idea/parents-families/",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://order.nia.nih.gov/publication/caregivers-handbook",
+      "category": "blocked",
+      "status": 405,
+      "final_url": "https://order.nia.nih.gov/publication/caregivers-handbook",
+      "detail": "Not Allowed"
+    },
+    {
+      "url": "https://www.parentcenterhub.org/find-your-center/",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.parentcenterhub.org/find-your-center/",
+      "detail": ""
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-A/section-104.4",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-D/section-104.35",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-D/section-104.36",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    }
+  ],
+  "pdf_evidence": [
+    {
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-ED-PURL-gpo246199/pdf/GOVPUB-ED-PURL-gpo246199.pdf",
+      "bytes": 753100,
+      "sha256": "b8b2a544885f4167325dfe25e1d38b30fd3ad00500595aa5abfef099f1f5d5aa",
+      "version": "December 2016",
+      "reviewed_print_pages": [
+        13,
+        18,
+        19
+      ],
+      "visual_pages_1_based": [
+        18,
+        24
+      ]
+    },
+    {
+      "url": "https://aging.idaho.gov/wp-content/uploads/2023/05/caregivers-handbook-nia_0.pdf",
+      "bytes": 26539159,
+      "sha256": "998a0a07f9c2f4110ad3f7e701238796027d863d54ab2158ada7eeb00e2dba82",
+      "version": "February 2023, NIH Publication 23-AG-5496",
+      "reviewed_print_pages": [
+        5,
+        6,
+        10,
+        13
+      ],
+      "visual_pages_1_based": [
+        8,
+        12
+      ]
+    }
+  ],
+  "records": [
+    {
+      "url": "https://sites.ed.gov/idea/",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "http_probe": {
+        "url": "https://sites.ed.gov/idea/",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://sites.ed.gov/idea/",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://sites.ed.gov/idea/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://sites.ed.gov/idea/: (403) Forbidden",
+        "gate": false
+      },
+      "original_access_gap_remains": true,
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://www.parentcenterhub.org/find-your-center/",
+      "reason": "保留IDEA总入口；第21章补CPIR按州查家长中心及目录不可用时的联系询问路径，学校仍负责正式评估。CPIR为教育部资助项目，不是政府审批机关。",
+      "next_step": "当前确认目录说明、联系渠道与资助声明，未操作交互地图或查询具体家庭；地方中心服务范围向其确认。"
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination: (403) Forbidden",
+        "gate": false
+      },
+      "original_access_gap_remains": true,
+      "disposition": "replace",
+      "replacement": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-A/section-104.4",
+      "supplement": null,
+      "reason": "已读现行对应法规，以更具体条文支持此处禁止歧视或评估安置用途；同步来源标签及正文。不是原概览/FAQ全文迁址，eCFR脚本仍可能受限。",
+      "next_step": "只有需要原FAQ的其他具体解释时，再读取该原文；不要把本条替换扩大为全部原文核验。"
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+      "sources": [
+        "checklists/school-support.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination: (403) Forbidden",
+        "gate": false
+      },
+      "original_access_gap_remains": true,
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://www.govinfo.gov/content/pkg/GOVPUB-ED-PURL-gpo246199/pdf/GOVPUB-ED-PURL-gpo246199.pdf#page=18",
+      "reason": "保留现行诊断FAQ；已读2016指南纸面13页脚注50及18—19页，标作历史解释参考，同时补现行104.35/104.36和书面请求路径；未将归档当作现行FAQ全文。",
+      "next_step": "现行诊断FAQ完整访问仍缺；规则变化或官方新指南出现时再做针对性复核，不以旧PDF覆盖所有诊断/费用条件。"
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md",
+        "checklists/school-support.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape: (403) Forbidden",
+        "gate": false
+      },
+      "original_access_gap_remains": true,
+      "disposition": "replace",
+      "replacement": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104/subpart-D/section-104.35",
+      "supplement": null,
+      "reason": "已读现行对应法规，以更具体条文支持此处禁止歧视或评估安置用途；同步来源标签及正文。不是原概览/FAQ全文迁址，eCFR脚本仍可能受限。",
+      "next_step": "只有需要原FAQ的其他具体解释时，再读取该原文；不要把本条替换扩大为全部原文核验。"
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "title": "www.nia.nih.gov (https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help)",
+        "lines": 3,
+        "failure": null,
+        "gate": true
+      },
+      "original_access_gap_remains": true,
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://aging.idaho.gov/wp-content/uploads/2023/05/caregivers-handbook-nia_0.pdf",
+      "reason": "保留NIA在线原文；已读2023年2月手册纸面5—6、10、13页及目录/版本，提供带年代的下载后备与远程观察交接步骤。FAQ全篇及当前临床/支付规则未复核。",
+      "next_step": "现行NIA网页仍需恢复后核验；纸版只用于一般观察与照护分工，不据旧版核定费用、资格或临床处理。"
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving: (405) Method Not Allowed",
+        "gate": false
+      },
+      "original_access_gap_remains": true,
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://aging.idaho.gov/wp-content/uploads/2023/05/caregivers-handbook-nia_0.pdf",
+      "reason": "保留NIA在线原文；已读2023年2月手册纸面5—6、10、13页及目录/版本，提供带年代的下载后备与远程观察交接步骤。FAQ全篇及当前临床/支付规则未复核。",
+      "next_step": "现行NIA网页仍需恢复后核验；纸版只用于一般观察与照护分工，不据旧版核定费用、资格或临床处理。"
+    }
+  ]
+}
