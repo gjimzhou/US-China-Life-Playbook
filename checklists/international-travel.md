@@ -60,6 +60,8 @@
 - [ ] 按本人国籍保存对应使领馆官方入口。
 - [ ] 美国公民可查看国务院旅行提示，并考虑智能旅行者登记计划（STEP）。
 
+出发前按[使领馆目录后备查找步骤](../book/29-旅行长期停留与全球Mobility.md#20-护照遗失按签发国流程补办)保存适用领区的常规及紧急联系方式。
+
 **领事入口：** [智慧旅客登记计划（STEP）](https://step.state.gov/) · [美国使领馆目录](https://www.usembassy.gov/) · [State Department：国际旅行](https://travel.state.gov/content/travel/en/international-travel.html)。
 - [ ] 理解领事协助与医疗保险的作用不同，不假设领事馆承担全部费用。
 

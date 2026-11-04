@@ -112,6 +112,8 @@
 
 看必要现金、税款储备、债务和近期大额支出，再检查存款保障、退休安排与账户复杂度。不要为提高收益动用有明确短期用途的资金而忽略损失风险。见[第13章](13-高收入家庭财务Operating-System.md)。
 
+会员查询打不开或法律名称对不上时，使用[会员部门核验后备路径](13-高收入家庭财务Operating-System.md#1-把财务分成四层)，保存对应实体及答复日期。
+
 **一键核验：** [存款保险估算工具（FDIC EDIE）](https://edie.fdic.gov/) · [受保存款机构查询（FDIC BankFind）](https://banks.data.fdic.gov/bankfind-suite/bankfind) · [证券投资者保护组织会员查询（SIPC Member Search）](https://www.sipc.org/list-of-members)。
 
 ## 19. 关系与支持安排

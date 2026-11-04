@@ -126,7 +126,7 @@
 
 美国海关的个人物品登记表（Form 4457）可用于符合条件、有序列号或其他永久独特标记的外国来源物品。法规要求向海关人员出示物品与未签名表格办理核验；不是自行填表就完成登记。出发前向办理口岸确认安排。
 
-**直接办理 / 原文：** [CBP：Form 4457 官方 landing page](https://www.cbp.gov/document/forms/form-4457-certificate-registration-personal-effects-taken-abroad?language_content_entity=en)（页面内提供当前 PDF） · [CBP：离美前办理个人物品登记](https://www.help.cbp.gov/s/article/Article1833) · [个人物品出境登记法规（19 CFR 148.1）](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1)。当前 CBP 说明要求出发前把物品带到美国海关办事处，由官员核对并签署；表格本身不是自行下载、填完就生效。办理前向实际美国海关口岸确认地点、时间和是否需预约。
+**直接办理 / 原文：** [CBP：Form 4457 官方 landing page](https://www.cbp.gov/document/forms/form-4457-certificate-registration-personal-effects-taken-abroad?language_content_entity=en)（页面内提供当前 PDF） · [CBP：离美前办理个人物品登记](https://www.help.cbp.gov/s/article/Article1833) · [个人物品出境登记法规（19 CFR 148.1）](https://www.ecfr.gov/current/title-19/chapter-I/part-148/subpart-A/section-148.1)。当前 CBP 说明要求出发前把物品带到美国海关办事处，由官员核对并签署；表格本身不是自行下载、填完就生效。办理前向实际美国海关口岸确认地点、时间和是否需预约。
 
 ---
 
@@ -134,7 +134,7 @@
 
 原有物品在境外维修或改装，不能仅凭旧购买证明排除税务问题。第148.31条对维修改装与旅途中使用磨损附带维修作了区分。保存工单和费用，向海关说明，不自行推定全部免税。
 
-**官方原文：** [境外维修与改装申报法规（19 CFR 148.31）](https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。
+**官方原文：** [境外维修与改装申报法规（19 CFR 148.31）](https://www.ecfr.gov/current/title-19/chapter-I/part-148/subpart-D/section-148.31) · [CBP：海关税费说明](https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information)。
 
 ---
 

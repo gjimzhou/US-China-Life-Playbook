@@ -12,7 +12,7 @@
 
 下载 EPUB 后可使用 [亚马逊电子书发送服务（Send to Kindle）](https://www.amazon.com/sendtokindle) 发送到自己的 Kindle书库。
 
-**亚马逊格式说明：** [Send to Kindle 支持的文件类型](https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu)。
+**亚马逊格式说明：** [Send to Kindle 页面列出的支持格式](https://www.amazon.com/sendtokindle)。
 
 ## 其他阅读格式
 

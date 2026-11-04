@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-03",
+  "base_commit": "7fbff1ea511f8e878c5cc12c4d1e1f09af9f88e4",
+  "baseline": "2026-11-03-unresolved-links-33.json: retain_unresolved only",
+  "scope_count": 15,
+  "http_counts": {
+    "blocked": 13,
+    "transient": 1,
+    "warning": 1
+  },
+  "dispositions": {
+    "retain_unresolved": 6,
+    "replace": 4,
+    "retain_with_fallback": 5
+  },
+  "candidate_probes": [
+    {
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/securities-investor-protection-corporation-sipc",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/securities-investor-protection-corporation-sipc",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://www.americorps.gov/join/find-volunteer-opportunity",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://www.americorps.gov/join/find-volunteer-opportunity",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://www.gao.gov/about/what-gao-does/fraud",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://www.gao.gov/about/what-gao-does/fraud",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://www.nps.gov/subjects/volunteer/become.htm",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.nps.gov/subjects/volunteer/become.htm",
+      "detail": ""
+    },
+    {
+      "url": "https://www.amazon.com/sendtokindle",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.amazon.com/sendtokindle",
+      "detail": ""
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/frequently-asked-questions-about-caregiving",
+      "category": "blocked",
+      "status": 405,
+      "final_url": "https://www.nia.nih.gov/health/frequently-asked-questions-about-caregiving",
+      "detail": "Not Allowed"
+    },
+    {
+      "url": "https://www.ed.gov/about/ed-offices/ocr",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://www.ed.gov/about/ed-offices/ocr",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://www.ed.gov/about/ed-offices/osers/osep/resources",
+      "category": "blocked",
+      "status": 403,
+      "final_url": "https://www.ed.gov/about/ed-offices/osers/osep/resources",
+      "detail": "Forbidden"
+    },
+    {
+      "url": "https://www.oversight.gov/where-report-fraud-waste-abuse-or-retaliation",
+      "category": "blocked",
+      "status": 406,
+      "final_url": "https://www.oversight.gov/where-report-fraud-waste-abuse-or-retaliation",
+      "detail": "Not Acceptable"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-ED-PURL-gpo246199/pdf/GOVPUB-ED-PURL-gpo246199.pdf",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://www.govinfo.gov/content/pkg/GOVPUB-ED-PURL-gpo246199/pdf/GOVPUB-ED-PURL-gpo246199.pdf",
+      "detail": ""
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/subpart-A/section-148.1",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/subpart-D/section-148.31",
+      "category": "blocked",
+      "status": 200,
+      "final_url": "https://unblock.federalregister.gov/",
+      "detail": "Redirected to an access-verification page; source not read"
+    },
+    {
+      "url": "https://app.www.gov.cn/govdata/gov/202207/31/487965/article.html",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://app.www.gov.cn/govdata/gov/202207/31/487965/article.html",
+      "detail": ""
+    },
+    {
+      "url": "https://healthit.gov/get-it-check-it-use-it/get-it/",
+      "category": "ok",
+      "status": 200,
+      "final_url": "https://healthit.gov/get-it-check-it-use-it/get-it/",
+      "detail": ""
+    }
+  ],
+  "records": [
+    {
+      "url": "https://sites.ed.gov/idea/",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "http_probe": {
+        "url": "https://sites.ed.gov/idea/",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://sites.ed.gov/idea/",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://sites.ed.gov/idea/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://sites.ed.gov/idea/: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "replacement": null,
+      "supplement": null,
+      "reason": "IDEA总入口与ED特殊教育资源候选仍受限；既有eCFR精确条文并不替代整个IDEA入口。504指南处理另一制度，不能机械替换；保留待原文恢复。"
+    },
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+      "sources": [
+        "DOWNLOADS.md"
+      ],
+      "http_probe": {
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.amazon.com/gp/help/customer/display.html?nodeId=TCUBEdEkbIhK07ysFu: (503) Service Unavailable",
+        "gate": false
+      },
+      "disposition": "replace",
+      "replacement": "https://www.amazon.com/sendtokindle",
+      "supplement": null,
+      "reason": "脚本读到Send to Kindle公开页面的Supported File Types，包含EPUB/PDF/DOCX/HTML，足以支持此处格式说明；未登录或发送文件，页面还含服务错误模板，不据此判断传输服务正常。"
+    },
+    {
+      "url": "https://www.americorps.gov/serve/volunteer",
+      "sources": [
+        "book/24-美国社交礼仪与潜规则.md",
+        "book/25-如何建立美国本地社会基础设施.md"
+      ],
+      "http_probe": {
+        "url": "https://www.americorps.gov/serve/volunteer",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.americorps.gov/serve/volunteer",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.americorps.gov/serve/volunteer",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.americorps.gov/serve/volunteer: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://www.nps.gov/subjects/volunteer/become.htm",
+      "reason": "第25章及第24章指引：NPS岗位查找、申请、负责人确认和协议；只覆盖国家公园志愿岗位。 原入口仍受限，未实际提交或通话。"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1",
+      "sources": [
+        "book/40-高价值物品收藏与Luxury-Assets.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1",
+        "category": "blocked",
+        "status": 200,
+        "final_url": "https://unblock.federalregister.gov/",
+        "detail": "Redirected to an access-verification page; source not read"
+      },
+      "connector": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "URL https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.1 is not accessible via this tool.",
+        "gate": false
+      },
+      "disposition": "replace",
+      "replacement": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/subpart-A/section-148.1",
+      "supplement": null,
+      "reason": "改用含subpart的同编号规范地址；连接器已读条文全文，脚本仍遇验证页，未宣称访问完全恢复。"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31",
+      "sources": [
+        "book/40-高价值物品收藏与Luxury-Assets.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31",
+        "category": "blocked",
+        "status": 200,
+        "final_url": "https://unblock.federalregister.gov/",
+        "detail": "Redirected to an access-verification page; source not read"
+      },
+      "connector": {
+        "url": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "URL https://www.ecfr.gov/current/title-19/chapter-I/part-148/section-148.31 is not accessible via this tool.",
+        "gate": false
+      },
+      "disposition": "replace",
+      "replacement": "https://www.ecfr.gov/current/title-19/chapter-I/part-148/subpart-D/section-148.31",
+      "supplement": null,
+      "reason": "改用含subpart的同编号规范地址；连接器已读条文全文，脚本仍遇验证页，未宣称访问完全恢复。"
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "replacement": null,
+      "supplement": null,
+      "reason": "原页及ED部门资源候选仍受限。GovInfo可取得2016年504资源指南归档（明确提示不一定反映现行政策），州教育局也链接该指南，但均不替代本页整个全国现行适用范围；保留待原文恢复。"
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+      "sources": [
+        "checklists/school-support.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-disability-discrimination: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "replacement": null,
+      "supplement": null,
+      "reason": "原页及ED部门资源候选仍受限。GovInfo可取得2016年504资源指南归档（明确提示不一定反映现行政策），州教育局也链接该指南，但均不替代本页整个全国现行适用范围；保留待原文恢复。"
+    },
+    {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+      "sources": [
+        "book/21-孩子教育Childcare与家庭规划.md",
+        "checklists/school-support.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/frequently-asked-questions-section-504-free-appropriate-public-education-fape: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "replacement": null,
+      "supplement": null,
+      "reason": "原页及ED部门资源候选仍受限。GovInfo可取得2016年504资源指南归档（明确提示不一定反映现行政策），州教育局也链接该指南，但均不替代本页整个全国现行适用范围；保留待原文恢复。"
+    },
+    {
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+      "sources": [
+        "book/04-美国医疗系统怎么用.md",
+        "book/06-医疗记录药物与跨境Continuity.md"
+      ],
+      "http_probe": {
+        "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://healthit.gov/get-it-check-it-use-it/get-it/",
+      "reason": "第06章及第04章指引：向原机构申请病历的身份、日期范围、格式、交付与收件核对；不替代HHS专业指导全部期限、费用与例外。 原入口仍受限，未实际提交或通话。"
+    },
+    {
+      "url": "https://www.ignet.gov/content/report-government-fraud",
+      "sources": [
+        "book/11-美国政府到底找谁.md"
+      ],
+      "http_probe": {
+        "url": "https://www.ignet.gov/content/report-government-fraud",
+        "category": "blocked",
+        "status": 406,
+        "final_url": "https://www.ignet.gov/content/report-government-fraud",
+        "detail": "Not Acceptable"
+      },
+      "connector": {
+        "url": "https://www.ignet.gov/content/report-government-fraud",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.ignet.gov/content/report-government-fraud: (406) Not Acceptable",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://www.gao.gov/about/what-gao-does/fraud",
+      "reason": "第11章：只对联邦资金相关线索提供FraudNet后备，列提交渠道、隐私选择和控制编号，不替代全部OIG业务。 原入口仍受限，未实际提交或通话。"
+    },
+    {
+      "url": "https://www.nhc.gov.cn/",
+      "sources": [
+        "book/05-中国医疗系统怎么用.md"
+      ],
+      "http_probe": {
+        "url": "https://www.nhc.gov.cn/",
+        "category": "warning",
+        "status": 412,
+        "final_url": "https://www.nhc.gov.cn/",
+        "detail": "Precondition Failed"
+      },
+      "connector": {
+        "url": "https://www.nhc.gov.cn/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nhc.gov.cn/: (412) Precondition Failed",
+        "gate": false
+      },
+      "disposition": "replace",
+      "replacement": "https://app.www.gov.cn/govdata/gov/202207/31/487965/article.html",
+      "supplement": null,
+      "reason": "原位置实际是合理用药政策检索；换国务院客户端转载的2022用药安全通知并收窄引用标签。不是官网迁址，也不是2025互联网医疗答复替代。"
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help",
+        "title": "www.nia.nih.gov (https://www.nia.nih.gov/health/caregiving/does-older-adult-your-life-need-help)",
+        "lines": 3,
+        "failure": null,
+        "gate": true
+      },
+      "disposition": "retain_unresolved",
+      "replacement": null,
+      "supplement": null,
+      "reason": "原页及照护FAQ另一旧路径仍为机器人/JavaScript验证。检索见旧照护手册及信息中心资料，但不能替代具体观察建议或整篇FAQ；保留原文，后续有可读现行全文再复核。"
+    },
+    {
+      "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+      "sources": [
+        "book/20-父母养老与远程照护.md"
+      ],
+      "http_probe": {
+        "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "category": "blocked",
+        "status": 405,
+        "final_url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "detail": "Not Allowed"
+      },
+      "connector": {
+        "url": "https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.nia.nih.gov/health/caregiving/frequently-asked-questions-about-caregiving: (405) Method Not Allowed",
+        "gate": false
+      },
+      "disposition": "retain_unresolved",
+      "replacement": null,
+      "supplement": null,
+      "reason": "原页及照护FAQ另一旧路径仍为机器人/JavaScript验证。检索见旧照护手册及信息中心资料，但不能替代具体观察建议或整篇FAQ；保留原文，后续有可读现行全文再复核。"
+    },
+    {
+      "url": "https://www.sipc.org/list-of-members",
+      "sources": [
+        "book/13-高收入家庭财务Operating-System.md",
+        "book/18-中美双栖生活基础设施.md",
+        "book/32-年度Household-Review.md"
+      ],
+      "http_probe": {
+        "url": "https://www.sipc.org/list-of-members",
+        "category": "transient",
+        "status": null,
+        "final_url": "https://www.sipc.org/list-of-members",
+        "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)"
+      },
+      "connector": {
+        "url": "https://www.sipc.org/list-of-members",
+        "title": "SIPC - List of Members (https://www.sipc.org/list-of-members)",
+        "lines": 803,
+        "failure": null,
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://www.investor.gov/introduction-investing/investing-basics/glossary/securities-investor-protection-corporation-sipc",
+      "reason": "第13章及第18、32章指引：按券商与清算公司法律名称，向SIPC会员部门电话或邮件核验；不等于产品或损失均受保。 原入口仍受限，未实际提交或通话。"
+    },
+    {
+      "url": "https://www.usembassy.gov/",
+      "sources": [
+        "book/29-旅行长期停留与全球Mobility.md",
+        "book/30-Household-Emergency-Runbook.md",
+        "book/31-美国人默认知道的100件小事.md",
+        "checklists/international-travel.md"
+      ],
+      "http_probe": {
+        "url": "https://www.usembassy.gov/",
+        "category": "blocked",
+        "status": 403,
+        "final_url": "https://www.usembassy.gov/",
+        "detail": "Forbidden"
+      },
+      "connector": {
+        "url": "https://www.usembassy.gov/",
+        "title": "Internal Error ()",
+        "lines": 0,
+        "failure": "Failed to fetch https://www.usembassy.gov/: (403) Forbidden",
+        "gate": false
+      },
+      "disposition": "retain_with_fallback",
+      "replacement": null,
+      "supplement": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+      "reason": "第29章及第30、31章、旅行清单：以中国目的地页示范按所在地查领区、常规和紧急联系方式；保留全球目录，不用中国页替代全球目录。 原入口仍受限，未实际提交或通话。"
+    }
+  ]
+}
