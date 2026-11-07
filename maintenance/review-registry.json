@@ -39,10 +39,12 @@
         "https://www.cdc.gov/covid/hcp/vaccine-considerations/index.html",
         "https://www.cdc.gov/covid/hcp/vaccine-considerations/routine-guidance.html",
         "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-addendum.html",
-        "https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html"
+        "https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html",
+        "https://www.cdc.gov/shingles/hcp/vaccine-considerations/index.html",
+        "https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html"
       ],
       "last_review_attempt": "2026-11-07",
-      "latest_review_record": "maintenance/reviews/2026-11-07-rotation-7.md",
+      "latest_review_record": "maintenance/reviews/2026-11-07-rotation-8.md",
       "review_status": "partial"
     },
     {
@@ -265,9 +267,9 @@
         "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
         "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"
       ],
-      "last_review_attempt": "2026-11-01",
-      "latest_review_record": "maintenance/reviews/2026-11-01-travel-entry.md",
-      "review_status": "complete"
+      "last_review_attempt": "2026-11-07",
+      "latest_review_record": "maintenance/reviews/2026-11-07-rotation-8.md",
+      "review_status": "partial"
     },
     {
       "id": "immigration",
@@ -322,9 +324,9 @@
         "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
         "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20187.pdf"
       ],
-      "last_review_attempt": "2026-11-01",
-      "latest_review_record": "maintenance/reviews/2026-11-01-immigration.md",
-      "review_status": "complete"
+      "last_review_attempt": "2026-11-07",
+      "latest_review_record": "maintenance/reviews/2026-11-07-rotation-8.md",
+      "review_status": "partial"
     },
     {
       "id": "cross-border-tax",
