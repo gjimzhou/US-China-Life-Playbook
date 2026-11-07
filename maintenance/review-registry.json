@@ -41,8 +41,8 @@
         "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-addendum.html",
         "https://www.cdc.gov/rsv/hcp/vaccine-clinical-guidance/adults.html"
       ],
-      "last_review_attempt": "2026-11-03",
-      "latest_review_record": "maintenance/reviews/2026-11-03-cross-border-health.md",
+      "last_review_attempt": "2026-11-07",
+      "latest_review_record": "maintenance/reviews/2026-11-07-rotation-7.md",
       "review_status": "partial"
     },
     {
@@ -186,9 +186,9 @@
         "https://www.medicare.gov/coverage/skilled-nursing-facility-care",
         "https://www.medicaid.gov/medicaid/eligibility-policy/estate-recovery"
       ],
-      "last_review_attempt": "2026-11-01",
-      "latest_review_record": "maintenance/reviews/2026-11-01-medicare.md",
-      "review_status": "complete",
+      "last_review_attempt": "2026-11-07",
+      "latest_review_record": "maintenance/reviews/2026-11-07-rotation-7.md",
+      "review_status": "partial",
       "review_by": "2026-11-15",
       "review_by_reason": "跨年福利选择前复查2027年A部分自付额及专业护理日费用公告；当前费用仅核实到2026年"
     },
@@ -231,13 +231,12 @@
         "https://www.dol.gov/agencies/owcp/wc",
         "https://www.dol.gov/agencies/whd/fmla",
         "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employers-guide-to-group-health-continuation-coverage-under-cobra",
-        "https://www.irs.gov/irb/2026-25_irb"
+        "https://www.irs.gov/irb/2026-25_irb",
+        "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
       ],
-      "last_review_attempt": "2026-11-01",
-      "latest_review_record": "maintenance/reviews/2026-11-01-employee-benefits.md",
-      "review_status": "complete",
-      "review_by": "2026-11-15",
-      "review_by_reason": "跨年福利选择前复查2027年医疗FSA公告；当前金额仅核实到2026年，2027年HSA已核实"
+      "last_review_attempt": "2026-11-07",
+      "latest_review_record": "maintenance/reviews/2026-11-07-rotation-7.md",
+      "review_status": "partial"
     },
     {
       "id": "travel-entry",
