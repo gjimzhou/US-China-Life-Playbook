@@ -1,12 +1,12 @@
 # Export dependencies; regenerate together and validate exports before merging.
 weasyprint==70.0
-brotli==1.2.0
+brotli==1.2.1
 cffi==2.1.1
 cssselect2==0.10.1
-fonttools==4.66.0
-pillow==12.3.0
-pycparser==3.0
-pydyf==0.12.1
+fonttools==4.68.0
+pillow==13.0.0
+pycparser==3.12
+pydyf==0.13.0
 pyphen==0.18.1
 tinycss2==1.5.1
 tinyhtml5==2.1.0
